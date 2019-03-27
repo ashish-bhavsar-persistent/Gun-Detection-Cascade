@@ -8,7 +8,7 @@ def store_raw_images():
     neg_image_urls = urllib.request.urlopen(neg_images_link).read().decode()
     if not os.path.exists('neg'):
         os.makedirs('neg')
-    pic_num = 24
+    pic_num = 1
     img_count = 0
     for i in neg_image_urls.split('\n'):
         try:
