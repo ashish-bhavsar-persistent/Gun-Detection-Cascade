@@ -15,7 +15,10 @@ def store_raw_images():
             print(i)
             img_count += 1
             print(str(img_count))
-            urllib.request.urlretrieve(i,'neg/'+str(pic_num)+'.jpg')
+            request = urllib.request.urlopen(i, timeout=50)
+            with open("neg/"+str(pic_num)+".jpg", 'wb') as f:
+                f.write(request.read())
+            # urllib.request.urlretrieve(i,'neg/'+str(pic_num)+'.jpg')
             img = cv2.imread("neg/"+str(pic_num)+".jpg", cv2.IMREAD_GRAYSCALE)
             resized_image = cv2.resize(img,(100,100))
             cv2.imwrite('neg/'+str(pic_num)+'.jpg', resized_image)
