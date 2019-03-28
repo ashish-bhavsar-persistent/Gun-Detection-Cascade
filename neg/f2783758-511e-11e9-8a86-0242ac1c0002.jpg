@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="nl-nl">
+<head>
+    <base href="https://www.zzv-watersport.nl/roeien" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Roeien Jachthaven Zeilen Zaandam West Knollendam Toerroeien Recreatief Marathonroeien wedstrijdroeien Zeilen Alkmaardermeer De Nes eiland " />
+	<meta name="description" content="De Zaanlandsche Zeil Vereeniging is een watersport vereniging in Zaanstad. De afdeling roeien van de ZZV is gevestigd aan de Havenstraat in Zaandam, de jachtaven van de ZZV in West Knollendam. Het eigen eiland van de zzv treft u aan op het alkmaardermeer" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Roeien - ZZV-watersport</title>
+	<link href="/index.php/roeien?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php/roeien?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<link href="/cache/twojtoolbox/2jtoolboxcache_4165293e33e66974d626b4e2e4be366a.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#smoothtop{
+	height:45px;
+	width:45px;
+	background:url(/plugins/system/smoothtop/images/up-arrow-blue.gif) center top no-repeat;
+	
+}
+
+#smoothtop:hover{background-position: center bottom;}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"5a5c19ba2f67fdb3ef41a16576d27529","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/system/js/mootools-core.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?ea801c6275e49a109b690e65f71e12d3" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/cache/twojtoolbox/2jtoolboxcache_abc3ea1875cc1682dc24df15cc1ba3c7.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});// Fade our <div> tag to 0 or 'num'
+function fade_me(num){
+	var smoothtop=document.id('smoothtop');
+	if(smoothtop){smoothtop.fade(window.getScrollTop()<250?0:num);}
+}
+window.addEvent('domready',function(){
+	// Create Fx.Scroll object
+	var scroll=new Fx.Scroll(window,{
+		'duration':	1000,
+		'transition':	Fx.Transitions.Expo.easeInOut,
+		'wait':		false
+	});
+	// Create an <div> tag for SmoothTop
+	var smoothtop=new Element('div',{
+		'id':		'smoothtop',
+		'class':	'smoothtop',
+		'style':	'position:fixed; display:block; visibility:visible; zoom:1; opacity:0; cursor:pointer; right:20px; top:20px;',
+		'title':	'',
+		'html':		'',
+		'events':{
+			// No transparent when hover
+			mouseover: function(){fade_me(1);},
+			// Transparent when no hover
+			mouseout: function(){fade_me(0.7);},
+			// Scroll Up on click
+			click: function(){scroll.toTop();}
+		}
+	// Inject our <div> tag into the document body
+	}).inject(document.body);
+	// Gottta do this for stupid IE
+	document.id('smoothtop').setStyle('opacity','0');
+});
+// Show/Hide our <div> tag
+window.addEvent('scroll',function(){fade_me(0.7);});
+	</script>
+
+    <link rel="stylesheet" href="/templates/system/css/system.css" />
+    <link rel="stylesheet" href="/templates/system/css/general.css" />
+
+    <!-- Created by Artisteer v4.2.0.60623 -->
+    
+    
+    <meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width" />
+
+    <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="/templates/roeien_385/css/template.css" media="screen" type="text/css" />
+    <!--[if lte IE 7]><link rel="stylesheet" href="/templates/roeien_385/css/template.ie7.css" media="screen" /><![endif]-->
+    <link rel="stylesheet" href="/templates/roeien_385/css/template.responsive.css" media="all" type="text/css" />
+
+
+    <script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+    <script src="/templates/roeien_385/jquery.js"></script>
+    <script>jQuery.noConflict();</script>
+
+    <script src="/templates/roeien_385/script.js"></script>
+    <script src="/templates/roeien_385/script.responsive.js"></script>
+    <script src="/templates/roeien_385/modules.js"></script>
+        <script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+</head>
+<body>
+
+<div id="art-main">
+    <div class="art-sheet clearfix">
+<header class="art-header">
+    <div class="art-shapes">
+        
+            </div>
+
+
+
+
+
+
+                
+                    
+</header>
+<nav class="art-nav">
+    
+<ul class="art-hmenu"><li class="item-101"><a href="/index.php">ZZV</a></li><li class="item-110"><a href="/index.php/jachthaven">Zeil &amp; motorboot - Jachthaven</a></li><li class="item-108 current active"><a class=" active" href="/index.php/roeien">Roeien</a></li></ul> 
+    </nav>
+<div class="art-content-layout"><div class="art-content-layout-row"><div class="art-layout-cell art-layout-sidebar-bg" style="width: 100%;"><div class="art-block clearfix"><div class="art-blockcontent"><div class="breadcrumbs">
+<a href="/index.php" class="pathway">Start</a> &gt; <span>Roeien</span></div></div></div></div></div></div><div class="art-layout-wrapper">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1">
+<div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Roeien</h3></div><div class="art-blockcontent"><ul class="menu"><li class="item-113"><a href="/index.php/home-roeien">Home</a></li><li class="item-152 parent"><a href="/index.php/nieuws-roeien">Nieuws</a></li><li class="item-181 parent"><a href="/index.php/roeivereniging">Roeivereniging</a></li><li class="item-183 parent"><a href="/index.php/lid-worden">Lid worden</a></li><li class="item-185 parent"><a href="/index.php/roeien-roeien">Roeien</a></li><li class="item-190 parent"><a href="/index.php/jeugd-en-junioren">Jeugd en junioren</a></li><li class="item-205"><a href="/index.php/fotoalbum-roeien">Fotoalbum</a></li><li class="item-200 parent"><a href="/index.php/kalender-roeien">Kalender</a></li><li class="item-202 parent"><a href="/index.php/reglementen-roeien">Reglementen</a></li><li class="item-178 parent"><a href="/index.php/contact-roeien">Contact</a></li><li class="item-208"><a href="/index.php/sitemap-roeien">Sitemap</a></li></ul></div></div>
+
+
+
+                        </div>
+                        <div class="art-layout-cell art-content">
+<article class="art-post"><div class="art-postcontent clearfix">
+
+<div class="custom"  >
+	<h6><a href="/nieuws-roeien"><strong><span style="text-decoration: underline;"><span style="color: #0066cc;">In de rubriek nieuws:</span></span></strong></a></h6></div>
+</div></article><!-- begin nostyle -->
+<div class="art-nostyle">
+<!-- begin nostyle content -->
+<div class="moduletable"><div  id="twoj_slider_block_id1" class="twoj_slider_block twoj_newsslider_theme1 twoj_slider_block_contain_centerbottom" style="overflow: hidden; position: relative; padding-top: 0px; padding-left: 10px; padding-right: 0px; padding-bottom: 0px; z-index:10000; width: 610px; height: 145px; background-color: #c7c7c7;"><div id="twoj_slider_position_centerbottom_id1" class="twoj_slider_position_centerbottom twoj_slider_position_block" style="visibility: hidden; z-index:10007;"><div id="twoj_slider_menu_id1" class="twoj_slider_menu" style="display:none;z-index:4"><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">1</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">2</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">3</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">4</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">5</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">6</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">7</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">8</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">9</div><div class="twoj_slider_menu_link" style="text-indent: -9999px; z-index:5;">10</div></div></div><div  id="twoj_slider_outter_id1"  class="twoj_slider_outter"  style="background: transparent;  z-index:1; margin:0; padding:0;"><div class="twoj_slider_inner_ul" id="twoj_slider_inner_ul_id1" style="z-index:2;">
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/371-leer-roeien-en-steun-kikarow">Leer roeien en steun KiKaRow</a></h5><p>&nbsp;</p>
+<p>Bijgaand artikel staat vandaag (27 maart 2019) in Nieuwsblad de Zaankanter.</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>Een groot aantal Nederlands roeiverenigingen verzamelt de komende maanden geld in ten behoeve van een groot onderzoek naar (de bestrijding van) kinder kanker. Deze KiKaRow actie bestaat uit een roeitocht van 1400 kilometer in een dubbelvier door heel Nederland. Roeivereniging ZZV in Zaandam is een tussenstop in deze tocht. Op 7 juli komt de boot aan bij het ZZV clubgebouw. De ZZVérs roeiers de boot op 13 juli door naar Haarlem. <br /> Naast deze roeitocht worden er meer activiteit<span class="text_exposed_show">en aangeboden om geld bij elkaar te brengen. ZZV biedt onder andere roeilessen aan waarbij de opbrengsten ten goede komen aan KiKaRow. <br /> Gratis kennismaken met het roeien kan op zondag 7 april om 12.00 uur of op woensdag 10 april om 19.00 uur. In overleg zijn andere data mogelijk. Daarna kan worden ingeschreven voor 5 introductielessen. Deze roeilessen kosten 35,- euro die dan ten goede komen aan KikaRow.<br /> De lessen worden op woensdagavond of op zondagochtend gegeven. Roeivereniging ZZV is gelegen aan de Havenstraat in Zaandam. Aanmelden voor de kennismakings les of direct voor het introductieprogramma kan met een mailtje naar <span id="cloakd55d14d1401525f434ee8863a3cc547f">Dit e-mailadres wordt beveiligd tegen spambots. JavaScript dient ingeschakeld te zijn om het te bekijken.</span><script type='text/javascript'>
+				document.getElementById('cloakd55d14d1401525f434ee8863a3cc547f').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyd55d14d1401525f434ee8863a3cc547f = 'r&#105;ch&#97;rd.h&#105;&#101;tb&#101;rg' + '&#64;';
+				addyd55d14d1401525f434ee8863a3cc547f = addyd55d14d1401525f434ee8863a3cc547f + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_textd55d14d1401525f434ee8863a3cc547f = 'r&#105;ch&#97;rd.h&#105;&#101;tb&#101;rg' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloakd55d14d1401525f434ee8863a3cc547f').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd55d14d1401525f434ee8863a3cc547f + '\'>'+addy_textd55d14d1401525f434ee8863a3cc547f+'<\/a>';
+		</script></span></p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/370-heineken-roeivierkamp-2019">Heineken Roeivierkamp 2019</a></h5><p>&nbsp;</p>
+<p>Dit weekend zouden onze ZZV-dames 8 starten in de Heineken Roeivierkamp. Helaas gooide het slechte weer roet in het eten. De wedstrijden op zaterdag gingen niet door. Op zondag werd uiteindelijk besloten dat onze dames om 15.00 uur de 2500 en de 250 meter mochten starten. Uiteindelijk bleef het bij de 2500 meter. Dit was een voorproefje voor de Head of the River die volgende week op de agenda staat. Nu maar hopen op mooier weer en een superuitslag.</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/369-afroeien-2">Afroeien 2 feb 2019</a></h5><p>&nbsp;</p>
+<p>Zaterdag 2 februari hebben Elly, Martine, Trudie en en Sara afgeroeid voor S1. Onder de kritische blikken van de afroeicommisie bestaande uit Andrew en Richard roeiden en stuurden de vier dames om de beurt een stukje. Na afloop volgende enkele spannende minuten voor de uitslag maar gelukkig was iedereen geslaagd. Na afloop nog even een evaluatie aan de hand van de bewegende beelden door Richard geschoten en daarna aan de koffie met gebak! Gefeliciteerd dames en op naar S2!</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/367-pubquiz-2019-zzv-roeien">Pubquiz 2019 @ ZZV roeien</a></h5><p>&nbsp;</p>
+<p><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;">Het was weer BARgezellig in het komboffie op vrijdagavond 2 maart. Met veel (bio)logische vragen, weetjes, nieuwtjes en feitjes was er een avondvullend programma georganiseerd door Leon, Karina, Albert, Pieter en Martine. Uitendelijk ging de winst naar het Fteam (van Famke), met een heerlijk prijsje en de wisselbeker kijken zij uit naar de organisatie van de pubquiz 2020.</span></p>
+<p>&nbsp;</p>
+<p></p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/366-havenstraat-zaandam">Havenstraat Zaandam</a></h5><p>&nbsp;</p>
+<p>Bijgaande foto's zijn te leuk om niet te delen. Een bekende coachplek voor de ZZV'ers van de roeiafdeling.</p>
+<p>Zoek de verschillen.</p>
+<p>&nbsp;&nbsp;</p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/365-zaterdagochtendroeien-2-februari">Zaterdagochtendroeien 2 februari</a></h5><p>&nbsp;</p>
+<p>Ondanks het slechte weer van vanochtend, waren de roeiers weer van de partij. Een groep zocht een droog onderkomen voor de training uit, de andere groep koos voor het ruime sop. Na de training was er taart vanwege de komende verjaardag van Laurens. Wat een heerlijk begin van de zaterdag.</p>
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp;</p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/362-dinho-26-januari-2019">Dinho 26 januari 2019</a></h5><p>&nbsp;</p>
+<p>Zaterdag 26 januari is de Dinho wedstrijd bij RIC in Amsterdam over 250 meter geroeid en ge-ergometerd door onze meiden van 14 jaar in de C4 bestaande uit Julia, Laura, Jeske en Maxine. Ter plaatste werd een stuurvrouw toegewezen van RIC en konden we instappen. Onder winderig, maar met droog weer, gingen de meiden zoals gebruikelijk in hoog tempo over de baan en wisten in hun catogorie de beste dagtijd te realiseren met een eerste racetijd van 00.45 en een tweede tijd van 00.46 minuten. Het ergometeren ging ook bijzonder goed slechts op 0,3 seconden een tweede tijd voor Julia. Na lang wachten konden we de appeltaart in ontvangst nemen en gezamenlijk verorberen. Ga zo door en de eindoverwinning in het algemeen Dinho klassement is voor jullie. Op zondag 3 maart is de volgende wedstrijd ARZV in Alkmaar.</p>
+<p>&nbsp;</p>
+<p></p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/360-pub-quiz-1-maart-2019">Pub Quiz 1 maart 2019</a></h5><p>&nbsp;</p>
+<p>Zet 'm alvast in je agenda. De pubquiz staat gepland op vrijdagavond 1 maart. De intekenlijst hangt vanaf zaterdag 2 februari in het Kombof.</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/358-20-januari-wel-geen-roeien">20 januari wel/geen roeien</a></h5><p>&nbsp;</p>
+<p>In verband met de weersverwachting van -5 graden wordt er morgenochtend (20 januari) om 09.00 uur NIET geroeid. Voor het blok van 10.30 uur is het mogelijk dat de temperatuur weer boven 0 is. <br /> In overleg met het bestuur is besloten dat het roeien voor de jeugd NIET doorgaat. De bar is wel open dus koffiedrinken kan altijd.</p> </div>
+
+<div class="twoj_slider_inner_li" style="z-index:3;"><h5><a href="/index.php/nieuws-roeien/356-ontbijt-6-januari-2019">Ontbijt 6 januari 2019</a></h5><p>&nbsp;</p>
+<p>Maar liefst 77 leden genoten vanmorgen van een heerlijk ontbijt, klaargemaakt door de Bar-commissie. Vooraf aan het ontbijt nam de voorzitter het woord om iedereen het beste toe te wensen voor 2019. Verder gaf hij aan dat er nieuw bloed voor diverse commissies werd gezocht. Dat resulteerde in 2 aanmeldingen voor de materiaalcommissie. <br /> Kees van Kooten was ook bij het ontbijt aanwezig. Na een lidmaatschap van 66 jaar (Kees kwam roeien toen hij 17 was) heeft hij met pijn in zijn hart moeten besluiten om te stoppen met roeien. Kees werd uitgebreid bedankt en we hopen dat hij zich nog regelmatig laat zien. Om gezellig koffie te drinken en bij te praten. <br /> Na het ontbijt gingen de meeste leden het water op, om het ontbijt er weer af te roeien.</p>
+<p>&nbsp;</p>
+<p></p> </div>
+</div></div><div id="twoj_slider_pause_block_id1" style="display:none;">[pause]</div></div><script language="JavaScript" type="text/javascript"> 
+					<!--//<![CDATA[
+					
+					emsajax(document).ready(function(){ emsajax("#twoj_slider_block_id1").twoJSlider({uniqid : 1 ,zindex : 10020 ,fade : 1 ,show_pause: 1 ,tdelay: 2000 ,timer: 1 ,duration: 6000 ,debug : 0}); });
+					//]]>-->
+					</script></div><!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+<article class="art-post art-messages"><div class="art-postcontent clearfix"><div id="system-message-container">
+	</div>
+</div></article><div class="blog"><div class="items-leading">
+            <div class="leading-0">
+            <article class="art-post"><h2 class="art-postheader">ZZV Roeien</h2><div class="art-postcontent clearfix"><div class="art-article"><p>&nbsp;</p>
+<p style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.800000190734863px;">Welkom op de website van de roeiafdeling van ZZV.</p>
+<p style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.800000190734863px;">ZZV is de enige Zaanse roeivereniging waar je op alle niveaus kunt deelnemen aan de roeisport en is ook de enige vereniging waar door jeugd en junioren geroeid kan worden. Of je beginnend roeier of wedstrijdroeier bent, fanatiek of iets minder fanatiek, iedereen is welkom.</p>
+<p>&nbsp;</p>
+<p><img src="/images/roeien/8xpersberichtkleiner.jpg" alt="8xpersberichtkleiner" width="612" height="307" /></p>
+<p style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.800000190734863px; text-align: justify;">&nbsp;</p>
+<p style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.800000190734863px;">Je kan op een aantal manieren roeien: samen of alleen, binnen op de ergometer of buiten op het water. Je kan wedstrijdroeien, toerroeien, marathonroeien of gewoon een baantje trekken als je zin hebt. Kortom, voor iedereen is er iets passends te vinden binnen onze vereniging.</p> </div></div></article>        </div>
+            </div>
+</div>
+
+
+                        </div>
+                        <div class="art-layout-cell art-sidebar2">
+<div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Laatste nieuws</h3></div><div class="art-blockcontent"><ul class="latestnews mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php/nieuws-roeien/371-leer-roeien-en-steun-kikarow" itemprop="url">
+			<span itemprop="name">
+				Leer roeien en steun KiKaRow			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php/nieuws-roeien/370-heineken-roeivierkamp-2019" itemprop="url">
+			<span itemprop="name">
+				Heineken Roeivierkamp 2019			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/index.php/nieuws-roeien/369-afroeien-2" itemprop="url">
+			<span itemprop="name">
+				Afroeien 2 feb 2019			</span>
+		</a>
+	</li>
+</ul></div></div><div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Ga direct naar:</h3></div><div class="art-blockcontent"><ul class="menu"><li class="item-212"><a href="/kalender-roeien/barrooster">Barrooster</a></li><li class="item-213"><a href="/kalender-roeien">Evenementen</a></li><li class="item-223"><a href="/roeivereniging/zzv-tenue">ZZV tenue</a></li></ul></div></div><div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Links roeien</h3></div><div class="art-blockcontent"><ul class="menu"><li class="item-214"><a href="http://www.knrb.nl/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">KNRB</a></li><li class="item-215"><a href="http://nlroei.nl/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">NL Roei</a></li><li class="item-216"><a href="http://sport.nl/roeien/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Roei.tv</a></li><li class="item-209"><a href="http://www.roeined.nl/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Roeined.nl</a></li><li class="item-210"><a href="http://roeien.nl/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Roeien.nl</a></li><li class="item-211"><a href="http://www.mysportsplanner.com/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Mysportsplanner</a></li><li class="item-353"><a href="https://www.varendoejesamen.nl/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Varen doe je samen</a></li></ul></div></div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="art-content-layout"><div class="art-content-layout-row"><div class="art-layout-cell art-layout-sidebar-bg" style="width: 100%;"><div class="art-block clearfix"><div class="art-blockcontent"><div class="custom"  >
+	<p><a href="/index.php/statuten-zzv/privacy-verklaring">Privacy verklaring</a></p></div></div></div></div></div></div>
+<footer class="art-footer">
+<p><a href="/index.php/login">Copyright © 2019 ZZV. All Rights Reserved.</a><br /></p><p><span style="font-size: 11px;"></span></p>
+</footer>
+
+    </div>
+    <p class="art-page-footer">
+        <span id="art-footnote-links">Designed by <a href="/contactpersonen-diversen/1-adri-de-kruif">Adri de Kruif</a>.</span>
+    </p>
+</div>
+
+
+</body>
+</html>

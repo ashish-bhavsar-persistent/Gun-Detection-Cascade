@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Il Teatro dell’Archivolto - oggi parte del Teatro Nazionale di Genova</title>
+        <meta name="description" content="L'unione del Teatro dell'Archivolto con il Teatro Stabile di Genova ha ricevuto il riconoscimento riconoscimento di Teatro Nazionale, dal Ministero per i Beni e le Attività Culturali.">
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,600,600i,800" rel="stylesheet">
+        <link href="assets/css/style.css" rel="stylesheet">
+
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-3470040-9");
+                pageTracker._trackPageview();
+            } catch (err) {
+            }</script>
+        <!-- /Google Analytics -->
+    </head>
+
+    <body>
+        <div class="site-title">
+            <div class="logo-wrapper">
+                <a href="https://teatronazionalegenova.it/">
+                    <svg id="logo" width="80%" height="100%" viewBox="0 0 168 87" preserveAspectRatio="xMidYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                    <path d="M89.6411,38.4239 L86.3711,42.6099 C86.3931,42.8429 86.4301,43.0699 86.4301,43.3129 C86.4301,45.0409 85.8751,46.5119 84.7661,47.7229 C83.7291,48.8539 82.4611,49.4349 80.9801,49.5099 L78.2191,53.0449 C78.9941,53.2149 79.8051,53.3109 80.6601,53.3109 C83.5261,53.3109 85.9401,52.3539 87.9011,50.4399 C89.8601,48.5259 90.8401,46.1469 90.8401,43.2969 C90.8401,41.4829 90.4381,39.8599 89.6411,38.4239" id="parentesi" fill="#C41415"></path>
+                    <path d="M112.1567,12.8985 L117.0647,19.8325 L111.7407,19.8325 L108.1747,14.7025 L115.6797,5.0955 C115.7857,5.6405 115.8447,6.2315 115.8447,6.8785 C115.8447,9.9865 114.6157,11.9925 112.1567,12.8985 Z M121.0456,48.9281 L119.2426,53.1171 L114.6376,53.1171 L123.0146,33.7281 L127.2036,33.7281 L135.5786,53.1171 L130.9756,53.1171 L129.1726,48.9281 L121.0456,48.9281 Z M125.1216,39.4981 L122.6826,45.1291 L127.5356,45.1291 L125.1216,39.4981 Z M118.9786,10.0136 C118.9786,7.1656 119.9596,4.7856 121.9186,2.8716 C123.8796,0.9576 126.2916,-0.0004 129.1586,-0.0004 C132.0236,-0.0004 134.4376,0.9576 136.3966,2.8716 C138.3576,4.7856 139.3386,7.1656 139.3386,10.0136 C139.3386,12.8616 138.3576,15.2426 136.3966,17.1566 C134.4376,19.0706 132.0236,20.0276 129.1586,20.0276 C126.2916,20.0276 123.8796,19.0706 121.9186,17.1566 C119.9596,15.2426 118.9786,12.8616 118.9786,10.0136 Z M125.0806,5.6036 C123.9716,6.8246 123.4166,8.2986 123.4166,10.0276 C123.4166,11.7556 123.9716,13.2266 125.0806,14.4376 C126.1896,15.6486 127.5536,16.2536 129.1726,16.2536 C130.7896,16.2536 132.1546,15.6486 133.2646,14.4376 C134.3736,13.2266 134.9286,11.7556 134.9286,10.0276 C134.9286,8.2986 134.3736,6.8246 133.2646,5.6036 C132.1546,4.3826 130.7896,3.7736 129.1726,3.7736 C127.5536,3.7736 126.1896,4.3826 125.0806,5.6036 Z M98.8286,40.9688 L98.8286,53.1168 L94.5006,53.1168 L94.5006,33.7288 L98.5516,33.7288 L108.0646,46.2108 L108.0646,33.7288 L112.3916,33.7288 L112.3916,53.1168 L108.0646,53.1168 L98.8286,40.9688 Z M142.1528,33.7286 L142.1528,49.2616 L150.4188,49.2616 L150.4188,53.1176 L137.8268,53.1176 L137.8268,33.7286 L142.1528,33.7286 Z M157.9067,49.2891 L167.8637,49.2891 L167.8637,53.1171 L153.5807,53.1171 L153.5807,33.7281 L167.5587,33.7281 L167.5587,37.5841 L157.9067,37.5841 L157.9067,41.5781 L166.5887,41.5781 L166.5887,45.2681 L157.9067,45.2681 L157.9067,49.2891 Z M62.686,53.3967 L62.686,33.3067 L63.94,33.3067 L63.94,53.3967 L62.686,53.3967 Z M82.512,1.2767 L82.512,0.0227 L96.514,0.0227 L96.514,1.2767 L90.422,1.2767 L90.422,20.1127 L89.168,20.1127 L89.168,1.2767 L82.512,1.2767 Z M112.61,1.2537 L112.938,1.4587 L112.153,2.4627 L111.887,2.2967 C110.795,1.6197 109.358,1.2767 107.612,1.2767 L101.94,1.2767 L101.94,12.2007 L104.547,12.2007 L103.567,13.4537 L101.94,13.4537 L101.94,17.6587 L100.686,19.2667 L100.686,0.0227 L107.612,0.0227 C109.631,0.0227 111.313,0.4367 112.61,1.2537 Z M80.564,33.3067 C82.592,33.3067 84.561,33.8887 86.256,34.9917 L86.577,35.2007 L85.801,36.1917 L85.534,36.0197 C84.047,35.0657 82.328,34.5607 80.564,34.5607 C75.572,34.5607 71.51,38.4977 71.51,43.3377 C71.51,45.8537 72.646,48.2637 74.627,49.9507 L74.882,50.1677 L74.11,51.1577 L73.832,50.9217 C71.56,48.9947 70.256,46.2307 70.256,43.3377 C70.256,37.8067 74.88,33.3067 80.564,33.3067 Z M82.603,20.1127 L79.884,14.2027 L68.571,14.2027 L65.882,20.1127 L64.445,20.1127 L73.643,0.0227 L74.7,0.0227 L84.013,20.1127 L82.603,20.1127 Z M69.139,12.9497 L79.284,12.9497 L74.174,1.8517 L69.139,12.9497 Z M41.854,53.3967 L41.854,52.2307 L55.983,34.5607 L42.242,34.5607 L42.242,33.3067 L57.616,33.3067 L57.616,34.4727 L43.487,52.1427 L57.699,52.1427 L57.699,53.3967 L41.854,53.3967 Z M61.421,18.8587 L61.421,20.1127 L48.21,20.1127 L48.21,0.0227 L61.032,0.0227 L61.032,1.2767 L49.464,1.2767 L49.464,9.1497 L59.757,9.1497 L59.757,10.4037 L49.464,10.4037 L49.464,18.8587 L61.421,18.8587 Z M36.239,20.1127 L36.239,1.2767 L29.581,1.2767 L29.581,0.0227 L44.151,0.0227 L44.151,1.2767 L37.493,1.2767 L37.493,20.1127 L36.239,20.1127 Z M37.544,53.3967 L34.825,47.4877 L23.513,47.4877 L20.823,53.3967 L19.387,53.3967 L28.584,33.3067 L29.641,33.3067 L38.954,53.3967 L37.544,53.3967 Z M24.08,46.2337 L34.226,46.2337 L29.115,35.1357 L24.08,46.2337 Z M14.508,51.4137 L14.508,33.3067 L15.762,33.3067 L15.762,53.3967 L14.4,53.3967 L1.254,35.2887 L1.254,53.3967 L-2.84217094e-14,53.3967 L-2.84217094e-14,33.3067 L1.36,33.3067 L14.508,51.4137 Z M60.1689,78.5508 L56.3009,78.5508 L59.1819,74.8628 L60.1689,74.8628 L60.1689,78.5508 Z M78.7217,79.4942 L78.7217,67.0142 L83.0497,67.0142 L83.0497,86.4002 L78.7217,86.4002 L69.4847,74.2522 L69.4847,86.4002 L65.1587,86.4002 L65.1587,67.0322 L65.1717,67.0142 L69.2077,67.0142 L78.7217,79.4942 Z M95.7363,66.5679 C98.6013,66.5679 101.0153,67.5259 102.9763,69.4399 C104.9353,71.3539 105.9153,73.7349 105.9153,76.5819 C105.9153,79.4299 104.9353,81.8109 102.9763,83.7249 C101.0153,85.6389 98.6013,86.5959 95.7363,86.5959 C92.8683,86.5959 90.4563,85.6389 88.4943,83.7249 C86.5363,81.8109 85.5563,79.4299 85.5563,76.5819 C85.5563,73.7349 86.5363,71.3539 88.4943,69.4399 C90.4563,67.5259 92.8683,66.5679 95.7363,66.5679 Z M99.8403,81.0059 C100.9503,79.7949 101.5053,78.3239 101.5053,76.5959 C101.5053,74.8669 100.9503,73.3929 99.8403,72.1719 C98.7323,70.9509 97.3663,70.3419 95.7493,70.3419 C94.1323,70.3419 92.7673,70.9509 91.6573,72.1719 C90.5503,73.3929 89.9933,74.8669 89.9933,76.5959 C89.9933,78.3239 90.5503,79.7949 91.6573,81.0059 C92.7673,82.2169 94.1323,82.8219 95.7493,82.8219 C97.3663,82.8219 98.7323,82.2169 99.8403,81.0059 Z M120.9487,67.0137 L125.6357,67.0137 L117.8407,86.4007 L114.1807,86.4007 L106.3857,67.0137 L111.0737,67.0137 L116.0117,79.3557 L120.9487,67.0137 Z M130.7563,67.0141 L134.9453,67.0141 L143.3223,86.4001 L138.7173,86.4001 L136.9143,82.2131 L128.7873,82.2131 L126.9853,86.4001 L122.9473,86.4001 L130.7563,67.0141 Z M130.4243,78.4121 L135.2783,78.4121 L132.8653,72.7811 L130.4243,78.4121 Z M50.168,86.4004 L53.159,82.5724 L61.444,82.5724 L61.444,86.4004 L50.168,86.4004 Z M48.2285,81.917 L48.2285,66.591 L60.2015,66.591 L59.2215,67.845 L49.4825,67.845 L49.4825,75.718 L53.0715,75.718 L52.0905,76.972 L49.4825,76.972 L49.4825,80.311 L48.2285,81.917 Z M35.0239,67.8174 C30.0149,67.8174 25.9419,71.7674 25.9419,76.6224 C25.9419,81.4924 30.0149,85.4544 35.0239,85.4544 C37.1509,85.4544 39.1969,84.7324 40.8059,83.4214 L40.8059,76.4664 L42.0599,76.4664 L42.0599,83.9654 L41.9399,84.0704 C40.0149,85.7544 37.5609,86.6804 35.0239,86.6804 C29.3399,86.6804 24.7139,82.1704 24.7139,76.6224 C24.7139,71.0904 29.3399,66.5904 35.0239,66.5904 C37.5629,66.5904 40.0099,67.5074 41.9129,69.1734 L42.1949,69.4214 L41.3359,70.2774 L41.0899,70.0604 C39.4529,68.6144 37.2979,67.8174 35.0239,67.8174 Z" id="teatro-nazionale-genova" fill="#000000"></path>
+                    </g>
+                    </svg>
+                </a>
+            </div>
+        </div>
+
+
+        <section id="intro">
+            <div class="hero-content">
+                <svg id="diagonal-sintesi" width="100%" height="100%" preserveAspectRatio="xMinYMin slice" viewBox="0 0 880 1127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g>
+                <polygon id="diagonal" fill="#F29100" fill-rule="nonzero" points="0 1126.40002 0 0 880.000019 0"></polygon>
+                <g id="sintesi" transform="translate(169.000000, 674.000000)">
+                <path d="M167.643275,44 L139.407723,79.9870346 C139.592331,81.9926602 139.912624,83.9410219 139.912624,86.0316393 C139.912624,100.897971 135.120823,113.543665 125.540732,123.95492 C116.590875,133.677981 105.63516,138.665192 92.8476591,139.320472 L69,169.715288 C75.6967268,171.176604 82.6964302,172 90.0826648,172 C114.839133,172 135.678096,163.771166 152.613118,147.313559 C169.530763,130.85764 178,110.402586 178,85.8981841 C178,70.2968845 174.524549,56.3423764 167.643275,44" id="thick-arc" fill="#F29100"></path>
+                <path d="M89.0577672,0 C39.9478155,0 0,38.8230867 0,86.5431472 C0,111.503339 11.2628613,135.346827 30.8971267,151.977075 L33.3008799,154 L39.9687119,145.473547 L37.7635048,143.586286 C20.6549792,129.043256 10.8343941,108.250667 10.8343941,86.5431472 C10.8343941,44.7891603 45.9328497,10.8190123 89.0577672,10.8190123 C104.299062,10.8190123 119.146657,15.1744154 131.991104,23.405226 L134.300854,24.8888816 L141,16.3363602 L138.233921,14.5343205 C123.584873,5.02162671 106.577377,0 89.0577672,0" id="thin-arc" fill="#0f0f0f"></path>
+                </g>
+                </g>
+                </g>
+                </svg>
+            </div>
+
+
+            <div class="intro-title">
+                <h1><span class="white">Il Teatro<br/>dell’Archivolto</span><br/>è oggi parte del<br/>Teatro Nazionale<br/>di Genova</h1>
+            </div><!--/ container -->
+
+            <a class="rounded-icon-button tng-arrow-down scroll-to-target" href="#seconda-fascia">
+                <svg width="48" height="48"><circle class="circle-front" cx="24" cy="24" r="23" fill="none" stroke-width="1"></circle></svg>
+            </a>
+        </section><!--/ intro -->
+
+
+
+        <section id="seconda-fascia" class="bg-blu-scuro oblique oblique-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="assets/img/teatro-nazionale-genova.png" alt="teatro nazionale di Genova" class="img-fluid"/>
+                    </div>
+                    <div class="col-md-8">
+                        <h2 class="orange-brackets brackets-title">Teatro dell’Archivolto + Teatro Stabile di Genova = Teatro Nazionale di Genova</h2>
+                        <div class="text">
+                            <p>Un teatro con il cuore nella prosa, tra grandi classici e nuova drammaturgia, teatro civile e comico d’autore, aperto alle contaminazioni, dalla danza alla musica al nouveau cirque.<br/>
+                                Così si presenta il nuovo organismo teatrale nato dall’unione tra il <strong>Teatro Stabile di Genova</strong> e il <strong>Teatro dell’Archivolto</strong>, forte del
+                                riconoscimento di <a href="https://teatronazionalegenova.it/"><strong class="text-primary">Teatro Nazionale</strong></a>, recentemente ricevuto dal Ministero per i Beni e le Attività Culturali.</p>
+                            <p>Il Teatro Nazionale di Genova gestisce oggi 4 sale – il Teatro della Corte, il Teatro Duse, il Teatro Gustavo Modena, la Sala Mercato – e offre al pubblico un cartellone straordinario, in cui convivono armoniosamente Shakespeare ed Emma Dante, Peter Brook e Ficarra & Picone, Gabriele Lavia e ricci/forte, Aristofane e Neri Marcorè.</p>
+                            <a class="pulsante-principale btn btn-primary" href="https://teatronazionalegenova.it/" target="_blank">SCOPRI TUTTO IL PROGRAMMA SUL SITO WWW.TEATRONAZIONALEGENOVA.IT </a>
+                        </div><!--/ text -->
+                    </div>
+                </div><!--/ row -->
+            </div><!--/ container -->
+        </section><!--/ seconda -->
+
+
+        <section id="terza-fascia" class="oblique">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="assets/img/poltrone-teatro.jpg" class="img-fluid d-block d-md-none" alt="sala interna teatro"/>
+                    </div><!--/ col -->
+                    <div class="col-md-6">
+
+                        <div class="text text-padding">
+                            <p>Il Teatro Nazionale di Genova è diretto da <strong>Angelo Pastore</strong>, afﬁancato dai registi <strong>Marco Sciaccaluga</strong> e <strong>Giorgio Gallione</strong>, storico direttore artistico del Teatro dell’Archivolto, nel ruolo di consulenti artistici.<br/>
+                                L’attività del Teatro ragazzi, eredità dal Teatro dell’Archivolto, prosegue con le rassegne in matinée per le scuole, il Sabato a teatro e gli spettacoli di produzione diretti da <strong>Giorgio Scaramuzzino</strong>.</p>
+                            <p>Partner istituzionali della stagione 2018/19 sono il <strong>Ministero per i Beni e le Attività Culturali</strong>, il <strong>Comune di Genova</strong> e la <strong>Regione Liguria</strong>, a cui si afﬁanca il fondamentale sostegno della <strong>Compagnia di San Paolo</strong> e di <strong>IREN</strong>.</p>
+                        </div><!--/ text -->
+
+
+                    </div><!--/ col -->
+                </div>
+            </div><!--/ container -->
+        </section><!--/ terza -->
+
+
+        <section id="quarta-fascia" class="bg-primary oblique ">
+            <div class="container lite-container">
+                <h2  class="white-brackets brackets-title">Il Teatro dell’Archivolto. La storia</h2>
+                <div class="text">
+                    <p>Il Teatro dell’Archivolto ha alle spalle una storia importante. Rifondato sulla base di una precedente esperienza teatrale, è stato diretto sin dal 1986 da <strong>Pina Rando</strong> e <strong>Giorgio Gallione</strong>. Fin dall’inizio ha operato nel settore della prosa e del teatro ragazzi con un indirizzo drammaturgico e stilistico originale, rivolto all’inseguimento di nuovi territori e nuove forme di espressione teatrale, la cui ispirazione è stata di volta in volta la letteratura o la musica, il cinema o il fumetto, sempre e comunque nella direzione dell’inconsueto e dell’inedito.</p>
+                    <p>Se agli inizi la storia della compagnia è stata contraddistinta dalla presenza dei <strong>Broncoviz</strong> (<strong>Marcello Cesena, Maurizio Crozza, Ugo Dighero, Mauro Pirovano, Carla Signoris</strong>), tra i protagonisti degli spettacoli successivi ricordiamo <strong>Claudio Bisio, Neri Marcorè, Marina Massironi, Giorgio Scaramuzzino, Eugenio Allegri, Giuseppe Battiston, Ambra Angiolini, Valentina Lodovini, la Banda Osiris</strong>.
+                        Dal rapporto privilegiato con la letteratura coltivato dal direttore artistico Giorgio Gallione sono nate collaborazioni con scrittori come <strong>Stefano Benni, Daniel Pennac, José Saramago, Francesco Tullio Altan, Michele Serra, Niccolò Ammaniti, Francesco Piccolo</strong> e trasposizioni teatrali da libri di <strong>Luis Sepulveda, Roddy Doyle, Ian McEwan, Paul Auster, Italo Calvino, Osvaldo Soriano, Charles Bukowski, Etgar Keret, Darina Al-Joundi</strong> e molti altri.</p>
+                </div><!--/ text -->
+            </div><!--/ container -->
+        </section><!--/ quarta -->
+        <section id="quinta-fascia" class="bg-imgage">
+            <div class="container lite-container">
+                <h2  class="orange-brackets brackets-title">Gli spettacoli del Teatro dell’Archivolto</h2>
+                <div class="text">
+                    <p>Il Teatro dell’Archivolto ha alle spalle una storia importante. Rifondato sulla base di una precedente esperienza teatrale, è stato diretto sin dal 1986 da <strong>Pina Rando</strong> e <strong>Giorgio Gallione</strong>. Fin dall’inizio ha operato nel settore della prosa e del teatro ragazzi con un indirizzo drammaturgico e stilistico originale, rivolto all’inseguimento di nuovi territori e nuove forme di espressione teatrale, la cui ispirazione è stata di volta in volta la letteratura o la musica, il cinema o il fumetto, sempre e comunque nella direzione dell’inconsueto e dell’inedito.</p>
+                    <p>Se agli inizi la storia della compagnia è stata contraddistinta dalla presenza dei <strong>Broncoviz</strong> (<strong>Marcello Cesena, Maurizio Crozza, Ugo Dighero, Mauro Pirovano, Carla Signoris</strong>), tra i protagonisti degli spettacoli successivi ricordiamo <strong>Claudio Bisio, Neri Marcorè, Marina Massironi, Giorgio Scaramuzzino, Eugenio Allegri, Giuseppe Battiston, Ambra Angiolini, Valentina Lodovini, la Banda Osiris</strong>.
+                        Dal rapporto privilegiato con la letteratura coltivato dal direttore artistico Giorgio Gallione sono nate collaborazioni con scrittori come <strong>Stefano Benni, Daniel Pennac, José Saramago, Francesco Tullio Altan, Michele Serra, Niccolò Ammaniti, Francesco Piccolo</strong> e trasposizioni teatrali da libri di <strong>Luis Sepulveda, Roddy Doyle, Ian McEwan, Paul Auster, Italo Calvino, Osvaldo Soriano, Charles Bukowski, Etgar Keret, Darina Al-Joundi</strong> e molti altri.</p>
+                </div><!--/ text -->
+            </div><!--/ container -->
+        </section><!--/ quinta -->
+        <section id="sesta-fascia" class="oblique-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 news-container">
+                        <div class="news-title">
+                            <img src="assets/img/teatro-gustavo-modena.jpg" class="img-fluid"/>
+                            <h3 class="orange-brackets brackets-title text-primary news-title">Il Teatro Gustavo Modena </h3>
+                        </div>
+                        <div class="text">
+                            <p>Dalla stagione 1997/98 il Teatro dell’Archivolto, dopo essersi fatto carico di un accurato restauro, si è insediato al Teatro Gustavo Modena di Sampierdarena, che era rimasto chiuso per anni. Inaugurato nel 1857, il Teatro Gustavo Modena era stato originariamente costruito dalla nascente borghesia sampierdarenese per rivaleggiare con il Teatro Carlo Felice di Genova. Caratterizzato da una tipica sala all’italiana, con quattro ordini di palchi a ferro di cavallo, un loggione, una platea e una facciata tipicamente neoclassica, il Teatro Gustavo Modena è l’unico teatro ottocentesco rimasto in piedi a Genova. Un vero gioiello architettonico, che insieme all’attigua Sala Mercato continuerà a ospitare tantissimi spettacoli all’interno della programmazione del Teatro Nazionale di Genova.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 news-container">
+                        <div class="news-title">
+                            <img src="assets/img/sala-mercato.jpg" class="img-fluid"/>
+                            <h3 class="orange-brackets brackets-title text-primary news-title">La sala mercato</h3>
+                        </div>
+                        <div class="text">
+                            <p>Come si può facilmente intuire dal nome, la struttura originaria era un mercato comunale, finito in disuso. Grazie a un progetto di riqualificazione urbana, portato avanti dal Teatro dell’Archivolto, è stata creata una moderna sala polivalente da 200 posti, che ha accolto e continuerà a ospitare spettacoli di prosa dal linguaggio contemporaneo, teatro ragazzi e danza. I vecchi magazzini del Mercato sono stati trasformati in camerini, mentre l’antica palazzina di Via Ghiglione dal 2001 in poi è stata sede degli uffici del Teatro dell’Archivolto e oggi ospita una parte degli uffici del Teatro Nazionale di Genova.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 news-container">
+                        <div class="news-title">
+                            <img src="assets/img/stagione-teatro-nazionale-genova.jpg" class="img-fluid"/>
+                            <h3 class="orange-brackets brackets-title text-primary news-title">La stagione del Teatro Nazionale di Genova</h3>
+                        </div>
+                        <div class="text">
+                            <p>A ottobre 2018 inizierà ufficialmente la prima stagione del Teatro Nazionale di Genova, nato come abbiamo detto dall’unione del Teatro dell’Archivolto con il Teatro Stabile di Genova. La stagione si presenta forte di quasi 70 spettacoli, una ventina dei quali sono prodotti direttamente dal Teatro Nazionale di Genova. Tra gli spettacoli di produzione spiccano i nuovi lavori dei registi <strong>Marco Sciaccaluga</strong> e <strong>Giorgio Gallione</strong>, che ricoprono il ruolo di consulenti artistici.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 news-container">
+                        <div class="news-title">
+                            <img src="assets/img/teatro-dei-ragazzi.jpg" class="img-fluid"/>
+                            <h3 class="orange-brackets brackets-title text-primary news-title">Il teatro ragazzi</h3>
+                        </div>
+                        <div class="text">
+                            <p>A fianco al cartellone serale, oltre alle numerose attività culturali promosse dal Teatro Nazionale di Genova, sono da segnalare le rassegne di teatro ragazzi proposte per le scuole in matinée e il sabato pomeriggio e la domenica mattina per le famiglie. Per ciò che concerne il teatro ragazzi, oltre alla ripresa delle produzioni del repertorio del Teatro dell’Archivolto, debutteranno anche due nuove produzioni dirette da <strong>Giorgio Scaramuzzino</strong>, che continuerà attivamente seguire il settore del Teatro ragazzi anche all’interno del Teatro Nazionale di Genova.</p>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/ container -->
+        </section><!--/ quarta -->
+
+
+
+
+        <footer>
+            <div class="footer-diagonal-wrapper">
+                <svg id="diagonal-footer" width="100%" height="100%" viewBox="0 0 823 494" preserveAspectRatio="xMinYMin slice" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                <polygon id="diagonal-footer-path" points="823 0 437 494 0 494 0 0"></polygon>
+                </defs>
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <mask fill="white">
+                    <use xlink:href="#diagonal-footer-path"></use>
+                </mask>
+                <use fill="#1A1A1A" xlink:href="#diagonal-footer-path"></use>
+                </g>
+                </svg>		</div>
+            <div class="footer-content">
+                <div class="blocco-logo">
+                    <div class="blocco-logo-wrapper">
+
+
+                        <svg id="logo" width="100%" height="100%" viewBox="0 0 168 87" preserveAspectRatio="xMidYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g>
+                        <path d="M89.6411,38.4239 L86.3711,42.6099 C86.3931,42.8429 86.4301,43.0699 86.4301,43.3129 C86.4301,45.0409 85.8751,46.5119 84.7661,47.7229 C83.7291,48.8539 82.4611,49.4349 80.9801,49.5099 L78.2191,53.0449 C78.9941,53.2149 79.8051,53.3109 80.6601,53.3109 C83.5261,53.3109 85.9401,52.3539 87.9011,50.4399 C89.8601,48.5259 90.8401,46.1469 90.8401,43.2969 C90.8401,41.4829 90.4381,39.8599 89.6411,38.4239" id="parentesi" fill="#C41415"></path>
+                        <path d="M112.1567,12.8985 L117.0647,19.8325 L111.7407,19.8325 L108.1747,14.7025 L115.6797,5.0955 C115.7857,5.6405 115.8447,6.2315 115.8447,6.8785 C115.8447,9.9865 114.6157,11.9925 112.1567,12.8985 Z M121.0456,48.9281 L119.2426,53.1171 L114.6376,53.1171 L123.0146,33.7281 L127.2036,33.7281 L135.5786,53.1171 L130.9756,53.1171 L129.1726,48.9281 L121.0456,48.9281 Z M125.1216,39.4981 L122.6826,45.1291 L127.5356,45.1291 L125.1216,39.4981 Z M118.9786,10.0136 C118.9786,7.1656 119.9596,4.7856 121.9186,2.8716 C123.8796,0.9576 126.2916,-0.0004 129.1586,-0.0004 C132.0236,-0.0004 134.4376,0.9576 136.3966,2.8716 C138.3576,4.7856 139.3386,7.1656 139.3386,10.0136 C139.3386,12.8616 138.3576,15.2426 136.3966,17.1566 C134.4376,19.0706 132.0236,20.0276 129.1586,20.0276 C126.2916,20.0276 123.8796,19.0706 121.9186,17.1566 C119.9596,15.2426 118.9786,12.8616 118.9786,10.0136 Z M125.0806,5.6036 C123.9716,6.8246 123.4166,8.2986 123.4166,10.0276 C123.4166,11.7556 123.9716,13.2266 125.0806,14.4376 C126.1896,15.6486 127.5536,16.2536 129.1726,16.2536 C130.7896,16.2536 132.1546,15.6486 133.2646,14.4376 C134.3736,13.2266 134.9286,11.7556 134.9286,10.0276 C134.9286,8.2986 134.3736,6.8246 133.2646,5.6036 C132.1546,4.3826 130.7896,3.7736 129.1726,3.7736 C127.5536,3.7736 126.1896,4.3826 125.0806,5.6036 Z M98.8286,40.9688 L98.8286,53.1168 L94.5006,53.1168 L94.5006,33.7288 L98.5516,33.7288 L108.0646,46.2108 L108.0646,33.7288 L112.3916,33.7288 L112.3916,53.1168 L108.0646,53.1168 L98.8286,40.9688 Z M142.1528,33.7286 L142.1528,49.2616 L150.4188,49.2616 L150.4188,53.1176 L137.8268,53.1176 L137.8268,33.7286 L142.1528,33.7286 Z M157.9067,49.2891 L167.8637,49.2891 L167.8637,53.1171 L153.5807,53.1171 L153.5807,33.7281 L167.5587,33.7281 L167.5587,37.5841 L157.9067,37.5841 L157.9067,41.5781 L166.5887,41.5781 L166.5887,45.2681 L157.9067,45.2681 L157.9067,49.2891 Z M62.686,53.3967 L62.686,33.3067 L63.94,33.3067 L63.94,53.3967 L62.686,53.3967 Z M82.512,1.2767 L82.512,0.0227 L96.514,0.0227 L96.514,1.2767 L90.422,1.2767 L90.422,20.1127 L89.168,20.1127 L89.168,1.2767 L82.512,1.2767 Z M112.61,1.2537 L112.938,1.4587 L112.153,2.4627 L111.887,2.2967 C110.795,1.6197 109.358,1.2767 107.612,1.2767 L101.94,1.2767 L101.94,12.2007 L104.547,12.2007 L103.567,13.4537 L101.94,13.4537 L101.94,17.6587 L100.686,19.2667 L100.686,0.0227 L107.612,0.0227 C109.631,0.0227 111.313,0.4367 112.61,1.2537 Z M80.564,33.3067 C82.592,33.3067 84.561,33.8887 86.256,34.9917 L86.577,35.2007 L85.801,36.1917 L85.534,36.0197 C84.047,35.0657 82.328,34.5607 80.564,34.5607 C75.572,34.5607 71.51,38.4977 71.51,43.3377 C71.51,45.8537 72.646,48.2637 74.627,49.9507 L74.882,50.1677 L74.11,51.1577 L73.832,50.9217 C71.56,48.9947 70.256,46.2307 70.256,43.3377 C70.256,37.8067 74.88,33.3067 80.564,33.3067 Z M82.603,20.1127 L79.884,14.2027 L68.571,14.2027 L65.882,20.1127 L64.445,20.1127 L73.643,0.0227 L74.7,0.0227 L84.013,20.1127 L82.603,20.1127 Z M69.139,12.9497 L79.284,12.9497 L74.174,1.8517 L69.139,12.9497 Z M41.854,53.3967 L41.854,52.2307 L55.983,34.5607 L42.242,34.5607 L42.242,33.3067 L57.616,33.3067 L57.616,34.4727 L43.487,52.1427 L57.699,52.1427 L57.699,53.3967 L41.854,53.3967 Z M61.421,18.8587 L61.421,20.1127 L48.21,20.1127 L48.21,0.0227 L61.032,0.0227 L61.032,1.2767 L49.464,1.2767 L49.464,9.1497 L59.757,9.1497 L59.757,10.4037 L49.464,10.4037 L49.464,18.8587 L61.421,18.8587 Z M36.239,20.1127 L36.239,1.2767 L29.581,1.2767 L29.581,0.0227 L44.151,0.0227 L44.151,1.2767 L37.493,1.2767 L37.493,20.1127 L36.239,20.1127 Z M37.544,53.3967 L34.825,47.4877 L23.513,47.4877 L20.823,53.3967 L19.387,53.3967 L28.584,33.3067 L29.641,33.3067 L38.954,53.3967 L37.544,53.3967 Z M24.08,46.2337 L34.226,46.2337 L29.115,35.1357 L24.08,46.2337 Z M14.508,51.4137 L14.508,33.3067 L15.762,33.3067 L15.762,53.3967 L14.4,53.3967 L1.254,35.2887 L1.254,53.3967 L-2.84217094e-14,53.3967 L-2.84217094e-14,33.3067 L1.36,33.3067 L14.508,51.4137 Z M60.1689,78.5508 L56.3009,78.5508 L59.1819,74.8628 L60.1689,74.8628 L60.1689,78.5508 Z M78.7217,79.4942 L78.7217,67.0142 L83.0497,67.0142 L83.0497,86.4002 L78.7217,86.4002 L69.4847,74.2522 L69.4847,86.4002 L65.1587,86.4002 L65.1587,67.0322 L65.1717,67.0142 L69.2077,67.0142 L78.7217,79.4942 Z M95.7363,66.5679 C98.6013,66.5679 101.0153,67.5259 102.9763,69.4399 C104.9353,71.3539 105.9153,73.7349 105.9153,76.5819 C105.9153,79.4299 104.9353,81.8109 102.9763,83.7249 C101.0153,85.6389 98.6013,86.5959 95.7363,86.5959 C92.8683,86.5959 90.4563,85.6389 88.4943,83.7249 C86.5363,81.8109 85.5563,79.4299 85.5563,76.5819 C85.5563,73.7349 86.5363,71.3539 88.4943,69.4399 C90.4563,67.5259 92.8683,66.5679 95.7363,66.5679 Z M99.8403,81.0059 C100.9503,79.7949 101.5053,78.3239 101.5053,76.5959 C101.5053,74.8669 100.9503,73.3929 99.8403,72.1719 C98.7323,70.9509 97.3663,70.3419 95.7493,70.3419 C94.1323,70.3419 92.7673,70.9509 91.6573,72.1719 C90.5503,73.3929 89.9933,74.8669 89.9933,76.5959 C89.9933,78.3239 90.5503,79.7949 91.6573,81.0059 C92.7673,82.2169 94.1323,82.8219 95.7493,82.8219 C97.3663,82.8219 98.7323,82.2169 99.8403,81.0059 Z M120.9487,67.0137 L125.6357,67.0137 L117.8407,86.4007 L114.1807,86.4007 L106.3857,67.0137 L111.0737,67.0137 L116.0117,79.3557 L120.9487,67.0137 Z M130.7563,67.0141 L134.9453,67.0141 L143.3223,86.4001 L138.7173,86.4001 L136.9143,82.2131 L128.7873,82.2131 L126.9853,86.4001 L122.9473,86.4001 L130.7563,67.0141 Z M130.4243,78.4121 L135.2783,78.4121 L132.8653,72.7811 L130.4243,78.4121 Z M50.168,86.4004 L53.159,82.5724 L61.444,82.5724 L61.444,86.4004 L50.168,86.4004 Z M48.2285,81.917 L48.2285,66.591 L60.2015,66.591 L59.2215,67.845 L49.4825,67.845 L49.4825,75.718 L53.0715,75.718 L52.0905,76.972 L49.4825,76.972 L49.4825,80.311 L48.2285,81.917 Z M35.0239,67.8174 C30.0149,67.8174 25.9419,71.7674 25.9419,76.6224 C25.9419,81.4924 30.0149,85.4544 35.0239,85.4544 C37.1509,85.4544 39.1969,84.7324 40.8059,83.4214 L40.8059,76.4664 L42.0599,76.4664 L42.0599,83.9654 L41.9399,84.0704 C40.0149,85.7544 37.5609,86.6804 35.0239,86.6804 C29.3399,86.6804 24.7139,82.1704 24.7139,76.6224 C24.7139,71.0904 29.3399,66.5904 35.0239,66.5904 C37.5629,66.5904 40.0099,67.5074 41.9129,69.1734 L42.1949,69.4214 L41.3359,70.2774 L41.0899,70.0604 C39.4529,68.6144 37.2979,67.8174 35.0239,67.8174 Z" id="teatro-nazionale-genova" fill="#000000"></path>
+                        </g>
+                        </svg>	</div>
+                    <div class="lista-sale-wrapper">
+                        <ul class="inline-list lista-sale">
+                            <li class="sala sala-corte">
+                                <a href="https://teatronazionalegenova.it/spettacolo_sala/corte/">
+                                    <svg id="sintesi" width="100%" height="100%" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <g fill="#D21822">
+                                    <path d="M20.6354309,5.47752045 L17.156451,9.93137001 C17.179197,10.1795915 17.2186612,10.4207258 17.2186612,10.6794661 C17.2186612,12.5193622 16.6282502,14.0844264 15.447861,15.3729505 C14.3451244,16.5763021 12.9952407,17.1935323 11.4196576,17.2746315 L8.48132198,21.0363734 C9.30644409,21.2172298 10.1688968,21.3191354 11.078975,21.3191354 C14.1292875,21.3191354 16.6969134,20.3007134 18.783524,18.2638769 C20.8679936,16.2272493 21.9115115,13.6956782 21.9115115,10.6629493 C21.9115115,8.73209168 21.4832916,7.00504525 20.6354309,5.47752045" id="thick-arc"></path>
+                                    <path d="M10.96899,0 C4.92025796,0 0,4.78852668 0,10.6744261 C0,13.7530721 1.38721435,16.6939815 3.80551056,18.7451937 L4.10157396,18.9947058 L4.92283171,17.9430339 L4.65122268,17.7102549 C2.54401461,15.916485 1.33444127,13.3518803 1.33444127,10.6744261 C1.33444127,5.52439559 5.65741748,1.33444127 10.96899,1.33444127 C12.8462167,1.33444127 14.6749524,1.87164647 16.2569661,2.88685313 L16.5414513,3.06985053 L17.366566,2.01496335 L17.025876,1.79269573 C15.2215946,0.619378713 13.1268301,0 10.96899,0" id="thin-arc"></path>
+                                    </g>
+                                    </svg>				<span>Corte</span>
+                                </a>
+                            </li>
+                            <li class="sala sala-duse">
+                                <a href="https://teatronazionalegenova.it/spettacolo_sala/duse/">
+                                    <svg id="sintesi" width="100%" height="100%" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <g fill="#D21822">
+                                    <path d="M20.6354309,5.47752045 L17.156451,9.93137001 C17.179197,10.1795915 17.2186612,10.4207258 17.2186612,10.6794661 C17.2186612,12.5193622 16.6282502,14.0844264 15.447861,15.3729505 C14.3451244,16.5763021 12.9952407,17.1935323 11.4196576,17.2746315 L8.48132198,21.0363734 C9.30644409,21.2172298 10.1688968,21.3191354 11.078975,21.3191354 C14.1292875,21.3191354 16.6969134,20.3007134 18.783524,18.2638769 C20.8679936,16.2272493 21.9115115,13.6956782 21.9115115,10.6629493 C21.9115115,8.73209168 21.4832916,7.00504525 20.6354309,5.47752045" id="thick-arc"></path>
+                                    <path d="M10.96899,0 C4.92025796,0 0,4.78852668 0,10.6744261 C0,13.7530721 1.38721435,16.6939815 3.80551056,18.7451937 L4.10157396,18.9947058 L4.92283171,17.9430339 L4.65122268,17.7102549 C2.54401461,15.916485 1.33444127,13.3518803 1.33444127,10.6744261 C1.33444127,5.52439559 5.65741748,1.33444127 10.96899,1.33444127 C12.8462167,1.33444127 14.6749524,1.87164647 16.2569661,2.88685313 L16.5414513,3.06985053 L17.366566,2.01496335 L17.025876,1.79269573 C15.2215946,0.619378713 13.1268301,0 10.96899,0" id="thin-arc"></path>
+                                    </g>
+                                    </svg>				<span>Duse</span>
+                                </a>
+                            </li>
+                            <li class="sala sala-modena">
+                                <a href="https://teatronazionalegenova.it/spettacolo_sala/modena/">
+                                    <svg id="sintesi" width="100%" height="100%" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <g fill="#D21822">
+                                    <path d="M20.6354309,5.47752045 L17.156451,9.93137001 C17.179197,10.1795915 17.2186612,10.4207258 17.2186612,10.6794661 C17.2186612,12.5193622 16.6282502,14.0844264 15.447861,15.3729505 C14.3451244,16.5763021 12.9952407,17.1935323 11.4196576,17.2746315 L8.48132198,21.0363734 C9.30644409,21.2172298 10.1688968,21.3191354 11.078975,21.3191354 C14.1292875,21.3191354 16.6969134,20.3007134 18.783524,18.2638769 C20.8679936,16.2272493 21.9115115,13.6956782 21.9115115,10.6629493 C21.9115115,8.73209168 21.4832916,7.00504525 20.6354309,5.47752045" id="thick-arc"></path>
+                                    <path d="M10.96899,0 C4.92025796,0 0,4.78852668 0,10.6744261 C0,13.7530721 1.38721435,16.6939815 3.80551056,18.7451937 L4.10157396,18.9947058 L4.92283171,17.9430339 L4.65122268,17.7102549 C2.54401461,15.916485 1.33444127,13.3518803 1.33444127,10.6744261 C1.33444127,5.52439559 5.65741748,1.33444127 10.96899,1.33444127 C12.8462167,1.33444127 14.6749524,1.87164647 16.2569661,2.88685313 L16.5414513,3.06985053 L17.366566,2.01496335 L17.025876,1.79269573 C15.2215946,0.619378713 13.1268301,0 10.96899,0" id="thin-arc"></path>
+                                    </g>
+                                    </svg>				<span>Modena</span>
+                                </a>
+                            </li>
+                            <li class="sala sala-mercato">
+                                <a href="https://teatronazionalegenova.it/spettacolo_sala/mercato/">
+                                    <svg id="sintesi" width="100%" height="100%" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                    <g fill="#D21822">
+                                    <path d="M20.6354309,5.47752045 L17.156451,9.93137001 C17.179197,10.1795915 17.2186612,10.4207258 17.2186612,10.6794661 C17.2186612,12.5193622 16.6282502,14.0844264 15.447861,15.3729505 C14.3451244,16.5763021 12.9952407,17.1935323 11.4196576,17.2746315 L8.48132198,21.0363734 C9.30644409,21.2172298 10.1688968,21.3191354 11.078975,21.3191354 C14.1292875,21.3191354 16.6969134,20.3007134 18.783524,18.2638769 C20.8679936,16.2272493 21.9115115,13.6956782 21.9115115,10.6629493 C21.9115115,8.73209168 21.4832916,7.00504525 20.6354309,5.47752045" id="thick-arc"></path>
+                                    <path d="M10.96899,0 C4.92025796,0 0,4.78852668 0,10.6744261 C0,13.7530721 1.38721435,16.6939815 3.80551056,18.7451937 L4.10157396,18.9947058 L4.92283171,17.9430339 L4.65122268,17.7102549 C2.54401461,15.916485 1.33444127,13.3518803 1.33444127,10.6744261 C1.33444127,5.52439559 5.65741748,1.33444127 10.96899,1.33444127 C12.8462167,1.33444127 14.6749524,1.87164647 16.2569661,2.88685313 L16.5414513,3.06985053 L17.366566,2.01496335 L17.025876,1.79269573 C15.2215946,0.619378713 13.1268301,0 10.96899,0" id="thin-arc"></path>
+                                    </g>
+                                    </svg>				<span>Mercato</span>
+                                </a>
+                            </li>
+                        </ul>	</div>
+                    <h4 class="white text-center">Un teatro <strong>unico</strong>.</h4>
+                </div>
+                <div class="container ">
+                    <div class="row">
+                        <div class="copyrights col-md-4">
+                            <p class="small">
+                                ©2018 Teatro Nazionale di Genova | <a href="https://teatronazionalegenova.it/privacy/"> Privacy</a>	<a href="https://teatronazionalegenova.it/policy-cookie/"> Cookies </a>			</p>
+
+                        </div>
+                        <div class="social col-md-4">
+                            <a class="social-icon" href="https://www.facebook.com/TeatroNazionaleGenova/" target="_blank"><i class="fa fa-facebook-f"></i></a>
+                            <a class="social-icon" href="https://www.instagram.com/teatronazionalegenova/" target="_blank"></a>
+                            <a class="social-icon" href="https://twitter.com/teatrodigenova" target="_blank"></a>
+                        </div>
+
+                        <div class="piva col-md-4">
+                            <p class="small">
+                                P.IVA / Codice fiscale 00278900105					</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="partner container-fluid">
+                <div class="row">
+                    <div class="col-md-2 col-xs-2">
+                        <img src="assets/img/MIN_BeniCulturali.png" class="img-fluid center-block" alt="beni cutlturali"/>
+                    </div>
+                    <div class="col-md-2 col-xs-2">
+                        <img src="assets/img/ComuneGE.png" class="img-fluid center-block" alt="comune di Genova"/>
+                    </div>
+                    <div class="col-md-2 col-xs-2">
+                        <img src="assets/img/RegioneLIGURIA.png" class="img-fluid center-block" alt="regione Liguria"/>
+                    </div>
+                    <div class="col-md-2 col-xs-2">
+                        <img src="assets/img/CompagniaSPaolo.png" class="img-fluid center-block" alt="Compagnia di San Paolo"/>
+                    </div>
+                    <div class="col-md-2 col-xs-2">
+                        <img src="assets/img/Iren.png" class="img-fluid center-block" alt="Iren"/>
+                    </div>
+                    <div class="col-md-2 col-xs-2">
+                        <img src="assets/img/GE_MoreThanThis.png" class="img-fluid center-block" alt="Genova more than this"/>
+                    </div>
+                </div>
+            </div>
+            <!--
+                        <div id="loghi-partners">
+                                                                    <ul class="container d-flex-rw flex-list no-gutter-h gutter-v">
+            
+                                                            <li class="gutter-v gutter-h">
+                                                                    <a href="http://www.liguria.beniculturali.it/" target="_blank">
+                                                                            <figure>
+                                                                                    <img src="assets/img/MIN_BeniCulturali.png" alt="Ministero dei Beni Culturali">
+                                                                            </figure>
+                                                                    </a>
+                                                            </li>
+            
+            
+            
+                                                            <li class="gutter-v gutter-h">
+                                                                    <a href="http://www.comune.genova.it/" target="_blank">
+                                                                            <figure>
+                                                                                    <img src="assets/img/comuneGe.png" alt="Comune di Genova">
+                                                                            </figure>
+                                                                    </a>
+                                                            </li>
+            
+            
+            
+                                                            <li class="gutter-v gutter-h">
+                                                                    <a href="https://www.regione.liguria.it/" target="_blank">
+                                                                            <figure>
+                                                                                    <img src="assets/img/RegioneLIGURIA.png" alt="Regione Liguria">
+                                                                            </figure>
+                                                                    </a>
+                                                            </li>
+            
+            
+            
+                                                            <li class="gutter-v gutter-h">
+                                                                    <a href="http://compagniadisanpaolo.it/" target="_blank">
+                                                                            <figure>
+                                                                                    <img src="assets/img/CompagniaSPaolo.png" alt="Compagni di San Paolo">
+                                                                            </figure>
+                                                                    </a>
+                                                            </li>
+            
+            
+            
+                                                            <li class="gutter-v gutter-h">
+                                                                    <a href="https://www.gruppoiren.it/" target="_blank">
+                                                                            <figure>
+                                                                                    <img src="assets/img/Iren.png" alt="gruppo IREN">
+                                                                            </figure>
+                                                                    </a>
+                                                            </li>
+            
+            
+            
+                                                            <li class="gutter-v gutter-h">
+                                                                    <a href="http://www.visitgenoa.it/" target="_blank">
+                                                                            <figure>
+                                                                                    <img src="assets/img/GE_MoreThanThis.png" alt="Genova, More Than This">
+                                                                            </figure>
+                                                                    </a>
+                                                            </li>
+            
+            
+                                                                            </ul>
+                                                    </div> -->
+        </footer>
+
+        <script src="assets/js/jquery-3.3.1.slim.min.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/jss/bootstrap.min.js"></script>
+
+    </body>
+</html>

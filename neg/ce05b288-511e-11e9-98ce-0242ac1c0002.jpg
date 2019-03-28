@@ -1,0 +1,1033 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html  xml:lang="it-IT" lang="it-IT" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head">
+<!--************************************************************************************-->
+<!-- DNN Platform - http://www.dnnsoftware.com                                        -->
+<!-- Copyright (c) 2002-2014                                                          -->
+<!-- by DNN Corporation                                                               -->
+<!--**********************************************************************************-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	Comune di Stella - Home Page
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="Sito ufficiale del comune di Stella in provincia di Savona, in Liguria. Informazioni sul comune, la città, i servizi, l&#39;amministrazione, la storia. " /><meta id="MetaKeywords" name="KEYWORDS" content="Stella, comune di Stella, provincia di Savona, Liguria, città di Stella, Stella comune.,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2015 Comune di Stella" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="Comune di Stella" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" />
+    <!-- Inizio Modifica Cristian 23/03/2016 -->
+    <!-- Mobile viewport optimized (Forza la scalatura a 1) -->
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <!-- Fine Modifica Cristian 23/03/2016 -->
+    <style id="StylePlaceholder" type="text/css"></style><link href="/portals/_default/default.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/desktopmodules/html/module.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/portals/1044/skins/skinxhtml/skin.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/portals/1044/containers/containermenu_sfbianco/container.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/portals/1044/containers/containermodulihome/container.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/portals/1044/containers/containernobordo/container.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/portals/1044/containers/containermenu/container.css?cdv=55" type="text/css" rel="stylesheet"/><link href="/portals/1044/portal.css?cdv=55" type="text/css" rel="stylesheet"/><script src="/resources/libraries/jquery/01_09_01/jquery.js?cdv=55" type="text/javascript"></script><script src="/resources/libraries/jquery-migrate/01_02_01/jquery-migrate.js?cdv=55" type="text/javascript"></script><script src="/resources/libraries/jquery-ui/01_10_03/jquery-ui.js?cdv=55" type="text/javascript"></script><link id="stmp" rel="stylesheet" type="text/css" href="stampaP.css" media="print" />
+    <script type="text/javascript" src="/cms2/js/xfade2.js"></script>		
+    
+    	    
+    <!--<script type="text/javascript" src="http://www.servizipubblicaamministrazione.it/CMS/tinymce/jscripts/tiny_mce/tiny_mce.js" ></script>-->
+
+    <!-- Inizio Modifica Cristian 23/03/2016 -->
+    <script type="text/javascript">
+  	$(document).ready(function(){   
+		//When btn is clicked
+		$(".btn-responsive-menu").click(function() {
+		  	$("#dnn_menudiservizio").toggleClass("show");
+		  	$(".MenuPushElencoVoci").toggleClass("MenuPushElencoVociAttivo");
+		  	$(".MenuPushOverlay").toggleClass("MenuPushOverlayAttivo");
+		  	/*Inizio Modifica Cristian 03/01/2017*/
+		  	$(this).toggleClass("active");
+            $(document.body).toggleClass("MenuPushResponsive-push-toright");
+            $("#RigaMenuPush").toggleClass("MenuPushResponsive-open"); 
+            /*Fine Modifica Cristian 03/01/2017*/
+		});
+		$(".MenuPushOverlay").click(function() {
+		  	$("#dnn_menudiservizio").toggleClass("show");
+		  	$(".MenuPushElencoVoci").toggleClass("MenuPushElencoVociAttivo");
+		  	$(".MenuPushOverlay").toggleClass("MenuPushOverlayAttivo");
+		  	/*Inizio Modifica Cristian 03/01/2017*/
+		  	$(this).toggleClass("active");
+            $(document.body).toggleClass("MenuPushResponsive-push-toright");
+            $("#RigaMenuPush").toggleClass("MenuPushResponsive-open"); 
+            /*Fine Modifica Cristian 03/01/2017*/
+		});
+	});
+    </script>
+    <!-- Fine Modifica Cristian 23/03/2016 -->
+<style type="text/css">
+	/* <![CDATA[ */
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom { width:100%; }
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom img.icon { border-style:none;vertical-align:middle; }
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom img.separator { border-style:none;display:block; }
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom ul { list-style:none;margin:0;padding:0;width:auto; }
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom ul.dynamic { z-index:1; }
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom a { text-decoration:none;white-space:nowrap;display:block; }
+	#dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom a.popout { background-image:url("/WebResource.axd?d=a2s0DhkI13yPcMmRhgAsJjX2tKgNM6VLXaYtxjF-EclUwHVdrqpFCg78qKt0MB4pq2xwIlawA5Yc9MNXNVovUjq5MZ01&t=636765499264470882");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	/* ]]> */
+</style></head>
+
+<!-- Inizio Modifica Cristian 10/01/2017 --> 
+<body id="Body" class="MenuPushResponsive-push">
+<!-- Fine Modifica Cristian 10/01/2017 --> 
+
+     <!-- Inizio Modifica Cristian 23/03/2016 -->  
+    <div class="responsive-buttons">
+        <div class="btn-responsive-menu" title="Menu">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </div>
+        <div class="btn-responsive-home" title="Home"></div>
+        <div class="btn-responsive-search" title="Ricerca"></div>
+    </div>
+    <!-- Fine Modifica Cristian 23/03/2016 -->
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript"> $(document).ready(function(){ $(".btn-responsive-home").click(function() { window.location.href = "http://www.comunestella.it/"; }); $(".btn-responsive-search").click(function() { window.location.href = "http://www.comunestella.it/Home/Ricerca"; }); }); </script><script type="text/javascript"> $(document).ready(function(){ $("#dnn_colonna2").toggleClass("show"); $("#dnn_colonna2right").toggleClass("show"); }); </script>
+<script src="/ScriptResource.axd?d=ZCE1J-GE8Ho6jwxcGR-r60ISJhSvAIrT8NXl4ZSQRe0y851RXqG2qKzmhNZGDa-jqTpshb5RkOWESUcxP9tRwSqLPUYtB6uX3zdpx_Uon_R5xprGwZriOxv5Vo6E0UmOe44Wjg2&amp;t=29665526" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"it-IT","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"Non un numero","CurrencyNegativePattern":9,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Infinito","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"+Infinito","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["dom","lun","mar","mer","gio","ven","sab"],"ShortestDayNames":["do","lu","ma","me","gi","ve","sa"],"DayNames":["domenica","lunedì","martedì","mercoledì","giovedì","venerdì","sabato"],"AbbreviatedMonthNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""],"IsReadOnly":false,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthGenitiveNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""]},"eras":[1,"d.C.",null,0]};//]]>
+</script>
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3ait-IT%3ab7585254-495e-4311-9545-1f910247aca5%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="SdCkZ3AcQ5AY37x3u86cbnIpbYEY4vsGkwpgcAOyN/0jtGeXdYgzM6esaW8M9ZPWcjZ0zixCYGKLu/7DKcLbIrHqauhawsDw6Ny8HLfzji3mg2sKsuyl75cJnNh2/f4oP3FzojUOYBdrbqqdh18KgL8ojteIUXzXKEOnXo+ZUZfJw2gxmDCnfF8uG9+wBbwPszdsJJj7xkamDNzUFxXhkYXxWVsspMMj4dPWRehYNiNTUMXJ+XARqcjdZBFY/h5kmfoULkKbw5s4HM7+Uc6u1hVuIdAgV3aEwSZY/MbxX/Ux1Dch8PG9DHKl7m1RBNdaaZGCMya04WG+++Bc3Pf3KyJa4wLWp4XD+yW2lmuG0PBJu/4X7vAHaZKEgyF0Tw/OhksMeyBVcYYjebB9WAfO5qOPLCuA9IWjoL9qRtqgXvjsUimQM2sYsizo6ajeGOQaJcfgLyyDiKOKCEydciVvbUCJb15J6cmgpeqszQUk4EE9fSSA9s/EwsXaW/QExWuFQbGRwiwbBmDh8e2AVdRYyTeYPHcJPceP1VIBZ74foCXa/O68le6vZYs04+VFMXblzKZFpS1TWbg404lE8O+XSVKDEldryOveqhji64gpLuDZfUxOWfywcFfL+qrn75MvyG/YT+MCdelomwOdjJ03lsjl8XQ2VnB5NNXtlgsJgA2W2R3cDAOIQu1NnialDm9BhHwFYmTyn9VxITfU1B/QhjuLYuQrwscaqDQW3hSdhewiGGxdLe/UG94M49P/aoN8+9WRMNoWpYpJjkj08yrijz2KvCghkkimpAAnpuGtKgx5dNOZfZkCrDYjKTTSnUNpB8v90cS9Em9tMy6/uZe1j2ScvdRJ6PoJeIO9E0a3m2LcWxqd9yuxZqwJWeRk3F5xvCIiC5izq9q3U79Ror5hmzND5U64C7WyC2rN9Y5lxnRAPSHt+difSiXhrGXHi5GpocAF95+wALZAvBpdOyx9IPQpR/iX0MYW6gjfMfijeQXkh4u8Zzef3+vQThLqWvuWWImHL1o1DWc5QZgybA2ozN0bWY5FTMLt5MmkI8LuEXv1OvA2atYvo23inHdNL0lpJMx3v64fYDuWuWoCWwiTcmtS+KA8H6NZUzdufPUm5aiBaE8SOhhiof8zzbek5ucy30jx8UI3DK5TA7eGHuSvAtQNqyg5faL/217BL9Sw1fgu6A1lif75cubCl6MfXbR0JS3FqwwokPrgzCZFn7OErYprade7Yb72bErSdseukm8hIVc8jUzo4ocrj1evvflFxEMa5SunsKmYtwyOMJ/ALmnBfC7K5lJiP4OYjrqVSFo93c9Up0g+Ea6KYDQKgMh9u53PFYu/fZqDrjeL+jm7H7g7fqCYknbKydYr9A==" />
+</div><script src="/js/dnn.js?cdv=55" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=55" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=55" type="text/javascript"></script><script src="/js/dnncore.js?cdv=55" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+<div id="contenitore_ombra">
+<div id="contenitore">
+
+<h1 class="SiscomHiddenH1">Comune di Stella - Provincia di Savona - Liguria</h1>
+
+<!-- link per saltare il menu e andare subito al contenuto-->
+ 
+  	<div id="alto" style="display:none"><a href="#contenuto" tabindex="0" title="Link diretto al contenuto della pagina.">Vai al contenuto della pagina.</a></div> 
+    <!--  Fine link per saltare il menu e andare subito al contenuto%-->
+   
+  <div id="sup">  
+		<div id="dataodierna">
+		  <span id="dnn_dnnCURRENTDATE_lblDate" class="SkinObject">giovedì 28 marzo 2019</span>
+
+		</div>	 <!-- link superiori di servizio ad esempio ad accessibilita', mappa, etc-->
+		<h2 class="SiscomHiddenH1">Navigazione del sito</h2>
+		<div id="dnn_menudiservizio"><div class="DnnModule DnnModule-SiscomServizio DnnModule-10281"><a name="10281"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10281_ContentPane" class="DNNAlignright"><!-- Start_Module_10281 --><div id="dnn_ctr10281_ModuleContent" class="DNNModuleContent ModSiscomServizioC">
+	<span id="dnn_ctr10281_SiscomServizio_Label3" class="SiscomLink SiscomLinkVociTop">|</span>
+                    <a id="dnn_ctr10281_SiscomServizio_HyperLink2" accesskey="H" tabindex="1" title="Home" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/">Home</a>
+                    <span id="dnn_ctr10281_SiscomServizio_Label4" class="SiscomLink SiscomLinkVociTop">|</span>
+                    
+                    
+                    <a id="dnn_ctr10281_SiscomServizio_HyperLink4" accesskey="A" tabindex="5" title="Accessibilita&#39;" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/Home/Accessibilita">Accessibilita'</a>
+                    <span id="dnn_ctr10281_SiscomServizio_Label6" class="SiscomLink SiscomLinkVociTop">|</span>
+                    <a id="dnn_ctr10281_SiscomServizio_HyperLink5" accesskey="C" tabindex="10" title="Contatti" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/Home/Contatti">Contatti</a>
+                    <span id="dnn_ctr10281_SiscomServizio_Label7" class="SiscomLink SiscomLinkVociTop">|</span>
+                    <a id="dnn_ctr10281_SiscomServizio_HyperLinkPEC" accesskey="P" tabindex="12" title="Posta Elettronica Certificata" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/Home/Contatti">Posta Elettronica Certificata</a>
+                    <span id="dnn_ctr10281_SiscomServizio_LabelPEC" class="SiscomLink SiscomLinkVociTop">|</span>
+                    <a id="dnn_ctr10281_SiscomServizio_HyperLink6" accesskey="R" tabindex="15" title="Ricerca" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/Home/Ricerca">Ricerca</a>
+                    <span id="dnn_ctr10281_SiscomServizio_Label2" class="SiscomLink SiscomLinkVociTop">|</span>
+<a id="dnn_ctr10281_SiscomServizio_HyperLink7" accesskey="M" tabindex="20" title="Mappa del sito" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/Home/Mappasito">Mappa del sito</a>
+<span id="dnn_ctr10281_SiscomServizio_Label8" class="SiscomLink SiscomLinkVociTop">|</span>
+                    <a id="dnn_ctr10281_SiscomServizio_HyperLink1" accesskey="L" tabindex="25" title="Credits" class="SiscomLink SiscomLinkVociTop" href="http://www.comunestella.it/Home/Login">Credits</a>
+                    <span id="dnn_ctr10281_SiscomServizio_Label1" class="SiscomLink SiscomLinkVociTop">|</span>
+
+
+
+<input type="hidden" name="dnn$ctr10281$SiscomServizio$PortaleCMS" id="dnn_ctr10281_SiscomServizio_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10281 --></div>
+			</div>
+			
+
+</div></div></div>
+		
+	  </div>
+	  
+<div id="clear"></div>
+	 
+	  
+
+   
+	
+	<!-- Di seguito metto link alla pagina di default e la scritta che compare 				                qualora si disabilitano le immagini-->
+	
+  <div id="intestazione">	 <!-- link superiori di servizio ad esempio ad accessibilita', mappa, etc-->
+		
+    <div id="rimpiazza"><a href="/Default.aspx" title="Link alla Home Page del sito del Comune di Stella" tabindex="100"><span id="intestazente"><strong>Comune di Stella</strong> - Provincia di Savona - Liguria</span></a></div>
+</div>
+  
+  
+  <div id="corposenzacs">
+  <h2 class="SiscomHiddenH1">Percorso di navigazione</h2>
+       <div id="dnn_barraUsername">
+    <div class="DnnModule DnnModule-SiscomTiTroviIn DnnModule-10268"><a name="10268"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10268_ContentPane" class="DNNAlignleft"><!-- Start_Module_10268 --><div id="dnn_ctr10268_ModuleContent" class="DNNModuleContent ModSiscomTiTroviInC">
+	<div id="dnn_ctr10268_SiscomTiTroviIn_ContenitoreTiTroviIn" class="SiscomContenitoreTiTroviIn">
+		
+    <span id="dnn_ctr10268_SiscomTiTroviIn_TxtTiTroviIn" class="TitoloTiTrovi">Ti Trovi in: </span>&nbsp;
+  
+<span class="TestoTiTrovi">Home</span>
+	</div>
+			
+
+<input type="hidden" name="dnn$ctr10268$SiscomTiTroviIn$PortaleCMS" id="dnn_ctr10268_SiscomTiTroviIn_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10268 --></div>
+			</div>
+			
+
+</div></div></div>
+    <div id="ausiliario">
+       <div id="dnn_colonna2"> <div class="DnnModule DnnModule-SiscomElencoTariffe DnnModule-10269"><a name="10269"></a>
+
+<div class="contenitoreMenu">
+		<div class="titolocontainerMenu">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10269_dnnTITLE_titleLabel" class="Head">Comunicazioni e servizi on line</span>
+
+
+
+				</h2>
+			</div>
+			<div class="contenutocontainerMenu">
+				<div id="dnn_ctr10269_ContentPane"><!-- Start_Module_10269 --><div id="dnn_ctr10269_ModuleContent" class="DNNModuleContent ModSiscomElencoTariffeC">
+	<div id="dnn_ctr10269_SiscomElencoTariffe_Panel1" style="width:100%;">
+		
+<div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitoloEvidenziaServizi" href="http://www.halleyweb.com/c009058/mc/mc_p_ricerca.php">Albo Pretorio</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Bandigare?Tipo=1">Bandi di gara</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Concorsi?Tipo=2">Concorsi</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Statuto">Statuto</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Login/GestioneTabelle/SiscomGestioneGestioniLibere/DettaglioGestioniLibere?ID=9737-4">Elenco siti tematici</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Login/GestioneTabelle/SiscomGestioneGestioniLibere/DettaglioGestioniLibere?ID=9919-5">Tributi Comunali - Regolamenti - Deliberazioni Tariffe e Aliquote - Modulistica</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Login/GestioneTabelle/SiscomGestioneGestioniLibere/DettaglioGestioniLibere?ID=11656-7">Modulistica Servizio Commercio
+
+
+
+
+
+
+</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/GestioniLibere?Tipo=8">Sportello Unico delle Attività Produttive</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Regolamenti-on-line?Tipo=3">Regolamenti comunali</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div>
+	</div>
+    
+
+<input type="hidden" name="dnn$ctr10269$SiscomElencoTariffe$IDServizio" id="dnn_ctr10269_SiscomElencoTariffe_IDServizio" />
+<input type="hidden" name="dnn$ctr10269$SiscomElencoTariffe$NumRecord" id="dnn_ctr10269_SiscomElencoTariffe_NumRecord" value="0" />
+<input type="hidden" name="dnn$ctr10269$SiscomElencoTariffe$NumPagine" id="dnn_ctr10269_SiscomElencoTariffe_NumPagine" value="0" />
+<input type="hidden" name="dnn$ctr10269$SiscomElencoTariffe$NumPagPos" id="dnn_ctr10269_SiscomElencoTariffe_NumPagPos" value="1" />
+
+<input type="hidden" name="dnn$ctr10269$SiscomElencoTariffe$PortaleCMS" id="dnn_ctr10269_SiscomElencoTariffe_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10269 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-SiscomElencoComeFare DnnModule-10270"><a name="10270"></a>
+
+<div class="contenitoreMenu">
+		<div class="titolocontainerMenu">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10270_dnnTITLE_titleLabel" class="Head">Come fare per</span>
+
+
+
+				</h2>
+			</div>
+			<div class="contenutocontainerMenu">
+				<div id="dnn_ctr10270_ContentPane"><!-- Start_Module_10270 --><div id="dnn_ctr10270_ModuleContent" class="DNNModuleContent ModSiscomElencoComeFareC">
+	<div id="dnn_ctr10270_SiscomElencoComeFare_Panel1" style="width:100%;">
+		<div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3672">Autocertificazioni</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3673">Pratiche anagrafe e stato civile</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3674">Certificati anagrafici e stato civile</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3681">Sportello Unico Attività Produttive</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3682">Pratiche Ufficio Tecnico</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3718">Tributi Comunali</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div><div class="SiscomElencoMenu SiscomFloatLeftLeft" style="width:100%;">
+			<img class="SiscomFloatLeftLeft" src="Portals/1044/Skins/SkinXhtml/Images/sflente.gif" alt=" " /><div class="SiscomPaddingLink">
+				<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Come-fare-per?IDTematica=3729">Polizia Municipale - Protezione Civile</a>
+			</div>
+		</div><div class="SiscomFloatLeftNone" style="height:0px;">
+
+		</div>
+	</div>
+    
+
+<input type="hidden" name="dnn$ctr10270$SiscomElencoComeFare$IDServizio" id="dnn_ctr10270_SiscomElencoComeFare_IDServizio" />
+<input type="hidden" name="dnn$ctr10270$SiscomElencoComeFare$NumRecord" id="dnn_ctr10270_SiscomElencoComeFare_NumRecord" value="0" />
+<input type="hidden" name="dnn$ctr10270$SiscomElencoComeFare$NumPagine" id="dnn_ctr10270_SiscomElencoComeFare_NumPagine" value="0" />
+<input type="hidden" name="dnn$ctr10270$SiscomElencoComeFare$NumPagPos" id="dnn_ctr10270_SiscomElencoComeFare_NumPagPos" value="1" />
+
+<input type="hidden" name="dnn$ctr10270$SiscomElencoComeFare$PortaleCMS" id="dnn_ctr10270_SiscomElencoComeFare_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10270 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-SiscomNewsLetterHome DnnModule-10271"><a name="10271"></a>
+
+<div class="contenitoreMenu">
+		<div class="titolocontainerMenu">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10271_dnnTITLE_titleLabel" class="Head">Newsletter</span>
+
+
+
+				</h2>
+			</div>
+			<div class="contenutocontainerMenu">
+				<div id="dnn_ctr10271_ContentPane"><!-- Start_Module_10271 --><div id="dnn_ctr10271_ModuleContent" class="DNNModuleContent ModSiscomNewsLetterHomeC">
+	<div id="dnn_ctr10271_SiscomNewsLetterHome_Panel5" class="NewsletterHome">
+		
+<div id="dnn_ctr10271_SiscomNewsLetterHome_Panel1" class="SiscomFloatLeftCenter" style="width:60px;">
+			<img src="DesktopModules/SiscomNewsLetterHome/image/newsletter.jpg" alt=" " />
+		</div>
+
+<div id="dnn_ctr10271_SiscomNewsLetterHome_Panel2" class="SiscomFloatLeftCenter" style="width:100px;">
+			
+<a class="SiscomTitolo" href="http://www.comunestella.it/Home/Newsletter">Sottoscriviti al nostro servizio di NewsLetter</a>
+		</div>
+<div id="dnn_ctr10271_SiscomNewsLetterHome_Panel3" class="SiscomFloatLeftNone" style="height:1px;width:100%;">
+			
+
+		</div>
+
+	</div>
+    
+
+<input type="hidden" name="dnn$ctr10271$SiscomNewsLetterHome$IDServizio" id="dnn_ctr10271_SiscomNewsLetterHome_IDServizio" />
+<input type="hidden" name="dnn$ctr10271$SiscomNewsLetterHome$NumRecord" id="dnn_ctr10271_SiscomNewsLetterHome_NumRecord" value="0" />
+<input type="hidden" name="dnn$ctr10271$SiscomNewsLetterHome$NumPagine" id="dnn_ctr10271_SiscomNewsLetterHome_NumPagine" value="0" />
+<input type="hidden" name="dnn$ctr10271$SiscomNewsLetterHome$NumPagPos" id="dnn_ctr10271_SiscomNewsLetterHome_NumPagPos" value="1" />
+
+<input type="hidden" name="dnn$ctr10271$SiscomNewsLetterHome$PortaleCMS" id="dnn_ctr10271_SiscomNewsLetterHome_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10271 --></div>
+			</div>
+</div></div></div>
+     <div id="colonna7">
+        
+        
+        
+        <div id="dnn_colonnasinistra2"> <div class="DnnModule DnnModule-SiscomMenuDinamicoAccessibile DnnModule-10277"><a name="10277"></a>
+
+<div class="contenitoreMenu">
+		<div class="titolocontainerMenu">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10277_dnnTITLE_titleLabel" class="Head">Aree tematiche</span>
+
+
+
+				</h2>
+			</div>
+			<div class="contenutocontainerMenu">
+				<div id="dnn_ctr10277_ContentPane"><!-- Start_Module_10277 --><div id="dnn_ctr10277_ModuleContent" class="DNNModuleContent ModSiscomMenuDinamicoAccessibileC">
+	
+
+
+
+
+
+<div id="menuintestazioneAzienda">
+
+<div class="artmediacssmenu" id="dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom">
+		<ul class="level1">
+			<li><a title="Amministrazione" class="level1" href="http://www.comunestella.it/Home/AmministrazioneDettagli">Amministrazione</a></li><li><a title="Struttura organizzativa" class="level1" href="http://www.comunestella.it/Home/UfficiDettagli">Struttura organizzativa</a></li><li><a title="Il comune in breve" class="level1" href="http://www.comunestella.it/Home/Il-comune-in-breve">Il comune in breve</a></li><li><a title="Guida turistica" class="level1" href="http://www.comunestella.it/Home/GuidaDettagli">Guida turistica</a></li><li><a title="Servizi e strutture" class="level1" href="http://www.comunestella.it/Home/ServiziDettagli">Servizi e strutture</a></li><li><a title="Procedimenti e modulistica" class="level1" href="http://www.comunestella.it/Home/Come-fare-per">Procedimenti e modulistica</a></li><li><a title="Amministrazione trasparente" class="level1" href="http://www.comunestella.it/Home/Menu?IDVoceMenu=46871">Amministrazione trasparente</a></li><li><a title="Ufficio relazioni con il pubblico" class="level1" href="/Home/UfficiDettagli/Uffici?IDUfficio=6508">Ufficio relazioni con il pubblico</a></li>
+		</ul>
+	</div>
+
+
+
+
+
+
+
+</div>
+			
+
+<input type="hidden" name="dnn$ctr10277$SiscomMenuDinamicoAccessibile$PortaleCMS" id="dnn_ctr10277_SiscomMenuDinamicoAccessibile_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10277 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-SiscomNumeriUtiliHome DnnModule-10278"><a name="10278"></a>
+
+<div class="contenitoreMenu">
+		<div class="titolocontainerMenu">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10278_dnnTITLE_titleLabel" class="Head">Numeri utili</span>
+
+
+
+				</h2>
+			</div>
+			<div class="contenutocontainerMenu">
+				<div id="dnn_ctr10278_ContentPane" class="DNNAlignleft"><!-- Start_Module_10278 --><div id="dnn_ctr10278_ModuleContent" class="DNNModuleContent ModSiscomNumeriUtiliHomeC">
+	<div id="dnn_ctr10278_SiscomNumeriUtiliHome_Panel1" class="SiscomFloatLeftCenter" style="width:50px;">
+		
+<img src="DesktopModules/SiscomNumeriUtiliHome/image/telefono.gif" alt=" " />
+	</div>
+<div id="dnn_ctr10278_SiscomNumeriUtiliHome_Panel2" class="SiscomFloatLeftCenter" style="width:90px;">
+		
+<a class="SiscomTitolo" href="http://www.comunestella.it/Home/NumeriUtili">Rubrica</a>
+	</div>
+<div id="dnn_ctr10278_SiscomNumeriUtiliHome_Panel3" class="SiscomFloatLeftNone" style="height:1px;width:100%;">
+		
+    
+	</div>
+    <div id="dnn_ctr10278_SiscomNumeriUtiliHome_Panel4" class="SiscomFloatLeftCenter" style="width:50px;">
+		
+
+	</div>
+<div id="dnn_ctr10278_SiscomNumeriUtiliHome_Panel5" class="SiscomFloatLeftCenter" style="width:90px;">
+		
+
+	</div>
+<div id="dnn_ctr10278_SiscomNumeriUtiliHome_Panel6" class="SiscomFloatLeftNone" style="height:1px;width:100%;">
+		
+    
+	</div>
+    
+
+<input type="hidden" name="dnn$ctr10278$SiscomNumeriUtiliHome$IDServizio" id="dnn_ctr10278_SiscomNumeriUtiliHome_IDServizio" />
+<input type="hidden" name="dnn$ctr10278$SiscomNumeriUtiliHome$NumRecord" id="dnn_ctr10278_SiscomNumeriUtiliHome_NumRecord" value="0" />
+<input type="hidden" name="dnn$ctr10278$SiscomNumeriUtiliHome$NumPagine" id="dnn_ctr10278_SiscomNumeriUtiliHome_NumPagine" value="0" />
+<input type="hidden" name="dnn$ctr10278$SiscomNumeriUtiliHome$NumPagPos" id="dnn_ctr10278_SiscomNumeriUtiliHome_NumPagPos" value="1" />
+
+<input type="hidden" name="dnn$ctr10278$SiscomNumeriUtiliHome$PortaleCMS" id="dnn_ctr10278_SiscomNumeriUtiliHome_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10278 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-SiscomLinkUtili DnnModule-10279"><a name="10279"></a>
+
+<div class="contenitoreMenu_SfBianco">
+			<div class="titolocontainerMenu_SfBianco">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10279_dnnTITLE_titleLabel" class="Head">Link utili</span>
+
+
+
+				</h2>
+			</div>
+			<div class="contenutocontainerMenu_SfBianco">
+				<div id="dnn_ctr10279_ContentPane"><!-- Start_Module_10279 --><div id="dnn_ctr10279_ModuleContent" class="DNNModuleContent ModSiscomLinkUtiliC">
+	<div id="dnn_ctr10279_SiscomElencoLinkUtili_Panel1" style="width:100%;">
+		
+<div class="SiscomElencoMenu" style="width:100%;">
+			<a title="Comune del Parco del Beigua - UNESCO Global Geoparks" href="http://www.parcobeigua.it/"><img title="Comune del Parco del Beigua - UNESCO Global Geoparks" src="http://siti.siscom.eu/cms2/portals/1044/SiscomBanner\Beigua%20UNESCO-Beigua%20Global%20TRASP-1.png" alt="Comune del Parco del Beigua - UNESCO Global Geoparks" /></a>
+		</div><div class="SiscomElencoMenu" style="width:100%;">
+			<a title="Comune certificato ISO 14001:2004" href="http://www.comunestella.it/Home/ServiziDettagli/Servizi-e-strutture?IDDettaglio=5674"><img title="Comune certificato ISO 14001:2004" src="http://siti.siscom.eu/cms2/portals/1044/SiscomBanner\ISO-14001_col.jpg" alt="Comune certificato ISO 14001:2004" /></a>
+		</div><div class="SiscomElencoMenu" style="width:100%;">
+			<a title="Pago PA" href="https://nrp.regione.liguria.it/portalecittadino/pub/liguriaPay_01Page/26/48"><img title="Pago PA" src="http://siti.siscom.eu/cms2/portals/1044/SiscomBanner\77866-img.gif.jpg" alt="Pago PA" /></a>
+		</div>
+	</div>
+    
+
+<input type="hidden" name="dnn$ctr10279$SiscomElencoLinkUtili$IDServizio" id="dnn_ctr10279_SiscomElencoLinkUtili_IDServizio" />
+<input type="hidden" name="dnn$ctr10279$SiscomElencoLinkUtili$NumRecord" id="dnn_ctr10279_SiscomElencoLinkUtili_NumRecord" value="0" />
+<input type="hidden" name="dnn$ctr10279$SiscomElencoLinkUtili$NumPagine" id="dnn_ctr10279_SiscomElencoLinkUtili_NumPagine" value="0" />
+<input type="hidden" name="dnn$ctr10279$SiscomElencoLinkUtili$NumPagPos" id="dnn_ctr10279_SiscomElencoLinkUtili_NumPagPos" value="1" />
+
+<input type="hidden" name="dnn$ctr10279$SiscomElencoLinkUtili$PortaleCMS" id="dnn_ctr10279_SiscomElencoLinkUtili_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10279 --></div>
+			</div>
+</div></div></div>
+		 <div id="dnn_colonnaintsx">
+			<div class="DnnModule DnnModule-SiscomIntroduzionePaese DnnModule-10276"><a name="10276"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10276_ContentPane"><!-- Start_Module_10276 --><div id="dnn_ctr10276_ModuleContent" class="DNNModuleContent ModSiscomIntroduzionePaeseC">
+	
+  <div id="dnn_ctr10276_SiscomIntroduzionePaese_Panel3" style="width:100%;">
+		
+                    
+                     
+	</div>
+        
+  <div id="dnn_ctr10276_SiscomIntroduzionePaese_Panel2">
+		
+
+                
+
+       
+	</div>
+         <div class="clearboth"></div>
+        
+        <br />
+<input type="hidden" name="dnn$ctr10276$SiscomIntroduzionePaese$PortaleCMS" id="dnn_ctr10276_SiscomIntroduzionePaese_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10276 --></div>
+			</div>
+			
+
+</div></div></div>
+			<div id="dnn_colonnaintdx">
+			<div class="DnnModule DnnModule-SiscomFotoOrizzontale DnnModule-10275"><a name="10275"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10275_ContentPane"><!-- Start_Module_10275 --><div id="dnn_ctr10275_ModuleContent" class="DNNModuleContent ModSiscomFotoOrizzontaleC">
+	
+        <div class="SiscomContFotoO">
+                    
+                    
+                     </div>
+                     <div class="SiscomFotoOTesto">
+                        <a id="dnn_ctr10275_SiscomFotoOrizzontale_LinkGalleria" class="SiscomLink" href="http://www.comunestella.it/Home/GuidaDettagli/Galleria-fotografica">Visita la Galleria fotografica >></a></div>
+                    
+<input type="hidden" name="dnn$ctr10275$SiscomFotoOrizzontale$NumFoto" id="dnn_ctr10275_SiscomFotoOrizzontale_NumFoto" value="348" />
+<input type="hidden" name="dnn$ctr10275$SiscomFotoOrizzontale$PortaleCMS" id="dnn_ctr10275_SiscomFotoOrizzontale_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10275 --></div>
+			</div>
+			
+
+</div></div></div> 
+        <div id="dnn_colonnadestra2"><p id="alignstright"><a href="javascript:window.print()" class="Linkstampa" title="Avvia la stampa della pagina."><img src="/Images/print.gif" width="18" height="16" alt="Stampa" class="noborder" /> Stampa</a></p>
+ <div class="DnnModule DnnModule-SiscomPrimoPiano DnnModule-27245"><a name="27245"></a>
+ 
+<div class="contenitoreModuliHome">
+			<div class="titolocontainerModuliHome">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr27245_dnnTITLEModuli_titleLabel" class="titoloModuliHome">Primo Piano</span>
+
+
+
+				</h2>
+			</div>
+            <div class="contenitoreImgModuliHome"></div>
+			<div class="contenutocontainerMenuModuliHome">
+				<div id="dnn_ctr27245_ContentPane"><!-- Start_Module_27245 --><div id="dnn_ctr27245_ModuleContent" class="DNNModuleContent ModSiscomPrimoPianoC">
+	
+           <div class="aligncenter">
+               <div id="dnn_ctr27245_SiscomPrimoPiano_Panel1" style="width:100%;">
+		<div>
+			<div class="SiscomBordoCentro SiscomFloatLeftCenter">
+				<a href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2975"><img src="" /></a>
+			</div><div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2975">Scarico modello per detrazione in Dichiarazione Redditi delle spese sostenute nell'anno 2018 a titolo di mensa scolastica</a><div class="SiscomDescrizione2">
+					Scarico modello per detrazione fiscali mensa scolastica<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div>
+			<div class="SiscomBordoCentro SiscomFloatLeftCenter">
+				<a href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2771"><img src="" /></a>
+			</div><div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2771">Avviso Pubblico</a><div class="SiscomDescrizione2">
+					AVVISO PUBBLICO - Consultazione e partecipazione all'aggiornamento del Piano Triennale 2019-2021 per la prevenzione della corruzione e della trasparenza del Comune di Stella<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div>
+			<div class="SiscomBordoCentro SiscomFloatLeftCenter">
+				<a href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2733"><img src="" /></a>
+			</div><div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2733">MODULO PRE-ISCRIZIONE AL SERVIZIO DI TRASPORTO SCOLASTICO - ANNO SCOLASTICO 2019/2020</a><div class="SiscomDescrizione2">
+					MODULO PRE-ISCRIZIONE AL SERVIZIO SCUOLABUS - ANNO SCOLASTICO 2019/2020<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div>
+			<div class="SiscomBordoCentro SiscomFloatLeftCenter">
+				<a href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2732"><img src="" /></a>
+			</div><div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Dettaglio-Primo-Piano?ID=2732">MODULO ISCRIZIONE AL SERVIZIO REFEZIONE SCOLASTICA - ANNO SCOLASTICO 2019/2020</a><div class="SiscomDescrizione2">
+					MODULO ISCRIZIONE AL SERVIZIO REFEZIONE SCOLASTICA - ANNO SCOLASTICO 2019/2020<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div>
+	</div>
+                    &nbsp;
+                    &nbsp;
+                    <a id="dnn_ctr27245_SiscomPrimoPiano_LinkButton6" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr27245$SiscomPrimoPiano$LinkButton6&#39;,&#39;&#39;)" style="font-weight:bold;">1</a>
+                    <a id="dnn_ctr27245_SiscomPrimoPiano_LinkButton7" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr27245$SiscomPrimoPiano$LinkButton7&#39;,&#39;&#39;)" style="font-weight:normal;">2</a>
+                    <a id="dnn_ctr27245_SiscomPrimoPiano_LinkButton8" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr27245$SiscomPrimoPiano$LinkButton8&#39;,&#39;&#39;)" style="font-weight:normal;">3</a>
+                    <a id="dnn_ctr27245_SiscomPrimoPiano_LinkButton9" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr27245$SiscomPrimoPiano$LinkButton9&#39;,&#39;&#39;)" style="font-weight:normal;">4</a>
+                    <a id="dnn_ctr27245_SiscomPrimoPiano_LinkButton10" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr27245$SiscomPrimoPiano$LinkButton10&#39;,&#39;&#39;)" style="font-weight:normal;">5</a>
+                    &nbsp;
+                    <a id="dnn_ctr27245_SiscomPrimoPiano_LinkButton1" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr27245$SiscomPrimoPiano$LinkButton1&#39;,&#39;&#39;)">[ succ. >>]</a></div>
+                    
+                   
+     
+                    
+<input type="hidden" name="dnn$ctr27245$SiscomPrimoPiano$NumNews" id="dnn_ctr27245_SiscomPrimoPiano_NumNews" value="47" />
+<input type="hidden" name="dnn$ctr27245$SiscomPrimoPiano$NumPagine" id="dnn_ctr27245_SiscomPrimoPiano_NumPagine" value="12" />
+<input type="hidden" name="dnn$ctr27245$SiscomPrimoPiano$NumPagPos" id="dnn_ctr27245_SiscomPrimoPiano_NumPagPos" value="1" />
+<input type="hidden" name="dnn$ctr27245$SiscomPrimoPiano$PortaleCMS" id="dnn_ctr27245_SiscomPrimoPiano_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_27245 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-SiscomNews DnnModule-10272"><a name="10272"></a>
+ 
+<div class="contenitoreModuliHome">
+			<div class="titolocontainerModuliHome">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10272_dnnTITLEModuli_titleLabel" class="titoloModuliHome">In evidenza</span>
+
+
+
+				</h2>
+			</div>
+            <div class="contenitoreImgModuliHome"></div>
+			<div class="contenutocontainerMenuModuliHome">
+				<div id="dnn_ctr10272_ContentPane" class="DNNAlignleft"><!-- Start_Module_10272 --><div id="dnn_ctr10272_ModuleContent" class="DNNModuleContent ModSiscomNewsC">
+	
+           <div class="aligncenter">
+               <div id="dnn_ctr10272_SiscomInEvidenza_Panel1" style="width:100%;">
+		<div class="SiscomBordoAlto alignleft">
+			<span class="SiscomTitolo2">    12 - febbraio - 2019<br /></span>
+		</div><div>
+			<div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=91031">SELEZIONE PUBBLICA PER ESAMI PER N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO CAT. C - (scadenza presentazione domande 07/04/2019)</a><div class="SiscomDescrizione2">
+					SELEZIONE PUBBLICA PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO CAT. C DA COLLOCARE PRESSO L'AREA AMMINISTRATIVA FINANZIARIA E RISORSE UMANE - (scadenza presentazione domande 07/04/2019)<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div class="SiscomBordoAlto alignleft">
+			<span class="SiscomTitolo2">    12 - dicembre - 2018<br /></span>
+		</div><div>
+			<div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=86565">GRADUATORIA DELLA SELEZIONE PUBBLICA PER MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI "ISTRUTTORE TECNICO" DI CATEGORIA C DA COLLOCARSI PRESSO L'AREA TECNICA MANUTENTIVA</a><div class="SiscomDescrizione2">
+					GRADUATORIA DELLA SELEZIONE PUBBLICA PER MOBILITA' PER&nbsp; N. 1 POSTO DI "ISTRUTTORE TECNICO" DI CATEGORIA C<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div class="SiscomBordoAlto alignleft">
+			<span class="SiscomTitolo2">    04 - dicembre - 2018<br /></span>
+		</div><div>
+			<div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=84919">ELENCO DEI CANDIDATI AMMESSI E DATE DI ESPLETAMENTO DELLA SELEZIONE PUBBLICA PER MOBILITA' PER LA COPERTURA DI N. 1 POSTO DI "ISTRUTTORE TECNICO" DI CATEGORIA C</a><div class="SiscomDescrizione2">
+					ELENCO DEI CANDIDATI AMMESSI E DATE DI ESPLETAMENTO DELLA SELEZIONE PUBBLICA PER MOBILITA'<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div class="SiscomBordoAlto alignleft">
+			<span class="SiscomTitolo2">    25 - settembre - 2018<br /></span>
+		</div><div>
+			<div class="SiscomBordoCentro">
+				<a class="SiscomTitolo SiscomTitoloNews" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=76387">AVVISO ALLA CITTADINANZA per RILASCIO CARTA IDENTITA' ELETTRONICA (C.I.E.)</a><div class="SiscomDescrizione2">
+					AVVISO per RILASCIO CARTA IDENTITA' ELETTRONICA (C.I.E.)<br /><br />
+				</div>
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div>
+	</div>
+                    &nbsp;
+                    &nbsp;
+                    <a id="dnn_ctr10272_SiscomInEvidenza_LinkButton6" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr10272$SiscomInEvidenza$LinkButton6&#39;,&#39;&#39;)" style="font-weight:bold;">1</a>
+                    <a id="dnn_ctr10272_SiscomInEvidenza_LinkButton7" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr10272$SiscomInEvidenza$LinkButton7&#39;,&#39;&#39;)" style="font-weight:normal;">2</a>
+                    
+                    
+                    
+                    &nbsp;
+                    <a id="dnn_ctr10272_SiscomInEvidenza_LinkButton1" class="SiscomLink" href="javascript:__doPostBack(&#39;dnn$ctr10272$SiscomInEvidenza$LinkButton1&#39;,&#39;&#39;)">[ succ. >>]</a></div>
+                    
+                   
+     
+                    
+<input type="hidden" name="dnn$ctr10272$SiscomInEvidenza$NumNews" id="dnn_ctr10272_SiscomInEvidenza_NumNews" value="6" />
+<input type="hidden" name="dnn$ctr10272$SiscomInEvidenza$NumPagine" id="dnn_ctr10272_SiscomInEvidenza_NumPagine" value="2" />
+<input type="hidden" name="dnn$ctr10272$SiscomInEvidenza$NumPagPos" id="dnn_ctr10272_SiscomInEvidenza_NumPagPos" value="1" />
+<input type="hidden" name="dnn$ctr10272$SiscomInEvidenza$PortaleCMS" id="dnn_ctr10272_SiscomInEvidenza_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10272 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-SiscomEventi DnnModule-10273"><a name="10273"></a>
+ 
+<div class="contenitoreModuliHome">
+			<div class="titolocontainerModuliHome">
+				
+					
+					
+					<h2>
+					<span id="dnn_ctr10273_dnnTITLEModuli_titleLabel" class="titoloModuliHome">Manifestazioni ed eventi</span>
+
+
+
+				</h2>
+			</div>
+            <div class="contenitoreImgModuliHome"></div>
+			<div class="contenutocontainerMenuModuliHome">
+				<div id="dnn_ctr10273_ContentPane" class="DNNAlignleft"><!-- Start_Module_10273 --><div id="dnn_ctr10273_ModuleContent" class="DNNModuleContent ModSiscomEventiC">
+	<div id="dnn_ctr10273_SiscomEventi_Panel1" style="width:100%;">
+		<div class="SiscomBordoAlto">
+
+		</div><div>
+			<div class="SiscomDescrizione2">
+				<span class="SiscomTitolo2">11/07/2017</span><span><br /></span><a class="SiscomTitolo SiscomTitoloEventi" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=52615">Festa Patronale S.Giovanni, 24 giugno 2017<br /></a><p>Album fotografico "Festa Patronale S.Giovanni, 24 giugno 2017"</p><br />
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div class="SiscomBordoAlto">
+
+		</div><div>
+			<div class="SiscomDescrizione2">
+				<span class="SiscomTitolo2">17/02/2017</span><span><br /></span><a class="SiscomTitolo SiscomTitoloEventi" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=46857">Processione San Martino - 14 novembre 2016<br /></a><p>Album fotografico "Processione San Martino - 14 novembre 2016"</p><br />
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div class="SiscomBordoAlto">
+
+		</div><div>
+			<div class="SiscomDescrizione2">
+				<span class="SiscomTitolo2">17/02/2017</span><span><br /></span><a class="SiscomTitolo SiscomTitoloEventi" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=46856">Gemellaggio con Nereto e Fiaccolata per Pertini - settembre 2016<br /></a><p>Album fotografico "Gemellaggio con Nereto e Fiaccolata per Pertini - settembre 2016"</p><br />
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div><div class="SiscomBordoAlto">
+
+		</div><div>
+			<div class="SiscomDescrizione2">
+				<span class="SiscomTitolo2">17/02/2017</span><span><br /></span><a class="SiscomTitolo SiscomTitoloEventi" href="http://www.comunestella.it/Home/DettaglioNews?IDNews=46847">Falò di San Giovanni 2016<br /></a><p>Album Fotografico "Fal&ograve; di San Giovanni 2016"</p><br />
+			</div>
+		</div><div class="SiscomBordoBasso SiscomFloatLeftNone">
+
+		</div>
+	</div>
+<div id="dnn_ctr10273_SiscomEventi_Panel2" class="SiscomCenter" style="width:100%;">
+		
+        
+                    &nbsp;
+                    
+                    
+                    
+                    
+                    
+                    &nbsp;
+                    
+	</div>
+        <br />
+<input type="hidden" name="dnn$ctr10273$SiscomEventi$NumNews" id="dnn_ctr10273_SiscomEventi_NumNews" value="4" />
+<input type="hidden" name="dnn$ctr10273$SiscomEventi$NumPagine" id="dnn_ctr10273_SiscomEventi_NumPagine" value="1" />
+<input type="hidden" name="dnn$ctr10273$SiscomEventi$NumPagPos" id="dnn_ctr10273_SiscomEventi_NumPagPos" value="1" />
+<input type="hidden" name="dnn$ctr10273$SiscomEventi$PortaleCMS" id="dnn_ctr10273_SiscomEventi_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10273 --></div>
+			</div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10274"><a name="10274"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10274_ContentPane" class="DNNAlignleft"><!-- Start_Module_10274 --><div id="dnn_ctr10274_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10274_HtmlModule_lblContent" class="Normal">
+		<p class="aligncenter">SITO&#160;IN FASE DI ALLESTIMENTO</p>
+<p>&#160;</p>
+	</div>
+
+<input type="hidden" name="dnn$ctr10274$HtmlModule$PortaleCMS" id="dnn_ctr10274_HtmlModule_PortaleCMS" />
+
+</div><!-- End_Module_10274 --></div>
+			</div>
+			
+
+</div></div></div>
+		
+        
+        
+		
+		
+		<div class="clear"></div>
+        <div id="dnn_contentpanebottom"> <div class="DnnModule DnnModule-SiscomContatoreAggiorna DnnModule-10280"><a name="10280"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10280_ContentPane"><!-- Start_Module_10280 --><div id="dnn_ctr10280_ModuleContent" class="DNNModuleContent ModSiscomContatoreAggiornaC">
+	
+<!---->
+<input type="hidden" name="dnn$ctr10280$SiscomContatoreAggiorna$PortaleCMS" id="dnn_ctr10280_SiscomContatoreAggiorna_PortaleCMS" />
+
+</div><!-- End_Module_10280 --></div>
+			</div>
+			
+
+</div></div></div>
+      </div>
+    </div>
+    <!-- Sotto: fine corpo-->
+  </div>
+  <div id="pie-di-pagina">
+    <div id="dnn_piepagina">
+    <h2 class="SiscomHiddenH1">Riferimenti del comune e Menu rapido</h2>
+      <!--Sotto: fine piepagina-->
+    <div class="DnnModule DnnModule-SiscomPiePaginaDinamico DnnModule-10282"><a name="10282"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10282_ContentPane"><!-- Start_Module_10282 --><div id="dnn_ctr10282_ModuleContent" class="DNNModuleContent ModSiscomPiePaginaDinamicoC">
+	
+<div class="SiscomCenter">
+    <br />
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label1" class="Linkpie">Comune di Stella, Località Rovieto Superiore, 3</span><br />
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label2" class="Linkpie">17044 Stella (SV) - Telefono: 019 703409 - 703002 Fax: 019 703300</span><br />
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label9" class="Linkpie">C.F. 00277280095 - P.Iva: 00277280095</span><br />
+                    
+
+                <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label12" class="Linkpie">E-mail:</span>
+                <a id="dnn_ctr10282_SiscomPiePaginaDinamico_LBEmail" title="Invia mail alla casella di posta elettronica istituzionale dell&#39;Ente" class="Linkpiemail" href="javascript:__doPostBack(&#39;dnn$ctr10282$SiscomPiePaginaDinamico$LBEmail&#39;,&#39;&#39;)">&#105;&#110;&#102;&#111;&#64;&#99;&#111;&#109;&#117;&#110;&#101;&#46;&#115;&#116;&#101;&#108;&#108;&#97;&#46;&#115;&#118;&#46;&#105;&#116;</a>&nbsp;
+                &nbsp;<span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label11" class="Linkpie">E-mail certificata:  </span>
+                <a id="dnn_ctr10282_SiscomPiePaginaDinamico_LBEmailPec" title="Invia una mail alla casella di posta elettronica certificata dell&#39;Ente utilizzando preferibilmente solo caselle di posta certificata" class="Linkpiemail" href="javascript:__doPostBack(&#39;dnn$ctr10282$SiscomPiePaginaDinamico$LBEmailPec&#39;,&#39;&#39;)">&#105;&#110;&#102;&#111;&#64;&#99;&#111;&#109;&#117;&#110;&#101;&#115;&#116;&#101;&#108;&#108;&#97;&#46;&#108;&#101;&#103;&#97;&#108;&#109;&#97;&#105;&#108;&#46;&#105;&#116;</a>
+                <br />
+                
+                
+                &nbsp;&nbsp;
+                
+                
+                <br />
+                
+    <div id="dnn_ctr10282_SiscomPiePaginaDinamico_PanelACapo">
+		
+    <br />   <br /> 
+	</div>
+    <div id="dnn_ctr10282_SiscomPiePaginaDinamico_PanelLinkPiePagina" class="PanelLinkPiePagina">
+		
+   
+            
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label3" class="LinkpieVoci">|</span>
+                    <a id="dnn_ctr10282_SiscomPiePaginaDinamico_HyperLink2" title="Link alla pagina Privacy" class="LinkpieVoci" href="http://www.comunestella.it/Home/Pagine-del-Comune?ID=2511">Privacy</a>
+                    
+                    
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label4" class="LinkpieVoci">|</span>
+                    <a id="dnn_ctr10282_SiscomPiePaginaDinamico_HyperLink3" title="Link alla pagina Note legali" class="LinkpieVoci" href="http://www.comunestella.it/Home/Pagine-del-Comune?ID=2512">Note legali</a>
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label5" class="LinkpieVoci">|</span>
+                    <a id="dnn_ctr10282_SiscomPiePaginaDinamico_HyperLink4" title="Link alla pagina Dati Monitoraggio" class="LinkpieVoci" href="http://www.comunestella.it/Home/Dati-monitoraggio">Dati monitoraggio</a>
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label6" class="LinkpieVoci">|</span>
+                    
+                    
+                    <a id="dnn_ctr10282_SiscomPiePaginaDinamico_HyperLink5" title="Link alla pagina dei Come Fare per" class="LinkpieVoci" href="http://www.comunestella.it/Home/Come-fare-per">Come fare per</a>
+                    <span id="dnn_ctr10282_SiscomPiePaginaDinamico_Label7" class="LinkpieVoci">|</span>
+                    
+                    
+                 
+                  
+                 
+	</div>
+                 
+        
+        </div>
+<input type="hidden" name="dnn$ctr10282$SiscomPiePaginaDinamico$PortaleCMS" id="dnn_ctr10282_SiscomPiePaginaDinamico_PortaleCMS" value="1044" />
+
+</div><!-- End_Module_10282 --></div>
+			</div>
+			
+
+</div></div><div class="DnnModule DnnModule-SiscomAccessiWeb DnnModule-10283"><a name="10283"></a>
+
+<div class="contenitoreNoBorderNoTitolo">
+  
+			<div class="titolocontainer">
+				<span>
+					
+					
+				</span>
+			</div>
+			
+			<div class="contenutocontainer">
+				<div id="dnn_ctr10283_ContentPane"><!-- Start_Module_10283 --><div id="dnn_ctr10283_ModuleContent" class="DNNModuleContent ModSiscomAccessiWebC">
+	
+<input type="hidden" name="dnn$ctr10283$SiscomAccessiWeb$PortaleCMS" id="dnn_ctr10283_SiscomAccessiWeb_PortaleCMS" />
+
+</div><!-- End_Module_10283 --></div>
+			</div>
+			
+
+</div></div></div>
+    
+   
+  </div>
+ </div>   
+  </div>  
+
+ 
+
+
+
+<p>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`4246`}" />
+</p>
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script><script type='text/javascript'>new Sys.WebForms.Menu({ element: 'dnn_ctr10277_SiscomMenuDinamicoAccessibile_menusiscom', disappearAfter: 1000, orientation: 'vertical', tabIndex: 0, disabled: false });</script></form>
+
+    
+    
+</body>
+</html>

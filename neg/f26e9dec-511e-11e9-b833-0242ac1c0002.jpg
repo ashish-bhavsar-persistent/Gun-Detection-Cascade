@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" prefix="og: http://ogp.me/ns#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=1200" />  
+<meta property="og:image" content="http://pupia.tv/wp-content/uploads/2015/01/logo220.jpg"/>         
+<meta name="thumbnail" content="http://pupia.tv/wp-content/uploads/2015/01/logo220.jpg"/>          
+<title>Home - Pupia.tv - la tua informazione</title>
+<!--[if IE]><link rel="stylesheet" type="text/css" href='//www.pupia.tv/wp-content/cache/wpfc-minified/8lio7avi/5x18x.css' /><![endif]-->
+<link rel="shortcut icon" href="http://pupia.tv/wp-content/uploads/2014/12/favicon.png" />        
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.pupia.tv/feed" /> 
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.pupia.tv/feed/rss" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.pupia.tv/feed/atom" />
+<link rel="pingback" href="http://www.pupia.tv/xmlrpc.php" />
+<!-- This site is optimized with the Yoast SEO plugin v9.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Pupia è un sito di informazione che fornisce notizie di cronaca, sport e curiosità, offrendo quando possibile supporto video podcast alle notizie."/>
+<link rel="canonical" href="http://www.pupia.tv/" />
+<link rel="next" href="http://www.pupia.tv/page/2" />
+<link rel="publisher" href="https://plus.google.com/107904367718247689014/posts"/>
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Pupia.tv - la tua informazione" />
+<meta property="og:description" content="Pupia è un sito di informazione che fornisce notizie di cronaca, sport e curiosità, offrendo quando possibile supporto video podcast alle notizie." />
+<meta property="og:url" content="http://www.pupia.tv/" />
+<meta property="og:site_name" content="Pupia.tv" />
+<meta property="og:image" content="http://pupia.tv/wp-content/uploads/2015/01/logo220.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Pupia è un sito di informazione che fornisce notizie di cronaca, sport e curiosità, offrendo quando possibile supporto video podcast alle notizie." />
+<meta name="twitter:title" content="Home - Pupia.tv - la tua informazione" />
+<meta name="twitter:site" content="@pupiatv" />
+<meta name="twitter:image" content="http://pupia.tv/wp-content/uploads/2015/01/logo220.jpg" />
+<meta name="msvalidate.01" content="2C794075FD78CB9B5F2CC4E95B8D23C9" />
+<meta name="google-site-verification" content="UA-4315240-2" />
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//maps.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Pupia.tv &raquo; Feed" href="http://www.pupia.tv/feed" />
+<link rel="alternate" type="application/rss+xml" title="Pupia.tv &raquo; Feed dei commenti" href="http://www.pupia.tv/comments/feed" />
+<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script data-wpfc-render="false">
+advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+</script><link rel='stylesheet' id='wp-block-library-css'  href='//www.pupia.tv/wp-content/cache/wpfc-minified/mn17cnh8/5x18x.css' type='text/css' media='all' />
+<style>#cookie-notice{display:block;visibility:hidden;position:fixed;min-width:100%;height:auto;z-index:100000;font-size:13px;line-height:20px;left:0;text-align:center}.cn-top{top:0}.cn-bottom{bottom:0}.cookie-notice-container{padding:10px;text-align:center;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.cookie-notice-revoke-container{position:absolute;bottom:0;width:100%;z-index:1;visibility:hidden;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.cn-top .cookie-notice-revoke-container{top:0;bottom:auto}#cookie-notice .cn-revoke-cookie{margin:0}.cn-button.wp-default,.cn-button.wp-default:hover,.cn-button.bootstrap,.cn-button.bootstrap:hover{box-shadow:none;text-decoration:none}#cookie-notice .cn-button{margin-left:10px}.cn-button.wp-default{font-family:sans-serif;line-height:18px;padding:2px 12px;background:linear-gradient(to bottom,#FEFEFE,#F4F4F4) repeat scroll 0 0 #F3F3F3;border-color:#BBB;color:#333;text-shadow:0 1px 0 #FFF;-moz-box-sizing:border-box;border-radius:3px 3px 3px 3px;border-style:solid;border-width:1px;cursor:pointer;display:inline-block;font-size:12px;font-style:normal;text-decoration:none;white-space:nowrap;outline:none}.cn-button.wp-default:hover{background:linear-gradient(to bottom,#FFFFFF,#F3F3F3) repeat scroll 0 0 #F3F3F3;border-color:#999;color:#222}.cn-button.bootstrap{font-family:sans-serif;display:inline-block;*display:inline;padding:4px 12px;margin-right:.3em;margin-bottom:0;*margin-left:.3em;line-height:20px;color:#333;text-align:center;text-shadow:0 1px 1px rgba(255,255,255,.75);font-style:normal;vertical-align:middle;cursor:pointer;color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,.25);background-color:#006dcc;*background-color:#04c;background-image:-moz-linear-gradient(top,#0088cc,#0044cc);background-image:-webkit-gradient(linear,0 0,0 100%,from(#0088cc),to(#0044cc));background-image:-webkit-linear-gradient(top,#0088cc,#0044cc);background-image:-o-linear-gradient(top,#0088cc,#0044cc);background-image:linear-gradient(to bottom,#0088cc,#0044cc);background-repeat:repeat-x;border-style:solid;border-width:1px;border-color:#04c #04c #002a80;border-color:rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);box-shadow:0 1px 0 rgba(255,255,255,.2) inset,0 1px 2px rgba(0,0,0,.05);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc',endColorstr='#ff0044cc',GradientType=0);filter:progid:DXImageTransform.Microsoft.gradient(enabled=false);padding:2px 10px;font-size:12px;text-decoration:none;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;outline:none}.cn-button.bootstrap:hover{color:#fff;background-color:#04c;*background-color:#003bb3;background-position:0 -15px;-webkit-transition:background-position 0.1s linear;-moz-transition:background-position 0.1s linear;-o-transition:background-position 0.1s linear;transition:background-position 0.1s linear}@media all and (max-width:900px){.cookie-notice-container #cn-notice-text{display:block;margin-bottom:5px}#cookie-notice .cn-button{margin-left:5px;margin-right:5px}}</style>
+<link rel='stylesheet' id='ctf_styles-css'  href='//www.pupia.tv/wp-content/cache/wpfc-minified/7uilinrn/5x18x.css' type='text/css' media='all' />
+<style>.ytc-mfp-bg,.ytc-mfp-wrap{position:fixed;left:0;top:0}.ytc-mfp-bg,.ytc-mfp-container,.ytc-mfp-wrap{height:100%;width:100%}.ytc-mfp-bg{z-index:10042;overflow:hidden;background:#0b0b0b;opacity:.8;filter:alpha(opacity=80)}.ytc-mfp-wrap{z-index:10043;outline:0!important;-webkit-backface-visibility:hidden}.ytc-mfp-container{text-align:center;position:absolute;left:0;top:0;padding:0 8px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.ytc-mfp-container:before{content:'';display:inline-block;height:100%;vertical-align:middle}.ytc-mfp-align-top .ytc-mfp-container:before{display:none}.ytc-mfp-content{position:relative;display:inline-block;vertical-align:middle;margin:0 auto;text-align:left;z-index:10045}.ytc-mfp-close,.ytc-mfp-preloader{text-align:center;position:absolute}.ytc-mfp-ajax-holder .ytc-mfp-content,.ytc-mfp-inline-holder .ytc-mfp-content{width:100%;cursor:auto}.ytc-mfp-arrow,.ytc-mfp-close,.ytc-mfp-counter,.ytc-mfp-preloader{-webkit-user-select:none;-moz-user-select:none;user-select:none}.ytc-mfp-hide{display:none!important}.ytc-mfp-preloader{color:#ccc;top:50%;width:auto;margin-top:-.8em;left:8px;right:8px;z-index:10044}.ytc-mfp-preloader a{color:#ccc}.ytc-mfp-preloader a:hover{color:#fff}.ytc-mfp-s-error .ytc-mfp-content,.ytc-mfp-s-ready .ytc-mfp-preloader{display:none}button.ytc-mfp-arrow,button.ytc-mfp-close{overflow:visible;cursor:pointer;background:0 0;border:0;-webkit-appearance:none;display:block;outline:0;padding:0;z-index:10046;-webkit-box-shadow:none;box-shadow:none}button::-moz-focus-inner{padding:0;border:0}.ytc-mfp-close{width:44px;height:44px;line-height:44px;right:0;top:0;text-decoration:none;opacity:.65;filter:alpha(opacity=65);padding:0 0 18px 10px;color:#fff;font-style:normal;font-size:28px;font-family:Arial,Baskerville,monospace}.ytc-mfp-close:focus,.ytc-mfp-close:hover{opacity:1;filter:alpha(opacity=100);background:0 0}.ytc-mfp-close:active{top:1px}.ytc-mfp-close-btn-in .ytc-mfp-close{color:#333}.ytc-mfp-iframe-holder .ytc-mfp-close,.ytc-mfp-image-holder .ytc-mfp-close{color:#fff;right:-6px;text-align:right;padding-right:6px;width:100%}.ytc-mfp-iframe-holder{padding-top:40px;padding-bottom:40px}.ytc-mfp-iframe-holder .ytc-mfp-content{line-height:0;width:100%;max-width:900px}.ytc-mfp-iframe-holder .ytc-mfp-close{top:-40px}.ytc-mfp-iframe-scaler{width:100%;height:0;overflow:hidden;padding-top:56.25%}.ytc-mfp-iframe-scaler iframe{position:absolute;display:block;top:0;left:0;width:100%;height:100%;box-shadow:0 0 8px rgba(0,0,0,.6);background:#000}@media all and (max-width:900px){.ytc-mfp-container{padding-left:6px;padding-right:6px}}.ytc-mfp-ie7 .ytc-mfp-container{padding:0}.ytc-mfp-ie7 .ytc-mfp-content{padding-top:44px}.ytc-mfp-ie7 .ytc-mfp-close{top:0;right:0;padding-top:0}</style>
+<link rel='stylesheet' id='mm-style-css'  href='//www.pupia.tv/wp-content/cache/wpfc-minified/qx2c55j9/5x18x.css' type='text/css' media='all' />
+<style>html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+vertical-align: baseline;
+} article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+display: block;
+}
+body {
+line-height: 1;
+}
+ol, ul {
+list-style: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}</style>
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C700%7COpen+Sans%3A400%2C700&#038;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css'  href='//www.pupia.tv/wp-content/cache/wpfc-minified/2rerr5pc/5x18x.css' type='text/css' media='all' />
+<style>.bar_mix {
+background: #fff;
+} .ubermenu-skin-clean-white {
+font-size: 12px;
+color: #888;
+}
+.ubermenu-skin-clean-white .ubermenu-target {
+color: #999;
+}
+.ubermenu-skin-clean-white .ubermenu-target-description {
+color: #aaa;
+}
+.ubermenu-skin-clean-white.ubermenu-responsive-toggle {
+background: #fff;
+color: #888;
+font-size: 12px;
+text-transform: none;
+font-weight: bold;
+}
+.ubermenu-skin-clean-white.ubermenu-responsive-toggle:hover {
+background: #f0f0f0;
+color: #444;
+}
+.ubermenu-skin-clean-white {
+border: none;
+background: #fff;
+}
+.ubermenu-skin-clean-white .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target,
+.ubermenu-skin-clean-white .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target,
+.ubermenu-skin-clean-white .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target {
+color: #A00;
+background: transparent;
+}
+.ubermenu-skin-clean-white .ubermenu-item.ubermenu-item-level-0 > .ubermenu-highlight {
+color: #4d90fe;
+background: transparent;
+}
+.ubermenu-skin-clean-white.ubermenu-vertical .ubermenu-item-level-0 > .ubermenu-target {
+background: #fff;
+}
+.ubermenu-skin-clean-white .ubermenu-item-level-0 > .ubermenu-target {
+font-weight: bold;
+color: #666;
+text-transform: none;
+border-left: none;
+}
+body:not(.rtl) .ubermenu-skin-clean-white.ubermenu-horizontal .ubermenu-item-level-0:first-child > .ubermenu-target {
+box-shadow: none;
+}
+.ubermenu-skin-clean-white .ubermenu-item-level-0:hover > .ubermenu-target,
+.ubermenu-skin-clean-white .ubermenu-item-level-0.ubermenu-active > .ubermenu-target {
+background: #f9f9f9;
+color: #111;
+}
+.ubermenu-skin-clean-white .ubermenu-item-level-0 > .ubermenu-submenu-type-stack > .ubermenu-item > .ubermenu-target {
+color: #666;
+}
+.ubermenu-skin-clean-white .ubermenu-item-level-0 > .ubermenu-submenu-type-stack > .ubermenu-item > .ubermenu-target:hover {
+color: #111;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu.ubermenu-submenu-drop {
+background: #f9f9f9;
+border: 1px solid #f9f9f9;
+}
+.ubermenu-skin-clean-white.ubermenu-horizontal .ubermenu-item-level-0 > .ubermenu-submenu-drop {
+border-top: 1px solid #f9f9f9;
+}
+.ubermenu-skin-clean-white .ubermenu-tab-content-panel {
+background: #f9f9f9;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu,
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-target {
+color: #999;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-highlight {
+color: #4d90fe;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-target:hover,
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-active > .ubermenu-target {
+color: #111;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-target > .ubermenu-target-description {
+color: #aaa;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-active > .ubermenu-target > .ubermenu-target-description {
+color: #666;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-item-header > .ubermenu-target {
+font-weight: bold;
+color: #444;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-item-header.ubermenu-has-submenu-stack > .ubermenu-target {
+border-bottom: 1px solid #e9e9e9;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover {
+color: #222;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-current-menu-item > .ubermenu-target {
+color: #A00;
+background: transparent;
+}
+.ubermenu-nojs.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-tabs .ubermenu-tab:hover > .ubermenu-target,
+.ubermenu-skin-clean-white .ubermenu-submenu .ubermenu-tab.ubermenu-active > .ubermenu-target {
+background: #eee;
+color: #111;
+}
+.ubermenu-skin-clean-white .ubermenu-tabs-group,
+.ubermenu-skin-clean-white .ubermenu-tab > .ubermenu-target,
+.ubermenu-skin-clean-white .ubermenu-tab-content-panel {
+border-color: #eee;
+}
+.ubermenu-skin-clean-white .ubermenu-submenu-drop {
+border-bottom-width: 3px;
+}
+.ubermenu-skin-clean-white.ubermenu-transition-fade .ubermenu-item .ubermenu-submenu-drop {
+margin-top: 0;
+}</style>
+<link rel='stylesheet' id='ubermenu-font-awesome-all-css'  href='//www.pupia.tv/wp-content/cache/wpfc-minified/2f5if8jx/5x18x.css' type='text/css' media='all' />
+<link rel='stylesheet' id='essb_cache_static-20278817bead9a3e786b89195b5b20b7-css'  href='//www.pupia.tv/wp-content/cache/wpfc-minified/4up6i7m/5x18z.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.pupia.tv/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pupia.tv/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pupia.tv/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async custom-element="amp-auto-ads"
+src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+<style id="ubermenu-custom-generated-css">
+/** Font Awesome 4 Compatibility **/
+.fa{font-style:normal;font-variant:normal;font-weight:normal;font-family:FontAwesome;}
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+.ubermenu-main.ubermenu-transition-slide .ubermenu-active > .ubermenu-submenu.ubermenu-submenu-type-mega,.ubermenu-main:not(.ubermenu-transition-slide) .ubermenu-submenu.ubermenu-submenu-type-mega,.ubermenu .ubermenu-force > .ubermenu-submenu { max-height:600px; }
+.ubermenu.ubermenu-main { background:none; border:none; box-shadow:none; }
+.ubermenu.ubermenu-main .ubermenu-item-level-0 > .ubermenu-target { border:none; box-shadow:none; }
+.ubermenu.ubermenu-main.ubermenu-horizontal .ubermenu-submenu-drop.ubermenu-submenu-align-left_edge_bar, .ubermenu.ubermenu-main.ubermenu-horizontal .ubermenu-submenu-drop.ubermenu-submenu-align-full_width { left:0; }
+.ubermenu.ubermenu-main.ubermenu-horizontal .ubermenu-item-level-0.ubermenu-active > .ubermenu-submenu-drop, .ubermenu.ubermenu-main.ubermenu-horizontal:not(.ubermenu-transition-shift) .ubermenu-item-level-0 > .ubermenu-submenu-drop { margin-top:0; }
+/* top */
+.ubermenu.ubermenu-top { background:none; border:none; box-shadow:none; }
+.ubermenu.ubermenu-top .ubermenu-item-level-0 > .ubermenu-target { border:none; box-shadow:none; }
+.ubermenu.ubermenu-top.ubermenu-horizontal .ubermenu-submenu-drop.ubermenu-submenu-align-left_edge_bar, .ubermenu.ubermenu-top.ubermenu-horizontal .ubermenu-submenu-drop.ubermenu-submenu-align-full_width { left:0; }
+.ubermenu.ubermenu-top.ubermenu-horizontal .ubermenu-item-level-0.ubermenu-active > .ubermenu-submenu-drop, .ubermenu.ubermenu-top.ubermenu-horizontal:not(.ubermenu-transition-shift) .ubermenu-item-level-0 > .ubermenu-submenu-drop { margin-top:0; }
+.ubermenu-top .ubermenu-nav .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target { font-weight:bold; }
+.ubermenu.ubermenu-top .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-top .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#66cc33; background-color:#ffffff; background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#fbfbfb)); background:-webkit-linear-gradient(top,#ffffff,#fbfbfb); background:-moz-linear-gradient(top,#ffffff,#fbfbfb); background:-ms-linear-gradient(top,#ffffff,#fbfbfb); background:-o-linear-gradient(top,#ffffff,#fbfbfb); background:linear-gradient(top,#ffffff,#fbfbfb); }
+.ubermenu-top .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-top .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-top .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { color:#66cc33; background-color:#fbfbfb; background:-webkit-gradient(linear,left top,left bottom,from(#fbfbfb),to(#fbfbfb)); background:-webkit-linear-gradient(top,#fbfbfb,#fbfbfb); background:-moz-linear-gradient(top,#fbfbfb,#fbfbfb); background:-ms-linear-gradient(top,#fbfbfb,#fbfbfb); background:-o-linear-gradient(top,#fbfbfb,#fbfbfb); background:linear-gradient(top,#fbfbfb,#fbfbfb); }
+.ubermenu-top .ubermenu-item-level-0 > .ubermenu-target, .ubermenu-top .ubermenu-item-level-0 > .ubermenu-custom-content.ubermenu-custom-content-padded { padding-top:12px; padding-bottom:12px; }
+.ubermenu-top .ubermenu-item-level-0 > .ubermenu-target { padding-left:18px; padding-right:18px; }
+.ubermenu-top.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-has-submenu-drop > .ubermenu-target:not(.ubermenu-noindicator) { padding-right:33px; }
+.ubermenu-top.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-has-submenu-drop > .ubermenu-target.ubermenu-noindicator { padding-right:18px; }
+.ubermenu-top .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover { color:#66cc33; }
+.ubermenu-top .ubermenu-submenu .ubermenu-item-header.ubermenu-current-menu-item > .ubermenu-target { color:#66cc33; }
+.ubermenu-top .ubermenu-nav .ubermenu-submenu .ubermenu-item-header > .ubermenu-target { font-weight:bold; }
+.ubermenu.ubermenu-top .ubermenu-item-normal > .ubermenu-target:hover, .ubermenu.ubermenu-top .ubermenu-item-normal.ubermenu-active > .ubermenu-target { color:#66cc33; }
+.ubermenu-top .ubermenu-item-normal.ubermenu-current-menu-item > .ubermenu-target { color:#66cc33; }
+.ubermenu-top, .ubermenu-top .ubermenu-target, .ubermenu-top .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target { font:font: 700 12px/9px "Open Sans",sans-serif;text-transform: uppercase;; }
+/* page */
+.ubermenu-page.ubermenu-transition-fade .ubermenu-item .ubermenu-submenu-drop { margin-top:0; }
+/* mobile */
+.ubermenu-mobile { max-width:400px; }
+.ubermenu-mobile .ubermenu-item-level-0 > .ubermenu-target { font-size:13px; text-transform:uppercase; }
+.ubermenu-mobile .ubermenu-nav .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target { font-weight:bold; }
+.ubermenu.ubermenu-mobile .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-mobile .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#666666; background-color:#ffffff; background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#fbfbfb)); background:-webkit-linear-gradient(top,#ffffff,#fbfbfb); background:-moz-linear-gradient(top,#ffffff,#fbfbfb); background:-ms-linear-gradient(top,#ffffff,#fbfbfb); background:-o-linear-gradient(top,#ffffff,#fbfbfb); background:linear-gradient(top,#ffffff,#fbfbfb); }
+.ubermenu-mobile .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-mobile .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-mobile .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { color:#66cc33; background-color:#fbfbfb; background:-webkit-gradient(linear,left top,left bottom,from(#fbfbfb),to(#fbfbfb)); background:-webkit-linear-gradient(top,#fbfbfb,#fbfbfb); background:-moz-linear-gradient(top,#fbfbfb,#fbfbfb); background:-ms-linear-gradient(top,#fbfbfb,#fbfbfb); background:-o-linear-gradient(top,#fbfbfb,#fbfbfb); background:linear-gradient(top,#fbfbfb,#fbfbfb); }
+.ubermenu-mobile .ubermenu-item-normal > .ubermenu-target,.ubermenu-mobile .ubermenu-submenu .ubermenu-target,.ubermenu-mobile .ubermenu-submenu .ubermenu-nonlink,.ubermenu-mobile .ubermenu-submenu .ubermenu-widget,.ubermenu-mobile .ubermenu-submenu .ubermenu-custom-content-padded,.ubermenu-mobile .ubermenu-submenu .ubermenu-retractor,.ubermenu-mobile .ubermenu-submenu .ubermenu-colgroup .ubermenu-column,.ubermenu-mobile .ubermenu-submenu.ubermenu-submenu-type-stack > .ubermenu-item-normal > .ubermenu-target,.ubermenu-mobile .ubermenu-submenu.ubermenu-submenu-padded { padding:5px; }
+.ubermenu .ubermenu-grid-row { padding-right:5px; }
+.ubermenu .ubermenu-grid-row .ubermenu-target { padding-right:0; }
+.ubermenu-mobile .ubermenu-submenu .ubermenu-item-header > .ubermenu-target, .ubermenu-mobile .ubermenu-tab > .ubermenu-target { font-size:13px; }
+.ubermenu-mobile .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover { color:#666666; }
+.ubermenu-mobile .ubermenu-submenu .ubermenu-item-header.ubermenu-current-menu-item > .ubermenu-target { color:#66cc33; }
+.ubermenu-mobile .ubermenu-nav .ubermenu-submenu .ubermenu-item-header > .ubermenu-target { font-weight:bold; }
+.ubermenu.ubermenu-mobile .ubermenu-item-normal > .ubermenu-target:hover, .ubermenu.ubermenu-mobile .ubermenu-item-normal.ubermenu-active > .ubermenu-target { color:#66cc33; }
+.ubermenu-mobile .ubermenu-item-normal.ubermenu-current-menu-item > .ubermenu-target { color:#66cc33; }
+.ubermenu-mobile .ubermenu-item-normal > .ubermenu-target { font-size:13px; }
+.ubermenu-mobile .ubermenu-target > .ubermenu-target-description { text-transform:uppercase; }
+/** UberMenu Custom Menu Item Styles (Menu Item Settings) **/
+/* 289645 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-289645 { min-width:350px; }
+.ubermenu .ubermenu-item.ubermenu-item-289645 > .ubermenu-target { background:#ffffff; }
+/* 114014 */ .ubermenu .ubermenu-submenu.ubermenu-submenu-id-114014 { width:1100px; min-width:1100px; background-image:url(//www.pupia.tv/wp-content/uploads/2015/03/scanlines-light2.png); background-repeat:repeat; background-position:bottom right; background-size:auto; }
+/* Status: Loaded from Transient */
+</style>
+<style type='text/css'>
+a, a:visited, #twtr-widget-1 .twtr-tweet a { color: #ff6633; }
+h3.category-heading, .toggle { background: #66cc33; }
+.home-widget h3, .home-widget h3 a, .middle-widget h3, .middle-widget h3 a, .sidebar-widget h3, .sidebar-widget h3 a, .bottom-widget h3, .bottom-widget h3 a, .widget-container h3, .widget-container h3 a, .multi-category h3,  ul.tabber li.active h4 a, #related-posts h3, h3#reply-title, h2.comments { color: #66cc33; }
+#main-nav ul li:hover, #main-nav .current-menu-item, #main-nav .current-post-parent, #main-nav .current_page_item, .current-cat { background: #66cc33 url(http://www.pupia.tv/wp-content/themes/pupia/images/nav-bg.png) top repeat-x; }
+#main-nav ul li:hover ul { border-top: 5px solid #66cc33; }
+#main-nav-wrapper { background: #555555 url(http://www.pupia.tv/wp-content/themes/pupia/images/nav-bg.png) top repeat-x; border-bottom: 5px solid #66cc33; }
+#nav-mobi select { background: #555555  url(http://www.pupia.tv/wp-content/themes/pupia/images/triangle-dark.png) no-repeat right; }
+ul.tabber li { background: #66cc33; }
+#wallpaper { background: url() no-repeat 50% 0; }
+</style><style type="text/css">.vex {z-index: 10111!important;} .vex.vex-theme-os .vex-content {border-top: 20px solid #66cc33;} .essb_links.essb_template_clear-retina {margin: 4px 0;}</style>
+<style type="text/css">
+</style>
+</head>
+<body class="home blog cookies-not-set">
+<div id="site">
+<div id="top-wrapper">
+<div id="top-nav-wrapper">
+<div id="top-nav">
+<div id="top-nav_inner">
+<div id="top-menu">
+<!-- UberMenu [Configuration:top] [Theme Loc:secondary-menu] [Integration:api] -->
+<!-- [UberMenu Responsive Toggle Disabled] [UberMenu Responsive Menu Disabled] --> <nav id="ubermenu-top-190-secondary-menu" class="ubermenu ubermenu-nojs ubermenu-top ubermenu-menu-190 ubermenu-loc-secondary-menu ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-slide ubermenu-trigger-hover_intent ubermenu-skin-clean-white  ubermenu-bar-align-full ubermenu-items-align-left ubermenu-bound ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-top-190-secondary-menu" class="ubermenu-nav"><li id="menu-item-114015" class="ubermenu-item ubermenu-item-type-taxonomy ubermenu-item-object-category ubermenu-item-114015 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/home" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Home</span></a></li><li id="menu-item-114016" class="ubermenu-item ubermenu-item-type-taxonomy ubermenu-item-object-category ubermenu-item-114016 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/esteri" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Esteri</span></a></li><li id="menu-item-114013" class="ubermenu-item ubermenu-item-type-taxonomy ubermenu-item-object-category ubermenu-item-114013 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/italia" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Italia</span></a></li><li id="menu-item-114014" class="ubermenu-item ubermenu-item-type-taxonomy ubermenu-item-object-category ubermenu-item-has-children ubermenu-item-114014 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/campania" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Campania</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-114014 ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width ubermenu-submenu-padded ubermenu-submenu-bkg-img ubermenu-submenu-grid"  ><li id="menu-item-288922" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-288922 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto" ><div class="ubermenu-content-block ubermenu-custom-content"><div class="menu-thread stroke_menu">
+<h2>  </h2> 
+</div></div></li><!-- begin Tabs: [Tabs] 288808 --><li id="menu-item-288808" class="ubermenu-item ubermenu-tabs ubermenu-item-288808 ubermenu-item-level-1 ubermenu-column ubermenu-column-full ubermenu-tab-layout-left ubermenu-tabs-show-default ubermenu-tabs-show-current"><ul  class="ubermenu-tabs-group ubermenu-column ubermenu-column-1-4 ubermenu-submenu ubermenu-submenu-id-288808 ubermenu-submenu-type-auto ubermenu-submenu-type-tabs-group"  ><!-- begin Dynamic Terms: [Dynamic Terms] 288810 count[5]  --><li id="menu-item-288810-term-400" class="ubermenu-tab ubermenu-has-submenu-drop ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-dynamic-term ubermenu-item-288810 ubermenu-item-288810-term-400 ubermenu-item-auto ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-tab-content-panel" data-ubermenu-trigger="mouseover" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/avellino-provincia"><span class="ubermenu-target-title ubermenu-target-text">Avellino Prov.</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-tab-content-panel ubermenu-column ubermenu-column-3-4 ubermenu-submenu ubermenu-submenu-id-288810-term-400 ubermenu-submenu-type-tab-content-panel"  ><!-- begin Dynamic Terms: [Dynamic Terms] 288811 count[1]  --><li id="menu-item-288811-term-457" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-457 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/avellino"><span class="ubermenu-target-title ubermenu-target-text">Avellino</span></a></li><!-- end Dynamic Terms: [Dynamic Terms] 288811 --></ul></li><li id="menu-item-288810-term-401" class="ubermenu-tab ubermenu-has-submenu-drop ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-dynamic-term ubermenu-item-288810 ubermenu-item-288810-term-401 ubermenu-item-auto ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-tab-content-panel" data-ubermenu-trigger="mouseover" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/benevento-provincia"><span class="ubermenu-target-title ubermenu-target-text">Benevento Prov.</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-tab-content-panel ubermenu-column ubermenu-column-3-4 ubermenu-submenu ubermenu-submenu-id-288810-term-401 ubermenu-submenu-type-tab-content-panel"  ><!-- begin Dynamic Terms: [Dynamic Terms] 288811 count[1]  --><li id="menu-item-288811-term-458" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-458 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/benevento"><span class="ubermenu-target-title ubermenu-target-text">Benevento</span></a></li><!-- end Dynamic Terms: [Dynamic Terms] 288811 --></ul></li><li id="menu-item-288810-term-216" class="ubermenu-tab ubermenu-has-submenu-drop ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-dynamic-term ubermenu-item-288810 ubermenu-item-288810-term-216 ubermenu-item-auto ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-tab-content-panel" data-ubermenu-trigger="mouseover" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/caserta-provincia"><span class="ubermenu-target-title ubermenu-target-text">Caserta Prov.</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-tab-content-panel ubermenu-column ubermenu-column-3-4 ubermenu-submenu ubermenu-submenu-id-288810-term-216 ubermenu-submenu-type-tab-content-panel"  ><!-- begin Dynamic Terms: [Dynamic Terms] 288811 count[33]  --><li id="menu-item-288811-term-218" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-218 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/aversa"><span class="ubermenu-target-title ubermenu-target-text">Aversa</span></a></li><li id="menu-item-288811-term-220" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-220 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/caiazzo"><span class="ubermenu-target-title ubermenu-target-text">Caiazzo</span></a></li><li id="menu-item-288811-term-222" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-222 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/capua"><span class="ubermenu-target-title ubermenu-target-text">Capua</span></a></li><li id="menu-item-288811-term-223" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-223 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/carinaro"><span class="ubermenu-target-title ubermenu-target-text">Carinaro</span></a></li><li id="menu-item-288811-term-224" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-224 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casagiove"><span class="ubermenu-target-title ubermenu-target-text">Casagiove</span></a></li><li id="menu-item-288811-term-232" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-232 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casal-di-principe"><span class="ubermenu-target-title ubermenu-target-text">Casal di Principe</span></a></li><li id="menu-item-288811-term-228" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-228 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casaluce"><span class="ubermenu-target-title ubermenu-target-text">Casaluce</span></a></li><li id="menu-item-288811-term-225" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-225 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/caserta"><span class="ubermenu-target-title ubermenu-target-text">Caserta</span></a></li><li id="menu-item-288811-term-226" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-226 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/castel-volturno"><span class="ubermenu-target-title ubermenu-target-text">Castel Volturno</span></a></li><li id="menu-item-288811-term-227" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-227 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/cesa"><span class="ubermenu-target-title ubermenu-target-text">Cesa</span></a></li><li id="menu-item-288811-term-233" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-233 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/frignano"><span class="ubermenu-target-title ubermenu-target-text">Frignano</span></a></li><li id="menu-item-288811-term-234" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-234 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/gricignano-di-aversa"><span class="ubermenu-target-title ubermenu-target-text">Gricignano</span></a></li><li id="menu-item-288811-term-236" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-236 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/lusciano"><span class="ubermenu-target-title ubermenu-target-text">Lusciano</span></a></li><li id="menu-item-288811-term-237" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-237 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/maddaloni"><span class="ubermenu-target-title ubermenu-target-text">Maddaloni</span></a></li><li id="menu-item-288811-term-238" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-238 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/marcianise"><span class="ubermenu-target-title ubermenu-target-text">Marcianise</span></a></li><li id="menu-item-288811-term-229" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-229 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/comuni-del-matese"><span class="ubermenu-target-title ubermenu-target-text">Matese</span></a></li><li id="menu-item-288811-term-239" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-239 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/mondragone"><span class="ubermenu-target-title ubermenu-target-text">Mondragone</span></a></li><li id="menu-item-288811-term-231" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-231 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/comuni-di-monte-santa-croce"><span class="ubermenu-target-title ubermenu-target-text">Monte Santa Croce</span></a></li><li id="menu-item-288811-term-230" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-230 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/comuni-di-montemaggiore"><span class="ubermenu-target-title ubermenu-target-text">Montemaggiore</span></a></li><li id="menu-item-288811-term-241" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-241 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/orta-di-atella"><span class="ubermenu-target-title ubermenu-target-text">Orta di Atella</span></a></li><li id="menu-item-288811-term-242" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-242 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/parete"><span class="ubermenu-target-title ubermenu-target-text">Parete</span></a></li><li id="menu-item-288811-term-244" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-244 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/san-felice-a-cancello"><span class="ubermenu-target-title ubermenu-target-text">San Felice a Cancello</span></a></li><li id="menu-item-288811-term-245" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-245 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/san-marcellino"><span class="ubermenu-target-title ubermenu-target-text">San Marcellino</span></a></li><li id="menu-item-288811-term-246" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-246 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/san-nicola-la-strada"><span class="ubermenu-target-title ubermenu-target-text">San Nicola la Strada</span></a></li><li id="menu-item-288811-term-217" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-217 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/santarpino"><span class="ubermenu-target-title ubermenu-target-text">Sant’Arpino</span></a></li><li id="menu-item-288811-term-243" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-243 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/santa-maria-capua-vetere"><span class="ubermenu-target-title ubermenu-target-text">Santa Maria C. V</span></a></li><li id="menu-item-288811-term-247" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-247 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/sessa-aurunca"><span class="ubermenu-target-title ubermenu-target-text">Sessa Aurunca</span></a></li><li id="menu-item-288811-term-249" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-249 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/sparanise"><span class="ubermenu-target-title ubermenu-target-text">Sparanise</span></a></li><li id="menu-item-288811-term-252" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-252 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/succivo"><span class="ubermenu-target-title ubermenu-target-text">Succivo</span></a></li><li id="menu-item-288811-term-253" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-253 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/teano"><span class="ubermenu-target-title ubermenu-target-text">Teano</span></a></li><li id="menu-item-288811-term-254" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-254 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/teverola"><span class="ubermenu-target-title ubermenu-target-text">Teverola</span></a></li><li id="menu-item-288811-term-255" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-255 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/trentola-ducenta"><span class="ubermenu-target-title ubermenu-target-text">Trentola Ducenta</span></a></li><li id="menu-item-288811-term-256" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-256 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/villa-literno"><span class="ubermenu-target-title ubermenu-target-text">Villa Literno</span></a></li><!-- end Dynamic Terms: [Dynamic Terms] 288811 --></ul></li><li id="menu-item-288810-term-324" class="ubermenu-tab ubermenu-has-submenu-drop ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-dynamic-term ubermenu-item-288810 ubermenu-item-288810-term-324 ubermenu-item-auto ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-tab-content-panel" data-ubermenu-trigger="mouseover" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/napoli-provincia"><span class="ubermenu-target-title ubermenu-target-text">Napoli Prov.</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-tab-content-panel ubermenu-column ubermenu-column-3-4 ubermenu-submenu ubermenu-submenu-id-288810-term-324 ubermenu-submenu-type-tab-content-panel"  ><!-- begin Dynamic Terms: [Dynamic Terms] 288811 count[51]  --><li id="menu-item-288811-term-341" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-341 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/acerra"><span class="ubermenu-target-title ubermenu-target-text">Acerra</span></a></li><li id="menu-item-288811-term-331" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-331 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/afragola"><span class="ubermenu-target-title ubermenu-target-text">Afragola</span></a></li><li id="menu-item-288811-term-349" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-349 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/arzano"><span class="ubermenu-target-title ubermenu-target-text">Arzano</span></a></li><li id="menu-item-288811-term-358" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-358 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/bacoli"><span class="ubermenu-target-title ubermenu-target-text">Bacoli</span></a></li><li id="menu-item-288811-term-330" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-330 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/caivano"><span class="ubermenu-target-title ubermenu-target-text">Caivano</span></a></li><li id="menu-item-288811-term-381" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-381 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/capri"><span class="ubermenu-target-title ubermenu-target-text">Capri</span></a></li><li id="menu-item-288811-term-362" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-362 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/cardito"><span class="ubermenu-target-title ubermenu-target-text">Cardito</span></a></li><li id="menu-item-288811-term-343" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-343 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casalnuovo"><span class="ubermenu-target-title ubermenu-target-text">Casalnuovo</span></a></li><li id="menu-item-288811-term-333" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-333 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casandrino"><span class="ubermenu-target-title ubermenu-target-text">Casandrino</span></a></li><li id="menu-item-288811-term-367" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-367 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casavatore"><span class="ubermenu-target-title ubermenu-target-text">Casavatore</span></a></li><li id="menu-item-288811-term-332" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-332 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/casoria"><span class="ubermenu-target-title ubermenu-target-text">Casoria</span></a></li><li id="menu-item-288811-term-339" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-339 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/castellammare-di-stabia"><span class="ubermenu-target-title ubermenu-target-text">Castellammare</span></a></li><li id="menu-item-288811-term-368" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-368 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/cercola"><span class="ubermenu-target-title ubermenu-target-text">Cercola</span></a></li><li id="menu-item-288811-term-378" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-378 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/cicciano"><span class="ubermenu-target-title ubermenu-target-text">Cicciano</span></a></li><li id="menu-item-288811-term-379" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-379 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/crispano"><span class="ubermenu-target-title ubermenu-target-text">Crispano</span></a></li><li id="menu-item-288811-term-336" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-336 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/ercolano"><span class="ubermenu-target-title ubermenu-target-text">Ercolano</span></a></li><li id="menu-item-288811-term-328" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-328 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/frattamaggiore"><span class="ubermenu-target-title ubermenu-target-text">Frattamaggiore</span></a></li><li id="menu-item-288811-term-327" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-327 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/frattaminore"><span class="ubermenu-target-title ubermenu-target-text">Frattaminore</span></a></li><li id="menu-item-288811-term-325" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-325 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/giugliano"><span class="ubermenu-target-title ubermenu-target-text">Giugliano</span></a></li><li id="menu-item-288811-term-382" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-382 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/gragnano"><span class="ubermenu-target-title ubermenu-target-text">Gragnano</span></a></li><li id="menu-item-288811-term-369" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-369 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/grumo-nevano"><span class="ubermenu-target-title ubermenu-target-text">Grumo Nevano</span></a></li><li id="menu-item-288811-term-366" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-366 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/ischia"><span class="ubermenu-target-title ubermenu-target-text">Ischia</span></a></li><li id="menu-item-288811-term-340" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-340 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/marano"><span class="ubermenu-target-title ubermenu-target-text">Marano</span></a></li><li id="menu-item-288811-term-353" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-353 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/marigliano"><span class="ubermenu-target-title ubermenu-target-text">Marigliano</span></a></li><li id="menu-item-288811-term-329" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-329 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/melito"><span class="ubermenu-target-title ubermenu-target-text">Melito</span></a></li><li id="menu-item-288811-term-348" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-348 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/mugnano"><span class="ubermenu-target-title ubermenu-target-text">Mugnano</span></a></li><li id="menu-item-288811-term-323" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-323 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/napoli"><span class="ubermenu-target-title ubermenu-target-text">Napoli</span></a></li><li id="menu-item-288811-term-351" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-351 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/nola"><span class="ubermenu-target-title ubermenu-target-text">Nola</span></a></li><li id="menu-item-288811-term-360" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-360 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/ottaviano"><span class="ubermenu-target-title ubermenu-target-text">Ottaviano</span></a></li><li id="menu-item-288811-term-374" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-374 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/palma-campania"><span class="ubermenu-target-title ubermenu-target-text">Palma Campania</span></a></li><li id="menu-item-288811-term-363" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-363 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/poggiomarino"><span class="ubermenu-target-title ubermenu-target-text">Poggiomarino</span></a></li><li id="menu-item-288811-term-376" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-376 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/pollena-trocchia"><span class="ubermenu-target-title ubermenu-target-text">Pollena Trocchia</span></a></li><li id="menu-item-288811-term-346" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-346 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/pomigliano-darco"><span class="ubermenu-target-title ubermenu-target-text">Pomigliano d’Arco</span></a></li><li id="menu-item-288811-term-335" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-335 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/pompei"><span class="ubermenu-target-title ubermenu-target-text">Pompei</span></a></li><li id="menu-item-288811-term-342" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-342 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/portici"><span class="ubermenu-target-title ubermenu-target-text">Portici</span></a></li><li id="menu-item-288811-term-338" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-338 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/pozzuoli"><span class="ubermenu-target-title ubermenu-target-text">Pozzuoli</span></a></li><li id="menu-item-288811-term-380" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-380 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/procida"><span class="ubermenu-target-title ubermenu-target-text">Procida</span></a></li><li id="menu-item-288811-term-359" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-359 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/qualiano"><span class="ubermenu-target-title ubermenu-target-text">Qualiano</span></a></li><li id="menu-item-288811-term-347" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-347 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/quarto"><span class="ubermenu-target-title ubermenu-target-text">Quarto</span></a></li><li id="menu-item-288811-term-344" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-344 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/san-giorgio-a-cremano"><span class="ubermenu-target-title ubermenu-target-text">San Giorgio a C.</span></a></li><li id="menu-item-288811-term-357" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-357 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/san-giuseppe-vesuviano"><span class="ubermenu-target-title ubermenu-target-text">San Giuseppe V.</span></a></li><li id="menu-item-288811-term-356" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-356 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/santanastasia"><span class="ubermenu-target-title ubermenu-target-text">Sant’Anastasia</span></a></li><li id="menu-item-288811-term-326" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-326 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/santantimo"><span class="ubermenu-target-title ubermenu-target-text">Sant’Antimo</span></a></li><li id="menu-item-288811-term-365" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-365 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/santantonioabate"><span class="ubermenu-target-title ubermenu-target-text">Sant’Antonio Abate</span></a></li><li id="menu-item-288811-term-373" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-373 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/saviano"><span class="ubermenu-target-title ubermenu-target-text">Saviano</span></a></li><li id="menu-item-288811-term-350" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-350 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/somma-vesuviana"><span class="ubermenu-target-title ubermenu-target-text">Somma Vesuviana</span></a></li><li id="menu-item-288811-term-371" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-371 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/sorrento"><span class="ubermenu-target-title ubermenu-target-text">Sorrento</span></a></li><li id="menu-item-288811-term-345" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-345 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/torre-annunziata"><span class="ubermenu-target-title ubermenu-target-text">Torre Annunziata</span></a></li><li id="menu-item-288811-term-337" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-337 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/torre-del-greco"><span class="ubermenu-target-title ubermenu-target-text">Torre del Greco</span></a></li><li id="menu-item-288811-term-352" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-352 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/villaricca"><span class="ubermenu-target-title ubermenu-target-text">Villaricca</span></a></li><li id="menu-item-288811-term-361" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-361 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/volla"><span class="ubermenu-target-title ubermenu-target-text">Volla</span></a></li><!-- end Dynamic Terms: [Dynamic Terms] 288811 --></ul></li><li id="menu-item-288810-term-399" class="ubermenu-tab ubermenu-has-submenu-drop ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-dynamic-term ubermenu-item-288810 ubermenu-item-288810-term-399 ubermenu-item-auto ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-tab-content-panel" data-ubermenu-trigger="mouseover" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/salerno-provincia"><span class="ubermenu-target-title ubermenu-target-text">Salerno Prov.</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-tab-content-panel ubermenu-column ubermenu-column-3-4 ubermenu-submenu ubermenu-submenu-id-288810-term-399 ubermenu-submenu-type-tab-content-panel"  ><!-- begin Dynamic Terms: [Dynamic Terms] 288811 count[1]  --><li id="menu-item-288811-term-459" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-dynamic-term ubermenu-item-288811 ubermenu-item-288811-term-459 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-4 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.pupia.tv/it/salerno"><span class="ubermenu-target-title ubermenu-target-text">Salerno</span></a></li><!-- end Dynamic Terms: [Dynamic Terms] 288811 --></ul></li><!-- end Dynamic Terms: [Dynamic Terms] 288810 --></ul></li><!-- end Tabs: [Tabs] 288808 --></ul></li></ul></nav>
+<!-- End UberMenu -->
+</div><!--top-menu-->
+</div><!--top-nav_inner-->
+<div id="content-social">
+<ul>
+<li><a href="http://www.facebook.com/PupiaFanPage" alt="Facebook" class="fb-but" target="_blank"></a></li>
+<li><a href="http://www.twitter.com/PupiaTv" alt="Twitter" class="twitter-but" target="_blank"></a></li>
+<li><a href="https://plus.google.com/+PupiaCampaniaNews" alt="Google Plus" class="google-but" target="_blank"></a></li>
+<li><a href="http://www.youtube.com/user/pupia2" alt="YouTube" class="youtube-but" target="_blank"></a></li>
+<li><a href="http://www.dailymotion.com/Pupia" alt="Dailymotion" class="dailymotion-but" target="_blank"></a></li>
+<li><a href="http://instream.oxaroll.com/bfe8d9ffad8064994c50b812d327e2c9" alt="OxaVideo" class="oxa-but" target="_blank"></a></li>
+<!-- <li><a href="" alt="RSS Feed" class="rss-but"></a></li>-->
+<li><a href="http://www.pupia.tv/feed/rss" target="_blank" alt="Pupia.tv - RSS Feed" class="rss-but"></a></li>
+</ul>
+</div><!--content-social-->
+</div><!--top-nav-->
+</div><!--top-nav-wrapper-->
+<div id="main-header-wrapper">
+<div id="header">
+<div id="logo" class="no_lazy" itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" class="no_lazy" href="http://www.pupia.tv"><img class="no_lazy" itemprop="logo" src="http://pupia.tv/wp-content/uploads/2014/12/logo6.png" alt="Pupia.tv" /></a>
+</div><!--logo-->
+<div id="leader-wrapper">
+<div id="leaderboard">	
+<div id="leader-left">
+<div class="pupia-16" id="pupia-1091097204"><div class="ads"><!-- Inizio codice Leaderboard (728x90) eADV.it per il sito pupia.tv -->
+<!-- Fine codice Leaderboard (728x90) eADV.it per il sito pupia.tv --></div></div>
+</div><!--leader-left-->
+</div><!--leaderboard-->
+</div><!--leader-wrapper-->
+</div><!--header-->
+</div><!--main-header-wrapper-->
+</div><!--top-wrapper-->
+<div id="nav">
+<div id="main-nav-wrapper">
+<div id="main-nav">
+</div><!--main-nav-->
+</div><!--main-nav-wrapper-->
+</div><!--nav-->
+<div id="wrapper">
+<div id="inner-wrapper">
+<div id="content">   
+<div class="header-article stroke">
+<h2>
+<a href="http://www.pupia.tv/it/home">Home</a>
+<!--  / <span class="cc"><a href=""> </a></span>-->
+</h2> 
+</div>
+<div id="content-top">
+<div id="ticker">               
+<span class="ticker-heading">La striscia</span>
+<ul class="ticker-list">                   
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/caserta-torna-in-carcere-il-re-del-pane-dopo-le-accuse-del-figlio-di-sandokan/440118">Caserta, torna in carcere il &#8220;re del pane&#8221; dopo le accuse del figlio di &#8220;Sandokan&#8221;</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/prato-arrestata-linsegnante-che-avuto-figlio-con-un-15enne/440109">Prato, arrestata l&#8217;insegnante che avuto figlio con un 15enne</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-droga-e-soldi-nascosti-nel-cruscotto-dellauto-arrestato/440099">Milano, droga e soldi nascosti nel cruscotto dell&#8217;auto: arrestato</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/gioia-tauro-donna-sequestrata-nel-suo-negozio-dallex-compagno/440094">Gioia Tauro, donna sequestrata nel suo negozio dall&#8217;ex compagno</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/monopoli-camion-sbanda-e-resta-in-bilico-sul-ponte/440091">Monopoli, camion sbanda e resta in bilico sul ponte</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/corruzione-nel-cosentino-arrestata-la-sindaca-di-cariati/440088">Corruzione nel Cosentino, arrestata la sindaca di Cariati</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/saccheggiavano-case-in-zone-isolate-sgominata-banda-di-albanesi-in-toscana/440084">Saccheggiavano case in zone isolate: sgominata banda di albanesi in Toscana</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-allarme-bomba-in-centro-per-un-pacco-sospetto/440081">Milano, allarme bomba in centro per un pacco sospetto</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/catania-spaccio-di-droga-in-via-capo-passero-24-arresti/440078">Catania, spaccio di droga in Via Capo Passero: 24 arresti</a></li>
+<li><a href="http://www.pupia.tv/2019/03/canali/cronaca/sacra-corona-unita-14-arresti-nel-salento-contro-clan-caracciolo-montenegro/440069">Sacra Corona Unita, 14 arresti nel Salento contro clan Caracciolo-Montenegro</a></li>
+</ul>
+</div><!--ticker-->
+<div id="search-wrapper">
+<form method="get" id="searchform" action="http://www.pupia.tv/">
+<input type="text" name="s" id="s" value="Cerca nel sito" onfocus='if (this.value == "Cerca nel sito") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Cerca nel sito"; }' />
+<input type="hidden" id="search-button" />
+</form>                            </div><!--search wrapper-->
+</div><!--content-top-->
+<!-- active item -->
+<div id="main-home">
+<div id="home-left">        
+<!-- rimuovo titolo categoria per metterlo nell'header prima del select -->
+<!-- <h3 class="category-heading"></h3>-->
+<div id="featured-container2">
+<div class="flexslider">
+<ul class="slides">
+<li>
+<a href="http://www.pupia.tv/2019/03/canali/societa/europarlamento-approva-la-riforma-sul-copyright/439945" rel="bookmark" title="Europarlamento approva la riforma sul copyright"><img width="350" height="351" src="http://www.pupia.tv/wp-content/uploads/2019/03/copyright.jpg" class="attachment-slider-thumb size-slider-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/copyright.jpg 350w, http://www.pupia.tv/wp-content/uploads/2019/03/copyright-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/copyright-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/copyright-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/copyright-120x120.jpg 120w" sizes="(max-width: 350px) 100vw, 350px" /></a>
+<div class="featured-box">
+<h2><a href="http://www.pupia.tv/2019/03/canali/societa/europarlamento-approva-la-riforma-sul-copyright/439945">Europarlamento approva la riforma sul copyright</a></h2>
+<p>Il Parlamento europeo ha approvato le nuove regole sul diritto d’autore. Il via libera dall’aula di Strasburgo all’accordo...</p>
+</div><!--featured-box-->
+</li>
+</ul>
+</div><!--flexslider-->
+</div><!---featured-container-->
+<div id="pupia_2column_widget-2" class="home-widget pupia_2column_widget">
+<div class="category_3">
+<ul class="category_3">                               
+<li>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/prato-arrestata-linsegnante-che-avuto-figlio-con-un-15enne/440109" rel="bookmark" title="Prato, arrestata l&#8217;insegnante che avuto figlio con un 15enne"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2019/03/professoressa-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/professoressa-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/professoressa-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/professoressa-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/professoressa-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/professoressa.jpg 340w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/prato-arrestata-linsegnante-che-avuto-figlio-con-un-15enne/440109" class="main-headline">Prato, arrestata l&#8217;insegnante che avuto figlio con un 15enne</a> 
+<p>Un'ordinanza di custodia cautelare ai domiciliari è stata notificata alla donna, accusata di atti sessuali con...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</li>
+<li>
+<a class = "v_thumb_middle" href="http://www.pupia.tv/2019/03/canali/cronaca/sacra-corona-unita-14-arresti-nel-salento-contro-clan-caracciolo-montenegro/440069" rel="bookmark" title="Sacra Corona Unita, 14 arresti nel Salento contro clan Caracciolo-Montenegro"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/sacra-corona-unita-14-arresti-nel-salento-contro-clan-caracciolo-montenegro/440069" rel="bookmark" title="Sacra Corona Unita, 14 arresti nel Salento contro clan Caracciolo-Montenegro"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2019/03/lecce-1-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/lecce-1-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/lecce-1-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/lecce-1-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/lecce-1-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/lecce-1.jpg 350w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/sacra-corona-unita-14-arresti-nel-salento-contro-clan-caracciolo-montenegro/440069" class="main-headline">Sacra Corona Unita, 14 arresti nel Salento contro clan Caracciolo-Montenegro</a> 
+<p>Dalle prime luci dell’alba oltre 80 militari del comando provinciale di Lecce, in...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</li>
+<li>
+<a href="http://www.pupia.tv/2019/03/canali/politica/bus-dirottato-ok-di-salvini-a-cittadinanza-per-ramy/439956" rel="bookmark" title="Bus dirottato, ok di Salvini a cittadinanza per Ramy"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2019/03/Ramy-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/Ramy-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/Ramy-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/Ramy-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/Ramy-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/Ramy.jpg 351w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div id="cat_name">Politica  </div>
+<a href="http://www.pupia.tv/2019/03/canali/politica/bus-dirottato-ok-di-salvini-a-cittadinanza-per-ramy/439956" class="main-headline">Bus dirottato, ok di Salvini a cittadinanza per Ramy</a> 
+<p>Il ministro dell'Interno Matteo Salvini ha dato l'ok alla cittadinanza per Ramy, il 13enne egiziano "eroe" dello...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</li>
+</ul>
+</div><!--category2-->
+</div><!--pupia_2column_widget-2-->
+</div><!--home-left-->
+<div id="home-right">				
+<div class="middle-widget">
+<ul class="middle-widget">
+<div id="cat_name">Cronaca  </div>                                    
+<li> <a href="http://www.pupia.tv/2019/03/canali/cronaca/corruzione-nel-cosentino-arrestata-la-sindaca-di-cariati/440088" class="main-headline">
+Corruzione nel Cosentino, arrestata la sindaca di Cariati                            </a>
+<p>I finanzieri del comando provinciale di Cosenza, coordinati dalla Procura, hanno dato esecuzione ad un’ordinanza di...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>
+27 Marzo 2019                                    </li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+<li> <a class = "v_thumbn" href="http://www.pupia.tv/2019/03/canali/cronaca/corruzione-nel-cosentino-arrestata-la-sindaca-di-cariati/440088" rel="bookmark" title="Corruzione nel Cosentino, arrestata la sindaca di Cariati"></a></li>
+</ul>
+</div>
+<!--headlines-info--> 
+</li>
+<div id="cat_name">Cronaca  </div>                                    
+<li> <a href="http://www.pupia.tv/2019/03/canali/cronaca/catania-spaccio-di-droga-in-via-capo-passero-24-arresti/440078" class="main-headline">
+Catania, spaccio di droga in Via Capo Passero: 24 arresti                            </a>
+<p>Si "spartivano" una intera strada del quartiere San Giovanni Galermo, via Capo Passero, i tre gruppi autonomi legati alla...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>
+27 Marzo 2019                                    </li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+<li> <a class = "v_thumbn" href="http://www.pupia.tv/2019/03/canali/cronaca/catania-spaccio-di-droga-in-via-capo-passero-24-arresti/440078" rel="bookmark" title="Catania, spaccio di droga in Via Capo Passero: 24 arresti"></a></li>
+</ul>
+</div>
+<!--headlines-info--> 
+</li>
+<div id="cat_name">Cronaca  </div>                                    
+<li> <a href="http://www.pupia.tv/2019/03/canali/cronaca/truffa-su-vendite-in-aree-servizio-autobrennero-12-indagati-nei-guai-societa-campana/440065" class="main-headline">
+Truffa su vendite in aree servizio Autobrennero: 12 indagati, nei guai società campana                            </a>
+<p>Dodici le persone denunciate dalla Guardia di finanza di Trento e...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>
+27 Marzo 2019                                    </li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+<li> <a class = "v_thumbn" href="http://www.pupia.tv/2019/03/canali/cronaca/truffa-su-vendite-in-aree-servizio-autobrennero-12-indagati-nei-guai-societa-campana/440065" rel="bookmark" title="Truffa su vendite in aree servizio Autobrennero: 12 indagati, nei guai società campana"></a></li>
+</ul>
+</div>
+<!--headlines-info--> 
+</li>
+<div id="cat_name">Politica  </div>                                    
+<li> <a href="http://www.pupia.tv/2019/03/canali/politica/san-salvatore-telesino-rapino-coniugi-88enni-e-resto-coinvolto-in-incidente-mortale-arrestato/440055" class="main-headline">
+San Salvatore Telesino, rapinò coniugi 88enni e restò coinvolto in incidente mortale: arrestato                            </a>
+<p>Nella prima mattinata del 27 marzo è stata data esecuzione ad...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>
+27 Marzo 2019                                    </li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+<li> <a class = "v_thumbn" href="http://www.pupia.tv/2019/03/canali/politica/san-salvatore-telesino-rapino-coniugi-88enni-e-resto-coinvolto-in-incidente-mortale-arrestato/440055" rel="bookmark" title="San Salvatore Telesino, rapinò coniugi 88enni e restò coinvolto in incidente mortale: arrestato"></a></li>
+</ul>
+</div>
+<!--headlines-info--> 
+</li>
+</ul>
+</div><!--middle-widget-->
+</div><!--home-right-->
+<div id="main-home-inner">
+<div id="home-left">
+<div id="banner468_wr">
+<div id="banner468_cat">
+<div class="pupia-3" id="pupia-1037623789"><div class="ads"><!-- Begin BidVertiser code -->
+<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=184777&bid=448865" TYPE="text/javascript"></SCRIPT>
+<!-- End BidVertiser code --></div></div>
+</div><!---banner468_cat-->
+</div><!---banner468_wr--> 
+<div class="home-widget">
+<div class="header-thread stroke_t">
+<h3>Altre notizie </h3> 
+</div>
+<ul class="category3">
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/caserta-torna-in-carcere-il-re-del-pane-dopo-le-accuse-del-figlio-di-sandokan/440118" rel="bookmark" title="Caserta, torna in carcere il &#8220;re del pane&#8221; dopo le accuse del figlio di &#8220;Sandokan&#8221;"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/morico2-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/morico2-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/morico2-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/morico2-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/morico2-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/morico2.jpg 352w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/caserta-torna-in-carcere-il-re-del-pane-dopo-le-accuse-del-figlio-di-sandokan/440118" class="main-headline">Caserta, torna in carcere il &#8220;re del pane&#8221; dopo le accuse del figlio di &#8220;Sandokan&#8221;</a>
+<p>
+Era stato assolto in primo grado dall'accusa di...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/milano-droga-e-soldi-nascosti-nel-cruscotto-dellauto-arrestato/440099" rel="bookmark" title="Milano, droga e soldi nascosti nel cruscotto dell&#8217;auto: arrestato"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-droga-e-soldi-nascosti-nel-cruscotto-dellauto-arrestato/440099" rel="bookmark" title="Milano, droga e soldi nascosti nel cruscotto dell&#8217;auto: arrestato"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/soldi-droga-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/soldi-droga-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/soldi-droga-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/soldi-droga-468x468.jpg 468w, http://www.pupia.tv/wp-content/uploads/2019/03/soldi-droga-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/soldi-droga-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-droga-e-soldi-nascosti-nel-cruscotto-dellauto-arrestato/440099" class="main-headline">Milano, droga e soldi nascosti nel cruscotto dell&#8217;auto: arrestato</a>
+<p>Un 31enne di origini marocchine è stato arrestato dalla polizia con l’accusa di...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/gioia-tauro-donna-sequestrata-nel-suo-negozio-dallex-compagno/440094" rel="bookmark" title="Gioia Tauro, donna sequestrata nel suo negozio dall&#8217;ex compagno"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/gioia-tauro-donna-sequestrata-nel-suo-negozio-dallex-compagno/440094" rel="bookmark" title="Gioia Tauro, donna sequestrata nel suo negozio dall&#8217;ex compagno"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-38-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-38-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-38-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-38-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-38-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/gioia-tauro-donna-sequestrata-nel-suo-negozio-dallex-compagno/440094" class="main-headline">Gioia Tauro, donna sequestrata nel suo negozio dall&#8217;ex compagno</a>
+<p> I poliziotti del commissariato di Gioia Tauro hanno arrestato, per tentato omicidio, estorsione, minaccia...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/monopoli-camion-sbanda-e-resta-in-bilico-sul-ponte/440091" rel="bookmark" title="Monopoli, camion sbanda e resta in bilico sul ponte"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/monopoli-camion-sbanda-e-resta-in-bilico-sul-ponte/440091" rel="bookmark" title="Monopoli, camion sbanda e resta in bilico sul ponte"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/ad250aa-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/ad250aa-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/ad250aa-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/ad250aa-468x468.jpg 468w, http://www.pupia.tv/wp-content/uploads/2019/03/ad250aa-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/ad250aa-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/monopoli-camion-sbanda-e-resta-in-bilico-sul-ponte/440091" class="main-headline">Monopoli, camion sbanda e resta in bilico sul ponte</a>
+<p>Un autoarticolato è rimasto in bilico su un cavalcavia a seguito di un incidente avvenuto stamani a Monopoli...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div id="banner468_wr">
+<div id="banner468_cat">
+<div class="pupia-4" id="pupia-1091848086"><div class="ads">
+</div></div> 
+</div><!---banner468_cat--> 
+</div><!---banner468_wr--> 
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/saccheggiavano-case-in-zone-isolate-sgominata-banda-di-albanesi-in-toscana/440084" rel="bookmark" title="Saccheggiavano case in zone isolate: sgominata banda di albanesi in Toscana"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/saccheggiavano-case-in-zone-isolate-sgominata-banda-di-albanesi-in-toscana/440084" rel="bookmark" title="Saccheggiavano case in zone isolate: sgominata banda di albanesi in Toscana"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/alba-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/alba-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/alba-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/alba-468x468.jpg 468w, http://www.pupia.tv/wp-content/uploads/2019/03/alba-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/alba-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/saccheggiavano-case-in-zone-isolate-sgominata-banda-di-albanesi-in-toscana/440084" class="main-headline">Saccheggiavano case in zone isolate: sgominata banda di albanesi in Toscana</a>
+<p> I carabinieri del nucleo operativo della compagnia di Firenze, nella giornata del 19...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/milano-allarme-bomba-in-centro-per-un-pacco-sospetto/440081" rel="bookmark" title="Milano, allarme bomba in centro per un pacco sospetto"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-allarme-bomba-in-centro-per-un-pacco-sospetto/440081" rel="bookmark" title="Milano, allarme bomba in centro per un pacco sospetto"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/milano-allarme-bomba-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/milano-allarme-bomba-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/milano-allarme-bomba-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/milano-allarme-bomba-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/milano-allarme-bomba-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/milano-allarme-bomba.jpg 302w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-allarme-bomba-in-centro-per-un-pacco-sospetto/440081" class="main-headline">Milano, allarme bomba in centro per un pacco sospetto</a>
+<p>Minuti di tensione, questa mattina, nel centro di Milano, all’angolo tra piazza Duomo e via Torino, per un...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>27 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/meteo-colpo-di-coda-dellinverno-torna-il-freddo/440022" rel="bookmark" title="Meteo, colpo di coda dell&#8217;inverno: torna il freddo"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/meto-26mar19-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/meto-26mar19-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/meto-26mar19-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/meto-26mar19-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/meto-26mar19-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/meto-26mar19.jpg 303w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/meteo-colpo-di-coda-dellinverno-torna-il-freddo/440022" class="main-headline">Meteo, colpo di coda dell&#8217;inverno: torna il freddo</a>
+<p>Una perturbazione proveniente dal nord Atlantico raggiungerà il Mediterraneo centrale nelle prossime ore portando...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-tragedia-in-via-marina-clochard-investito-e-ucciso-da-un-camion/440019" rel="bookmark" title="Napoli, tragedia in via Marina: clochard investito e ucciso da un camion"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-tragedia-in-via-marina-clochard-investito-e-ucciso-da-un-camion/440019" rel="bookmark" title="Napoli, tragedia in via Marina: clochard investito e ucciso da un camion"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-37-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-37-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-37-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-37.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/Immagine-37-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-tragedia-in-via-marina-clochard-investito-e-ucciso-da-un-camion/440019" class="main-headline">Napoli, tragedia in via Marina: clochard investito e ucciso da un camion</a>
+<p>Un uomo, extracomunitario di origine africana, probabilmente un clochard, è morto a...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div id="banner468_wr">
+<div id="banner468_cat">
+<div class="pupia-20" id="pupia-1851106934"><div class="ads"><!-- Begin BidVertiser code -->
+<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=184777&bid=448865" TYPE="text/javascript"></SCRIPT>
+<!-- End BidVertiser code --></div></div> 
+</div><!---banner468_cat--> 
+</div><!---banner468_wr--> 
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-truffa-da-70-milioni-allagenzia-delle-entrate-10-arresti/440016" rel="bookmark" title="Napoli, truffa da 70 milioni all&#8217;Agenzia delle Entrate: 10 arresti"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-truffa-da-70-milioni-allagenzia-delle-entrate-10-arresti/440016" rel="bookmark" title="Napoli, truffa da 70 milioni all&#8217;Agenzia delle Entrate: 10 arresti"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2017/02/arresto-finanza-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/02/arresto-finanza-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2017/02/arresto-finanza-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/02/arresto-finanza-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/02/arresto-finanza-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/02/arresto-finanza.jpg 436w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-truffa-da-70-milioni-allagenzia-delle-entrate-10-arresti/440016" class="main-headline">Napoli, truffa da 70 milioni all&#8217;Agenzia delle Entrate: 10 arresti</a>
+<p>La Guardia di Finanza di Napoli ha dato esecuzione a un’ordinanza applicativa di...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/fabrizio-corona-parla-dal-carcere-e-promette-ora-basta-eccessi/440013" rel="bookmark" title="Fabrizio Corona parla dal carcere e promette: &#8220;Ora basta eccessi&#8221;"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/corona-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/corona-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/corona-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/corona-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/corona.jpg 300w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/fabrizio-corona-parla-dal-carcere-e-promette-ora-basta-eccessi/440013" class="main-headline">Fabrizio Corona parla dal carcere e promette: &#8220;Ora basta eccessi&#8221;</a>
+<p>Tornato in carcere ieri dopo la sospensione dell'affidamento terapeutico decisa dal...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/bollette-luce-e-gas-buone-notizie-per-consumatori-da-aprile-calano-le-tariffe/440010" rel="bookmark" title="Bollette luce e gas, buone notizie per consumatori: da aprile calano le tariffe"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/bolletta-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/bolletta-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/bolletta-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/bolletta-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/bolletta-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/bolletta.jpg 351w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/bollette-luce-e-gas-buone-notizie-per-consumatori-da-aprile-calano-le-tariffe/440010" class="main-headline">Bollette luce e gas, buone notizie per consumatori: da aprile calano le tariffe</a>
+<p>Diminuzioni significative per le tariffe di luce e gas a partire dal primo aprile. Dopo...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a class = "v_thumb_thread" href="http://www.pupia.tv/2019/03/canali/cronaca/usa-operaio-sospeso-dallazienda-dopo-aver-salvato-un-gatto-su-un-palo/440007" rel="bookmark" title="Usa, operaio sospeso dall&#8217;azienda dopo aver salvato un gatto su un palo"></a>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/usa-operaio-sospeso-dallazienda-dopo-aver-salvato-un-gatto-su-un-palo/440007" rel="bookmark" title="Usa, operaio sospeso dall&#8217;azienda dopo aver salvato un gatto su un palo"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/usa-gatto-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/usa-gatto-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/usa-gatto-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/usa-gatto-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/usa-gatto-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/usa-gatto.jpg 352w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/usa-operaio-sospeso-dallazienda-dopo-aver-salvato-un-gatto-su-un-palo/440007" class="main-headline">Usa, operaio sospeso dall&#8217;azienda dopo aver salvato un gatto su un palo</a>
+<p>Si trovava nel quartiere di Port Richmond quando ha notato un piccolo gatto che, per...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-pazienti-dirottati-dal-cardarelli-verso-clinica-privata-9-anni-a-ortopedico/440005" rel="bookmark" title="Napoli, pazienti dirottati dal Cardarelli verso clinica privata: 9 anni a ortopedico"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2017/11/cardarelli-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/11/cardarelli-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2017/11/cardarelli-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/11/cardarelli-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/11/cardarelli-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/11/cardarelli.jpg 468w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/napoli-pazienti-dirottati-dal-cardarelli-verso-clinica-privata-9-anni-a-ortopedico/440005" class="main-headline">Napoli, pazienti dirottati dal Cardarelli verso clinica privata: 9 anni a ortopedico</a>
+<p>L’ortopedico Paolo Iannelli è stato condannato dal Tribunale di Napoli, prima...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/politica/brexit-parlamento-prende-il-controllo-may-non-intende-dimettersi/440002" rel="bookmark" title="Brexit, Parlamento prende il controllo. May non intende dimettersi"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/theresa-may-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/theresa-may-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/theresa-may-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/theresa-may-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/theresa-may-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/theresa-may.jpg 350w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Politica  </div>
+<a href="http://www.pupia.tv/2019/03/canali/politica/brexit-parlamento-prende-il-controllo-may-non-intende-dimettersi/440002" class="main-headline">Brexit, Parlamento prende il controllo. May non intende dimettersi</a>
+<p>Nuovo braccio di ferro, nel Regno Unito, tra la premier Theresa May e il Parlamento britannico riguardo...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/incendio-cogoleto-fiamme-sorprendono-automobilisti-su-autostrada-a10/439989" rel="bookmark" title="Incendio Cogoleto, fiamme sorprendono automobilisti su autostrada A10"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/cogo2-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/cogo2-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/cogo2-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/cogo2.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/cogo2-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/incendio-cogoleto-fiamme-sorprendono-automobilisti-su-autostrada-a10/439989" class="main-headline">Incendio Cogoleto, fiamme sorprendono automobilisti su autostrada A10</a>
+<p>Le fiamme del vasto incendio che è divampato sulle alture di Cogoleto, in località Capieso, nel ponente di...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/turchia-spari-durante-lite-in-aeroporto-due-poliziotti-feriti/439986" rel="bookmark" title="Turchia, spari durante lite in aeroporto: due poliziotti feriti"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/Kayseri-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/Kayseri-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/Kayseri-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/Kayseri-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/Kayseri-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/Kayseri.jpg 350w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/turchia-spari-durante-lite-in-aeroporto-due-poliziotti-feriti/439986" class="main-headline">Turchia, spari durante lite in aeroporto: due poliziotti feriti</a>
+<p>Due persone sono rimaste ferite in una sparatoria avvenuta pochi minuti dopo le 15 nell'aeroporto turco di Kayseri,...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/papa-francesco-in-campidoglio-roma-resti-faro-di-civilta-accoglienza-e-integrazione/439983" rel="bookmark" title="Papa Francesco in Campidoglio: &#8220;Roma resti faro di civiltà, accoglienza e integrazione&#8221;"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/papa-raggi-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/papa-raggi-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/papa-raggi-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/papa-raggi.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/papa-raggi-199x199.jpg 199w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/papa-francesco-in-campidoglio-roma-resti-faro-di-civilta-accoglienza-e-integrazione/439983" class="main-headline">Papa Francesco in Campidoglio: &#8220;Roma resti faro di civiltà, accoglienza e integrazione&#8221;</a>
+<p>Roma "è un organismo delicato, che necessita di cura umile...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/veneto-mancano-medici-regione-autorizza-assunzione-di-quelli-in-pensione/439981" rel="bookmark" title="Veneto, mancano medici: Regione autorizza assunzione di quelli in pensione"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2018/10/medic-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2018/10/medic-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2018/10/medic-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2018/10/medic-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2018/10/medic.jpg 300w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/veneto-mancano-medici-regione-autorizza-assunzione-di-quelli-in-pensione/439981" class="main-headline">Veneto, mancano medici: Regione autorizza assunzione di quelli in pensione</a>
+<p>La Regione Veneto ha deciso di autorizzare i direttori generali delle Ulss ad assumere...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/imane-fadil-esclusa-presenza-radioattivita-nel-corpo/439976" rel="bookmark" title="Imane Fadil, esclusa presenza radioattività nel corpo"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/imane-fadil-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/imane-fadil-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/imane-fadil-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/imane-fadil-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/imane-fadil-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/imane-fadil.jpg 352w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/imane-fadil-esclusa-presenza-radioattivita-nel-corpo/439976" class="main-headline">Imane Fadil, esclusa presenza radioattività nel corpo</a>
+<p>Esclusa la presenza di radioattività nel corpo della giovane Imane Fadil, 34enne marocchina testimone chiave...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div id="banner468_wr">
+<div id="banner468_cat">
+<div class="pupia-23" id="pupia-1093701700"><div class="ads">
+</div></div> 
+</div><!---banner468_cat--> 
+</div><!---banner468_wr--> 
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-disabile-costretto-a-scendere-dal-treno-gia-ne-abbiamo-uno-a-bordo/439974" rel="bookmark" title="Milano, disabile costretto a scendere dal treno: &#8220;Già ne abbiamo uno a bordo&#8221;"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2016/02/disabili-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2016/02/disabili-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2016/02/disabili-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2016/02/disabili-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2016/02/disabili-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2016/02/disabili.jpg 468w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Cronaca  </div>
+<a href="http://www.pupia.tv/2019/03/canali/cronaca/milano-disabile-costretto-a-scendere-dal-treno-gia-ne-abbiamo-uno-a-bordo/439974" class="main-headline">Milano, disabile costretto a scendere dal treno: &#8220;Già ne abbiamo uno a bordo&#8221;</a>
+<p>Costretto a scendere dal treno perché sarebbe stato il...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/star-di-instagram-vegana-beccata-a-mangiare-pesce-follower-in-rivolta/439971" rel="bookmark" title="Star di Instagram vegana beccata a mangiare pesce: follower in rivolta"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/Yovana-Mendoza2-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/Yovana-Mendoza2-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/Yovana-Mendoza2-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/Yovana-Mendoza2-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/Yovana-Mendoza2-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/Yovana-Mendoza2.jpg 350w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/star-di-instagram-vegana-beccata-a-mangiare-pesce-follower-in-rivolta/439971" class="main-headline">Star di Instagram vegana beccata a mangiare pesce: follower in rivolta</a>
+<p>Essere crudisti, vegetariani o vegani ormai è diventata una moda e sempre più blogger...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/ora-solare-dal-2021-ogni-stato-potra-decidere-il-proprio-fuso-orario/439968" rel="bookmark" title="Ora solare, dal 2021 ogni Stato potrà decidere il proprio fuso orario"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/ora-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/ora-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/ora-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/ora-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2019/03/ora-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/ora.jpg 351w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/ora-solare-dal-2021-ogni-stato-potra-decidere-il-proprio-fuso-orario/439968" class="main-headline">Ora solare, dal 2021 ogni Stato potrà decidere il proprio fuso orario</a>
+<p>Il Parlamento europeo ha dato l'ok all'abolizione del passaggio dall'ora solare...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+<li>
+<div class="category3-image">
+<a href="http://www.pupia.tv/2019/03/canali/societa/milano-alle-elementari-un-registro-per-le-uscite-ai-bagni-e-polemica/439960" rel="bookmark" title="Milano, alle elementari un registro per le uscite ai bagni: è polemica"><img width="120" height="120" src="http://www.pupia.tv/wp-content/uploads/2019/03/scuola-120x120.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2019/03/scuola-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2019/03/scuola-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2019/03/scuola-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2019/03/scuola.jpg 300w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</div><!--category3-image-->
+<div class="category3-text">
+<div id="cat_name">Società  </div>
+<a href="http://www.pupia.tv/2019/03/canali/societa/milano-alle-elementari-un-registro-per-le-uscite-ai-bagni-e-polemica/439960" class="main-headline">Milano, alle elementari un registro per le uscite ai bagni: è polemica</a>
+<p>E' polemica in una scuola elementare di Milano per un circolare su un controllo...</p>
+<div class="headlines-info">
+<ul class="headlines-info">
+<li>26 Marzo 2019</li>
+<!--edited by ngio <li class="comments-icon"><a href=""></a></li>-->
+</ul>
+</div><!--headlines-info-->
+</div><!--category3-text-->
+</li>
+</ul>
+</div><!--home-widget-->
+<div class="home-widget">
+<div class="header-thread stroke_t">
+<h3><span class="cc"><a href="http://www.pupia.tv/2019/03">Visualizza Archivio Notizie </a> </span></h3> 
+</div>
+</div><!--home-widget-->
+</div><!--home-left-->
+<div id="home-video-container">
+<div id="home-ban">
+<div class="middle-widget">
+<ul class="middle-widget">
+<li>
+<div id="home-ban-outer">
+<div id="home-ban-inner">
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div id="home-video">				
+<div class="middle-widget">
+<h3 id="h3video">RACCOLTE VIDEO</h3>
+<ul class="middle-widget">
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/07/aree/esteri/g20-amburgo/391717" rel="bookmark" title="G20 Amburgo"></a>
+<a href="http://www.pupia.tv/2017/07/aree/esteri/g20-amburgo/391717" rel="bookmark" title="G20 Amburgo"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/07/g20-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/07/g20-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/07/g20-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/07/g20-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/07/g20-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2017/07/g20.jpg 399w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/07/aree/esteri/g20-amburgo/391717" class="main-headline">G20 Amburgo</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/06/aree/esteri/mattarella-in-canada/391712" rel="bookmark" title="Mattarella in Canada"></a>
+<a href="http://www.pupia.tv/2017/06/aree/esteri/mattarella-in-canada/391712" rel="bookmark" title="Mattarella in Canada"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/07/Canada-199x199.png" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/07/Canada-199x199.png 199w, http://www.pupia.tv/wp-content/uploads/2017/07/Canada-150x150.png 150w, http://www.pupia.tv/wp-content/uploads/2017/07/Canada-300x300.png 300w, http://www.pupia.tv/wp-content/uploads/2017/07/Canada-120x120.png 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/06/aree/esteri/mattarella-in-canada/391712" class="main-headline">Mattarella in Canada</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/06/aree/italia/festa-della-repubblica-17/388756" rel="bookmark" title="Festa della Repubblica"></a>
+<a href="http://www.pupia.tv/2017/06/aree/italia/festa-della-repubblica-17/388756" rel="bookmark" title="Festa della Repubblica"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/06/2-giugno-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/06/2-giugno-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/06/2-giugno-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/06/2-giugno-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/06/2-giugno-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/06/aree/italia/festa-della-repubblica-17/388756" class="main-headline">Festa della Repubblica</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/05/aree/italia/sedute-camera/382629" rel="bookmark" title="Sedute Camera"></a>
+<a href="http://www.pupia.tv/2017/05/aree/italia/sedute-camera/382629" rel="bookmark" title="Sedute Camera"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2015/07/000-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2015/07/000-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2015/07/000-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2015/07/000-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2015/07/000-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/05/aree/italia/sedute-camera/382629" class="main-headline">Sedute Camera</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/05/aree/italia/g7taormina/387757" rel="bookmark" title="#G7Taormina"></a>
+<a href="http://www.pupia.tv/2017/05/aree/italia/g7taormina/387757" rel="bookmark" title="#G7Taormina"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/05/G7Taormina-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/05/G7Taormina-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/05/G7Taormina-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/05/G7Taormina-120x120.jpg 120w, http://www.pupia.tv/wp-content/uploads/2017/05/G7Taormina.jpg 200w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/05/aree/italia/g7taormina/387757" class="main-headline">#G7Taormina</a>  
+</li>
+</ul></div></div>
+<div id="home-ban">
+<div class="middle-widget">
+<ul class="middle-widget">
+<li>
+<div id="home-ban-outer">
+<div id="home-ban-inner">
+</div>
+</div>
+</li>
+</ul>
+</div></div>
+</li>
+<div id="home-video">
+<div class="middle-widget">
+<ul class="middle-widget">
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/05/aree/esteri/gentiloni-in-cina/386272" rel="bookmark" title="Gentiloni in Cina"></a>
+<a href="http://www.pupia.tv/2017/05/aree/esteri/gentiloni-in-cina/386272" rel="bookmark" title="Gentiloni in Cina"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/05/Gentilon1-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/05/Gentilon1-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/05/Gentilon1-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/05/Gentilon1-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/05/Gentilon1-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/05/aree/esteri/gentiloni-in-cina/386272" class="main-headline">Gentiloni in Cina</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/05/aree/esteri/ap-upm-2/386264" rel="bookmark" title="AP-UpM"></a>
+<a href="http://www.pupia.tv/2017/05/aree/esteri/ap-upm-2/386264" rel="bookmark" title="AP-UpM"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/05/AP-UpM-199x199.png" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/05/AP-UpM-199x199.png 199w, http://www.pupia.tv/wp-content/uploads/2017/05/AP-UpM-150x150.png 150w, http://www.pupia.tv/wp-content/uploads/2017/05/AP-UpM-120x120.png 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/05/aree/esteri/ap-upm-2/386264" class="main-headline">AP-UpM</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/05/aree/esteri/mattarella-sud-america/385778" rel="bookmark" title="Mattarella in Sud America"></a>
+<a href="http://www.pupia.tv/2017/05/aree/esteri/mattarella-sud-america/385778" rel="bookmark" title="Mattarella in Sud America"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/05/Mattarella-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/05/Mattarella-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/05/Mattarella-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/05/Mattarella-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/05/Mattarella-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/05/aree/esteri/mattarella-sud-america/385778" class="main-headline">Mattarella in Sud America</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/03/aree/esteri/eu60/381777" rel="bookmark" title="#EU60"></a>
+<a href="http://www.pupia.tv/2017/03/aree/esteri/eu60/381777" rel="bookmark" title="#EU60"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/03/EU60-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/03/EU60-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/03/EU60-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/03/EU60-300x300.jpg 300w, http://www.pupia.tv/wp-content/uploads/2017/03/EU60-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/03/aree/esteri/eu60/381777" class="main-headline">#EU60</a>  
+</li>
+<li>
+<a class = "v_thumb_video" href="http://www.pupia.tv/2017/03/aree/italia/gentiloni-a-catania/379678" rel="bookmark" title="Gentiloni a Catania"></a>
+<a href="http://www.pupia.tv/2017/03/aree/italia/gentiloni-a-catania/379678" rel="bookmark" title="Gentiloni a Catania"><img width="199" height="199" src="http://www.pupia.tv/wp-content/uploads/2017/03/Gentiloni-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="http://www.pupia.tv/wp-content/uploads/2017/03/Gentiloni-199x199.jpg 199w, http://www.pupia.tv/wp-content/uploads/2017/03/Gentiloni-150x150.jpg 150w, http://www.pupia.tv/wp-content/uploads/2017/03/Gentiloni-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<a href="http://www.pupia.tv/2017/03/aree/italia/gentiloni-a-catania/379678" class="main-headline">Gentiloni a Catania</a>  
+</li>
+</ul>
+</div><!--middle-widget-->
+</div><!--home-right-->
+<!--
+<div id="home-ban">
+<div class="middle-widget">
+<ul class="middle-widget">
+<li>
+<div id="home-ban-outer">
+<div id="home-ban-inner">
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>-->
+</div>
+</div><!--main-home-->
+</div><!--main -->
+<div id="sidebar-home-wrapper">
+<div class="side-home">
+<div class="middle-widget2"><div class="stroke_v"><h3>I nostri Video</h3></div><div class="youtube_channel default responsive ytc_display_playlist"><div class="ytc_video_container ytc_video_1 ytc_video_single ytc_playlist_only ar16_9"><div class="fluid-width-video-wrapper"><iframe src="//www.youtube.com/embed/videoseries?list=PLkf-BT0Dmke3Y4wFqVkdZTTlsKLu-Cm3d&theme=light" width="370" height="208" frameborder="0"></iframe></div><!-- .fluid-width-video-wrapper --></div><!-- .ytc_video_container --></div><!-- .youtube_channel --><div class="clearfix"></div></div>
+<div class="middle-widget_banner">
+<div id="banner180_wr">
+<div id="banner180_cat_sx">
+</div><!---banner180_cat_sx-->
+<div id="banner180_cat_dx"> 
+</div><!---banner180_cat_dx-->            
+</div><!---banner180_wr-->        
+<div id="banner180_wr">
+<div id="banner180_cat_sx">
+</div><!---banner180_cat_sx-->
+<div id="banner180_cat_dx"> 
+</div><!---banner180_cat_dx-->            
+</div><!---banner180_wr-->        
+</div><!---middle-widget_banner-->  
+<div class="sidebar-widget">
+<div class="stroke_v"><h3>canali Youtube</h3> </div>
+<div id="banner180_wr">
+<div id="banner180_cat_sx">
+<a href="https://www.youtube.com/user/pupia2
+" target="_blank">
+<img alt="Youtube Pupia Campania" src="http://www.pupia.tv/wp-content/themes/pupia/images/p-camp.jpeg" height="70px" width="70px">
+</a>
+<a href="https://www.youtube.com/user/pupianews
+" target="_blank">
+<img alt="Youtube Pupia News" src="http://www.pupia.tv/wp-content/themes/pupia/images/p-news.jpeg" height="70px" width="70px">
+</a>
+<a href="https://www.youtube.com/user/pupiavideo
+" target="_blank">
+<img alt="Youtube Pupia Crime" src="http://www.pupia.tv/wp-content/themes/pupia/images/p-crime.jpeg" height="70px" width="70px">
+</a>
+<a href="https://www.youtube.com/user/PupiaMusic" target="_blank">
+<img alt="Youtube Pupia Music" src="http://www.pupia.tv/wp-content/themes/pupia/images/p-music.jpeg" height="70px" width="70px">
+</a>
+<a href="https://www.youtube.com/user/pupiaTv
+" target="_blank">
+<img alt="Youtube Pupia Wild" src="http://www.pupia.tv/wp-content/themes/pupia/images/p-wild.jpeg" height="70px" width="70px">
+</a>
+</div><!---banner180_cat_sx-->
+</div><!---banner180_wr-->        
+</div><!---sidebar-widget-->  
+<div class="middle-widget">
+<div id="banner336_280_wr">
+</div><!---banner336_280_wr-->  
+</div><!---middle-widget-->      
+<div class="widget_text sidebar-widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="middle-widget">
+<div id="banner336_280_wr">
+<div class="ads"><!-- Inizio codice Half page (max 300x600) eADV.it per il sito pupia.tv -->
+<!-- Fine codice Half page (max 300x600) eADV.it per il sito pupia.tv --></div>
+</div><!---banner336_280_wr-->  
+</div><!---middle-widget--> </div></div><div class="sidebar-widget widget_custom-twitter-feeds-widget"><div class="stroke_w"><h3>Twitter</h3></div><!-- Custom Twitter Feeds by Smash Balloon --><div id="ctf" class="ctf ctf-type-usertimeline  ctf-styles" style="width: 100%;" data-ctfshortcode="{}" data-ctfneeded="0"><div class="ctf-header ctf-no-bio" style=""><a href="https://twitter.com/PupiaTv" target="_blank" title="@PupiaTv" class="ctf-header-link"><div class="ctf-header-text"><p class="ctf-header-user" style=""><span class="ctf-header-name">Pupia</span><span class="ctf-header-follow"><i class="fa fab fa-twitter " aria-hidden="true"></i>Follow</span></p></div><div class="ctf-header-img"><div class="ctf-header-img-hover"><i class="fa fab fa-twitter" aria-hidden="true"></i></div><img src="https://pbs.twimg.com/profile_images/1899351263/avatar_normal.jpg" alt="Pupia" width="48" height="48"></div></a></div><div class="ctf-tweets"><div class="ctf-item ctf-author-pupiatv ctf-new" id="1110965202340724736" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/PupiaTv" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1899351263/avatar_normal.jpg" alt="PupiaTv" width="48" height="48"></a><a href="https://twitter.com/PupiaTv" target="_blank" class="ctf-author-name" style="">Pupia</a><a href="https://twitter.com/PupiaTv" class="ctf-author-screenname" target="_blank" style="">@PupiaTv</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/PupiaTv/status/1110965202340724736" class="ctf-tweet-date" target="_blank" style="">03/27/19</a></div></div> <!-- end .ctf-author-box-link --></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Sospetta presenza di corpi estranei in zucchero prodotto a Gricignano: richiamo del Ministero - https://t.co/4lYWWZ6kY4 </p><a href="https://twitter.com/PupiaTv/status/1110965202340724736" target="_blank" class="ctf-tweet-text-media-wrap"><i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></a></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1110965202340724736&related=PupiaTv" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply" aria-hidden="true"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1110965202340724736&related=PupiaTv" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet" aria-hidden="true"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count"></span></a><a href="https://twitter.com/intent/like?tweet_id=1110965202340724736&related=PupiaTv" class="ctf-like" target="_blank" style=""><i class="fa fa-heart" aria-hidden="true"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count"></span></a></div></div><div class="ctf-item ctf-author-pupiatv ctf-new" id="1110959720599339008" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/PupiaTv" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1899351263/avatar_normal.jpg" alt="PupiaTv" width="48" height="48"></a><a href="https://twitter.com/PupiaTv" target="_blank" class="ctf-author-name" style="">Pupia</a><a href="https://twitter.com/PupiaTv" class="ctf-author-screenname" target="_blank" style="">@PupiaTv</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/PupiaTv/status/1110959720599339008" class="ctf-tweet-date" target="_blank" style="">03/27/19</a></div></div> <!-- end .ctf-author-box-link --></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Cesa, gli allievi del maestro Turco trionfano alle regionali Fik di Karate - https://t.co/KIw1UHzyS0 </p><a href="https://twitter.com/PupiaTv/status/1110959720599339008" target="_blank" class="ctf-tweet-text-media-wrap"><i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></a></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1110959720599339008&related=PupiaTv" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply" aria-hidden="true"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1110959720599339008&related=PupiaTv" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet" aria-hidden="true"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count"></span></a><a href="https://twitter.com/intent/like?tweet_id=1110959720599339008&related=PupiaTv" class="ctf-like" target="_blank" style=""><i class="fa fa-heart" aria-hidden="true"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count"></span></a></div></div><div class="ctf-item ctf-author-pupiatv ctf-new" id="1110958554775728130" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/PupiaTv" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1899351263/avatar_normal.jpg" alt="PupiaTv" width="48" height="48"></a><a href="https://twitter.com/PupiaTv" target="_blank" class="ctf-author-name" style="">Pupia</a><a href="https://twitter.com/PupiaTv" class="ctf-author-screenname" target="_blank" style="">@PupiaTv</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/PupiaTv/status/1110958554775728130" class="ctf-tweet-date" target="_blank" style="">03/27/19</a></div></div> <!-- end .ctf-author-box-link --></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Caserta, torna in carcere il "re del pane" dopo le accuse del figlio di "Sandokan" - https://t.co/VLIOSTKvae </p><a href="https://twitter.com/PupiaTv/status/1110958554775728130" target="_blank" class="ctf-tweet-text-media-wrap"><i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></a></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1110958554775728130&related=PupiaTv" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply" aria-hidden="true"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1110958554775728130&related=PupiaTv" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet" aria-hidden="true"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count"></span></a><a href="https://twitter.com/intent/like?tweet_id=1110958554775728130&related=PupiaTv" class="ctf-like" target="_blank" style=""><i class="fa fa-heart" aria-hidden="true"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count"></span></a></div></div><div class="ctf-item ctf-author-pupiatv ctf-new" id="1110946349476921349" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/PupiaTv" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/1899351263/avatar_normal.jpg" alt="PupiaTv" width="48" height="48"></a><a href="https://twitter.com/PupiaTv" target="_blank" class="ctf-author-name" style="">Pupia</a><a href="https://twitter.com/PupiaTv" class="ctf-author-screenname" target="_blank" style="">@PupiaTv</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/PupiaTv/status/1110946349476921349" class="ctf-tweet-date" target="_blank" style="">03/27/19</a></div></div> <!-- end .ctf-author-box-link --></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Prato, arrestata l'insegnante che avuto figlio con un 15enne - https://t.co/VvBZySMR3T </p><a href="https://twitter.com/PupiaTv/status/1110946349476921349" target="_blank" class="ctf-tweet-text-media-wrap"><i style="padding-right: 5px;" class="fa fa-picture-o ctf-tweet-text-media" aria-hidden="true"></i></a></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=1110946349476921349&related=PupiaTv" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply" aria-hidden="true"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1110946349476921349&related=PupiaTv" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet" aria-hidden="true"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count"></span></a><a href="https://twitter.com/intent/like?tweet_id=1110946349476921349&related=PupiaTv" class="ctf-like" target="_blank" style=""><i class="fa fa-heart" aria-hidden="true"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count"></span></a></div></div></div></div></div><div class="widget_text sidebar-widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="middle-widget">
+<div id="banner336_280_wr">
+</div><!---banner336_280_wr-->
+</div><!---middle-widget--></div></div><div class="widget_text sidebar-widget widget_custom_html"><div class="stroke_w"><h3>Dailymotion</h3></div><div class="textwidget custom-html-widget"><div class="dailymotion-widget" data-placement="5aa456e0769dac012b187e9d"></div>
+</div></div><div class="widget_text sidebar-widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="middle-widget">
+<div id="banner336_280_wr">
+</div><!---banner336_280_wr-->
+</div><!---middle-widget--></div></div> 
+<div class="middle-widget">
+<div id="banner336_280_wr">
+</div><!---banner336_280_wr-->  
+</div><!---middle-widget-->      
+<div class="sidebar-widget">
+<div class="stroke_v"><h3>Facebook</h3> </div>
+<div class="fb-like-box" data-href="https://www.facebook.com/PupiaFanPage" data-width="370" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div><!--fb-like-box-->
+</div> <!--sidebar-widget-->
+<div class="middle-widget">
+<div id="banner336_280_wr">
+<div class="pupia-9" id="pupia-739452199"><div class="ads"><!-- Begin BidVertiser code -->
+<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=184777&bid=448702" TYPE="text/javascript"></SCRIPT>
+<!-- End BidVertiser code --></div></div>                </div><!---banner336_280_wr-->  
+</div><!---middle-widget-->      
+<div id="banner300_600">
+<div class="pupia-31" id="pupia-1887952805"><div class="ads">
+</div></div> 
+</div><!-- -banner300_600-->       
+</div><!--side-home-->
+</div><!--sidebar-home-wrapper-->
+<div id="bottom-widget">
+<div class="sidebar-widget">
+<div class="multi-category-container">
+<ul class="multi-category">
+<li>
+<h3>Cronaca</h3>
+<div class="multi-category-image">
+<a href="https://www.pupia.tv/2019/03/canali/cronaca/sospetta-presenza-di-corpi-estranei-in-zucchero-prodotto-a-gricignano-richiamo-del-ministero/440124" rel="bookmark" title="Sospetta presenza di corpi estranei in zucchero prodotto a Gricignano: richiamo del Ministero"><img width="199" height="199" src="https://www.pupia.tv/wp-content/uploads/2019/03/sud-zuccheri-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="https://www.pupia.tv/wp-content/uploads/2019/03/sud-zuccheri-199x199.jpg 199w, https://www.pupia.tv/wp-content/uploads/2019/03/sud-zuccheri-150x150.jpg 150w, https://www.pupia.tv/wp-content/uploads/2019/03/sud-zuccheri-300x300.jpg 300w, https://www.pupia.tv/wp-content/uploads/2019/03/sud-zuccheri-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div class="multi-category-text">
+<a href="https://www.pupia.tv/2019/03/canali/cronaca/sospetta-presenza-di-corpi-estranei-in-zucchero-prodotto-a-gricignano-richiamo-del-ministero/440124">Sospetta presenza di corpi estranei in zucchero prodotto a Gricignano: richiamo del Ministero</a>
+</div><!--multi-category-text-->
+</div><!--multi-category-image-->
+<div class="multi-category-headlines">
+<ul class="multi-category-headlines">
+<li><a href="https://www.pupia.tv/2019/03/canali/cronaca/caserta-torna-in-carcere-il-re-del-pane-dopo-le-accuse-del-figlio-di-sandokan/440118" rel="bookmark">Caserta, torna in carcere il &#8220;re del pane&#8221; dopo le accuse del figlio di &#8220;Sandokan&#8221;</a></li> 
+<li><a href="https://www.pupia.tv/2019/03/canali/cronaca/prato-arrestata-linsegnante-che-avuto-figlio-con-un-15enne/440109" rel="bookmark">Prato, arrestata l&#8217;insegnante che avuto figlio con un 15enne</a></li> 
+<li><a href="https://www.pupia.tv/2019/03/canali/cronaca/milano-droga-e-soldi-nascosti-nel-cruscotto-dellauto-arrestato/440099" rel="bookmark">Milano, droga e soldi nascosti nel cruscotto dell&#8217;auto: arrestato</a></li> 
+<li><a href="https://www.pupia.tv/2019/03/canali/cronaca/gioia-tauro-donna-sequestrata-nel-suo-negozio-dallex-compagno/440094" rel="bookmark">Gioia Tauro, donna sequestrata nel suo negozio dall&#8217;ex compagno</a></li> 
+</ul>
+</div><!--multi-category-headlines-->
+</li>
+<li>
+<h3>Politica</h3>
+<div class="multi-category-image">
+<a href="https://www.pupia.tv/2019/03/canali/politica/mondragone-2/440105" rel="bookmark" title="Mondragone, al via lavori del Grande Progetto Bandiera Blu"><img width="199" height="199" src="https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1-199x199.jpg 199w, https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1-150x150.jpg 150w, https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1-468x468.jpg 468w, https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1-300x300.jpg 300w, https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1-120x120.jpg 120w, https://www.pupia.tv/wp-content/uploads/2019/03/mondragone-lavori-3-1.jpg 469w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div class="multi-category-text">
+<a href="https://www.pupia.tv/2019/03/canali/politica/mondragone-2/440105">Mondragone, al via lavori del Grande Progetto Bandiera Blu</a>
+</div><!--multi-category-text-->
+</div><!--multi-category-image-->
+<div class="multi-category-headlines">
+<ul class="multi-category-headlines">
+<li><a href="https://www.pupia.tv/2019/03/canali/politica/san-salvatore-telesino-rapino-coniugi-88enni-e-resto-coinvolto-in-incidente-mortale-arrestato/440055" rel="bookmark">San Salvatore Telesino, rapinò coniugi 88enni e restò coinvolto in incidente mortale: arrestato</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/politica/aversa-ronza-candidato-sindaco-al-posto-di-de-cristofaro-i-due-smentiscono/440038" rel="bookmark">Aversa, Ronza candidato sindaco al posto di De Cristofaro? I due smentiscono</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/politica/elezioni-teverola-lusini-inaugura-comitato-elettorale-appuntamento-il-31-marzo/440025" rel="bookmark">Elezioni Teverola, Lusini inaugura comitato elettorale: appuntamento il 31 marzo</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/politica/brexit-parlamento-prende-il-controllo-may-non-intende-dimettersi/440002" rel="bookmark">Brexit, Parlamento prende il controllo. May non intende dimettersi</a></li>
+</ul>
+</div><!--multi-category-headlines-->
+</li>
+<li>
+<h3>Economia</h3>
+<div class="multi-category-image">
+<a href="https://www.pupia.tv/2019/03/canali/economia/napoli-ospita-il-congresso-mondiale-del-calzaturiero-world-footwear/439771" rel="bookmark" title="Napoli ospita il congresso mondiale del calzaturiero &#8220;World Footwear&#8221;"><img width="199" height="199" src="https://www.pupia.tv/wp-content/uploads/2019/03/calzat-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="https://www.pupia.tv/wp-content/uploads/2019/03/calzat-199x199.jpg 199w, https://www.pupia.tv/wp-content/uploads/2019/03/calzat-150x150.jpg 150w, https://www.pupia.tv/wp-content/uploads/2019/03/calzat-300x300.jpg 300w, https://www.pupia.tv/wp-content/uploads/2019/03/calzat-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div class="multi-category-text">
+<a href="https://www.pupia.tv/2019/03/canali/economia/napoli-ospita-il-congresso-mondiale-del-calzaturiero-world-footwear/439771">Napoli ospita il congresso mondiale del calzaturiero &#8220;World Footwear&#8221;</a>
+</div><!--multi-category-text-->
+</div><!--multi-category-image-->
+<div class="multi-category-headlines">
+<ul class="multi-category-headlines">
+<li><a href="https://www.pupia.tv/2019/03/aree/campania/napoli-presentato-nuovo-airbus-della-easyjet/439259" rel="bookmark">Napoli, presentato nuovo Airbus della Easyjet</a></li>
+<li><a href="https://www.pupia.tv/2019/02/canali/economia/aversa-yari-cecere-fra-i-30-giovani-talenti-europei-secondo-forbes/437128" rel="bookmark">Aversa, Yari Cecere fra i 30 giovani talenti europei secondo &#8220;Forbes&#8221;</a></li>
+<li><a href="https://www.pupia.tv/2019/01/canali/economia/aversa-ztl-associazioni-commercianti-chiedono-intervento-del-prefetto/435810" rel="bookmark">Aversa, Ztl: associazioni commercianti chiedono intervento del Prefetto</a></li>
+<li><a href="https://www.pupia.tv/2019/01/canali/economia/teverola-azienda-dellindotto-fca-pronta-a-investire-nel-sito-whirlpool/435083" rel="bookmark">Teverola, azienda dell&#8217;indotto Fca pronta a investire nel sito Whirlpool</a></li>
+</ul>
+</div><!--multi-category-headlines-->
+</li>
+<li>
+<h3>Società</h3>
+<div class="multi-category-image">
+<a href="https://www.pupia.tv/2019/03/canali/societa/cesa-il-comune-mette-in-vendita-i-suoi-terreni-a-succivo-e-lusciano/440130" rel="bookmark" title="Cesa, il Comune mette in vendita i suoi terreni a Succivo e Lusciano"><img width="199" height="199" src="https://www.pupia.tv/wp-content/uploads/2015/03/comune-di-cesa-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="https://www.pupia.tv/wp-content/uploads/2015/03/comune-di-cesa-199x199.jpg 199w, https://www.pupia.tv/wp-content/uploads/2015/03/comune-di-cesa-150x150.jpg 150w, https://www.pupia.tv/wp-content/uploads/2015/03/comune-di-cesa.jpg 468w, https://www.pupia.tv/wp-content/uploads/2015/03/comune-di-cesa-300x300.jpg 300w, https://www.pupia.tv/wp-content/uploads/2015/03/comune-di-cesa-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div class="multi-category-text">
+<a href="https://www.pupia.tv/2019/03/canali/societa/cesa-il-comune-mette-in-vendita-i-suoi-terreni-a-succivo-e-lusciano/440130">Cesa, il Comune mette in vendita i suoi terreni a Succivo e Lusciano</a>
+</div><!--multi-category-text-->
+</div><!--multi-category-image-->
+<div class="multi-category-headlines">
+<ul class="multi-category-headlines">
+<li><a href="https://www.pupia.tv/2019/03/canali/societa/gricignano-protesta-residenti-zona-nato-arrivando-anche-le-telecamere-del-tgr-rai/440071" rel="bookmark">Gricignano, protesta residenti Zona Nato: arrivano anche le telecamere del Tgr Rai</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/societa/casaluce-prendersi-cura-di-se-dopo-e-oltre-la-violenza-subita-convegno-in-aula-consiliare/440048" rel="bookmark">Casaluce, &#8220;Prendersi cura di sé&#8230;dopo e oltre la violenza subita&#8221;: convegno in aula consiliare</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/societa/gricignano-via-crucis-torna-il-14-aprile-e-nellattesa-proiezione-a-scuola-delledizione-2018/440040" rel="bookmark">Gricignano, Via Crucis torna il 14 aprile. E nell&#8217;attesa proiezione a scuola dell&#8217;edizione 2018</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/societa/aversa-i-giovani-del-servizio-civile-accolti-dal-commissario-lastella/440041" rel="bookmark">Aversa, i giovani del Servizio Civile accolti dal commissario Lastella</a></li>
+</ul>
+</div><!--multi-category-headlines-->
+</li>
+<li>
+<h3>Spettacoli</h3>
+<div class="multi-category-image">
+<a href="https://www.pupia.tv/2019/03/canali/spettacoli/napoli-torna-piano-city-250-eventi-gratuiti-con-700-pianisti/439928" rel="bookmark" title="Napoli, torna &#8220;Piano City&#8221;: 250 eventi gratuiti con 700 pianisti"><img width="199" height="199" src="https://www.pupia.tv/wp-content/uploads/2019/03/piano-city-Copia-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="https://www.pupia.tv/wp-content/uploads/2019/03/piano-city-Copia-199x199.jpg 199w, https://www.pupia.tv/wp-content/uploads/2019/03/piano-city-Copia-150x150.jpg 150w, https://www.pupia.tv/wp-content/uploads/2019/03/piano-city-Copia.jpg 300w, https://www.pupia.tv/wp-content/uploads/2019/03/piano-city-Copia-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div class="multi-category-text">
+<a href="https://www.pupia.tv/2019/03/canali/spettacoli/napoli-torna-piano-city-250-eventi-gratuiti-con-700-pianisti/439928">Napoli, torna &#8220;Piano City&#8221;: 250 eventi gratuiti con 700 pianisti</a>
+</div><!--multi-category-text-->
+</div><!--multi-category-image-->
+<div class="multi-category-headlines">
+<ul class="multi-category-headlines">
+<li><a href="https://www.pupia.tv/2019/03/canali/spettacoli/aversa-il-corto-su-cimarosa-di-loris-arduino-approda-in-marocco/439757" rel="bookmark">Aversa, il corto su Cimarosa di Loris Arduino approda in Marocco</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/spettacoli/aversa-lo-jommelli-cimarosa-festival-si-fara-appuntamento-il-6-aprile/439727" rel="bookmark">Aversa, lo Jommelli/Cimarosa Festival si farà: appuntamento il 6 aprile</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/spettacoli/aversa-concerto-dorgano-allabbazia-di-san-lorenzo-in-onore-di-san-benedetto/439507" rel="bookmark">Aversa, concerto d&#8217;organo all&#8217;Abbazia di San Lorenzo in onore di San Benedetto</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/spettacoli/aversa-romeo-e-giulietta-in-versione-rock-al-teatro-cimarosa/439337" rel="bookmark">Aversa, Romeo e Giulietta in versione rock al Teatro Cimarosa</a></li>
+</ul>
+</div><!--multi-category-headlines-->
+</li>
+<li>
+<h3>Sport</h3>
+<div class="multi-category-image">
+<a href="https://www.pupia.tv/2019/03/canali/sport/cesa-gli-allievi-del-maestro-turco-trionfano-alle-regionali-fik-di-karate/440121" rel="bookmark" title="Cesa, gli allievi del maestro Turco trionfano alle regionali Fik di Karate"><img width="199" height="199" src="https://www.pupia.tv/wp-content/uploads/2019/03/cesa-199x199.jpg" class="attachment-medium-thumb size-medium-thumb wp-post-image" alt="" srcset="https://www.pupia.tv/wp-content/uploads/2019/03/cesa-199x199.jpg 199w, https://www.pupia.tv/wp-content/uploads/2019/03/cesa-150x150.jpg 150w, https://www.pupia.tv/wp-content/uploads/2019/03/cesa-300x300.jpg 300w, https://www.pupia.tv/wp-content/uploads/2019/03/cesa-120x120.jpg 120w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+<div class="multi-category-text">
+<a href="https://www.pupia.tv/2019/03/canali/sport/cesa-gli-allievi-del-maestro-turco-trionfano-alle-regionali-fik-di-karate/440121">Cesa, gli allievi del maestro Turco trionfano alle regionali Fik di Karate</a>
+</div><!--multi-category-text-->
+</div><!--multi-category-image-->
+<div class="multi-category-headlines">
+<ul class="multi-category-headlines">
+<li><a href="https://www.pupia.tv/2019/03/canali/sport/aversa-il-baby-pilota-alessandro-scaringia-in-pista-alle-wsk-super-master-series/439395" rel="bookmark">Aversa, il baby pilota Alessandro Scaringia in pista alle Wsk Super Master Series</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/sport/gricignano-torneo-di-pasqua-al-campo-di-calcetto-al-via-iscrizioni/439310" rel="bookmark">Gricignano, Torneo di Pasqua al campo di calcetto: al via iscrizioni</a></li>
+<li><a href="https://www.pupia.tv/2019/03/sport/frattaminore-la-squadra-di-pallavolo-del-novio-atellano-in-campionato-federale/439189" rel="bookmark">Frattaminore, la squadra di pallavolo del &#8220;Novio Atellano&#8221; in campionato federale</a></li>
+<li><a href="https://www.pupia.tv/2019/03/canali/sport/teverola-bronzo-di-improta-alla-maratona-di-roma-ostia/438716" rel="bookmark">Teverola, bronzo di Improta alla maratona di Roma-Ostia</a></li>
+</ul>
+</div><!--multi-category-headlines-->
+</li>
+</ul>
+</div><!--multi-category-container-->
+</div>
+</div><!--bottom-widget--> 
+</div><!--container-->
+<div id="wallpaper_pupia">
+<!-- <a href="" class="wallpaper-link"></a>-->
+</div><!--wallpaper_pupia-->
+</div><!--inner-wrapper-->
+</div><!--wrapper-->
+<div id="footer-top-wrapper"> 
+<div id="footer-top">
+</div><!--footer-top-->
+</div><!--footer-top-wrapper-->
+<div id="footer-bottom-wrapper">
+<div id="footer-bottom">
+<div id="footer-nav1">
+<div class="menu-menu_ist-container"><ul id="menu-menu_ist" class="menu"><li id="menu-item-1326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1326"><a href="http://www.pupia.tv/contattaci">Contattaci</a></li>
+<li id="menu-item-1327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1327"><a href="http://www.pupia.tv/dove-siamo">Dove siamo</a></li>
+<li id="menu-item-1851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1851"><a href="http://www.pupia.tv/la-tua-pubblicita-su-pupia-news">La tua pubblicità</a></li>
+<li id="menu-item-290735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290735"><a href="http://www.pupia.tv/lavora-con-noi">Lavora con noi</a></li>
+<li id="menu-item-428567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428567"><a href="http://www.pupia.tv/privacy-policy">Privacy</a></li>
+</ul></div>
+</div><!--footer-nav1-->
+<div id="copyright">
+<p>Pupia News - la tua informazione | P.IVA 03296370616 | Registrazione Tribunale di S.M.C.V. (Ce) n. 692 del 20/09/2007 | Copyright © 2014 | by ALA.</p>
+</div><!--copyright-->
+</div><!--footer-bottom-->
+</div><!--footer-bottom-wrapper-->
+</div><!--site-->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-1970979513055586",
+enable_page_level_ads: true
+});
+</script>
+<!-- Inizio codice Leaderboard (728x90) eADV.it per il sito pupia.tv -->
+<!-- Fine codice Leaderboard (728x90) eADV.it per il sito pupia.tv -->
+<!-- YouTube Channel 3 -->
+<div class="essb_mailform"><div class="essb_mailform_content"><p>Condividi con un amico</p><label class="essb_mailform_content_label">La tua Email</label><input type="text" id="essb_mailform_from" class="essb_mailform_content_input" placeholder="La tua Email"/><label class="essb_mailform_content_label">Email Destinatario</label><input type="text" id="essb_mailform_to" class="essb_mailform_content_input" placeholder="Email Destinatario"/><label class="essb_mailform_content_label">Inserisci il nome del sito. (pupia)</label><input type="text" id="essb_mailform_c" class="essb_mailform_content_input" placeholder="Fill captcha code"/><div class="essb_mailform_content_buttons"><button id="essb_mailform_btn_submit" class="essb_mailform_content_button" onclick="essb_mailform_send();">Invia</button><button id="essb_mailform_btn_cancel" class="essb_mailform_content_button" onclick="essb_close_mailform(); return false;">Cancella</button></div><input type="hidden" id="essb_mail_salt" value="1922176330"/><input type="hidden" id="essb_mail_instance" value=""/><input type="hidden" id="essb_mail_post" value=""/></div></div><div class="essb_mailform_shadow"></div><style>.essb-click-to-tweet {
+display: block;
+background: #60A8DC;
+position: relative;
+-moz-border-radius: 4px;
+border-radius: 4px;
+padding: 15px 15px 15px 30px;
+margin-bottom: 1em;
+color: #fff;
+cursor: pointer;
+-webkit-transition: all 0.3s ease;
+-moz-transition: all 0.3s ease;
+-ms-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;
+}
+.essb-click-to-tweet.essb-click-to-tweet-light {
+background: none;
+border-left: 5px solid #888;
+border-radius: 0px;
+}
+.essb-click-to-tweet.essb-click-to-tweet-qlite {
+background: none;
+border: 1px solid #efefef;
+border-radius: 0px;
+}
+.essb-click-to-tweet.essb-click-to-tweet-light:hover {
+background-color: rgba(88, 88, 88, 0.05);
+border-left: 5px solid #555;
+}
+.essb-click-to-tweet.essb-click-to-tweet-qlite:hover {
+background-color: rgba(88, 88, 88, 0.02);
+border: 1px solid #e1e1e1;
+}
+.essb-click-to-tweet.essb-click-to-tweet-dark {
+background: #333;
+border-left: 5px solid #999;
+border-radius: 0px;
+}
+.essb-click-to-tweet.essb-click-to-tweet-dark:hover {
+background: #111;
+border-left: 5px solid #cdcdcd;
+}
+.essb-click-to-tweet:hover {
+background-color: #2a7fbd;
+border-left: 3px solid #4499d6;
+}
+.essb-click-to-tweet:after {
+content: ".";
+display: block;
+clear: both;
+visibility: hidden;
+line-height: 0;
+height: 0;
+}
+.essb-click-to-tweet-quote {
+position: relative;
+color: #fff !important;
+font-size: 18px;
+line-height: 21px;
+font-weight: 100;
+text-decoration: none !important;
+text-transform: none !important;
+word-wrap: break-word;
+border-bottom: none !important;
+}
+.essb-click-to-tweet.essb-click-to-tweet-light .essb-click-to-tweet-quote {
+color: #555 !important;
+}
+.essb-click-to-tweet.essb-click-to-tweet-qlite .essb-click-to-tweet-quote {
+color: #333 !important;
+font-style: italic;
+}
+.essb-click-to-tweet.essb-click-to-tweet-dark .essb-click-to-tweet-quote {
+color: #fff !important;
+}
+.essb-click-to-tweet-button {
+margin: 0;
+display: block;
+text-transform: uppercase;
+font-size: .7em;
+font-weight: bold;
+color: #fff;
+text-align: right;
+text-decoration: none !important;
+}
+.essb-click-to-tweet-light .essb-click-to-tweet-button, .essb-click-to-tweet-qlite .essb-click-to-tweet-button {
+color: #555;
+}
+.essb-click-to-tweet-button-icon {
+background-size: 21px 21px;
+background-repeat: no-repeat;
+width: 21px;
+height: 21px;
+display: inline-block;
+float: right;
+margin-top: -3px;
+margin-left: 5px;
+font-size: 16px;
+}
+.essb-ctt-text a:hover {
+text-decoration: none;
+color: #fff !important;
+}
+.essb-click-to-tweet-qlite .essb-click-to-tweet-button-icon {
+color: #60A8DC;
+}</style>
+<div id="cookie-notice" role="banner" class="cn-bottom bootstrap" style="color: #fff; background-color: #81d742;"><div class="cookie-notice-container"><span id="cn-notice-text">Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito noi assumiamo che tu ne sia felice.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">Ok</a><a href="http://www.pupia.tv/utilizzo-dei-cookies" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap button">Leggi di più</a>
+</div>
+</div>
+<div id="fb-root"></div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"http:\/\/www.pupia.tv\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"yes","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/www.pupia.tv\/wp-admin\/admin-ajax.php","essb3_nonce":"52904c7e75","essb3_plugin_url":"http:\/\/www.pupia.tv\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":true,"essb3_counter_button_min":0,"essb3_counter_total_min":0,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"ajax_type":"wp","twitter_counter":"self","google_counter":"","essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","blog_url":"http:\/\/www.pupia.tv\/","essb3_postfloat_stay":false,"post_id":440130};</script>
+<script type="text/javascript">
+(function() {var id = 'eadv-1-' + Math.random().toString(36).substr(2) + (new Date().getTime());document.write(String.fromCharCode(60,115)+'cript async="async" defer="defer" type="text/javascript" id="' + id + '" sr' + 'c="https://www.eadv.it/track/?x=68-10356-6a-1-5d-0-11-12-1d-728x90-27-0-67&amp;u=pvutp.ia&amp;async=' + id + '">'+String.fromCharCode(60)+'/sc' + 'ript>');})();
+</script>
+<script type="text/javascript">
+var cb = Math.round(new Date().getTime());
+document.write('<scr'+'ipt type="text/javascript" src="'+ ('https:' == document.location.protocol ? 'https://' : 'http://') + 'optimized-by.4wnetwork.com/simply_loader.js?cb='+ cb +'"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+var cb = Math.round(new Date().getTime());
+document.write('<scr'+'ipt type="text/javascript" src="'+ ('https:' == document.location.protocol ? 'https://' : 'http://') + 'optimized-by.4wnetwork.com/simply_loader.js?cb='+ cb +'"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+(function() {var id = 'eadv-10-' + Math.random().toString(36).substr(2) + (new Date().getTime());document.write(String.fromCharCode(60,115)+'cript async="async" defer="defer" type="text/javascript" id="' + id + '" sr' + 'c="https://www.eadv.it/track/?x=32-10356-bc-10-fa-0-bd-12-57-300x600-67-0-f5-3004&amp;u=pvutp.ia&amp;async=' + id + '&amp;sticky">'+String.fromCharCode(60)+'/sc' + 'ript>');})();
+</script>
+<script type="text/javascript">
+var cb = Math.round(new Date().getTime());
+document.write('<scr'+'ipt type="text/javascript" src="'+ ('https:' == document.location.protocol ? 'https://' : 'http://') + 'optimized-by.4wnetwork.com/simply_loader.js?cb='+ cb +'"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+(function() {var id = 'eadv-1-' + Math.random().toString(36).substr(2) + (new Date().getTime());document.write(String.fromCharCode(60,115)+'cript async="async" defer="defer" type="text/javascript" id="' + id + '" sr' + 'c="https://www.eadv.it/track/?x=68-10356-6a-1-5d-0-11-12-1d-728x90-27-0-67&u=pvutp.ia&async=' + id + '&docked=bottom">'+String.fromCharCode(60)+'/sc' + 'ript>');})();
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctf = {"ajax_url":"http:\/\/www.pupia.tv\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.5","configurations":["top","page","mobile","main"],"ajax_url":"http:\/\/www.pupia.tv\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/www.pupia.tv\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","aria_role_navigation":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","theme_locations":{"main-menu":"Primary Menu","secondary-menu":"Secondary Menu","footer-menu":"Footer Menu","archive_menu":"Archive Menu"}};
+/* ]]> */
+</script>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+po.src = 'http://www.pupia.tv/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+po.src = 'http://www.pupia.tv/wp-content/plugins/easy-social-share-buttons3/assets/js/easy-social-share-buttons.min.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.pupia.tv\/","name":"Pupia.tv","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.pupia.tv\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/www.pupia.tv\/","sameAs":["https:\/\/www.facebook.com\/PupiaFanPage","http:\/\/it.linkedin.com\/pub\/pupia-tv\/15\/ab9\/736\/en","https:\/\/plus.google.com\/107904367718247689014\/posts","http:\/\/www.youtube.com\/user\/pupia2","https:\/\/twitter.com\/pupiatv"],"@id":"http:\/\/www.pupia.tv\/#organization","name":"Pupia.tv","logo":"http:\/\/www.pupia.tv\/wp-content\/uploads\/2015\/03\/logo7.png"}</script>
+<script type='text/javascript' src='http://www.pupia.tv/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.pupia.tv/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.pupia.tv/wp-content/plugins/cookie-notice/js/front.min.js'></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js'></script>
+<script type='text/javascript' src='http://www.pupia.tv/wp-includes/js/swfobject.js'></script>
+<script type="text/javascript" charset="utf-8">
+(function(){
+try {
+// Disabling SWFObject's Autohide feature
+if (typeof swfobject.switchOffAutoHideShow === "function") {
+swfobject.switchOffAutoHideShow();
+}
+} catch(e) {}
+})();
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4315240-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-4315240-2');
+</script>
+<script async="async" data-cfasync="false" src="//native.propellerclick.com/1?z=2434517&eid="></script>
+<script type="text/javascript">
+var pa_cat = "212";
+jQuery(function () {
+jQuery('a').mousedown(function (ev) {
+if (ev.which == 2 || ev.which == 3  )
+{
+//Probablile apertura nuova tab, conserva nome area corrente
+jQuery("#main-nav a, #top-menu a").attr('href', function (i, h) {
+if (h.indexOf('pa_cat=') != -1) {
+return h;
+} else {
+return h + (h.indexOf('?') != -1 ? "pa_cat=" + pa_cat : "?pa_cat=" + pa_cat);
+}
+});
+}//end rightclick
+}); //end mousedown
+jQuery(window).blur(function () {
+//Probablile passaggio di tab/finestra, conserva nome area corrente
+jQuery("#main-nav a, #top-menu a").attr('href', function (i, h) {
+if (h.indexOf('pa_cat=') != -1) {
+return h;
+} else {
+return h + (h.indexOf('?') != -1 ? "&pa_cat=" + pa_cat : "?pa_cat=" + pa_cat);
+}
+});
+});
+});
+</script>
+<script type="text/javascript">
+simply_publisher = 72225;
+simply_domain = 106550;
+simply_space = 221692;
+simply_ad_height = 60;
+simply_ad_width = 468;
+simply_callback = '';
+</script>
+<script type="text/javascript">
+simply_publisher = 72225;
+simply_domain = 106550;
+simply_space = 221692;
+simply_ad_height = 60;
+simply_ad_width = 468;
+simply_callback = '';
+</script>
+<script>(function(w,d,s,u,n,e,c){w.PXLObject = n; w[n] = w[n] || function(){(w[n].q =w[n].q || []).push(arguments);};w[n].l = 1 * new Date();e = d.createElement(s); e.async = 1; e.src = u;c = d.getElementsByTagName(s)[0]; c.parentNode.insertBefore(e,c);})(window, document, "script", "//api.dmcdn.net/pxl/client.js","pxl");</script>
+<script type="text/javascript">
+simply_publisher = 72225;
+simply_domain = 106550;
+simply_space = 221696;
+simply_ad_height = 600;
+simply_ad_width = 300;
+simply_callback = 'http://www.pupia.tv/';
+</script>
+<script type="text/javascript">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script>
+<script defer async type='text/javascript' src='http://www.pupia.tv/wp-content/themes/pupia/js/jquery.resizeimagetoparent.min.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/themes/pupia/js/jquery.elastislide.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/themes/pupia/js/scripts.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/themes/pupia/js/respond.min.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/themes/pupia/js/retina.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js'></script>
+<script defer type='text/javascript' src='http://www.pupia.tv/wp-includes/js/wp-embed.min.js'></script>
+<script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){var essb_mailform_opened = false; function essb_open_mailform(unique_id) { jQuery.fn.extend({ center: function () { return this.each(function() { var top = (jQuery(window).height() - jQuery(this).outerHeight()) / 2; var left = (jQuery(window).width() - jQuery(this).outerWidth()) / 2; jQuery(this).css({position:'fixed', margin:0, top: (top > 0 ? top : 0)+'px', left: (left > 0 ? left : 0)+'px'}); }); } }); if (essb_mailform_opened) { essb_close_mailform(unique_id); return; } var sender_element = jQuery(".essb_"+unique_id); if (!sender_element.length) return; var sender_post_id = jQuery(sender_element).attr("data-essb-postid") || ""; jQuery("#essb_mail_instance").val(unique_id); jQuery("#essb_mail_post").val(sender_post_id); var win_width = jQuery( window ).width(); var win_height = jQuery(window).height(); var doc_height = jQuery('document').height(); var base_width = 300; if (win_width < base_width) { base_width = win_width - 30; } var height_correction = 20; var element_class = ".essb_mailform"; var element_class_shadow = ".essb_mailform_shadow"; jQuery(element_class).css( { width: base_width+'px'}); var popup_height = jQuery(element_class).outerHeight(); if (popup_height > (win_height - 30)) { jQuery(element_class).css( { height: (win_height - height_correction)+'px'}); } jQuery("#essb_mailform_from").val(""); jQuery("#essb_mailform_to").val(""); if (jQuery("#essb_mailform_c").length) jQuery("#essb_mailform_c").val(""); jQuery(element_class_shadow).css( { height: (win_height)+'px'}); jQuery(element_class).center(); jQuery(element_class).slideDown(200); jQuery(element_class_shadow).fadeIn(200); essb_mailform_opened = true; essb.tracking_only("", "mail", unique_id); }; function essb_close_mailform() { var element_class = ".essb_mailform"; var element_class_shadow = ".essb_mailform_shadow"; jQuery(element_class).fadeOut(200); jQuery(element_class_shadow).fadeOut(200); essb_mailform_opened = false; }; function essb_mailform_send() { var sender_email = jQuery("#essb_mailform_from").val(); var recepient_email = jQuery("#essb_mailform_to").val(); var captcha_validate = jQuery("#essb_mailform_c").length ? true : false; var captcha = captcha_validate ? jQuery("#essb_mailform_c").val() : ""; var custom_message = jQuery("#essb_mailform_custom").length ? jQuery("#essb_mailform_custom").val() : ""; if (sender_email == "" || recepient_email == "" || (captcha == "" && captcha_validate)) { alert("Please fill all fields in form"); return; } var mail_salt = jQuery("#essb_mail_salt").val(); var instance_post_id = jQuery("#essb_mail_post").val(); console.log("mail salt = " + mail_salt); if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { "action": "essb_mail_action", "post_id": instance_post_id, "from": sender_email, "to": recepient_email, "c": captcha, "cu": custom_message, "salt": mail_salt, "nonce": essb_settings.essb3_nonce }, function (data) { if (data) { console.log(data); alert(data["message"]); if (data["code"] == "1") essb_close_mailform(); }},'json'); } };});</script>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&appId=431971606958169&version=v2.0&status=0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){	
+jQuery(function($) {
+jQuery('.attachment-slider-thumb').resizeToParent({parent: '.flexslider'});  
+});});</script>
+<script type="text/javascript">document.addEventListener('DOMContentLoaded',function(){
+jQuery(document).ready(function () {
+jQuery('#main-nav li:nth-child(2)').addClass('current-menu-item');
+});});</script>
+<script type='text/javascript'>document.addEventListener('DOMContentLoaded',function(){
+jQuery(document).ready(function($){
+var aboveHeight = $('#top-wrapper').outerHeight();
+$(window).scroll(function(){
+if ($(window).scrollTop() > aboveHeight){
+$('#nav').addClass('fixed-nav').css('top','0').next()
+.css('padding-top','43px');
+//$('#wallpaper_pupia').addClass('fixed-wall');
+} else {
+$('#nav').removeClass('fixed-nav').next()
+.css('padding-top','0');
+//$('#wallpaper_pupia').removeClass('fixed-wall');
+}
+});
+if (($('#wallpaper_pupia').children().length > 0 ) || ($('#wallpaper_pupia_l').children().length > 0 )) {
+$('#content').css('margin-top','90px');
+}
+});});</script>
+</body> 
+</html><!-- WP Fastest Cache file was created in 1.8996140956879 seconds, on 27-03-19 19:31:32 -->

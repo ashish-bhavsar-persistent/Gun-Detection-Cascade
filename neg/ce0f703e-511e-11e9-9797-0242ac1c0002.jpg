@@ -1,0 +1,553 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head id="Head1">
+    <!-- <script type="text/javascript">(function (e, t) { function n() { var e = ""; if (window.orientation == undefined) { e = window.innerWidth } else { e = window.orientation == 0 ? window.screen.width : window.screen.height; if (window.devicePixelRatio) { e = e / window.devicePixelRatio } } return e } if (document.location.search.match(/evo=s/) != null) { document.cookie = "evo=s" } else if (document.location.search.match(/evo=d/) != null) { document.cookie = "evo=d" } else if (document.location.search.match(/evo=0/) != null) { document.cookie = "evo=;expires=Thu, 01 Jan 1970 00:00:00 GMT" } e.Remix = { points: [+(new Date)], tagVersion: [1, 0] }; var r; var i = /remix-path=($|;)/.test(t.cookie); var s; var e = navigator.userAgent; var o = n(); if (document.cookie.match(/evo=s/) != null) { url_smartphone = "//test.evomob.com/0416669f3c/smartphone/remix.js" } else if (document.cookie.match(/evo=d/) != null) { url_smartphone = "//platform.evomob.com/0416669f3c/smartphone/remix.js" } else { url_smartphone = "//live.evomob.com/0416669f3c/smartphone/remix.js"; } if (r = e.match(new RegExp("ip(hone|od)|android.*mobile|blackberry.*applewebkit.*mobile|mobile.*firefox", "i"))) { s = url_smartphone; if (!r || i) { return } t.write('<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" /><style>html:after {content:url("//images.evomob.com/header_images/0416669f3c/smartphone/original-bgrepeat.jpg");background: url("//images.evomob.com/header_images/0416669f3c/smartphone/original-logo.jpg") top left no-repeat, url("//images.evomob.com/header_images/0416669f3c/smartphone/original-btnright.jpg") top right no-repeat,url("//images.evomob.com/header_images/0416669f3c/smartphone/original-bgrepeat.jpg") top repeat-x, url("//images.evomob.com/header_images/0416669f3c/smartphone/original-spinnerlarge.gif") center no-repeat;background-size: 154px, 90px, 1px, auto;width: 100%;height:100%;color: #038def;position: absolute;top: 0;text-align:center;z-index: -1;}</style><plaintext style="display:none">') } else { s = false } if (s) { setTimeout(function () { var e = t.createElement("script"); var n = t.getElementsByTagName("script")[0]; e.src = s; n.parentNode.insertBefore(e, n) }) } })(this, document)</script> -->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" /><link rel="icon" href="http://www.wuz.it/img/favicon.ico" /><link href="/Styles/reset.css" rel="stylesheet" type="text/css" /><link href="/Styles/Site.css" rel="stylesheet" type="text/css" /><link href="/Styles/font.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Scripts/jquery.1.9.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Styles/ddsmoothmenu.css" /><link rel="stylesheet" type="text/css" href="/Styles/ddsmoothmenu-v.css" /><link href="/Styles/Paginator/WuzPaginator.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Scripts/cross_pages_scripts.js"></script>
+    
+    <script type="text/javascript" src="/Scripts/ddsmoothmenu.js">
+		/***********************************************
+		* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+		* This notice MUST stay intact for legal use
+		* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+		***********************************************/
+    </script>
+
+    <script type="text/javascript" src="/Scripts/Paginator/jquery.paginateWuz.js"> </script>
+    <script type="text/javascript" src="/Scripts/Paginator/WuzPaginationRender.js" > </script>
+    
+
+    <script type="text/javascript">
+         OAS_sitepage = 'wuz.it/other'; OAS_listpos= 'Top,TopLeft,Middle1'; OAS_query = '';  OAS_sitepage_promo = 'wuz-promo.it/other'; OAS_listpos_promo = 'Top,TopLeft,Middle1';OAS_query_promo = '';
+    </script>
+
+    <script type="text/javascript" src="/Scripts/wuz_setup.js"></script>
+    <script type="text/javascript" src="/Scripts/WuzCommon.min.js"></script>
+    <script type="text/javascript" src="/Scripts/json2.js"></script>
+    <script type="text/javascript" src="/Scripts/Common.js"></script>
+        
+    <script type="text/javascript">
+        var urlLogin = '/Login.aspx?ret=%2fansa%2fla%2f02%2f2007-09-02_102113790.jpg';
+        var urlAjaxWS = 'http://www.wuz.it/Service/WuzService.svc';
+
+        ddsmoothmenu.init({
+            mainmenuid: "smoothmenu1", //menu DIV id
+            orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+            classname: 'ddsmoothmenu', //class added to menu's outer DIV
+            //customtheme: ["#1c5a80", "#18374a"],
+            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+        })
+
+        ddsmoothmenu.init({
+            mainmenuid: "smoothmenu2", //Menu DIV id
+            orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+            classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+            //customtheme: ["#804000", "#482400"],
+            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+        })
+    </script>
+    <script type="text/javascript">
+        function GetFullPageName() {
+            var sPath = window.location.pathname;
+
+            return sPath;
+        }
+
+        function Contains(s, subs) {
+            if (s.indexOf(subs) != -1)
+                return true;
+            else return false;
+        }
+
+        function OnMouseIn(elem) {
+            elem.className = "selection";
+        }
+
+        function OnMouseOut(elem) {
+            elem.className = "";
+        }
+    </script>
+    <meta name="google-site-verification" content="T7w70OyIXJpmULJ2TONZ3nG2p2m0Hykc7K6-gVodVuo" /></head>
+<body>
+    
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    
+
+    <form method="post" action="./2007-09-02_102113790.jpg?404%3bhttp%3a%2f%2fwww.wuz.it%3a80%2fansa%2fla%2f02%2f2007-09-02_102113790.jpg" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIFD2QWCmYPEA8WAh4LXyFEYXRhQm91bmRnZBAVAyJMYSByZXRlIGRpIHByb3RlemlvbmUgZGkgQW5kcmVhIENhIklsIG1ldG9kbyBDYXRhbGFub3R0aSBkaSBBbmRyZWEgQ2EZTCdvcm9zY29wbyBkZWkgbGlicmkgMjAxORUDYGh0dHA6Ly93dXouaXQvcmVjZW5zaW9uZS1saWJyby85MTQzL3JldGUtcHJvdGV6aW9uZS1hbmRyZWEtY2FtaWxsZXJpLWNvbW1pc3NhcmlvLW1vbnRhbGJhbm8uaHRtbGNodHRwOi8vd3V6Lml0L3JlY2Vuc2lvbmUtbGlicm8vOTE0NC9tZXRvZG8tY2F0YWxhbm90dGktYW5kcmVhLWNhbWlsbGVyaS1jb21taXNzYXJpby1tb250YWxiYW5vLmh0bWwoaHR0cHM6Ly93d3cuaWJzLml0L29mZmVydGUvb3Jvc2NvcG8tMjAxORQrAwNnZ2cWAGQCAQ8QDxYCHwBnZBAVAwpQT0VydHJhaXRzIkxlIExlIGFjY2FkZW1pZSBlIGxlIHRyYXNmb3JtYXppb24cTW9tZW50aSBtYWdpY2kuIENvbG9yYSDDqCBpbhUDMS9saWJyby9QT0VydHJhaXRzL1JvY2NoaS1NYXJjby85Nzg4ODk5NTg3Mjc3Lmh0bWw6L2xpYnJvL2FjY2FkZW1pZS10cmFzZm9ybWF6aW9uaS1kZWxsYS8wLzk3ODg4OTQ4MTAwMDQuaHRtbDEvbGlicm8vTW9tZW50aS1tYWdpY2ktQ29sb3JhLzAvOTc4ODQxNjUwNDgyNC5odG1sFCsDA2dnZxYAZAICDxAPFgIfAGdkEBUAFQAUKwMAFgBkAgMPEA8WAh8AZ2QQFQMZSWwgbWFnbyBkaSBPeiAtIFJpYXNzdW50bx9JbCBmdSBNYXR0aWEgUGFzY2FsIC0gUmlhc3N1bnRvHVVuYSB2aXRhIHZpb2xlbnRhIC0gUmlhc3N1bnRvFQMpL3JpYXNzdW50by1saWJyaS84MDgzL01hZ28tUmlhc3N1bnRvLmh0bWwyL3JpYXNzdW50by1saWJyaS80NzUzL1JpYXNzdW50by1NYXR0aWEtUGFzY2FsLmh0bWxKL3JpYXNzdW50by1saWJyaS84NTM1L1VuYS12aXRhLXZpb2xlbnRhLXJpYXNzdW50by1QaWVyLVBhb2xvLVBhc29saW5pLmh0bWwUKwMDZ2dnFgBkAgQPEA8WAh8AZ2QQFQMiQ0lORU1BIC0gQmlvZ3JhZmlhIGUgRmlsbW9ncmFmaWEgZCJDSU5FTUEgLSBFbW96aW9uaSwgc2VudGltZW50aSBlIG9yHEludGVydmlzdGEgYSBNYXJpbyBNb25pY2VsbGkVAyovYXBwdW50aS1zY3VvbGEvOC9CaW9ncmFmaWEtVHJ1ZmZhdWx0Lmh0bWw2L2FwcHVudGktc2N1b2xhLzQ2MC9JbnRlcnZpc3RhLUdpdXNlcHBlLVRvcm5hdG9yZS5odG1sLS9hcHB1bnRpLXNjdW9sYS81NDUvSW50ZXJ2aXN0YS1Nb25pY2VsbGkuaHRtbBQrAwNnZ2cWAGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgUFDGN0bDAwJHJiQm9vawULY3RsMDAkcmJXdXoFC2N0bDAwJHJiV3V6BQxjdGwwMCRyYlVzZXIFDGN0bDAwJHJiVXNlcgglFyIYaFE1TLcixyhpLVm+wM+Y" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"it-IT","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"Non un numero reale","CurrencyNegativePattern":9,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Infinito","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"+Infinito","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["dom","lun","mar","mer","gio","ven","sab"],"ShortestDayNames":["do","lu","ma","me","gi","ve","sa"],"DayNames":["domenica","lunedì","martedì","mercoledì","giovedì","venerdì","sabato"],"AbbreviatedMonthNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""],"IsReadOnly":true,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthGenitiveNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""]},"eras":[1,"d.C.",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=VBfIzaA32yAYTuiJitqWgvHD7Bga5hhnFPaduF75iA-KEJyZ9sDk605mBIV2INBiDsyd7cUTX5pGHNUdCr64Nebg1OO0pHDauZ1hB5FLG2Oi96UJFeph5w3RbxeFO93dJLh8BQ2&amp;t=23c9c237" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F2DD039B" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAY6vZbpHoo4uq+lplK3yqgvPtOSOKsoh/WX3xGyjmQ+EMijzhCNDSIFlLzMyPQoRrdD5FAYrkqBxk3Uxt7cHUj6fZE99aefwQsmdtDf/IfB3JSeHyghW307sfn/6yuefld63/k43CgOkxE5W7ssoSuR72wJSA==" />
+        
+        
+
+<div style="text-align: center; margin-left: auto; margin-right: auto;" >
+    <!-- OAS AD 'Top' - da inserire per 728x90 - masthead - superbanner -->
+    <script type="text/javascript">var oas_vis_Top = 0;</script>
+    <script type="text/javascript">
+    <!--
+        if (OAS_sitepage != 'noads')
+            OAS_RICH('Top');
+    //-->
+    </script>
+    <script type="text/javascript">
+        if (OAS_sitepage != 'noads') {
+            if (oas_vis_Top == 0) {
+                // MANZONI NON STA EROGANDO POSSIBILE PREVEDERE QUI RICHIAMO SECONDO ACCOUNT            
+                OAS_PROMO('Top');
+            }
+        }
+    </script>
+
+    </div>
+        <div class="wrap">
+            <div id="Panel2" class="header">
+	
+                <a href="/">
+                    <img src="/img/logo.png" class="logo" alt="" /></a>
+                <input type="hidden" id="searchDefaultText" value="Cerca un libro nel catalogo" />
+
+                <input name="ctl00$txtSearchInWuz" type="text" id="txtSearchInWuz" class="searchHome" onmousedown="javascript:ShowSearchMenuModeByMouseClick()" onkeyup="javascript:ShowSearchMenuMode(&#39;block&#39;)" onchange="javascript:ShowSearchMenuMode(&#39;block&#39;);" onblur="if (this.value==&#39;&#39;) this.value = document.getElementById(&#39;searchDefaultText&#39;).value;" onclick="if (this.value == document.getElementById(&#39;searchDefaultText&#39;).value) this.value = &#39;&#39;;" />
+
+                <script type="text/javascript">
+                    function setDefaultText(text) {
+                        document.getElementById('searchDefaultText').value = text;
+                        document.getElementById('txtSearchInWuz').value = text;
+                    }
+                </script>
+                <div id="SearchModeMenu" class="search_box_drop_down" style="display: none">
+                    <ul>
+                        <li>
+                            <input id="rbBook" type="radio" name="ctl00$search" value="rbBook" checked="checked" onclick="showSearchWatermark(1);" /><label for="rbBook">Cerca un libro nel catalogo</label></li>
+                        <li>
+                            <input id="rbWuz" type="radio" name="ctl00$search" value="rbWuz" onclick="showSearchWatermark(2);" /><label for="rbWuz">Cerca nel sito Wuz</label></li>
+                        <li>
+                            <input id="rbUser" type="radio" name="ctl00$search" value="rbUser" onclick="showSearchWatermark(3);" /><label for="rbUser">Cerca un utente nella community</label></li>
+                    </ul>
+                </div>
+
+                <input type="submit" name="ctl00$btnSearchInWuz" value="" onclick="return checkSearch();" id="btnSearchInWuz" class="submit btnYellow" />
+                <a href="/ricerca-avanzata/" class="linkAdvancedSearch">Ricerca avanzata</a>
+                
+
+                <div class="boxAccountUser">
+
+                    
+                    <a href="/Login.aspx?ret=%2fansa%2fla%2f02%2f2007-09-02_102113790.jpg" class="loginactionfirst">Accedi</a> <a href="/Login.aspx?ret=%2fansa%2fla%2f02%2f2007-09-02_102113790.jpg" class="loginaction">Iscriviti</a>
+                    
+                </div>
+
+                <div class="boxSocial2">
+                    <a rel="nofollow" href="https://www.facebook.com/wuzlibri" target="_blank" class="facebook"></a>
+                    <a rel="nofollow" href="http://twitter.com/#!/wuzlibri" target="_blank" class="twitter"></a>
+                    <a rel="nofollow" href="http://www.youtube.com/user/wuzlibri" target="_blank" class="youtube"></a>
+                    <a rel="nofollow" href="https://plus.google.com/u/1/106031488248900751345/posts" target="_blank" class="gplus"></a>
+                    <a rel="nofollow" href="http://pinterest.com/wuzlibri/" target="_blank" class="pinterest"></a>
+                </div>
+            
+</div>
+            
+
+            
+
+            
+
+            <div class="boxNavigationBar">
+                <div id="smoothmenu1" class="ddsmoothmenu">
+                    <ul>
+                        <li 
+                            onmouseover="OnMouseIn (this)" onmouseout="OnMouseOut (this)" >
+                            <a href="/">Home</a>
+                            <div class="separatore"></div>
+                        </li>
+                        <li 
+                            onmouseover="OnMouseIn (this)" onmouseout="OnMouseOut (this)" >
+                            <a href="/libri-notizie-recensioni-bestseller/">News</a>
+                            <div class="separatore"></div>
+                            <ul>
+                                <li>
+                                    <a href="/libri-notizie-recensioni-bestseller/">News</a>
+                                </li>
+                                <li>
+                                    <a href="/oggi-in-libreria-novita-libri/">Oggi in libreria</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li 
+                            onmouseover="OnMouseIn (this)" onmouseout="OnMouseOut (this)" >
+                            <a href="/catalogo/libri/inarrivo.html">Libri in arrivo</a>
+                            <div class="separatore"></div>
+                        </li>
+                        <li 
+                            onmouseover="OnMouseIn (this)" onmouseout="OnMouseOut (this)" >
+                             
+                             <a href="/biografie/scrittori-poeti.html">Biografie</a>
+                            <div class="separatore"></div>
+                            
+                        </li>
+                        <li 
+                            onmouseover="OnMouseIn (this)" onmouseout="OnMouseOut (this)" >
+                            <a href="#">Classifica</a>
+                            <div class="separatore"></div>
+                            <ul>
+                                <li><a href="/superclassifiche/bestseller">Superclassifica Bestseller</a></li>
+                                <li><a href="/superclassifiche/community">Superclassifica Community</a></li>
+                            </ul>
+                        </li>
+                        <li 
+                            onmouseover="OnMouseIn (this)" onmouseout="OnMouseOut (this)" >
+                            <a href="#">Scuola</a>
+                            <div class="separatore"></div>
+                            <ul>
+                                <li><a href="/riassunti-letteratura.html">Riassunti</a></li>
+                                <li><a href="/appunti-scuola.html">Appunti</a></li>
+                            </ul>
+                        </li>
+                        <li 
+                            class="current" >
+                            <a href="#">Esplora</a>
+                            <div class="separatore"></div>
+                            <ul style="z-index: 100000000">
+                                <li><a href="/liste/home.html">Liste</a></li>
+                                <li><a href="/gruppi/home.html">Gruppi</a></li>
+                                <li><a href="/frasi-citazioni/home.html">Citazioni</a></li>
+                                
+                                
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                    <a href="/mywuz.aspx" class="myWuz"></a>
+                </div>
+            </div>
+
+            
+
+<div style="background-color: white; width: 990px; height: auto; margin: 0px auto;" id="strip">
+
+    <!-- OAS AD 'TopLeft' - da inserire per strip 990x30 o 990x60 -->
+    <script type="text/javascript">var oas_vis_TopLeft = 0;</script>
+    <script type="text/javascript">
+    <!--
+        if (OAS_sitepage != 'noads')
+            OAS_RICH('TopLeft');
+    //-->
+    </script>
+    <script type="text/javascript">
+        if (OAS_sitepage != 'noads') {
+            if (oas_vis_TopLeft == 0) {
+                // MANZONI NON STA EROGANDO POSSIBILE PREVEDERE QUI RICHIAMO SECONDO ACCOUNT
+                OAS_PROMO('TopLeft');
+            }
+        }
+    </script>
+
+</div>
+
+            
+	<div style="text-align: center;">
+		<img src="/img/404.jpg" alt="Errore" />
+	</div>
+
+
+            <div class="clear"></div>
+
+            
+<div class="footer">
+    <div id="dynamicFooter">
+
+         <div style="width: 20%; float: left;">
+            <label class="title"><a href="http://www.wuz.it/libri-notizie-recensioni-bestseller/">News</a></label>
+            <ul id="footerCtrl_blNews">
+	<li><a href="http://wuz.it/recensione-libro/9143/rete-protezione-andrea-camilleri-commissario-montalbano.html">La rete di protezione di Andrea Ca</a></li><li><a href="http://wuz.it/recensione-libro/9144/metodo-catalanotti-andrea-camilleri-commissario-montalbano.html">Il metodo Catalanotti di Andrea Ca</a></li><li><a href="https://www.ibs.it/offerte/oroscopo-2019">L&#39;oroscopo dei libri 2019</a></li>
+</ul>
+        </div>
+       <div style="width: 20%; float: left;">
+            <label class="title"><a href="http://www.wuz.it/oggi-in-libreria-novita-libri/">Oggi in libreria</a></label>
+            <ul id="footerCtrl_blOggi">
+	<li><a href="/libro/POErtraits/Rocchi-Marco/9788899587277.html">POErtraits</a></li><li><a href="/libro/accademie-trasformazioni-della/0/9788894810004.html">Le Le accademie e le trasformazion</a></li><li><a href="/libro/Momenti-magici-Colora/0/9788416504824.html">Momenti magici. Colora &#232; in</a></li>
+</ul>
+        </div>
+        <div style="width: 20%; float: left;">
+            <label class="title"><a href="http://www.wuz.it/catalogo/libri/inarrivo.html">Libri in arrivo</a></label>
+            
+        </div>
+         <div style="width: 20%; float: left;">
+            <label class="title"><a href="http://www.wuz.it/riassunti-letteratura.html">Riassunti</a></label>
+            <ul id="footerCtrl_blRiassunti">
+	<li><a href="/riassunto-libri/8083/Mago-Riassunto.html">Il mago di Oz - Riassunto</a></li><li><a href="/riassunto-libri/4753/Riassunto-Mattia-Pascal.html">Il fu Mattia Pascal - Riassunto</a></li><li><a href="/riassunto-libri/8535/Una-vita-violenta-riassunto-Pier-Paolo-Pasolini.html">Una vita violenta - Riassunto</a></li>
+</ul>
+        </div>
+        <div style="width: 20%; float: left;">
+            <label class="title"><a href="http://www.wuz.it/appunti-scuola.html">Appunti</a></label>
+            <ul id="footerCtrl_blAppunti">
+	<li><a href="/appunti-scuola/8/Biografia-Truffault.html">CINEMA - Biografia e Filmografia d</a></li><li><a href="/appunti-scuola/460/Intervista-Giuseppe-Tornatore.html">CINEMA - Emozioni, sentimenti e or</a></li><li><a href="/appunti-scuola/545/Intervista-Monicelli.html">Intervista a Mario Monicelli</a></li>
+</ul>
+        </div>
+
+    </div>
+    <div id="staticFooter">
+        <div style="width: 20%; float: left;">
+            <div>
+                <label class="title">Il libro nella rete</label>
+                <ul>
+                    <li><a href="http://www.wuz.it/autori/home.html">Autori</a></li>
+                    <li><a href="http://www.wuz.it/biografie/scrittori-poeti.html ">Biografie Scrittori</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/editori-italiani/a1.html">Editori Italiani</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/siti-aspiranti-scrittori/a1.html">Siti per aspiranti scrittori</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/5092/mappa-dei-blog-letterari.html">Blog: mappa blog letterari...</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/51/appuntamenti-libri-autori-presentazioni-libreria.html">Eventi: incontri con l'autore</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/scuole-scrittura-traduzione/a1.html">Scuola Scrittura e Traduzione</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/associazioni-enti-editoria/a1.html">Associazioni e enti</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/festival-letterari/a1.html">Festival Letterari</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/premi-letterari/a1.html">Premi letterari</a></li>
+                </ul>
+            </div>
+            <br />
+            <div>
+                <label class="title">WUZ utile</label>
+                <ul>
+                    <li><a href="http://www.wuz.it/directory-web-utile/stampa-italiana/a1.html">Stampa Italiana</a></li>
+                    <li><a href="http://www.wuz.it/directory-web-utile/stampa-estera/a1.html">Stampa Estera</a></li>
+                    <li><a href="http://www.wuz.it/directory-web-utile/meteo-trasporti/a1.html">Meteo e Trasporti</a></li>
+                    <li><a href="http://www.wuz.it/directory-web-utile/programmi-tv/a1.html">Programmi TV</a></li>
+                    <li><a href="http://www.wuz.it/directory-web-utile/economia-finanza-lavoro/a1.html">Economia Finanza</a></li>
+                    <li><a href="http://www.wuz.it/directory-web-utile/salute-benessere/a1.html">Salute e benessere</a></li>
+                    <li><a href="http://www.wuz.it/directory-web-utile/dizionari-online/a1.html">Dizionari Online</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/biblioteche-italia/a1.html">Biblioteche in Italia</a></li>
+                    <li><a href="http://www.wuz.it/directory-libri/biblioteche-nazionali/a1.html">Biblioteche Nazionali</a></li>
+                    <li><a href="http://www.wuz.it/directory-dischi/festival-musicali/a1.html">Festival musicali</a></li>
+                    <li><a href="http://www.wuz.it/directory-dischi/riviste-musicali/a1.html">Riviste musicali</a></li>
+                    <li><a href="http://www.wuz.it/directory-dvd/festival-cinematografici/a1.html">Festival cinematografici</a></li>
+                    <li><a href="http://www.wuz.it/directory-dvd/riviste-cinema/a1.html">Riviste cinema</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div style="width: 20%; float: left;">
+            <div>
+                <label class="title">News e Recensioni</label>
+                <ul>
+                    <li style="display: none;"><a href="http://www.wuz.it/articolo/archivio.aspx?t=recensioni-libri">Recensioni Libri</a></li>
+                    <li style="display: none;"><a href="http://www.wuz.it/articoli-letteratura.html">Articoli Novit&agrave;</a></li>
+                    <li style="display: none;"><a href="http://www.wuz.it/interviste.html">Interviste Autori</a></li>
+                    <li><a href="http://www.wuz.it/archivio/cafeletterario.it/cafehist.htm">Caff&egrave; letterario 1996-2006</a></li>
+                </ul>
+            </div>
+            <br />
+            <div>
+                <label class="title">Classifiche</label>
+                <ul>
+                    <li><a href="http://www.wuz.it/classifica/libri.html">Classifica Nazionale</a></li>
+                    <li><a href="http://www.wuz.it/classifica/ebook.html">Classifica eBook</a></li>
+                    <li><a href="http://www.wuz.it/classifica/libri/venduti-ultime-24-ore.html">Pi&ugrave; venduti ultime 24 ore</a></li>
+                    <li><a href="http://www.wuz.it/superclassifiche/community/piu-amati.html">Libri pi&ugrave; amati</a></li>
+                    <li><a href="http://www.wuz.it/superclassifiche/community/piu-recensiti.html">Libri pi&ugrave; recensiti</a></li>
+                    <li><a href="http://www.wuz.it/superclassifiche/community/piu-citati.html">Libri pi&ugrave; citati</a></li>
+                    <li><a href="http://www.wuz.it/superclassifiche/community/bestseller.html">Bestseller della Community</a></li>
+                </ul>
+            </div>
+            <br />
+            <div>
+                <label class="title">Percorsi di lettura</label>
+                <ul>
+                    <li><a href="http://www.wuz.it/articolo-libri/7675/libri-daleggere.html">Libri da leggere</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/7676/libri-usati.html">Libri usati</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/4198/top-100-libri-amore-san-valentino.html">Libri d'amore - San Valentino</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/7595/libri-cucina-cook-book-ricette-cuochi-famosi-manuali-cucinare.html">Libri di cucina</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/7528/giornata-memoria-giorno-olocausto-shoah-sterminio.html">Libri sull'Olocausto - Shoah</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/7048/erotismo-libri-letteratura-erotica-femminile-scrittrici.html">Libri Erotismo</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/6390/halloween-libri-horror-zombie-vampiri-licantropi.html">Libri Horror, Vampiri, Zombie...</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/5196/libri-fantasy-gufi-angeli-zombie-guerrieri-profezie.html">Libri Fantasy</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/7680/libri-fantascienza.html">Libri Fantascienza</a></li>
+                    <li><a href="http://www.wuz.it/articolo-libri/7019/giallo-noir-poliziesco-polar-thriller-glossario-termini.html">Libri Gialli</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div style="width: 20%; float: left;">
+            <div>
+                <label class="title">MyWUZ</label>
+                <ul>
+                    <li><a href="http://www.wuz.it/login.html">MyWuz - Il libro nella rete</a></li>
+                    <li><a href="http://www.wuz.it/gruppi/home.html">Gruppi - Focus</a></li>
+                    <li><a href="http://www.wuz.it/liste.html">Liste</a></li>
+                    <li><a href="http://www.wuz.it/frasi-citazioni/home.html">Citazioni</a></li>
+                </ul>
+            </div>
+            <br />
+            <div>
+                <label class="title">Social</label>
+                <ul>
+                    <li><a href="https://www.facebook.com/wuzlibri" rel="nofollow">Facebook</a></li>
+                    <li><a href="https://twitter.com/wuzlibri" rel="nofollow">Twitter</a></li>
+                    <li><a href="http://pinterest.com/wuzlibri/followers/" rel="nofollow">Pinterest</a></li>
+                    <li><a href="http://www.youtube.com/user/wuzlibri" rel="nofollow">Youtube</a></li>
+                    <li><a href="https://plus.google.com/106031488248900751345#106031488248900751345/posts" rel="nofollow">Google+</a></li>
+                </ul>
+            </div>
+            <br />
+            <div>
+                <label class="title">Contatti</label>
+                <ul>
+                    <li><a href="mailto:redazione@wuz.it">Redazione</a></li>
+                </ul>
+                <br />
+                <ul>
+                    <li><a href="/PrivacyTerms.aspx">Informativa sulla privacy</a></li>
+                    <li><a href="javascript:openDetails();">Informativa sui cookie</a></li>
+                    <li><a href="/Condizioni.aspx">Condizioni d'uso</a></li>
+                    <li><a href="/aiuto-faq.html">FAQ</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div style="width: 20%; float: left;">
+            <div>
+                <a href="http://www.ibs.it/hmepge.asp" rel="nofollow">
+                    <img src="/img/logoIBS.png" class="brand" alt="IBS.IT" /></a>
+                <ul>
+                    <li><a href="http://www.ibs.it/libri/home.html" rel="nofollow">Libri italiani</a></li>
+                    <li><a href="http://www.ibs.it/ame/hme/hmepge.asp" rel="nofollow">Libri in inglese</a></li>
+                    <li><a href="http://www.ibs.it/ebook/hme/hmepge.asp" rel="nofollow">eBook</a></li>
+                    <li><a href="http://www.ibs.it/dvd/home.html" rel="nofollow">DVD</a></li>
+                    <li><a href="http://www.ibs.it/blu-ray/home.html" rel="nofollow">Blu ray</a></li>
+                    <li><a href="http://www.ibs.it/cd/home.html" rel="nofollow">CD musicali</a></li>
+                    <li><a href="http://www.ibs.it/mp3/hme/hmepge.asp" rel="nofollow">MP3</a></li>
+                    <li><a href="http://www.ibs.it/giochi/home.html" rel="nofollow">Videogiochi</a></li>
+                    <li><a href="http://www.ibs.it/giocattoli/home.html" rel="nofollow">Giocattoli e scuola</a></li>
+                    <li><a href="http://www.ibs.it/giocattoli/reparto/t11/gadget-accessori.html" rel="nofollow">Gadget e accessori</a></li>
+                    <li><a href="http://www.ibs.it/sport/home.html" rel="nofollow">Sport</a></li>
+                    <li><a href="http://www.ibs.it/convenzioniIBS/home.asp" rel="nofollow">Convenzioni IBS Premium</a></li>
+                    <li style="font-style: italic"><a href="http://www.ibs.it/libreria/ho.html" rel="nofollow">Negozi:</a></li>
+                    <li><a href="http://www.ibs.it/libreria/bergamo/bg.html" rel="nofollow">- Bergamo</a></li>
+                    <li><a href="http://www.ibs.it/libreria/bologna/bo.html" rel="nofollow">- Bologna</a></li>
+                    <li><a href="http://www.ibs.it/libreria/ferrara/fe.html" rel="nofollow">- Ferrara</a></li>
+                    <li><a href="http://www.ibs.it/libreria/firenze/fi.html" rel="nofollow">- Firenze</a></li>
+                    <li><a href="http://www.ibs.it/libreria/lecco/lc.html" rel="nofollow">- Lecco</a></li>
+                    <li><a href="http://www.ibs.it/libreria/mantova/mn.html" rel="nofollow">- Mantova</a></li>
+                    <li><a href="http://www.ibs.it/libreria/novara/no.html" rel="nofollow">- Novara</a></li>
+                    <li><a href="http://www.ibs.it/libreria/padova/pd.html" rel="nofollow">- Padova</a></li>
+                    <li><a href="http://www.ibs.it/libreria/roma/rm.html" rel="nofollow">- Roma</a></li>
+                    <li><a href="http://www.ibs.it/libreria/treviso/tv.html" rel="nofollow">- Treviso</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div style="width: 20%; float: left;">
+            <div>
+                <a href="http://www.libraccio.it/" rel="nofollow">
+                    <img src="/img/logoLibraccio.png" class="brand2" alt="LIBRACCIO.IT" /></a>
+                <ul>
+                    <li><a href="http://www.libraccio.it/libri-usati/" rel="nofollow">Libri usati</a></li>
+                    <li><a href="http://www.libraccio.it/scolastici/" rel="nofollow">Libri scolastici</a></li>
+                    <li><a href="http://www.libraccio.it/acquisto-libri-usati/cerca.aspx" rel="nofollow">Vendi i tuoi libri usati</a></li>
+                    <li><a href="http://negozi.libraccio.it/negozi/index.php" rel="nofollow">Negozi Libraccio</a></li>
+                    <li><a href="http://www.libraccio.it/fat/fatcar.asp" rel="nofollow">Cartoleria</a></li>
+                </ul>
+            </div>
+            <br />
+            <div>
+                <a href="http://www.mymovies.it/" rel="nofollow">
+                    <img src="/img/logoMyMovies.png" class="brand2" alt="MYMOVIES.IT" /></a>
+                <ul>
+                    <li><a href="http://www.mymovies.it/film/uscita/" rel="nofollow">Film in uscita</a></li>
+                    <li><a href="http://www.mymovies.it/cinema/" rel="nofollow">Oggi al cinema</a></li>
+                    <li><a href="http://www.mymovies.it/boxoffice/" rel="nofollow">Box office</a></li>
+                    <li><a href="http://www.mymovies.it/database/" rel="nofollow">Dizionario del cinema</a></li>
+                    <li><a href="http://www.mymovies.it/tv/" rel="nofollow">Guida e programmi TV</a></li>
+                    <li><a href="http://www.mymovies.it/streaming/wide/" rel="nofollow">Streaming</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="wuzFooter">
+        Copyright 1996-2014 &#169; Internet Bookshop Italia, tutti i diritti riservati.<br />
+        Wuz &egrave; un marchio registrato di Internet Bookshop Italia, societ&agrave; di Emmelibri srl<br />
+        Internet Bookshop Italia S.r.l. Sede Legale Via Giuseppe Verdi n.8 - 20090 Assago MI<br />
+        Reg. Imprese di Milano 12252360156 - R.E.A. Milano 1542508 - P.IVA 12252360156 - Capitale sociale € 1.054.852 i.v. - Licenza SIAE n. 513 / I / 06-359.
+    </div>
+    <div class="clear"></div>
+    <div class="advertising">
+        Concessionaria di pubblicit&agrave; <a rel="nofollow" href="http://www.manzoniadvertising.it" target="_blank" class="blue">A. Manzoni & C.</a>
+        Con la collaborazione di <a rel="nofollow" href="http://www.argentovivo.it/" target="_blank" class="blue">ArgentoVivo</a> per il settore editoria libraria.<br />
+        Eventuali comunicazioni e segnalazioni utili possono essere inviate alla <a href="mailto:redazione@wuz.it" title="redazione" class="blue">redazione</a>. Alcune foto presenti su Wuz.it sono tratte da Internet, e quindi valutate di pubblico dominio.<br />
+        Se i soggetti o gli autori avessero qualcosa in contrario alla pubblicazione, non avranno che da segnalarlo alla redazione che provveder&agrave; prontamente alla rimozione delle immagini utilizzate.<br />
+    </div>
+    <div id="footerLast">
+        &nbsp;
+    </div>
+</div>
+
+            </div>
+
+        <div id="cookie-law-popup">
+          <div id="cookie-law-popup-header"><a href="javascript:;" class="cookie-law-popup-close">x</a></div>
+          <div id="cookie-law-popup-content">
+          <div id="cookie-law-popup-content-loading"><img alt="" src="/cookies/loader.gif" width="64" height="64" /></div>
+          </div>
+          <div id="cookie-law-popup-footer">
+            <div style="float:left;width:460px;padding:18px 10px 10px 10px;">Proseguendo la navigazione o chiudendo la finestra presti il tuo consenso all'installazione dei cookie.</div>
+            <div style="float:left;"><div style="margin-top:23px;"><a href="javascript:;" class="cookie-law-popup-close cookie-law-popup-footer-close">Prosegui la navigazione</a></div></div>
+          </div>
+          <div style="clear:both;"></div>
+        </div>
+
+        <link href="/cookies/cookies.css?ver=5" rel="stylesheet" type="text/css" media="screen">
+        <!-- <script type="text/javascript" src="/cookies/jquery.1.9.1.min.js"></script> -->
+        <script type="text/javascript" src="/cookies/cookies.js?ver=5"></script>
+        <script type="text/javascript" src="/Scripts/jquery.popup.overlay.js"></script>
+        <script type="text/javascript" src="/Scripts/jquery.collapsible.js"></script>
+
+        <script>
+            $(document).ready(function () {
+                $.ajaxSetup({ cache: false });
+                if (checkCookie(window.cookieName) != window.cookieValue) {
+                    createCookieAlert();
+                }
+            });
+        </script>
+
+
+    </form>
+
+    <!-- START Nielsen Online SiteCensus V6.0 -->
+    <!-- COPYRIGHT 2012 Nielsen Online -->
+    <script type="text/javascript" src="//secure-it.imrworldwide.com/v60.js">
+    </script>
+    <script type="text/javascript">
+        var pvar = { cid: "ibs-it", content: "0", server: "secure-it" };
+        var feat = { check_cookie: 0 };
+        var trac = nol_t(pvar, feat);
+        trac.record().post();
+    </script>
+    <noscript>
+        <div>
+            <img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=ibs-it&amp;cg=0&amp;cc=0&amp;ts=noscript"
+                width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <!-- END Nielsen Online SiteCensus V6.0 -->
+</body>
+</html>

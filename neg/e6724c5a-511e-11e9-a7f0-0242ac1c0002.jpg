@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/FavicoLogo.png" rel="shortcut icon">	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="pingback" href="http://lamarsa.it/resort-palermo/xmlrpc.php"/>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+	<title>La Marsa &#8211; Vacances Resort Palermo -Addaura</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="La Marsa &raquo; Feed" href="http://lamarsa.it/resort-palermo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="La Marsa &raquo; Feed dei commenti" href="http://lamarsa.it/resort-palermo/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lamarsa.it\/resort-palermo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flatpickr-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/flatpickr/flatpickr.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tippy-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/tippy-js/tippy.css?ver=2.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='react-calendar-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/css/react-datepicker.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='awebooking-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/css/awebooking.css?ver=3.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='awebooking-iconfont-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/fonts/awebooking-webfont.css?ver=3.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='awebooking-colour-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/css/awebooking-colour.css?ver=3.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/cookie-notice/css/front.min.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='awe-carousel-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/owl.carousel.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/jquery-ui.min.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/bootstrap.min.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='awe-colio-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/font-hilltericon.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='awe-colio2-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/font-hillter2icon.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-select-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/bootstrap-select.min.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/lib/magnific-popup.css?ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='awe-main-style-css'  href='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/css/style.css?ver=4.8.9' type='text/css' media='all' />
+<style id='awe-main-style-inline-css' type='text/css'>
+
+			.accomd-modations-room .text,
+			.gallery-cat ul li:hover a, .gallery-cat ul li.active a,
+			.footer .footer_top,
+			.reservation,
+			.awe-no-header-transparent .header_content,
+			.header_mobile,
+			.awe-datepicker.ui-datepicker .ui-datepicker-header, 
+			.apb-datepicker.ui-datepicker .ui-datepicker-header,
+			.awe-datepicker.ui-datepicker .ui-datepicker-calendar thead th, 
+			.apb-datepicker.ui-datepicker .ui-datepicker-calendar thead th,
+			.awe-datepicker.ui-datepicker .ui-datepicker-calendar td a.ui-state-active, 
+			.awe-datepicker.ui-datepicker .ui-datepicker-calendar td a:hover, 
+			.apb-datepicker.ui-datepicker .ui-datepicker-calendar td a.ui-state-active, 
+			.apb-datepicker.ui-datepicker .ui-datepicker-calendar td a:hover,
+			.header_content .menu > li .sub-menu li:hover > a, 
+			.header_top .sub-menu li:hover > a,
+			.header_content .menu > li .sub-menu li.current-menu-item > a {
+				background-color: #555555;
+			}
+			.restaurant_item .text .price,
+			.tabs-restaurant .ui-tabs-nav li:hover a, .tabs-restaurant .vc_tta-tabs-list li:hover a .vc_tta-title-text,
+			.tabs-restaurant .vc_tta-tabs-list li.vc_active a .vc_tta-title-text, .tabs-restaurant .ui-tabs-nav li.ui-state-active a, 
+			.news-item .text .read-more:hover,
+			.awe-posts .news-item h3:hover a,
+			h1 a:hover, .h1 a:hover, 
+			h2 a:hover, .h2 a:hover, 
+			h3 a:hover, .h3 a:hover, 
+			h4 a:hover, .h4 a:hover, 
+			h5 a:hover, .h5 a:hover, 
+			h6 a:hover, .h6 a:hover,
+			.event-restaurant_content li .text a:hover,
+			.contact ul li .icon {
+				color: #555555
+			}
+			.tabs-restaurant .ui-tabs-nav li:before,
+			.tabs-restaurant .vc_tta-tabs-list li:before {
+				border-top-color: #555555;
+			}
+
+			.header_content,
+			.hentry .entry-media .count-date,
+			.room_item-6 .text {
+				background-color: rgba(85,85,85,0.85);
+			}
+			
+			
+			.awe-btn, input[type=submit], 
+			button, 
+			.activiti_item .text .view-more, 
+			.awe-btn.awe-btn-default, 
+			.awebooking .apb-btn, 
+			.awebooking .apb-btn:visited,
+			.awebooking-wrapper.custom-hillter .apb-btn,
+			.awe-btn.awe-btn-outline:hover {
+				background-color: #baac8f;
+			}
+			.awe-btn:hover, .awe-btn:focus, .awe-btn.awe-btn-default:hover,
+			.awebooking-wrapper.custom-hillter .apb-btn:hover {
+				background-color: rgba(186,172,143,0.8);
+			}
+			.awe-btn.awe-btn-outline:hover {
+				border-color: #baac8f
+			}
+
+
+			
+			.awe-no-header-transparent .header_content,
+			.header_content .menu > li .sub-menu li.current-menu-item > a,
+			.header_content .menu > li .sub-menu li:hover > a,
+			.header_top .sub-menu li:hover > a {
+				background-color: #ffffff;
+			}
+			.header_content,
+			.header_mobile,
+			.header_mobile .header_menu,
+			.header-menu-center .header_top {
+				background-color: rgba(255,255,255,0.85);
+			}
+			.header_content .menu > li > a,
+			.header_top .sub-menu li:hover > a,
+			.header_mobile .header_menu ul li a{
+				color: #727272;
+			}
+			.footer .footer_center,
+			.footer .footer_bottom {
+				background-color: #555555;
+			}
+			.footer .widget p,
+			.footer .widget a,
+			.footer .footer_bottom p,
+			.footer .widget .widget-title {
+				color: #ffffff;
+			}h1 {
+	font-family: 'Work+Sans' !important;
+	font-size: 22px !important;
+	line-height: 22px !important;
+	color: #baac8f !important;
+}
+h2 {
+	font-family: 'Work+Sans' !important;
+	color: #baac8f !important;
+}
+h3 {
+	font-family: 'Work+Sans' !important;
+	font-size: 18px !important;
+	color: #baac8f !important;
+}
+h4 {
+	font-family: 'Work+Sans' !important;
+	color: #baac8f !important;
+}
+body {
+	font-family: 'Work+Sans' !important;
+	font-size: 16px !important;
+	color: #4f4f4f !important;
+}
+
+</style>
+<link rel='stylesheet' id='awe-google-font-css'  href='//fonts.googleapis.com/css?family=Hind%3A400%2C300%2C500%2C600%7CMontserrat%3A400%2C700&#038;ver=4.8.9' type='text/css' media='all' />
+<!--[if lt IE 9]><script src="http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/html5.js"></script><![endif]-->
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/popper-js/popper.min.js?ver=1.14.3'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/a11y-dialog/a11y-dialog.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/knockout/knockout-latest.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.1'></script>
+<link rel="pingback" href="http://lamarsa.it/resort-palermo/xmlrpc.php" />
+<link rel='https://api.w.org/' href='http://lamarsa.it/resort-palermo/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lamarsa.it/resort-palermo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lamarsa.it/resort-palermo/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.9" />
+<link rel="canonical" href="http://lamarsa.it/resort-palermo/" />
+<link rel='shortlink' href='http://lamarsa.it/resort-palermo/' />
+<link rel="alternate" type="application/json+oembed" href="http://lamarsa.it/resort-palermo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flamarsa.it%2Fresort-palermo%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://lamarsa.it/resort-palermo/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flamarsa.it%2Fresort-palermo%2F&#038;format=xml" />
+<style>
+		.section-comingsoon {
+			background-image: url("http://lamarsa.it/wp-content/themes/hillter/assets/images/default/bg-comingsoon.jpg") !important;
+		}
+	</style><link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet'> <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type='text/css'>.header_content, .header_mobile, .header_mobile .header_menu, .header-menu-center .header_top{ background:#fff;}
+.header_content .menu > li .sub-menu li:hover > a, .header_top .sub-menu li:hover > a { color:#000 !important}
+.footer .footer_bottom{ color:#fff !important}
+.wpb_row-overlay, .wpb_column-overlay{ opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */}
+.vc_row.vc_row-flex > .vc_column_container > .vc_column-inner{opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */}
+.menu-bars span::before{background-color:#000}
+.menu-bars span::before, .menu-bars span::after{background-color:#000}
+.header_content{ margin-top: -13px; height:79px }
+.prenota{ background-color:#baac8f; color:#fff !important}
+.main-wrapper{padding-top: 53px !important}
+.prenota a {
+	color: #fff !important;
+}
+.room_item-3 .text-thumbs .text .price{ display:none !important }
+.room_item-1 .bot{ display:none !important }
+.header_content .header_menu{ font-size: 0px !important}
+#hillter-backtop .hillter{ background:#baac8f !important}
+.mfp-wrap .mfp-content .mfp-figure{ background:#baac8f !important}
+.mfp-wrap .mfp-prevent-close{ background:#baac8f !important}
+#hillter-backtop .hillter{ width: 32px}
+.active{background:#baac8f !important}
+.gallery-cat ul li.active a{background:#baac8f !important}
+.btn-info:hover, .btn-info:focus, .btn-info.focus, .btn-info:active, .btn-info.active, .open > .dropdown-toggle.btn-info{background-color: #8f8267}
+.awe-no-header-transparent .header_content, .header_content .menu > li .sub-menu li.current-menu-item > a, .header_content .menu > li .sub-menu li:hover > a, .header_top .sub-menu li:hover > a {
+	background-color: #ffffff;
+	color: #727272;
+}
+.gallery-cat ul li {
+	font-size: 12px !important;
+}
+
+.wpb_column, [class*="col-"] .wpb_wrapper {
+	text-align: justify;
+	text-justify: inter-word;
+}
+</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1548638823011{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1548981342853{margin-top: 10px !important;margin-right: -30px !important;background-image: url(http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/0W5B4392_copia.jpg?id=4588) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1522150714730{margin-top: -40px !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1540481165684{margin-top: -40px !important;margin-right: -30px !important;background-image: url(http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/IMG_0121_copia.jpg?id=4590) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1518734433863{margin-left: 30px !important;}.vc_custom_1522150408492{margin-right: -20px !important;background-color: #ffffff !important;}.vc_custom_1540475531236{margin-right: -40px !important;padding-top: 100px !important;padding-right: 10px !important;padding-bottom: 50px !important;}.vc_custom_1518734433863{margin-left: 30px !important;}.vc_custom_1548099728870{background-color: #ffffff !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+
+<!--[if IE 7]>
+<body class="home page-template-default page page-id-4648 custom-background ie7 lt-ie8 lt-ie9 lt-ie10 awe-header-transparent cookies-not-set awe-vc-template wpb-js-composer js-comp-ver-5.1 vc_responsive"> <![endif]-->
+<!--[if IE 8]>
+<body class="home page-template-default page page-id-4648 custom-background ie8 lt-ie9 lt-ie10 awe-header-transparent cookies-not-set awe-vc-template wpb-js-composer js-comp-ver-5.1 vc_responsive"> <![endif]-->
+<!--[if IE 9]>
+<body class="home page-template-default page page-id-4648 custom-background ie9 lt-ie10 awe-header-transparent cookies-not-set awe-vc-template wpb-js-composer js-comp-ver-5.1 vc_responsive"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<body class="home page-template-default page page-id-4648 custom-background awe-header-transparent cookies-not-set awe-vc-template wpb-js-composer js-comp-ver-5.1 vc_responsive"> <!--<![endif]-->
+
+
+
+<!-- PAGE WRAP -->
+<div id="page-wrap">
+	<div id="hillter-backtop" class="hillter-backtop">
+		<a href="#">
+			<span class="hillter hillter-icon-left-arrow"></span>
+		</a>
+    </div>
+			<!-- HEADER -->
+		<header id="header" class="">
+			<!-- HEADER TOP -->
+			<div class="header_top">
+				<div class="container">
+									<div class="header_left float-left">
+						
+						</div>
+					<div class="header_right float-right">
+											</div>
+								</div>
+			</div>
+			<!-- END / HEADER TOP -->
+
+			<!-- HEADER LOGO & MENU -->
+						<div id="header_content" class="header_content sticky-enable">
+
+				<div class="container">
+					<div class="logo-left ">
+						<!-- HEADER LOGO -->
+						        <div class="header_logo">
+						<a title="La Marsa"
+			   href="http://lamarsa.it/resort-palermo/"><img
+					src="http://lamarsa.it/resort-palermo/wp-content/uploads/2018/02/LogoLM.png"
+					alt="La Marsa"></a>
+        </div>
+
+							<!-- END / HEADER LOGO -->
+					</div>
+					<!-- HEADER MENU -->
+					<nav class="header_menu">
+						<div class="menu-hillter-menu-container"><ul id="menu-hillter-menu" class="menu hillter2-menu"><li id="menu-item-4693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4648 current_page_item menu-item-4693"><a href="http://lamarsa.it/resort-palermo/">HOME</a></li>
+<li id="menu-item-3725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3725"><a href="http://lamarsa.it/resort-palermo/resort-2/">Resort<span class="fa fa-caret-down"></span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-3730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3730"><a href="http://lamarsa.it/resort-palermo/appartamenti-e-ville/">Apartments e Ville</a></li>
+	<li id="menu-item-3735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3735"><a href="http://lamarsa.it/resort-palermo/solarium/">Solarium</a></li>
+	<li id="menu-item-3743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3743"><a href="http://lamarsa.it/resort-palermo/kids-club/">Kids Club</a></li>
+	<li id="menu-item-3747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3747"><a href="http://lamarsa.it/resort-palermo/ristorante-e-bar/">Ristorante e Bar</a></li>
+</ul>
+</li>
+<li id="menu-item-3720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3720"><a href="http://lamarsa.it/resort-palermo/weddings/">Wedding</a></li>
+<li id="menu-item-3753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3753"><a href="http://lamarsa.it/resort-palermo/eventi-2/">Eventi<span class="fa fa-caret-down"></span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-3758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3758"><a href="http://lamarsa.it/resort-palermo/sala-congressi/">Sala Congressi</a></li>
+	<li id="menu-item-4212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4212"><a href="http://lamarsa.it/resort-palermo/la-marsa-events/">La Marsa Events</a></li>
+	<li id="menu-item-4671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4671"><a href="http://lamarsa.it/resort-palermo/video-2/">Video</a></li>
+</ul>
+</li>
+<li id="menu-item-3762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3762"><a href="http://lamarsa.it/resort-palermo/circolo-balneare/">Circolo Balneare</a></li>
+<li id="menu-item-4774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4774"><a href="http://lamarsa.it/resort-palermo/sport/">Sport</a></li>
+<li id="menu-item-4114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4114"><a href="#">Altro<span class="fa fa-caret-down"></span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-4610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4610"><a href="http://lamarsa.it/resort-palermo/video-2/">Video</a></li>
+	<li id="menu-item-3807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3807"><a href="http://lamarsa.it/resort-palermo/palermo/">Palermo</a></li>
+	<li id="menu-item-4729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4729"><a href="http://lamarsa.it/resort-palermo/dintorni/">Dintorni</a></li>
+</ul>
+</li>
+<li id="menu-item-4670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4670"><a href="http://lamarsa.it/resort-palermo/contatti/">Contatti<span class="fa fa-caret-down"></span></a>
+<ul  class="sub-menu">
+	<li id="menu-item-4768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4768"><a href="https://www.iubenda.com/privacy-policy/94936043">Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-3416" class="prenota menu-item menu-item-type-custom menu-item-object-custom menu-item-3416"><a href="https://lodge212.journeylodge.com/mdl_prenotazione_immediata.php">Prenota</a></li>
+</ul></div>					</nav>
+					<!-- END / HEADER MENU -->
+
+					<!-- MENU BAR -->
+					<div class="menu-bars"><span></span></div>
+					<!-- END / MENU BAR -->				
+
+				</div>
+			</div>
+			<!-- END / HEADER LOGO & MENU -->
+
+		</header>
+		<!-- END / HEADER -->
+
+		<!--End coming soon-->
+	    <!-- BLOG NORMAL-->
+    <div class="main-wrapper section-blog">
+        <div class="container">
+                                        <article class="post-4648 page type-page status-publish hentry">
+        <div class="entry-content">
+        <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid awe-table vc_custom_1548638823011 vc_row-has-fill vc_row-no-padding">
+
+<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background:transparent;padding:0px;">
+<!-- START REVOLUTION SLIDER 5.4.1 fullscreen mode -->
+	<div id="rev_slider_2_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="slideright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="on"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-delay="8739"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://lamarsa.it/resort-palermo/wp-content/plugins/revslider/admin/assets/images/transparent.png" data-bgcolor='#ffffff'' style='background:#ffffff' alt="" title="home-2019"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-1" 
+			 data-x="center" data-hoffset="" 
+			 data-y="" 
+						data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
+			data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":290,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"+2700","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/01/Slide1-600.jpg" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1172" height="600" data-no-retina> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="" 
+						data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
+			data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":3000,"speed":310,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"+2690","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/01/Slide3-600.jpeg" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1196" height="600" data-no-retina> </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-3-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="" 
+						data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
+			data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":6000,"speed":310,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":280,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7;"><img src="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/sfondo_eventi-e1548981127956.jpg" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1200" height="600" data-no-retina> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-3-1" data-transition="slideright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="on"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-delay="8739"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://lamarsa.it/resort-palermo/wp-content/plugins/revslider/admin/assets/images/transparent.png" data-bgcolor='#ffffff'' style='background:#ffffff' alt="" title="home-2019"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-31-layer-1" 
+			 data-x="center" data-hoffset="" 
+			 data-y="" 
+						data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
+			data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":290,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"+2700","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/01/Slide1-600.jpg" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1172" height="600" data-no-retina> </div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-31-layer-2" 
+			 data-x="center" data-hoffset="" 
+			 data-y="" 
+						data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
+			data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":3000,"speed":310,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"+2690","speed":310,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/01/Slide3-600.jpeg" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1196" height="600" data-no-retina> </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-31-layer-3" 
+			 data-x="center" data-hoffset="" 
+			 data-y="" 
+						data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
+			data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":6000,"speed":310,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":280,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7;"><img src="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/sfondo_eventi-e1548981127956.jpg" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1200" height="600" data-no-retina> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_2_1');
+					e.gridwidth = [1600];
+					e.gridheight = [900];
+							
+					e.sliderLayout = "fullscreen";
+					e.fullScreenAutoWidth='off';
+					e.fullScreenAlignForce='off';
+					e.fullScreenOffsetContainer= '';
+					e.fullScreenOffset='';
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi2;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_2_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_2_1");
+				}else{
+					revapi2 = tpj("#rev_slider_2_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//lamarsa.it/resort-palermo/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullscreen",
+						dottedOverlay:"none",
+						delay:3000,
+						navigation: {
+							onHoverStop:"off",
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1600,
+						gridheight:900,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						fullScreenAutoWidth:"off",
+						fullScreenAlignForce:"off",
+						fullScreenOffsetContainer: "",
+						fullScreenOffset: "",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --><script type="text/javascript">
+	        (function($) {
+    			"use strict";
+    			$("head").append('&lt;style&gt;&quot; + htmlDivCss + &quot;&lt;/style&gt;');
+    		})(jQuery);
+    		</script></div></div></div></div></div><div class="vc_row-full-width">
+
+</div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1548981342853 vc_row-has-fill vc_row-o-full-height vc_row-o-columns-top vc_row-o-content-bottom vc_row-flex">
+
+<div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner vc_custom_1518734433863"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_hidden-lg"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill"><div class="vc_column-inner vc_custom_1522150408492"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceIn bounceIn" style="font-size:20px">
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;"><strong>RESORT</strong></h2>
+<p>Inserito nello splendido scenario dell’Addaura, il Resort Club La Marsa è un luogo dalle atmosfere suggestive. Gli ospiti possono rilassarsi e riposare tutto l’anno in un mare cristallino, incastonato nel verde paesaggio di Montepellegrino. La struttura è dotata di una splendida piscina panoramica, campi da tennis, calcio a 5, beach volley e beach tennis. Situato nel cuore del Resort vi è l’elegante ristorante dove lo chef ogni giorno crea i veri piatti tipici della tradizione siciliana.</p>
+
+		</div> 
+	</div> </div></div></div></div><div class="vc_row-full-width">
+
+</div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" class="vc_row wpb_row vc_row-fluid vc_custom_1522150714730 vc_row-has-fill vc_row-o-full-height vc_row-o-columns-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving">
+
+<div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-3"><div class="vc_column-inner vc_custom_1540475531236"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " style="font-size:20px">
+		<div class="wpb_wrapper">
+			<h2>Apartments e Ville</h2>
+<div class="desc">Il Resort offre ai suoi ospiti delle camere recentemente ristrutturate con tutti i comfort e una vista mozzafiato per momenti di puro relax. Il personale sarà pronto a soddisfare qualsiasi esigenza e a regalarvi un soggiorno indimenticabile. In questa dimensione senza tempo, gli ospiti potranno rilassarsi in un contesto fatto di armonie naturali, ricche di diverse sfumature.</div>
+
+		</div> 
+	</div> <div class="vc_btn3-container vc_btn3-center" >
+	<a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="http://lamarsa.it/resort-palermo/appartamenti-e-ville/" title="">Visita le camere</a></div>
+</div><div class="wpb_column-overlay extend-left" style="background-color:#ffffff"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-9 vc_col-lg-offset-1 vc_col-lg-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="780" height="518" src="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Terrazzino-villa..jpg" class="vc_single_image-img attachment-large" alt="" srcset="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Terrazzino-villa..jpg 960w, http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Terrazzino-villa.-300x199.jpg 300w, http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Terrazzino-villa.-768x510.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width">
+
+</div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1540481165684 vc_row-has-fill vc_row-o-full-height vc_row-o-columns-top vc_row-o-content-bottom vc_row-flex">
+
+<div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner vc_custom_1518734433863"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_hidden-lg"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_outline  vc_box_border_chino"><img data-vc-zoom="http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/IMG_0121-1024x683.gif" width="780" height="520" src="http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/IMG_0121-1024x683.gif" class="vc_single_image-img attachment-large" alt="" srcset="http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/IMG_0121-1024x683.gif 1024w, http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/IMG_0121-300x200.gif 300w, http://lamarsa.it/resort-palermo/wp-content/uploads/2015/08/IMG_0121-768x512.gif 768w" sizes="(max-width: 780px) 100vw, 780px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill"><div class="vc_column-inner vc_custom_1548099728870"><div class="wpb_wrapper"><div class="awe-special-heading text-center" style="padding-bottom:10px;color:#1b5c9e;"><h1>SERVIZI</h1></div>
+	<div class="wpb_text_column wpb_content_element " style="font-size:20px">
+		<div class="wpb_wrapper">
+			<p>La struttura dispone di ristoranti, bar, luoghi d’intrattenimento, impianti sportivi e spettacolo. Tutta l’essenzialità del mare unita al moderno piacere del confort.</p>
+<p>Durante il vostro soggiorno saranno a disposizione delle bike per effettuare un giro del litorale e le informazioni necessarie per effettuare gite ed escursioni della città.</p>
+
+		</div> 
+	</div> </div></div></div></div><div class="vc_row-full-width">
+
+</div><div class="vc_row wpb_row vc_row-fluid">
+
+<div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gallery">			<!--FILTER -->
+			<div class="gallery-cat text-center">
+				<ul class="list-inline">
+					<li class="active"><a href="#" data-filter="*">All</a></li>
+					<li><a href="http://lamarsa.it/resort-palermo/gallery_cat/eventi/" data-filter=".eventi">Eventi</a></li><li><a href="http://lamarsa.it/resort-palermo/gallery_cat/appartamentiville/" data-filter=".appartamentiville">Apartments &amp; Ville</a></li><li><a href="http://lamarsa.it/resort-palermo/gallery_cat/solarium/" data-filter=".solarium">Solarium</a></li><li><a href="http://lamarsa.it/resort-palermo/gallery_cat/resort/" data-filter=".resort">Resort</a></li>				</ul>
+			</div>
+			<!--END / FILTER -->
+					<!-- GALLERY CONTENT -->
+			<div class="gallery-content no-padding">
+				<div class="row">
+					<div class="gallery-isotope">
+						<!-- ITEM SIZE -->
+						<div class="item-size col-xs-6 col-sm-4 col-md-3"></div>
+						<!-- END / ITEM SIZE -->
+						<div class="item-isotope col-xs-6 col-sm-4 eventi col-md-3">
+				<div class="gallery_item">
+					<a href = "http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Ferragosto-2016-e1549408248830.jpg" class="gallery-popup mfp-image" title = "Events" >
+							<img width="720" height="430" src="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Ferragosto-2016-720x430.jpg" class="attachment-awe-room-slider size-awe-room-slider wp-post-image" alt="" />
+						</a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Orchestra-sinfonica.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/11816087_1636228859968221_9160046053353806912_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Ferragosto-2016..jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Muoviti-2017..jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Muoviti-2017.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Raduno-internazionale-di-tango-2017.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Ferragosto-2017-con-Giovanni-Cacioppo.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Conference-403.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Festino-di-Santa-Rosalia-2018..jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Festino-di-Santa-Rosalia-2018.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37630460_2140799002844535_5168832998585401344_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37604987_2140798572844578_7699939668015448064_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37639535_2140798719511230_4827523732962541568_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37632202_2140798026177966_1282516670975311872_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37604924_2140798042844631_435086251578621952_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37695307_2140798276177941_6147362067717292032_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37689320_2140798162844619_1439837753909968896_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37615293_2140798199511282_3969785082817806336_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37618156_2140798492844586_5900810865954783232_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37594186_2140798842844551_5769813057756725248_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37615299_2140798419511260_8610303594660364288_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/37733377_2140798916177877_1617661133815021568_o.jpg" title="Events"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2019/02/Ferragosto-2016-e1549408248830.jpg" title="Events"></a><h6 class="text">Events<span class="num_photos">Total 24 photos</span></h6>
+				</div>
+			</div><div class="item-isotope col-xs-6 col-sm-4 solarium col-md-3">
+				<div class="gallery_item">
+					<a href = "http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/0W5B4406.jpg" class="gallery-popup mfp-image" title = "Solarium" >
+							<img width="720" height="430" src="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/0W5B4406-720x430.jpg" class="attachment-awe-room-slider size-awe-room-slider wp-post-image" alt="" />
+						</a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/19225127_1217635461696862_3033723333590863842_n.jpg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/36605716_1775108519222786_2216529945977421824_n.jpg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Balneare.jpg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/IMG_0106-1.jpg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Mare-1.jpg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Solarium-Mare.jpg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/WhatsApp-Image-2018-03-15-at-15.35.161.jpeg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/WhatsApp-Image-2018-08-02-at-15.39.49.jpeg" title="Solarium"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/WhatsApp-Image-2018-08-02-at-15.40.21.jpeg" title="Solarium"></a><h6 class="text">Solarium<span class="num_photos">Total 10 photos</span></h6>
+				</div>
+			</div><div class="item-isotope col-xs-6 col-sm-4 appartamentiville col-md-3">
+				<div class="gallery_item">
+					<a href = "http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/3.jpg" class="gallery-popup mfp-image" title = "Appartamenti e Ville" >
+							<img width="720" height="430" src="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/3-720x430.jpg" class="attachment-awe-room-slider size-awe-room-slider wp-post-image" alt="" />
+						</a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Angolo-cottura-apartments.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Apartments.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Camera-da-letto-apartments.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Camera-da-Letto-Blu.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Soggiorno-apartments.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Soggiorno-villa.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Terrazino-villa.jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Terrazzino-villa..jpg" title="Appartamenti e Ville"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Villa.jpg" title="Appartamenti e Ville"></a><h6 class="text">Appartamenti e Ville<span class="num_photos">Total 10 photos</span></h6>
+				</div>
+			</div><div class="item-isotope col-xs-6 col-sm-4 resort col-md-3">
+				<div class="gallery_item">
+					<a href = "http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/19143063_1923934401197664_503075796913453864_o.jpg" class="gallery-popup mfp-image" title = "Resort" >
+							<img width="720" height="430" src="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/19143063_1923934401197664_503075796913453864_o-720x430.jpg" class="attachment-awe-room-slider size-awe-room-slider wp-post-image" alt="" />
+						</a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/COM8411.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/COM8501.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/0W5B0278.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/2.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/2S1A9884.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/4.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/10.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/13.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/13658915_1754455858145520_5013700299051851425_n.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/19143063_1923934401197664_503075796913453864_o.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Copia-di-19894548_476197416065832_8668698757126296411_n.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/Copia-di-21272379_489949338023973_8785010309370048924_n.jpg" title="Resort"></a><a href="http://lamarsa.it/resort-palermo/wp-content/uploads/2017/12/GOPR0333_00016.jpg" title="Resort"></a><h6 class="text">Resort<span class="num_photos">Total 14 photos</span></h6>
+				</div>
+			</div>					</div>
+				</div>
+							<div class="our-gallery text-center js-loadmore" style=display:none>
+				<a class="more awe-btn awe-btn-6" href="#" data-cats="64, 59, 60, 57"
+					data-page="1"
+					data-max="1"
+					data-num="4"
+					data-size="awe-room-slider"
+					data-column="col-md-3"
+				>View More</a>
+			</div>
+						</div>
+			<!-- GALLERY CONTENT -->
+			</div > </div></div></div></div>
+    </div>
+</article>
+                                                                            </div>
+    </div>
+    <!-- END / BLOG NORMAL-->
+        <!-- FOOTER -->
+        <footer id="footer" class="footer " >
+
+            <!-- FOOTER TOP -->
+			            <div class="footer_top">
+                <div class="container">
+					<div class="row">
+						<!-- WIDGET MAILCHIMP -->
+						<div class="col-lg-9">
+							<div class="mailchimp">
+																	<h4>Registrati</h4>
+								
+																	<div class="mailchimp-form">
+										<div role="form" class="wpcf7" id="wpcf7-f27-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/resort-palermo/#wpcf7-f27-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="27" />
+<input type="hidden" name="_wpcf7_version" value="5.0.5" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f27-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<div class="form-inline">
+<div class="form-group">
+		<span class="wpcf7-form-control-wrap text-237"><input type="text" name="text-237" value="" size="40" class="wpcf7-form-control wpcf7-text input-text" aria-invalid="false" placeholder="Nome e Cognome" /></span>
+	</div>
+<div class="form-group">
+		<span class="wpcf7-form-control-wrap email-40"><input type="email" name="email-40" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input-text" aria-required="true" aria-invalid="false" placeholder="La tua Email" /></span>
+	</div>
+<div class="form-group">
+		<input type="submit" value="Registra" class="wpcf7-form-control wpcf7-submit btn-info" />
+	</div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>									</div>
+															</div>
+						</div>
+						<!-- END / WIDGET MAILCHIMP -->
+													<!-- WIDGET SOCIAL -->
+							<div class="col-lg-3">
+								<div class="social">
+									<div class="social-content">
+										<a target="_blank" href="https://www.facebook.com/lamarsapalermo/"><i class="fa fa-facebook"></i></a>									</div>
+								</div>
+							</div>
+							<!-- END / WIDGET SOCIAL -->
+											</div>
+                </div>
+            </div>
+			            <!-- END / FOOTER TOP -->
+
+            
+            									            <!-- FOOTER CENTER -->
+	            <div class="footer_center">
+	                <div class="container">
+	                    <div class="row">
+
+	                    
+	                    			                        <div class="col-xs-12 col-lg-5">
+											                        </div>
+		                    		                        <div class="col-xs-4 col-lg-2">
+											                        </div>
+		                    		                        <div class="col-xs-4 col-lg-2">
+											                        </div>
+		                    		                        <div class="col-xs-4 col-lg-3">
+											                        </div>
+		                    
+	                    	                    	
+	                    </div>
+	                </div>
+	            </div>
+	            <!-- END / FOOTER CENTER -->
+							
+				            <!-- FOOTER BOTTOM -->
+	            <div class="footer_bottom">
+	                <div class="container">
+		                <div class="row">
+		                			                																			<div class="footer_bottom--column text-left pl-25 col-xs-12 col-sm-4">Copyright Ⓒ 2019 Resort  Addaura  @lamarsapalermo</div>
+										                	
+		                			                		<div class="footer_bottom--column col-xs-12 col-sm-4">
+		                					                				<div class="footer_bottom__social">
+											<a href="https://www.facebook.com/lamarsapalermo/" target="_blank"><i class="fa fa-facebook"></i></a>										</div>
+											                		</div>
+		                	
+		                			                		<div class="footer_bottom--column text-right pr-25 col-xs-12 col-sm-4">
+		                			<div class="footer_bottom__pm">
+			                			<img src="http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/images/payment.png" alt="">
+		                			</div>
+		                		</div>
+		                									
+						</div>
+	                </div>
+	            </div>
+	            <!-- END / FOOTER BOTTOM -->
+	        
+        </footer>
+        <!-- END / FOOTER -->
+	</div>
+<!-- END / PAGE WRAP -->
+		<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+		<link rel='stylesheet' id='animate-css-css'  href='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/flatpickr/flatpickr.min.js?ver=4.5.1'></script>
+<script type='text/javascript'>
+(function() { flatpickr.localize({"firstDayOfWeek":1,"weekdays":{"shorthand":["dom","lun","mar","mer","gio","ven","sab"],"longhand":["domenica","luned\u00ec","marted\u00ec","mercoled\u00ec","gioved\u00ec","venerd\u00ec","sabato"]},"months":{"shorthand":["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],"longhand":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"]}}); })();
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/tippy-js/tippy.standalone.min.js?ver=2.6.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _awebooking_i18n = {"dateFormat":"F j, Y","timeFormat":"g:i a","numberDecimals":"2","decimalSeparator":".","thousandSeparator":",","currencySymbol":"\u20ac","priceFormat":"%v%s"};
+var _awebooking = {"ajax_url":"http:\/\/lamarsa.it\/resort-palermo\/wp-admin\/admin-ajax.php","route":"http:\/\/lamarsa.it\/resort-palermo\/awebooking-route\/","datepicker":{"minNights":1,"maxNights":0,"minDate":0,"maxDate":0,"disableDates":"","disableDays":[],"showMonths":1}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/js/awebooking.min.js?ver=3.2.2'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/vendor/fallback/moment.min.js?ver=2.22.2'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/awebooking/assets/js/search-form.min.js?ver=3.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/lamarsa.it\/resort-palermo\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"http:\/\/lamarsa.it\/resort-palermo\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/resort-palermo\/","cookieDomain":"","redirection":"","cache":"","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.45'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Chiudi","currentText":"Oggi","monthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"monthNamesShort":["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],"nextText":"Successivo","prevText":"Precedente","dayNames":["domenica","luned\u00ec","marted\u00ec","mercoled\u00ec","gioved\u00ec","venerd\u00ec","sabato"],"dayNamesShort":["dom","lun","mar","mer","gio","ven","sab"],"dayNamesMin":["D","L","M","M","G","V","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/contact-form.js?ver=4.8.9'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/isotope.pkgd.min.js?ver=4.8.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ReservationForm = {"textErrorDate":"You must choose a date","textErrorTime":"You must choose a time","textErrorPerson":"You must choose number of persons"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/awe_shortcode/assets/js/reservation-form.js?ver=4.8.9'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/comment-reply.min.js?ver=4.8.9'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/bootstrap-select.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js//lib/owl.carousel.js?ver=2015620'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/jquery.countdown.min.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/jquery.countTo.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/jquery.parallax-1.1.3.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/jquery.appear.min.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/lib/imagesloaded.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var awe_main = {"url":"http:\/\/lamarsa.it\/resort-palermo\/wp-admin\/admin-ajax.php","textDays":"Days","textHours":"Hours","textMinutes":"Minutes","textSeconds":"Seconds"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/themes/hillter.theme/assets/js/scripts.js'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-includes/js/wp-embed.min.js?ver=4.8.9'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.1'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.1'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=5.1'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/lib/bower/zoom/jquery.zoom.min.js?ver=5.1'></script>
+<script type='text/javascript' src='http://lamarsa.it/resort-palermo/wp-content/plugins/js_composer/assets/lib/vc_image_zoom/vc_image_zoom.min.js?ver=5.1'></script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom bootstrap" style="color: #baac8f; background-color: #ffffff;"><div class="cookie-notice-container"><span id="cn-notice-text">Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito noi assumiamo che tu ne sia felice.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">Ok</a><a href="https://www.iubenda.com/privacy-policy/94936043" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap button">Privacy policy</a>
+				</div>
+				
+			</div></body>
+</html>

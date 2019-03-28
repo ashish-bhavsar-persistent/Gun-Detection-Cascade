@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="hr-hr" lang="hr-hr" dir="ltr" >
+<head>
+		
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="kajak, kajakaski savez, hrvatski, kanu" />
+  <meta name="description" content="Hrvatski kajakaski savez" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>NASLOVNA</title>
+  <link rel="stylesheet" href="/templates/ol_anteez/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ol_anteez/css/auto.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ol_anteez/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ol_anteez/css/menu/superfish.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ol_anteez/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ol_anteez/css/blue/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ol_anteez/css/social.css" type="text/css" />
+  <style type="text/css">
+.container{width:1000px;margin:0 auto;}#logo-image a{background:url(/images/Untitled-1.png) no-repeat left top;width:400px;height:200;margin: 0px;}#logo-text a,#site-slogan,body a{color:#0c347a}.header-content, #wowslider-container .ws-title,.menu1 li a:hover,.menu1 li a:active,.menu1 li a:focus,.menu1 li a.active,
+.button-big,.button,.btn,button,.button-small{background-color:#0c347a !important}body, .inputbox, input, textarea{color:#000000;}body{background-color:#93bbdb;}body{ background-image:url(/templates/ol_anteez/images/bg.jpg);}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+  <script src="/templates/ol_anteez/scripts/noconflict.js" type="text/javascript"></script>
+  <script src="/templates/ol_anteez/scripts/menu/hoverIntent.js" type="text/javascript"></script>
+  <script src="/templates/ol_anteez/scripts/menu/superfish.js" type="text/javascript"></script>
+  <script src="/templates/ol_anteez/scripts/scripts.js" type="text/javascript"></script>
+  <script src="/templates/ol_anteez/scripts/jquery.mobmenu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+<link rel="stylesheet" href="/templates/ol_anteez/header/css/style.css" type="text/css" />
+	
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<!--[if lt IE 8]>
+    <link type="text/css"  media="screen" rel="stylesheet" href="/templates/ol_anteez/css/ie8.css"/>
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css"  media="screen" rel="stylesheet" href="/templates/ol_anteez/css/ie7.css"/>
+<![endif]-->
+<!--[if lte IE 8]>
+<script src="/templates/ol_anteez/scripts/ie-html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+var ADAPT_CONFIG = { path: '/templates/ol_anteez/css/', dynamic: true, range: ['0 to 480px  = mobile.css','480px to 760px  = tablet.css'] };
+</script>
+<script type="text/javascript" src="/templates/ol_anteez/scripts/adapt.js"></script>
+</head>
+<body>
+<div id="page-container">  	
+
+<!-- start page top container -->
+<div id="page-container-top">
+
+<header id="header" class="container">
+
+<div id="social-bookmarks">
+<ul class="social-bookmarks">
+<li class="facebook"><a href="https://www.facebook.com/ECAMarathon2018/">facebook</a></li>
+</ul>
+</div> 
+<div style="clear:both;"></div>
+<div class="logo">                      	
+<h1 id="logo-image"><a href="">ANTEEZ</a></h1>
+                        
+</div>
+<div class="header-content">	
+<nav id="navigation">
+<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul id="mobile-menu" class="sf-menu">
+<li class="item435"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=9&amp;Itemid=435" >Naslovna</a></li><li class="item490"><a href="/index.php?option=com_content&amp;view=article&amp;id=171&amp;Itemid=490" >Klubovi</a></li><li class="item493"><a href="/index.php?option=com_content&amp;view=categories&amp;id=81&amp;Itemid=493" >Dokumenti</a></li><li class="item503"><a href="/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=503" >Linkovi</a></li><li class="item530"><a href="/index.php?option=com_content&amp;view=categories&amp;id=102&amp;Itemid=530" >Rezultati</a></li></ul>
+<div class="clear"></div>
+</nav>
+</div>
+<div class="clear"></div>
+
+</header>                 
+
+
+
+<section id="slider" class="container">
+<div class="slider-content">	
+<div class="container">
+
+<div id="wowslider-container" class="">
+
+<div class="ws_images">
+<ul>
+<li >
+<img src="images/banners/samo krka.jpg" title="" alt="" id="wows1_0" />
+</li>
+<li >
+<img src="images/banners/Antun Novakovic_1.jpg" title="" alt="" id="wows1_1" />
+</li>
+<li >
+<img src="images/banners/Antun Novakovic_5.jpg" title="" alt="" id="wows1_2" />
+</li>
+<li >
+<img src="images/banners/krka banner_2 copy.jpg" title="" alt="" id="wows1_3" />
+</li>
+<li >
+<img src="images/banners/anamaria i vanesa copy.jpg" title="" alt="" id="wows1_4" />
+</li>
+<li >
+<img src="images/banners/divlja voda banner.jpg" title="" alt="" id="wows1_5" />
+</li>
+</ul>
+</div>
+
+</div>
+<script type = "text/javascript" src = "/templates/ol_anteez/header/js/wowslider.js"></script>
+<script type = "text/javascript" src = "/templates/ol_anteez/header/js/blinds.js"></script>	
+
+<script type="text/javascript">
+(function($) {
+$(window).load(function(){
+$("#wowslider-container").wowSlider({
+effect:"blinds",
+duration:900,
+delay:5000,
+width:960,
+height:400,
+cols:6,
+autoPlay:true,
+stopOnHover:true,
+loop:false,
+bullets:false,
+caption:true,
+controls:true,
+captionEffect:"slide",
+logo:"/templates/ol_anteez/header/images/loading_light.gif",
+images:0
+});
+});
+})(jQuery);
+</script>
+</div>
+</div>     
+</section>
+
+	
+<!-- No Slides -->
+		
+<div class="clear"></div>       
+
+
+<!-- start feature -->
+<section id="feature">
+<div class="container">
+<div class="">
+<div class="block">
+<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="footer-menu">
+<li class="item495"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=10&amp;Itemid=495" >Kontakt</a></li><li class="item507"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=507" >Tijela saveza</a></li><li class="item521"><a href="/index.php?option=com_content&amp;view=article&amp;id=161&amp;Itemid=521" >Kalendar natjecanja 2019</a></li><li class="item536"><a href="/index.php?option=com_content&amp;view=article&amp;id=125&amp;Itemid=536" >KRITERIJI I NORME 2016</a></li><li class="item537"><a href="/index.php?option=com_content&amp;view=article&amp;id=128&amp;Itemid=537" >NUM. I NOMINALNE PRIJAVE 2018.</a></li><li class="item538"><a href="/index.php?option=com_content&amp;view=article&amp;id=130&amp;Itemid=538" >RASPISI 2018</a></li><li class="item539"><a href="/index.php?option=com_content&amp;view=article&amp;id=134&amp;Itemid=539" >OBAVIJESTI</a></li></ul>
+
+</div>
+</div>        
+<div class="grid_8"><div class="block"><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=29" target="_blank"
+							title="NP KRKA">
+							<img
+								src="http://www.kajak.hr/images/np krka.jpg"
+								alt="NP KRKA"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div>
+<div class="grid_8"><div class="block"><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=30" target="_blank"
+							title="ICF WEB">
+							<img
+								src="http://www.kajak.hr/images/ICF nova.jpg"
+								alt="ICF WEB"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div>
+<div class="grid_8"><div class="block"><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=31" target="_blank"
+							title="ECA WEB">
+							<img
+								src="http://www.kajak.hr/images/banners/eca nova.jpg"
+								alt="ECA WEB"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div>		
+
+<div class="clear separator"></div>
+</div>	
+</section>
+
+                   
+</div>
+<!-- //end page top container -->        
+
+<!-- start page middle container -->
+<div id="page-container-middle">
+
+<section id="content">
+<div class="container">	
+
+<div id="system-message-container">
+</div>
+			
+
+<div class="grid_6 left"><div class="block"><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=10" target="_blank"
+							title="ECA">
+							<img
+								src="http://www.kajak.hr/images/banners/Logo ECA full title square 5.png"
+								alt="ECA"
+								width ="90"								height ="90"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=6" target="_blank"
+							title="HZTK">
+							<img
+								src="http://www.kajak.hr/images/banners/70-godina-HZTK-logo-boja.png"
+								alt="HZTK"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=5" target="_blank"
+							title="krebeg">
+							<img
+								src="http://www.kajak.hr/images/banners/Krebeg.gif"
+								alt="krebeg"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=16" target="_blank"
+							title="PBZ">
+							<img
+								src="http://www.kajak.hr/images/banners/PBZ.gif"
+								alt="PBZ"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=14" target="_blank"
+							title="ZKS">
+							<img
+								src="http://www.kajak.hr/images/banners/ZKS.gif"
+								alt="ZKS"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=8" target="_blank"
+							title="hoo">
+							<img
+								src="http://www.kajak.hr/images/banners/HOO-logo.jpg"
+								alt="hoo"
+								width ="60"								height ="60"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=20" target="_blank"
+							title="ZŠS">
+							<img
+								src="http://www.kajak.hr/images/banners/ssgz-logo.png"
+								alt="ZŠS"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=21" target="_blank"
+							title="krka">
+							<img
+								src="http://www.kajak.hr/images/banners/logo KRKA.png"
+								alt="krka"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=22" target="_blank"
+							title="tepih centar">
+							<img
+								src="http://www.kajak.hr/images/banners/tepih-centar.gif"
+								alt="tepih centar"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=23" target="_blank"
+							title="ICF">
+							<img
+								src="http://www.kajak.hr/images/banners/logo icf.jpg"
+								alt="ICF"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=25" target="_blank"
+							title="partner banka">
+							<img
+								src="http://www.kajak.hr/images/banners/partner_banka_krediti_nekretnine_manji.gif"
+								alt="partner banka"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=26" target="_blank"
+							title="MZOS">
+							<img
+								src="http://www.kajak.hr/images/banners/logo_mzos_2.png"
+								alt="MZOS"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																														<img
+						src="http://www.kajak.hr/images/banners/aquanatura-logo.png"
+						alt="aquanatura"
+																	/>
+											<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div>
+<div class="grid_12"><div class="block" style="padding-bottom:0;"><section class="blog">
+
+
+
+
+<div class="items-leading">
+<article class="leading-0">
+<div class="article-bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+<p style="text-align: center;"><span style="color: #000080; font-size: 12pt;"><strong><span style="font-family: Calibri, sans-serif;">BRUNO KUMPEZ ČETVRTI NA SVIJETU U KATEGORIJI KANUISTA DO 23 GODINE</span></strong></span></p>
+<p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif; color: #000000;"> <span style="font-size: 9pt; font-family: Calibri, sans-serif; color: #000080;">Na Svjetskom prvenstvu u kajak-kanu maratonu koje se održava u Prado Vila Verde u Portugalu, dvadesetogodišnji hrvatski kanuista Bruno Kumpez je u kategoriji kanuista do 23 godine na 22,6 km dugoj stazi osvojio  4. mjesto zaostavši za pobjednikom 35 sekundi.  Bruno će sutra nastupiti i u senioskoj konkurenciji kanuista na 26,2 km dugoj stazi.</span></p>
+<p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif; color: #000000; text-align: justify;"><span style="font-size: 9pt; font-family: Calibri, sans-serif; color: #000080;">Više na:</span></p>
+<p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif; color: #000000;"><span style="font-size: 9pt; font-family: Calibri, sans-serif;"><a href="https://timetable.canoemarathonportugal.com/" style="color: purple;">https://timetable.canoemarathonportugal.com/</a></span></p>
+<p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif; color: #000000;"><span style="text-decoration: underline;"><span style="font-size: 9pt; font-family: Calibri, sans-serif;">Rezultati C-1 U23</span></span></p>
+<table style="font-family: Helvetica; width: 374px; background-color: white; height: 89px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="background-color: transparent; padding: 0cm;"> </td>
+</tr>
+<tr>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">1</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">POR</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 1pt 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">MACIEL Sérgio</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">01:51:32.67</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+</tr>
+<tr>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">2</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">HUN</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 1pt 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">ADOLF Balázs</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">01:51:37.15</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">00:00:04.48</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+</tr>
+<tr>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">3</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">HUN</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 1pt 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">LACZÓ Dániel</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">01:51:46.01</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">00:00:13.34</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+</tr>
+<tr>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">4</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"> </td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">CRO</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 1pt 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">KUMPEZ Bruno</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">01:52:07.88</span></td>
+<td style="border-style: none none solid; border-bottom-width: 1pt; border-bottom-color: #cccccc; background-color: transparent; padding: 0cm 2.5pt;"><span style="font-size: 9pt; font-family: Arial, sans-serif;">00:00:35.21</span></td>
+</tr>
+</tbody>
+</table>
+
+
+<div class="item-separator"></div>
+</div>
+</article>
+<article class="leading-1">
+<div class="article-bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+<h5 style="text-align: center;"><span style="color: #000080;"><strong><a href="images/Rang%20lista%20kajak%20sportska%20odjeljenja%202018.pdf" target="_blank" style="color: #1a1a1a;"><span style="color: #000080;">Konačna rang lista za upis u srednje škole 2018/201</span></a>9</strong></span></h5>
+<hr />
+
+
+<div class="item-separator"></div>
+</div>
+</article>
+<article class="leading-2">
+<div class="article-bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5 style="text-align: center;"><a href="http://metkovic2018.kajak.hr/" target="_blank"><strong><span style="color: #000080;"><span style="color: #000080;">http://metkovic2018.kajak.hr/</span><span style="color: #000080;"></span></span></strong></a></h5>
+<p><span style="color: #000080;">The website for Metkovic 2018 - the European canoe marathon championship, is now live!</span></p>
+<p><span style="color: #000080;">Please follow the link provided on the website if you wish to register for the Masters race.</span></p>
+<p><span style="color: #000080;">The website is still under construciton, so we kindly ask you to bear in mind there will be more updates soon. Visit regularly to be informed on time.</span></p>
+<hr />
+<p> </p>
+
+
+<div class="item-separator"></div>
+</div>
+</article>
+</div>
+
+<div class="items-row cols-1 row-0">
+<article class="item column-1">
+<div class="article-bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5 style="text-align: center;"><span style="color: #000080;"><strong>NOSTALGIJA 24: Ljubek i Janić iz Ploča su 80-ih polazili u osvajanje Svijeta</strong></span></h5>
+<p><span style="color: #000080;">Zanimljiv članak o kajakaškim pripremama hrvatskih velikana Matiji Ljubeku i Milanu Janiću koji su 80-ih dolazili na bazične pripreme u Ploče i dolinu Neretve. „Tih godina u naš grad na bazične, najvažnije pripreme dolazili su Matija Ljubek i Milan Janić, priznati majstori sporta, u to vrijeme ponajbolji svjetski natjecatelji u svojim mirnovodaškim disciplinama. Ljubek je dvije godine, 1985. i 1986., bio u Pločama, a Janić znatno više, redovito je stizao od 1981.-1987. Janić je stalno isticao kako su Ploče i dolina Neretve, krajem zime i početkom proljeća, najidealnije mjesto za pripreme i treniranje. Svijet ne poznaje bolje – ponavljao je stalno Janić.“ Više o tome pročitajte OVDJE <a href="https://ploce.com.hr/iz-naftalina/nostalgija-24-ljubek-i-janic-iz-ploca-su-80-ih-polazili-u-osvajanje-svijeta/" target="_blank">https://ploce.com.hr/iz-naftalina/nostalgija- 24-ljubek- i-janic- iz-ploca- su-80- ih-polazili- u-osvajanje- svijeta/</a></span></p>
+<p style="text-align: center;"> <img style="margin-right: 20px;" src="images/nostalgija2.jpg" alt="nostalgija2" width="300" height="169" /></p>
+<hr />
+<p style="text-align: center;"> </p>
+
+
+<div class="item-separator"></div>
+</div>
+</article>
+<span class="row-separator"></span>
+</div>
+
+<div class="items-row cols-1 row-1">
+<article class="item column-1">
+<div class="article-bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5 style="text-align: center;"><span style="color: #000080;"><strong>KAJAKAŠKI RAJ - Na Neretvi trenutno trenira 100-njak Hrvata, Mađara,</strong></span><br /><span style="color: #000080;"><strong>Slovaka, Slovenaca i Čeha</strong></span></h5>
+<p><span style="color: #000080;">Za sve bolje poznavatelje kajaka i kanua rijeka Neretva je raj na zemlji. Stoga ne čudi da je trenutno u dolini Neretve od Rogotina do Metkovića na pripremama oko 100-njak veslača iz nekoliko europskih zemalja.U Metkoviću, sada već tradicionalnoj bazi Hrvatske kajakaške reprezentacije, održavaju se desetodnevne pripreme juniorske reprezentacije. U grupi s našima treniraju i juniori iz slovenske reprezentacije. Više o tome pročitajte na linku: <a href="http://likemetkovic.hr/portal/2018/03/08/kajakaski-raj-trenutno-100-njak-hrvata-madara-slovaka-i-ceha-trenira-na-neretvi/" target="_blank"><span style="color: #000080;">http://likemetkovic.hr/portal/2018/03/08/kajakaski-raj- trenutno-100- njak-hrvata- madara-</span> <span style="color: #000080;">slovaka-i- ceha-trenira- na-neretvi/</span></a></span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/Pripreme%20metkovic%201.JPG" alt="Pripreme metkovic 1" width="300" height="200" /></p>
+<hr />
+<p> </p>
+
+
+<div class="item-separator"></div>
+</div>
+</article>
+<span class="row-separator"></span>
+</div>
+
+<div class="items-row cols-1 row-2">
+<article class="item column-1">
+<div class="article-bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5 style="text-align: center;"><span style="color: #000080;"><strong>Potpisivanje Ugovora između Hrvatskog kajakaškog saveza i grada Metkovića o zajeničkoj organizaciji provedbi Europskoga prvenstva u kajak-kanu maratonu Metković 2018<a href="http://likemetkovic.hr/portal/2017/12/01/metkovic-domacin-ep-2018-kajak-kanu-maratonu/" target="_blank"><span style="color: #000080;"></span></a></strong></span></h5>
+<p><span style="color: #000080;">Gradonačelnik Metkovića Dalibor Milan i predsjednik Hrvatskoga kajakaškog saveza Marko Ćurković potpisali su Ugovor o zajedničkoj organizaciji/provedbi Europskog prvenstva u kajak-kanu maratonu Metković 2018. EP Metković 2018. održat će se od 1. do 8. srpnja 2018. Nastupit će više od 600 natjecatelja iz 25 država. Više o tome pročitajte na linku: <a href="http://likemetkovic.hr/portal/2017/12/01/metkovic-domacin-ep-2018-kajak-kanu-maratonu/" target="_blank"><span style="color: #000080;">http://likemetkovic.hr/portal/2017/12/01/metkovic-domacin-ep-2018-kajak-kanu-maratonu/</span></a> </span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/potpisivanje%20ugovora.jpg" alt="potpisivanje ugovora" width="300" height="157" /></p>
+<hr />
+
+
+<div class="item-separator"></div>
+</div>
+</article>
+<span class="row-separator"></span>
+</div>
+
+
+
+
+
+
+<div class="items-more">
+<h3>Više članaka ...</h3>
+
+<ol>
+
+<li>
+<a href="/index.php?option=com_content&amp;view=article&amp;id=165:upisom-za-osposobljavanje-kadrova-u-kajakastvu&amp;catid=9&amp;Itemid=529">
+upisom za osposobljavanje kadrova u kajakaštvu</a>
+</li>
+<li>
+<a href="/index.php?option=com_content&amp;view=article&amp;id=163:ep-marathon-metkovic&amp;catid=9&amp;Itemid=529">
+EP MARATHON METKOVIC</a>
+</li>
+<li>
+<a href="/index.php?option=com_content&amp;view=article&amp;id=162:6-medunarodni-seminar-u-kraljevici&amp;catid=9&amp;Itemid=529">
+6. Međunarodni seminar u Kraljevici</a>
+</li>
+<li>
+<a href="/index.php?option=com_content&amp;view=article&amp;id=160:6-kraljevica-seminar&amp;catid=9&amp;Itemid=529">
+6 - Kraljevica seminar </a>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+</section>
+
+
+</div></div>            
+<div class="grid_6 right"><div class="block"><div class="module-container "><h3 class="module-title">BULLETIN 2</h3><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=28" target="_blank"
+							title="EP MARATHON METKOVIC 2">
+							<img
+								src="http://www.kajak.hr/images/banners/LOGO KAYACI NERETVA_4.jpg"
+								alt="EP MARATHON METKOVIC 2"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=34" target="_blank"
+							title="EP MARATHON METKOVIC FB">
+							<img
+								src="http://www.kajak.hr/images/eca marathon fb_3.jpg"
+								alt="EP MARATHON METKOVIC FB"
+								width ="200"								height ="200"							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div><div class="module-container "><h3 class="module-title">BULLETIN 1</h3><div class="module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php?option=com_banners&amp;task=click&amp;id=35" target="_blank"
+							title="EP MARATHON METKOVIC 1">
+							<img
+								src="http://www.kajak.hr/images/banners/LOGO KAYACI NERETVA_4.jpg"
+								alt="EP MARATHON METKOVIC 1"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div>
+
+
+
+
+
+<div class="clear"></div>
+</div>	
+</section></div>
+<!-- //end page middle container -->        
+
+<!-- start page bottom container -->
+<div id="page-container-bottom">
+
+
+<section id="bottom">
+	<div class="container">
+		
+		
+		
+				
+					<div class="grid_24"><div class="block"><div class="module-container "><div class="module-content"><!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav ">
+<li id="current" class="selected item529"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=9&amp;Itemid=529" >NASLOVNA</a></li></ul>
+</div></div></div></div>
+			
+				
+		<div class="clear"></div>
+	</div>	
+</section>
+
+<footer id="footer">
+<div class="container"> 
+<div class="clear separator"></div>
+<div class="grid_12"><div class="block">Copyright (c) Hrvatski kajakaški savez 2014. All rights reserved.</div></div>
+<div class="grid_12"><div class="block"></div></div>		
+
+<div class="clear"></div>
+</div>	
+</footer></div>
+<!-- //end page bottom container -->         
+
+</div>   
+
+
+</body>
+</html>
