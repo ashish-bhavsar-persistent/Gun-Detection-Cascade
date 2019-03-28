@@ -68,6 +68,6 @@ def create_pos_n_neg():
                     f.write(line)
 
 
-#create_pos_n_neg()
-find_uglies()
+create_pos_n_neg()
+# find_uglies()
 #store_raw_images()
