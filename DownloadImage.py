@@ -32,7 +32,7 @@ def store_raw_images():
     neg_image_urls = urllib.request.urlopen(neg_images_link).read().decode()
     if not os.path.exists('neg'):
         os.makedirs('neg')
-    activeCount = 0
+
     for i in neg_image_urls.split('\n'):
         t = Thread(target=sleeper, args=(i,))
         t.start()
@@ -66,6 +66,8 @@ def create_pos_n_neg():
                 line = file_type + "/" + img + " 1 0 0 50 50\n"
                 with open("info.dat", "a") as f:
                     f.write(line)
+
+
 create_pos_n_neg()
 # find_uglies()
 # store_raw_images()
