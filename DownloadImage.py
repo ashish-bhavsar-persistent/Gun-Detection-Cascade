@@ -21,11 +21,11 @@ def sleeper(i):
         img = cv2.imread("neg/" + str(pic_num) + ".jpg", cv2.IMREAD_GRAYSCALE)
         resized_image = cv2.resize(img, (100, 100))
         cv2.imwrite('neg/' + str(pic_num) + '.jpg', resized_image)
-        pic_num += 1
+        
     except Exception as e:
         print(e)
 def store_raw_images():
-    neg_images_link = 'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00448466'
+    neg_images_link = 'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00445351'
     neg_image_urls = urllib.request.urlopen(neg_images_link).read().decode()
     if not os.path.exists('neg'):
         os.makedirs('neg')
