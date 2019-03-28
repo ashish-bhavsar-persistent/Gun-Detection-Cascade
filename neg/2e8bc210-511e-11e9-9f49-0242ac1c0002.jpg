@@ -1,0 +1,2255 @@
+<!DOCTYPE html><html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Rai News: le ultime notizie in tempo reale &ndash; news, attualit&agrave; e aggiornamenti</title>
+<link rel="canonical" href="http://www.rainews.it/">
+<meta content="Rai News: le ultime notizie in tempo reale" name="og:title">
+<meta content="Rai News: il primo canale all news italiano. Scopri le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, esteri, economia, sport e attualit&agrave;." name="og:description">
+<meta content="Rai News: il primo canale all news italiano. Scopri le ultime notizie in tempo reale. News e aggiornamenti su politica, cronaca, esteri, economia, sport e attualit&agrave;." name="description">
+<link href="http://www.rainews.it/dl/rainews/rss/ContentSet-945f3230-f5e5-4292-a9b0-4e8bf5d266ef-0.html" title="Ultime notizie" type="application/rss+xml" rel="alternate">
+<meta content="http://www.rainews.it/dl/rainews/images/social/homepage.png" name="og:image">
+<!--Generatione Date 2019-03-28 06:36:23-->
+
+<!-- Home Page RAI NEWS -->
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width"/>
+<meta name="language" content="italian"/>
+<meta name="google-site-verification" content="6vy3iWHPSsyIwSrmBGFtGPqmCg_A3XhxPezStO6Q7rc"/>
+<meta name="rainews" content="rainews"/>
+<meta property="fb:app_id" content="110027769072133"/>
+<meta property="fb:pages" content="124992707516031"/>
+
+<link rel="icon" href="/dl/rainews/favicon.ico"/>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Arvo:400,700" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+	
+
+
+
+	
+
+
+<script>
+	;(function() {
+		var loc = document.location;
+		if (/\.rai\.tv$/.test(loc.hostname) && /^\/dl\/rainews\//.test(loc.pathname)) {
+			document.location.replace('http://www.rainews.it' + loc.pathname);
+		}
+	}());
+</script>
+
+<!-- Social Networks -->
+<!-- script type="text/javascript" src="//assets.pinterest.com/js/pinit.js "></script-->
+<script type="text/plain" class="_iub_cs_activate">
+
+	//!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+	window.twttr = (function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+
+/*
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+*/
+
+	window.___gcfg = {lang: 'it'};
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+
+</script>
+
+
+
+
+<script>
+	
+	var isSiteOnline = true;
+	var currPageType = "homepage";
+	var AllNewsConfig = {"lightstreamerOwners": [{"label": "Home Page RAI NEWS", "type": "RN Home Page", "owner": "ContentSet_48e15680_055e_480e_8eac_f6c7e132eac8_LS", "uniquename": "ContentSet-48e15680-055e-480e-8eac-f6c7e132eac8"}, 
+{"label": "STREAMING LIVE VIDEO", "type": "RN live Set", "owner": "ContentSet_758b105c_c0c0_4a26_95f4_6f276a4adbe5_LS", "uniquename": "ContentSet-758b105c-c0c0-4a26-95f4-6f276a4adbe5"}, 
+{"label": "BREAKING NEWS", "type": "RN Breaking News Block", "owner": "PublishingBlock_272678a9_725a_4c07_9bf5_2bfa4a00d2dc_LS", "uniquename": "PublishingBlock-272678a9-725a-4c07-9bf5-2bfa4a00d2dc"}, 
+{"label": "APERTURA", "type": "RN Apertura Block", "owner": "PublishingBlock_2abc8fba_ca41_4fee_8c6d_6af517dee04b_LS", "uniquename": "PublishingBlock-2abc8fba-ca41-4fee-8c6d-6af517dee04b"}], "tematiche": [{"name": "POLITICA", "id": "ContentSet-a6684b5a-a8e7-48bf-9d0d-8dfe6caafd6e", "uniquename": "ContentSet-a6684b5a-a8e7-48bf-9d0d-8dfe6caafd6e", "categoryUniquename": "Category-be21cd04-de3d-4818-9433-364237aa13f7", "color": "color6", "colorHex": "#f6946b", "weblink": "/dl/rainews/redazioni/ContentSet-a6684b5a-a8e7-48bf-9d0d-8dfe6caafd6e.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-a6684b5a-a8e7-48bf-9d0d-8dfe6caafd6e.html"}, 
+{"name": "ECONOMIA", "id": "ContentSet-c9dc9536-976f-4652-bc75-4000a5b57ed1", "uniquename": "ContentSet-c9dc9536-976f-4652-bc75-4000a5b57ed1", "categoryUniquename": "Category-189ba58c-f59b-4cf7-9d18-9ba8384f7395", "color": "color12", "colorHex": "#f8982d", "weblink": "/dl/rainews/redazioni/ContentSet-c9dc9536-976f-4652-bc75-4000a5b57ed1.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-c9dc9536-976f-4652-bc75-4000a5b57ed1.html"}, 
+{"name": "SPETTACOLO", "id": "ContentSet-fd96dd21-f6f8-4a59-9838-599040e465c9", "uniquename": "ContentSet-fd96dd21-f6f8-4a59-9838-599040e465c9", "categoryUniquename": "Category-95f6897d-b73f-4d21-9a33-a359c9a308c9", "color": "color53", "colorHex": "#961d27", "weblink": "/dl/rainews/redazioni/ContentSet-fd96dd21-f6f8-4a59-9838-599040e465c9.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-fd96dd21-f6f8-4a59-9838-599040e465c9.html"}, 
+{"name": "SANREMO", "id": "ContentSet-610e501e-e65d-4682-a8bc-17ce0ed4aaf4", "uniquename": "ContentSet-610e501e-e65d-4682-a8bc-17ce0ed4aaf4", "categoryUniquename": "Category-30ba55b7-1c65-4cd3-817f-c82987a4ff95", "color": "color46", "colorHex": "#c3c3c3", "weblink": "/dl/rainews/redazioni/ContentSet-610e501e-e65d-4682-a8bc-17ce0ed4aaf4.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-610e501e-e65d-4682-a8bc-17ce0ed4aaf4.html"}, 
+{"name": "TECH", "id": "ContentSet-7725d2df-8eb3-4d5b-9ad6-33005a6f8094", "uniquename": "ContentSet-7725d2df-8eb3-4d5b-9ad6-33005a6f8094", "categoryUniquename": "Category-3ae8e46a-33dd-49e9-91fe-3dfae22dc3e6", "color": "color27", "colorHex": "#43c1c2", "weblink": "/dl/rainews/redazioni/ContentSet-7725d2df-8eb3-4d5b-9ad6-33005a6f8094.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-7725d2df-8eb3-4d5b-9ad6-33005a6f8094.html"}, 
+{"name": "CULTURA", "id": "ContentSet-d36f1db1-a587-40ca-97ec-6b8184160e4c", "uniquename": "ContentSet-d36f1db1-a587-40ca-97ec-6b8184160e4c", "categoryUniquename": "Category-13c772ce-ac44-4b3d-9bac-8bf47cbce255", "color": "color11", "colorHex": "#feca45", "weblink": "/dl/rainews/redazioni/ContentSet-d36f1db1-a587-40ca-97ec-6b8184160e4c.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-d36f1db1-a587-40ca-97ec-6b8184160e4c.html"}, 
+{"name": "SPORT", "id": "ContentSet-d76a3d35-7dc3-4534-bde7-20982e62a1c7", "uniquename": "ContentSet-d76a3d35-7dc3-4534-bde7-20982e62a1c7", "categoryUniquename": "Category-7c7e37b2-21b8-466d-8daf-c96e2217fa29", "color": "color33", "colorHex": "#326c9c", "weblink": "/dl/rainews/redazioni/ContentSet-d76a3d35-7dc3-4534-bde7-20982e62a1c7.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-d76a3d35-7dc3-4534-bde7-20982e62a1c7.html"}, 
+{"name": "ITALIA", "id": "ContentSet-f0ade9c3-3a03-442a-bbe0-08949368ef0b", "uniquename": "ContentSet-f0ade9c3-3a03-442a-bbe0-08949368ef0b", "categoryUniquename": "Category-4f2b5ace-21b8-41ac-addc-c94d93851f3a", "color": "color24", "colorHex": "#31693a", "weblink": "/dl/rainews/redazioni/ContentSet-f0ade9c3-3a03-442a-bbe0-08949368ef0b.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-f0ade9c3-3a03-442a-bbe0-08949368ef0b.html"}, 
+{"name": "MONDO", "id": "ContentSet-0acf9fbf-4601-433c-a691-416b6f27e3a0", "uniquename": "ContentSet-0acf9fbf-4601-433c-a691-416b6f27e3a0", "categoryUniquename": "Category-2978c624-75bd-4765-86f6-6aefbf23d48a", "color": "color35", "colorHex": "#263c82", "weblink": "/dl/rainews/redazioni/ContentSet-0acf9fbf-4601-433c-a691-416b6f27e3a0.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-0acf9fbf-4601-433c-a691-416b6f27e3a0.html"}, 
+{"name": "SALUTE", "id": "ContentSet-2d0eb839-c7f1-4341-ad85-bef96768ebe6", "uniquename": "ContentSet-2d0eb839-c7f1-4341-ad85-bef96768ebe6", "categoryUniquename": "Category-3a30ec9a-c641-40b0-ae01-19a316253f7e", "color": "color2", "colorHex": "#FF6666", "weblink": "/dl/rainews/redazioni/ContentSet-2d0eb839-c7f1-4341-ad85-bef96768ebe6.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-2d0eb839-c7f1-4341-ad85-bef96768ebe6.html"}, 
+{"name": "MOTORI", "id": "ContentSet-864c8f52-f47e-4de9-9e95-4c6ebbb8e542", "uniquename": "ContentSet-864c8f52-f47e-4de9-9e95-4c6ebbb8e542", "categoryUniquename": "Category-c6742853-ffd6-41ba-a9db-d7f861fc5f8b", "color": "color3", "colorHex": "#FF3333", "weblink": "/dl/rainews/redazioni/ContentSet-864c8f52-f47e-4de9-9e95-4c6ebbb8e542.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-864c8f52-f47e-4de9-9e95-4c6ebbb8e542.html"}, 
+{"name": "SCIENZA", "id": "ContentSet-4a5f03d4-e96e-4708-b212-f7668f3992b5", "uniquename": "ContentSet-4a5f03d4-e96e-4708-b212-f7668f3992b5", "categoryUniquename": "Category-3b8fcc4c-0b7c-4d95-8e4e-ddf16eff00b2", "color": "color31", "colorHex": "#37c6f2", "weblink": "/dl/rainews/redazioni/ContentSet-4a5f03d4-e96e-4708-b212-f7668f3992b5.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-4a5f03d4-e96e-4708-b212-f7668f3992b5.html"}, 
+{"name": "AMBIENTE", "id": "ContentSet-fd5a01a9-7949-4ea8-afeb-815ffbfeaeee", "uniquename": "ContentSet-fd5a01a9-7949-4ea8-afeb-815ffbfeaeee", "categoryUniquename": "Category-8912aba5-e14a-4fb4-9e80-167a5c3ab4b0", "color": "color55", "colorHex": "#15c300", "weblink": "/dl/rainews/redazioni/ContentSet-fd5a01a9-7949-4ea8-afeb-815ffbfeaeee.html", "jsonlink": "/dl/rainews/json/redazioni/ContentSet-fd5a01a9-7949-4ea8-afeb-815ffbfeaeee.html"}]
+};
+	AllNewsConfig.tgr = {};
+</script>
+
+<script>var uniqueNameStopNews = 'ContentSet-48e15680-055e-480e-8eac-f6c7e132eac8'</script><script>var uniqueNameStopVideoNews = ''</script>
+
+
+
+
+<!-- Parte shareThis disattivata  -->
+<!-- script defer async type="text/javascript" src="http://w.sharethis.com/button/buttons.js#publisher=92f7f970-02d5-4b35-bec1-03454ebb7d3b&amp;onhover=true">;</script-->
+
+<!-- FINE Parte shareThis disattivata  -->
+
+<!-- DISABILITO IL DEVELOMPENT TRUE PER BYPASSARE ERRORE DOVUTO ALLE REDIREDCT TGR -->
+<!-- #if expr="$DEVELOPMENT = 'true'" -->
+
+
+	<script src="/dl/rainews/assets/libs/jquery/jquery.min.js">;</script>
+	<script src="/dl/rainews/assets/libs/jquery-migrate/jquery-migrate.js">;</script>
+	<script src="/dl/rainews/assets/libs/jquery.lazyload/jquery.lazyload.min.js">;</script>
+	<script src="/dl/js/jstorage.js">;</script>
+
+	<script src="/dl/js/common.js">;</script>
+
+	<script src="/dl/rainews/src/js/jquery.sondaggio.rainews.js">;</script>
+
+	<script src="/dl/js/cookie.pack.js">;</script>
+
+	<!-- load Lightstreamer libraries -->
+	<script src="/dl/lightstreamer/commons/lscommons.js" type="text/javascript">;</script>
+	<script src="/dl/lightstreamer/commons/lspushpage.js" type="text/javascript">;</script>
+
+	<script src="/dl/rainews/src/js/soyutils.js">;</script>
+	<script src="/dl/rainews/js/soy-templates.js">;</script>
+	<script src="/dl/rainews/js/doT.js">;</script>
+	<script src="/dl/rainews/js/jquery.ba-bbq.js">;</script>
+	<script src="/dl/rainews/assets/libs/jquery.bxslider/jquery.bxslider.min.js">;</script>
+	<script src="/dl/rainews/src/js/utils.js">;</script>
+	<script src="/dl/rainews/src/js/lightstreamer.js">;</script>
+	<script src="/dl/rainews/src/js/media.js">;</script>
+	<script src="/dl/rainews/src/js/timeformatter.js">;</script>
+	<script src="/dl/rainews/src/js/rainews.js">;</script>
+	<script src="/dl/rainews/src/js/tggr.js">;</script>
+	<script src="/dl/rainews/src/js/tgr.js">;</script>
+	<script src="/dl/rainews/src/js/hottopics.js">;</script>
+	<script src="/dl/rainews/src/js/accessibility.js">;</script>
+	<script src="/dl/rainews/src/js/hotblog.js">;</script>
+	<script src="/dl/rainews/src/js/nostopnews.js">;</script>
+	<script src="/dl/rainews/src/js/economia.js">;</script>
+	<script src="/dl/rainews/src/js/calcio.js">;</script>
+	<script src="/dl/rainews/src/js/slider.js">;</script>
+	<script src="/dl/rainews/src/js/tematiche.js">;</script>
+	<script src="/dl/rainews/src/js/tematichePage.js">;</script>
+	<script src="/dl/rainews/src/js/articolo.js">;</script>
+	<script src="/dl/rainews/src/js/live-text.js">;</script>
+	<script src="/dl/rainews/src/js/elezioni-2018.js20180307080847">;</script>
+	<!-- <script src="/dl/rainews/src/js/elezioni-ballottaggiComunali-2016.js">;</script> -->
+	<!-- script src="/dl/rainews/src/js/referendum.js">;</script -->
+	<script src="/dl/rainews/src/js/bollettinoNeve.js">;</script>
+	<script src="/dl/rainews/src/js/multilanguage.js">;</script>
+	<script src="/dl/rainews/js/jquery.slides.min.js">;</script>
+	<script src="/dl/js/jquery/plugin/ui-1.11.2/jquery-ui.min.js">;</script>
+	<script src="/dl/rainews/src/js/pageNotFound.js">;</script>
+
+
+
+
+
+<script>
+
+	if (typeof(trackData) == 'undefined') {
+		var trackData = {};
+	}
+	trackData.site = "rainews";
+	trackData.editore = "rainews";
+	trackData.canale = "informazione";
+
+	
+		trackData.programma = "rainews";
+	
+
+	
+
+	
+		trackData.siteType = "homepage";
+		trackData.cg5 = "homepage";
+		trackData.cg9 = "homepage";
+		trackData.cp4 = "homepage";
+	
+
+</script>
+
+
+
+
+<!--provaaaa-->
+<pre style="display:none;">Original qstring: (none) | /rainews.html | rainews/live/ | (none)</pre>
+
+
+<!-- -->
+<script type="text/javascript" src="/dl/analytics/webtrekk/webtrekk_v323.js">;</script>
+<script type="text/javascript" src="/dl/analytics/webtrekk/webtrekk.video.js">;</script>
+<script type="text/javascript" src="/dl/analytics/webtrekk/webtrekk.socialMediaTrackingAsync.js">;</script>
+<script type="text/javascript" src="/dl/analytics/webtrekk/WT_Time.js">;</script>
+<script type="text/javascript">
+window.dipendenzeRaiTrackingLoaded=true;
+</script>
+<!-- -->
+<script type="text/javascript" src="/dl/analytics/mappaTracking.html">;</script>
+
+	<script type="text/javascript" src="/dl/analytics/rai.tracking.js">;</script>
+
+<noscript><div style="display: inline-block; height: 1px; width: 1px; overflow: hidden; visibility: hidden; position: absolute; left: 0;"><img src="http://rai-italia01.wt-eu02.net/602039762736393/wt.pl?p=322,0" height="1" width="1" alt=""/></div></noscript>
+
+
+
+
+<!-- include virtual="/dl/components/tagmanager.html" -->
+<script type="text/javascript" src="/dl/js/barreRai_v2.html"></script>
+
+
+
+	
+		<link rel="stylesheet" href="/dl/rainews/css/rainews-main.css?20181206130711" type="text/css" title="default"/>
+		<link rel="stylesheet" href="/dl/rainews/css/elezioni2018.css" type="text/css" title="default"/>
+	
+
+	
+
+	
+
+
+
+
+  <!--[if lt IE 9]>
+    <script>
+    document.createElement('header');
+    document.createElement('nav');
+    document.createElement('section');
+    document.createElement('article');
+    document.createElement('aside');
+    document.createElement('footer');
+    document.createElement('hgroup');
+    document.createElement('time');
+    document.createElement('figure');
+    document.createElement('figcaption');
+    </script>
+    <link href="/dl/rainews/css/min/ieFix.min.css" rel="stylesheet" type="text/css" title="default" />
+  <![endif]-->
+
+
+<link rel="stylesheet" href="/dl/rainews/css/rainews-menu.css?20180625163359"/>
+<script src="/dl/components/js/foundation.min.js?20180917162425"></script>
+<script type="text/javascript" src="/dl/components/js/app.js?20180917162510"></script>
+<script type="text/javascript" src="/dl/rainews/src/js/rainews-menu.js?20160930103207"></script>
+
+</head>
+<body>
+
+
+<div class="maskOverlay barraStaticaMenu"></div><div class="row expanded top_row align-middle collapse" id="barraRai">
+<div class="small-12 columns">
+<div data-responsive-toggle="main-menu" class="title-bar row small hide-for-medium">
+<div class="top-bar-left">
+<a href="//www.rai.it">
+<svg xmlns="//www.w3.org/2000/svg" class="logoRai" viewBox="0 0 200 200">
+<g display="inline">
+<path id="path2901" fill="#fff" d="m199.960999,0.02613h-199.961259v199.97387h199.961259v-199.97387l0,0zm-159.700298,97.626572h2.007999c6.765999,0 14.394001,-1.250999 14.394001,-9.946999c0,-8.671005 -7.628002,-9.948006 -14.394001,-9.948006h-2.007999v19.895004l0,0zm45.645,44.068291h-25.841l-19.595001,-30.716995h-0.209v30.716995h-20.756001v-79.869293h31.017002c15.789097,0 27.757,7.535004 27.757,24.575996c0,11.030006 -6.153999,20.561302 -17.483002,22.568306l25.110001,32.724991l0,0zm20.691299,-27.104996c0,6.871002 4.551003,12.177002 12.399002,12.177002c7.835999,0 12.386002,-5.306 12.386002,-12.177002c0,-6.675995 -4.550003,-12.281998 -12.386002,-12.281998c-7.848,0 -12.399002,5.606003 -12.399002,12.281998m43.416,27.104996h-19.257004v-6.022995h-0.233994c-3.377007,5.397003 -10.039001,7.822006 -16.415001,7.822006c-16.102203,0 -27.431305,-13.455002 -27.431305,-29.022003c0,-15.567299 11.147003,-28.918304 27.236305,-28.918304c6.231995,0 12.815994,2.334 16.843994,7.106003v-5.292999h19.257004v54.328293l0,0zm32.399002,-75.202293c0,5.945 -4.889008,10.808998 -10.807999,10.808998c-5.919006,0 -10.807999,-4.863998 -10.807999,-10.808998c0,-5.918999 4.888992,-10.782001 10.807999,-10.782001c5.918991,0 10.807999,4.863003 10.807999,10.782001m-1.173004,75.202293h-19.257004v-54.328293h19.257004v54.328293l0,0zm-181.238998,23.27301v-88.318306v-18.617996v-25.202h-0.987l0.987,132.138302z"/>
+</g>
+</svg></a>
+</div>
+<div class="top-bar-right">
+<button data-toggle="" type="button" class="menu-icon"></button>
+</div>
+</div>
+<div id="main-menu" class="top-bar">
+<a href="//www.rai.it">
+<svg xmlns="//www.w3.org/2000/svg" class="logoRai" viewBox="0 0 200 200">
+<g display="inline">
+<path id="path2901" fill="#fff" d="m199.960999,0.02613h-199.961259v199.97387h199.961259v-199.97387l0,0zm-159.700298,97.626572h2.007999c6.765999,0 14.394001,-1.250999 14.394001,-9.946999c0,-8.671005 -7.628002,-9.948006 -14.394001,-9.948006h-2.007999v19.895004l0,0zm45.645,44.068291h-25.841l-19.595001,-30.716995h-0.209v30.716995h-20.756001v-79.869293h31.017002c15.789097,0 27.757,7.535004 27.757,24.575996c0,11.030006 -6.153999,20.561302 -17.483002,22.568306l25.110001,32.724991l0,0zm20.691299,-27.104996c0,6.871002 4.551003,12.177002 12.399002,12.177002c7.835999,0 12.386002,-5.306 12.386002,-12.177002c0,-6.675995 -4.550003,-12.281998 -12.386002,-12.281998c-7.848,0 -12.399002,5.606003 -12.399002,12.281998m43.416,27.104996h-19.257004v-6.022995h-0.233994c-3.377007,5.397003 -10.039001,7.822006 -16.415001,7.822006c-16.102203,0 -27.431305,-13.455002 -27.431305,-29.022003c0,-15.567299 11.147003,-28.918304 27.236305,-28.918304c6.231995,0 12.815994,2.334 16.843994,7.106003v-5.292999h19.257004v54.328293l0,0zm32.399002,-75.202293c0,5.945 -4.889008,10.808998 -10.807999,10.808998c-5.919006,0 -10.807999,-4.863998 -10.807999,-10.808998c0,-5.918999 4.888992,-10.782001 10.807999,-10.782001c5.918991,0 10.807999,4.863003 10.807999,10.782001m-1.173004,75.202293h-19.257004v-54.328293h19.257004v54.328293l0,0zm-181.238998,23.27301v-88.318306v-18.617996v-25.202h-0.987l0.987,132.138302z"/>
+</g>
+</svg></a>
+<div class="columns">
+<div class="top-bar-left">
+<ul data-dropdown-menu="" class="dropdown menu vertical medium-horizontal">
+<li>
+<a title="News" target="_top" href="https://www.rainews.it">News</a>
+</li>
+<li>
+<a title="Sport" target="_top" href="https://www.raisport.rai.it">Sport</a>
+</li>
+<li>
+<a title="Tv" target="_top" href="https://www.raiplay.it">Tv</a>
+</li>
+<li>
+<a title="Radio" target="_top" href="https://www.raiplayradio.it/">Radio</a>
+</li>
+<li>
+<a title="Corporate" target="_top" href="https://www.rai.it/#PublishingBlock-ad75e90b-b1e5-48b4-bcbb-e2cd2b260adb">Corporate</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="row top_row align-middle collapse" id="menuDedicato">
+  <div class="small-12 columns">
+    <div id="site-menu" class="top-bar">
+      <div class="columns">
+        <button id="mainMenuBtn" class="menu-icon"></button>
+        <a href="http://www.rainews.it" class="menuTitle">
+          <img src="/dl/components/img/svg/RaiNewsBarra-logo.png" alt=""/>
+        </a>
+      </div>
+      <div class="columns">
+        <div class="top-bar-right">
+          <ul class="dropdown menu">
+            <li id="cerca-barra">
+              <div class="box">
+                <form name="qtv" method="get" action="/dl/rainews/ricerca.html">
+                  <div class="container-2">
+                    <span class="icon">
+                      <button type="submit" class="enable-search">
+                        <img src="/dl/components/img/ricerca-logo-barra.svg" alt="Cerca" style="width: 1.875rem;" onclick="return false;"/>
+                      </button>
+                    </span>
+                    <div style="position: relative;" class="clear_input_div">
+                      <input placeholder="Cerca" autocomplete="off" id="search-barra" name="q" type="search"/>
+                      <a style="position: absolute; cursor: pointer; display: none; top: 8px; left: 52px;" class="clear_input"></a>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </li>
+            <li id="barraRaiBtn" role="menuitem" class="">
+              <button id="barraRaiMenuIcon" class="menu-icon"></button>
+              <div id="barraRaiCloseIcon">
+                <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<path class="st0" d="M21.7,20l9.8-9.8C32,9.7,32,9,31.5,8.5C31,8,30.3,8,29.8,8.5L20,18.3l-9.8-9.8C9.7,8,9,8,8.5,8.5
+	C8,9,8,9.7,8.5,10.2l9.8,9.8l-9.8,9.8C8,30.3,8,31,8.5,31.5c0.2,0.2,0.6,0.4,0.9,0.4c0.3,0,0.6-0.1,0.9-0.4l9.8-9.8l9.8,9.8
+	c0.2,0.2,0.6,0.4,0.9,0.4s0.6-0.1,0.9-0.4c0.5-0.5,0.5-1.3,0-1.7L21.7,20z"/>
+</svg>
+
+              </div>
+              <img src="/dl/components/img/logoMenu.png"/>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="menuContainer">
+  <div class="menu mainMenu">
+    <nav>
+      <ul>
+        <li class="menuHomeBtn"><a href="http://www.rainews.it">Home</a></li>
+        <li class="hasSubmenu">
+          <a data-submenu-id="tematicheSubMenu1">Tematiche&nbsp;<span class=""></span></a>
+        </li>
+        <li><a href="/dl/rainews/archivioSpeciali.html">Speciali</a></li>
+        <li><a href="http://files24.rainews.it" target="_blank">Files24</a></li>
+        <li><a href="/dl/rainews/webdoc.html">WebDoc</a></li>
+        <li><a href="/dl/rainews/archivioDataJournalism.html">Data Journalism</a></li>
+        <li><a href="/dl/rainews/redazioni/ContentSet-751365e1-0e95-45c7-9909-86a63d5d5f84-0.html">Video</a></li>
+        <li><a href="/dl/rainews/redazioni/ContentSet-dfa4779f-a45d-474f-a459-71c7bbc77325-0.html">Foto</a></li>
+        <li><a href="http://www.rainews.it/blog">Blog</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div id="tematicheSubMenu1" class="menu subMenu1">
+    <nav>
+      <ul>
+        <li>
+<a href="/dl/rainews/redazioni/ContentSet-b06dfc4b-a8e5-4de8-a879-ffcde6c81ec5-0.html" class="color6">POLITICA</a>
+</li><li>
+<a href="/dl/rainews/redazioni/ContentSet-37d48870-e750-443f-9139-ff587e10e25c-0.html" class="color12">ECONOMIA</a>
+</li><li>
+<a href="/dl/rainews/speciali/spettacolo-91a78978-bc6a-4082-8317-ba2dbbec6df4.html" class="color53">SPETTACOLO</a>
+</li><li>
+<a href="/dl/rainews/redazioni/ContentSet-de91157d-d2b5-4ba9-9b60-9f3e864218a2-0.html" class="color46">SANREMO</a>
+</li><li>
+<a href="/dl/rainews/speciali/tech-91941065-ee23-45e0-8323-62b076285204.html" class="color27">TECH</a>
+</li><li>
+<a href="/dl/rainews/speciali/cultura-77611eeb-5c4c-4756-912b-1fae5538e95b.html" class="color11">CULTURA</a>
+</li><li>
+<a href="/dl/rainews/speciali/sport-fd21eba1-cdc3-44dd-ba4a-2200a1556327.html" class="color33">SPORT</a>
+</li><li>
+<a href="/dl/rainews/redazioni/ContentSet-aabd1cd1-a618-47e9-a7be-c345b56049bc-0.html" class="color24">ITALIA</a>
+</li><li>
+<a href="/dl/rainews/redazioni/ContentSet-76865ab6-b5b6-45ad-b3d6-d5ee5d753c06-0.html" class="color35">MONDO</a>
+</li><li>
+<a href="/dl/rainews/speciali/salute-2457587e-4ae3-4b9e-b703-17b9b9043869.html" class="color2">SALUTE</a>
+</li><li>
+<a href="/dl/rainews/redazioni/ContentSet-67255b5c-381c-485a-b622-73716a242558-0.html" class="color3">MOTORI</a>
+</li><li>
+<a href="/dl/rainews/speciali/scienza-d3337878-2a0b-4451-afdb-91b543a23379.html" class="color31">SCIENZA</a>
+</li><li>
+<a href="/dl/rainews/redazioni/ContentSet-ccfb76a1-9d8c-42fd-8539-f42fff8b3c96-0.html" class="color55">AMBIENTE</a>
+</li>
+
+      </ul>
+    </nav>
+  </div>
+</div>
+
+
+<div class="clearfix" id="Main">
+<!-- breaking news -->
+<div data-streamid="PublishingBlock-272678a9-725a-4c07-9bf5-2bfa4a00d2dc" data-lstype="breakingNews" class="colAll box_ls" data-uniquename="PublishingBlock-272678a9-725a-4c07-9bf5-2bfa4a00d2dc">
+
+
+</div>
+
+
+
+
+<!-- masthead (se non presente apertura 6 colonne) -->
+<div class="bannerMasthead box adv"></div>
+<!-- ticker news --><div class="colAll">
+<div data-streamid="ContentSet-48e15680-055e-480e-8eac-f6c7e132eac8" data-lstype="nonstopticker" class="box nonstopTicker box_ls">
+<div class="label">Ultim'ora</div>
+<ul data-itemlimit="10" id="tic">
+<li>
+<span>05:50</span><a href="/dl/rainews/articoli/ContentItem-eb1ca28a-f476-49ce-926d-8a0f1397882c.html">Dazi,Li:pari trattamento aziende estere</a>
+</li>
+<li>
+<span>04:43</span><a href="/dl/rainews/articoli/ContentItem-91160dc0-fb78-4a1f-8c51-acaa830d982b.html">Venezuela, blackout costato 200mln</a>
+</li>
+<li>
+<span>04:05</span><a href="/dl/rainews/articoli/ContentItem-5ee5bebf-54b6-4e7e-9bb1-b1675789f07e.html">Cile,pedofilia:chiesa accetta condanna</a>
+</li>
+<li>
+<span>03:27</span><a href="/dl/rainews/articoli/ContentItem-62038809-4d15-42b0-8ef5-5f940ed72e0b.html">Di Maio incontra big Silicon Valley</a>
+</li>
+<li>
+<span>03:27</span><a href="/dl/rainews/articoli/ContentItem-6efe308b-245e-429e-b038-5f7ce93d8b3d.html">Di Maio, incontra big Silicon Valley</a>
+</li>
+<li>
+<span>02:37</span><a href="/dl/rainews/articoli/ContentItem-69ad2048-c7d6-4bde-9774-e0bc74b3a503.html">Sisma, due scosse nelle Marche di 3.1</a>
+</li>
+<li>
+<span>00:57</span><a href="/dl/rainews/articoli/ContentItem-97d126a7-e84d-4464-9036-1df4fa523f57.html">Bayer risarcirà vittima con 80 milioni</a>
+</li>
+<li>
+<span>00:00</span><a href="/dl/rainews/articoli/ContentItem-e407e92f-cc49-49bc-8f75-1292f6417e3d.html">David Donatello: a 'Dogman' tre premi</a>
+</li>
+<li>
+<span>23:44</span><a href="/dl/rainews/articoli/ContentItem-1067ea6e-83bd-4b91-9490-851437d01b3f.html">Mini naja,ok Camera,testo ora al Senato</a>
+</li>
+<li>
+<span>23:29</span><a href="/dl/rainews/articoli/ContentItem-ff94be43-ebef-47b2-8bf7-526ccb248349.html">Migranti, dissequestro per 'Mare Jonio'</a>
+</li>
+</ul>
+</div>
+<div class="bollettinoBanner">
+<a href="http://www.rainews.it/dl/rainews/bollettino-neve.html"><img src="/dl/rainews/images/bollettinoBannerSmall.png" alt="Bollettino Neve"><span>Bollettino Neve</span></a>
+</div>
+</div>
+
+<!-- apertura 4/6 colonne --><div data-lstype="apertura" data-streamid="PublishingBlock-2abc8fba-ca41-4fee-8c6d-6af517dee04b" id="Focus" class="box_ls ">
+
+<div id="TopNews" class="box">
+<!-- Redazione -->
+<a href="/dl/rainews/articoli/migranti-salvati-nave-mercantili-dirottano-la-barca-1a893248-0ee0-40d0-b9da-3c402710ba22.html" class="img">
+<img src="/dl/img/2019/03/640x344_1553748821277.nave_mercantile_migranti.jpg"></a>
+<div class="label">Top news</div>
+<div class="title">
+<h3>Migranti</h3>
+<h2 class="size0 (26/40) ">
+<a href="/dl/rainews/articoli/migranti-salvati-nave-mercantili-dirottano-la-barca-1a893248-0ee0-40d0-b9da-3c402710ba22.html">Nave mercantile dirottata dai naufraghi giunta nelle acque maltesi</a>
+</h2>
+<h3 class="sub">Salvini: "Io dico ai pirati, l'Italia scordatevela"</h3>
+</div>
+<div class="text">
+<p>Il mercantile ha soccorso i naufraghi su indicazione della guardia costiera libica. Ma la nave non è mai arrivata a Tripoli. I migranti sono 117 e avrebbero costretto il comandante a cambiare rotta per non tornare in Libia </p>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat">
+</time>
+<a class="ico comm" href="/dl/rainews/articoli/migranti-salvati-nave-mercantili-dirottano-la-barca-1a893248-0ee0-40d0-b9da-3c402710ba22.html#commenti"><span>Commenti:</span> 0</a><a class="ico share" href="/dl/rainews/articoli/migranti-salvati-nave-mercantili-dirottano-la-barca-1a893248-0ee0-40d0-b9da-3c402710ba22.html"><span>Condividi:</span> 0</a>
+</div>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/migranti-procura-agrigento-dissequestra-nave-mare-jonio-80568a49-7552-4037-8711-b9b0c12691a0.html" class="ico quote"><span>Lampedusa</span> Migranti, la Procura di Agrigento dissequestra la nave 'Mare Jonio'</a>
+</li>
+</ul>
+<ul class="special item3 BAKspecial3">
+<li>
+<a href="/dl/rainews/articoli/immigrazione-salvini-ipotesi-dirottamento-verso-malta-o-lampedusa-3dd915c6-9bd6-4155-8315-835291456a09.html" class="pic">
+<div>
+<img alt="Mercantile elihblu (screenshot)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553699635347.2.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/immigrazione-salvini-ipotesi-dirottamento-verso-malta-o-lampedusa-3dd915c6-9bd6-4155-8315-835291456a09.html">
+<div>
+<div>
+<div>Immigrazione, Salvini: "Ipotesi dirottamento mercantile verso Malta o Lampedusa"</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/immigrazione-salvini-ipotesi-dirottamento-verso-malta-o-lampedusa-3dd915c6-9bd6-4155-8315-835291456a09.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/immigrazione-salvini-ipotesi-dirottamento-verso-malta-o-lampedusa-3dd915c6-9bd6-4155-8315-835291456a09.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/immigrazione-salvini-ipotesi-dirottamento-verso-malta-o-lampedusa-3dd915c6-9bd6-4155-8315-835291456a09.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/migranti-operazione-sophia-prorogata-6-mesi-senza-navi-1155668b-c03f-445b-ba77-81b45b150da8.html" class="pic">
+<div>
+<img alt="L'Unione Europea avvia l'operazione navale &quot;Sophia&quot;" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/12/50x50_1544007165269.sophia.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/migranti-operazione-sophia-prorogata-6-mesi-senza-navi-1155668b-c03f-445b-ba77-81b45b150da8.html">
+<div>
+<div>
+<div>Migranti. Proroga di 6 mesi per l'operazione Sophia, ma senza navi</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/migranti-operazione-sophia-prorogata-6-mesi-senza-navi-1155668b-c03f-445b-ba77-81b45b150da8.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/migranti-operazione-sophia-prorogata-6-mesi-senza-navi-1155668b-c03f-445b-ba77-81b45b150da8.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/migranti-operazione-sophia-prorogata-6-mesi-senza-navi-1155668b-c03f-445b-ba77-81b45b150da8.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/migranti-sea-watch-pm-roma-ipotizza-sequestro-persona-ea8de22e-4587-4b6b-9c1d-6f0c86883183.html" class="pic">
+<div>
+<img alt="Sea Watch, l'arrivo al porto di Catania 310119 (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/01/50x50_1548931133873.rainews_20190131113541798.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/migranti-sea-watch-pm-roma-ipotizza-sequestro-persona-ea8de22e-4587-4b6b-9c1d-6f0c86883183.html">
+<div>
+<div>
+<div>Migranti, su Sea Watch pm Roma ipotizza sequestro persona</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/migranti-sea-watch-pm-roma-ipotizza-sequestro-persona-ea8de22e-4587-4b6b-9c1d-6f0c86883183.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/migranti-sea-watch-pm-roma-ipotizza-sequestro-persona-ea8de22e-4587-4b6b-9c1d-6f0c86883183.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/migranti-sea-watch-pm-roma-ipotizza-sequestro-persona-ea8de22e-4587-4b6b-9c1d-6f0c86883183.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<!-- col dx -->
+<div class="colDx">
+<!-- [RN 2 Colonne Alto Block] 2 COLONNA ALTO --><!-- [RN live Set] STREAMING LIVE VIDEO --><div data-lstype="dirette" data-streamid="ContentSet-758b105c-c0c0-4a26-95f4-6f276a4adbe5" class="box boxLive box_ls">
+<ul>
+<li class="boxLiveBig">
+<a href="/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html">
+<div class="pic">
+<img src="http://www.rainews.it/lfe_rainews/RaiNews.png"></div>
+<div class="txt">
+<span>Live</span>
+<p>Rainews24<br>canale 48 digitale terrestre</p>
+</div>
+</a>
+</li>
+</ul>
+</div><!-- [RN televideo Set] TLVD --><div class="box">
+<div class="televideo">
+<a class="img" target="_blank" href="http://www.servizitelevideo.rai.it"><img src="/dl/rainews/images/img_televideo.jpg"></a>
+<div class="txt">
+<h2>
+<a target="_blank" href="http://www.servizitelevideo.rai.it">Rai<br>Televideo</a>
+</h2>
+<ul>
+<li>Vai alla pagina <a href="javascript:apriPopupTLV(101,'Nazionale',1,'popupTelevideo_an.jsp');">101</a>
+</li>
+<li>Vai alla pagina <a href="javascript:apriPopupTLV(103,'Nazionale',1,'popupTelevideo_an.jsp');">103</a>
+</li>
+<li class="all">
+<a target="_blank" href="http://www.servizitelevideo.rai.it">Apri Rai Televideo</a>
+</li>
+</ul>
+</div>
+</div>
+</div><!-- [RN Lancio Set] Le prime pagine di giovedì 28 marzo --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/rassegna-stampa-rainews24-1482e1e3-1863-463d-bcb3-66f48c4b9f12.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Tappo rassegna " class="borderColor24" data-original="/dl/img/2018/12/475x255_1544590912899.Tappo__Rassegna.jpg"/></a><div class="label color24">Fotorassegna </div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/rassegna-stampa-rainews24-1482e1e3-1863-463d-bcb3-66f48c4b9f12.html">Le prime pagine di giovedì 28 marzo</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/media/rassegna-stampa-rainews24-1482e1e3-1863-463d-bcb3-66f48c4b9f12.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/rassegna-stampa-rainews24-1482e1e3-1863-463d-bcb3-66f48c4b9f12.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] David, "Dogman" trionfa con 9 premi --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Cinema-David-Donatello-Garrone-Martone-Sorrentino-d39e066b-819c-4673-920c-3f4f4dd6a6fe.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Premio miglior sceneggiatura originale, Matteo Garrone, Ugo Citi and Massimo Gaudioso (Gettyimages)" class="borderColor53" data-original="/dl/img/2019/03/475x255_1553723043259.GettyImages_1138705810.jpg"/></a><div class="label color53">Cinema</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Cinema-David-Donatello-Garrone-Martone-Sorrentino-d39e066b-819c-4673-920c-3f4f4dd6a6fe.html">David, "Dogman" trionfa con 9 premi</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 21:09" class="autoTimeFormat">2019/03/27 21:09</time>
+<a class="ico comm" href="/dl/rainews/articoli/Cinema-David-Donatello-Garrone-Martone-Sorrentino-d39e066b-819c-4673-920c-3f4f4dd6a6fe.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Cinema-David-Donatello-Garrone-Martone-Sorrentino-d39e066b-819c-4673-920c-3f4f4dd6a6fe.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] Cda approva nuovo assetto organizzativo --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Rai-il-CdA-approva-il-nuovo-assetto-organizzativo-11c49b66-d318-4a87-a78b-aaa966802061.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Il Cavallo morente di Francesco Messina nella sede Rai di viale Mazzini, Roma (Ansa)" class="borderColor12" data-original="/dl/img/2019/03/475x255_1551881880691.rainews_2019030615162961.jpg"/></a><div class="label color12">Rai</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Rai-il-CdA-approva-il-nuovo-assetto-organizzativo-11c49b66-d318-4a87-a78b-aaa966802061.html">Cda approva nuovo assetto organizzativo</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/articoli/Rai-il-CdA-approva-il-nuovo-assetto-organizzativo-11c49b66-d318-4a87-a78b-aaa966802061.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Rai-il-CdA-approva-il-nuovo-assetto-organizzativo-11c49b66-d318-4a87-a78b-aaa966802061.html">0</a>
+</div>
+<p>Introdotta la figura del Direttore generale Corporate</p>
+</div>
+</div><!-- [RN Lancio Set] Al bando dal 2021 per salvare il mare --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/parlamento-europeo-strasburgo-approva-messa-al-bando-della-plastica-monouso-a-partire-dal-2021-08d00de7-bf09-46e9-8bad-ba7d719ba05c.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Maddalena, Sardegna: esercitazione antinquinamento Guardia Costiera (foto di Enzo Cappucci)" class="borderColor55" data-original="/dl/img/2018/09/475x255_1536743525785.6.jpg"/></a><div class="label color55">Plastica monouso</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/parlamento-europeo-strasburgo-approva-messa-al-bando-della-plastica-monouso-a-partire-dal-2021-08d00de7-bf09-46e9-8bad-ba7d719ba05c.html">Al bando dal 2021<br/>per salvare il mare</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 18:04" class="autoTimeFormat">2019/03/27 18:04</time>
+<a class="ico comm" href="/dl/rainews/articoli/parlamento-europeo-strasburgo-approva-messa-al-bando-della-plastica-monouso-a-partire-dal-2021-08d00de7-bf09-46e9-8bad-ba7d719ba05c.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/parlamento-europeo-strasburgo-approva-messa-al-bando-della-plastica-monouso-a-partire-dal-2021-08d00de7-bf09-46e9-8bad-ba7d719ba05c.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] Autotrapianto salva una bimba di 10 anni  --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Salvata-al-Gaslini-di-Genova-bimba-autotrapianto-polmonare-158b7017-feeb-43dd-b9a2-8783b12f28bd.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Ospedale Gaslini di Genova (Ansa)" class="borderColor24" data-original="/dl/img/2019/03/475x255_1553691529571.rainews_2019032713561520.jpg"/></a><div class="label color24">Prima volta a Genova </div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Salvata-al-Gaslini-di-Genova-bimba-autotrapianto-polmonare-158b7017-feeb-43dd-b9a2-8783b12f28bd.html">Autotrapianto salva<br/>una bimba di 10 anni </a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 14:40" class="autoTimeFormat">2019/03/27 14:40</time>
+<a class="ico comm" href="/dl/rainews/articoli/Salvata-al-Gaslini-di-Genova-bimba-autotrapianto-polmonare-158b7017-feeb-43dd-b9a2-8783b12f28bd.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Salvata-al-Gaslini-di-Genova-bimba-autotrapianto-polmonare-158b7017-feeb-43dd-b9a2-8783b12f28bd.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] Via i nazionalisti  dalle piattaforme --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/facebook-mette-al-banco-i-gruppi-suprematisti-e-nazionalisti-bianchi-dalle-sue-piattaforme-71982549-8994-4c4a-b746-52b89170cdca.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="  " class="borderColor35" data-original="/dl/img/2019/03/475x255_1552636543082.new_zealand.jpg"/></a><div class="label color35">Facebook</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/facebook-mette-al-banco-i-gruppi-suprematisti-e-nazionalisti-bianchi-dalle-sue-piattaforme-71982549-8994-4c4a-b746-52b89170cdca.html">Via i nazionalisti <br/>dalle piattaforme</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/articoli/facebook-mette-al-banco-i-gruppi-suprematisti-e-nazionalisti-bianchi-dalle-sue-piattaforme-71982549-8994-4c4a-b746-52b89170cdca.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/facebook-mette-al-banco-i-gruppi-suprematisti-e-nazionalisti-bianchi-dalle-sue-piattaforme-71982549-8994-4c4a-b746-52b89170cdca.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [Rn LinkBanner Set] Tech --><div class="box link">
+<a href="/dl/rainews/speciali/tech-91941065-ee23-45e0-8323-62b076285204.html"><img src="/dl/img/2014/02/310x152_1392113547632_banner_rettangolariTECH.jpg"></a>
+</div><!-- [RN Lancio Set] Il 'Nobel' tech a Intelligenza artificiale --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/premio-turing-a-Bengio-Hinton-e-LeCun-ricercatori-intelligenza-artificiale-89f8ab03-6843-421a-b294-dac59f983470.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Turing award  Yoshua Bengio Geoffrey Hinton Yann LeCun (Ap Photo)" class="borderColor27" data-original="/dl/img/2019/03/475x255_1553700037865.combo.jpg"/></a><div class="label color27">Premio Turing</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/premio-turing-a-Bengio-Hinton-e-LeCun-ricercatori-intelligenza-artificiale-89f8ab03-6843-421a-b294-dac59f983470.html">Il 'Nobel' tech a Intelligenza artificiale</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 16:59" class="autoTimeFormat">2019/03/27 16:59</time>
+<a class="ico comm" href="/dl/rainews/articoli/premio-turing-a-Bengio-Hinton-e-LeCun-ricercatori-intelligenza-artificiale-89f8ab03-6843-421a-b294-dac59f983470.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/premio-turing-a-Bengio-Hinton-e-LeCun-ricercatori-intelligenza-artificiale-89f8ab03-6843-421a-b294-dac59f983470.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] Melbourne, il lago diventa rosa --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/Melbourne-Il-lago-diventa-rosa-ecco-perche-d100e7bd-8282-47f9-9be3-f260bf85e589.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Curiosi accorrono per scattare fotografie del lago rosa a Westgate Park il 27 marzo 2019 a Melbourne, in Australia. (Foto di Scott Barbour / Getty Images)" class="borderColor55" data-original="/dl/img/2019/03/475x255_1553680276886.GettyImages_1138537238.jpg"/></a><div class="label color55">Tutti a fotografare</div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/Melbourne-Il-lago-diventa-rosa-ecco-perche-d100e7bd-8282-47f9-9be3-f260bf85e589.html">Melbourne, il lago<br/>diventa rosa</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 11:07" class="autoTimeFormat">2019/03/27 11:07</time>
+<a class="ico comm" href="/dl/rainews/media/Melbourne-Il-lago-diventa-rosa-ecco-perche-d100e7bd-8282-47f9-9be3-f260bf85e589.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/Melbourne-Il-lago-diventa-rosa-ecco-perche-d100e7bd-8282-47f9-9be3-f260bf85e589.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Slider Set] Le Tre Grazie e altre meraviglie di Antonio Canova in mostra a Napoli --><div class="box slideCont">
+<div class="label color22">Scelti per voi </div>
+<ul class="bxslider" data-rotation-time="10">
+<li>
+<a class="pic" href="/dl/rainews/media/Le-Tre-Grazie-e-altre-meraviglie-di-antonio-Canova-in-mostra-a-Napoli-b554b3fd-56ab-4cf2-a5af-ed4f39ae7251.html">
+<div>
+<img alt="Le Tre Grazie di Antonio Canova, Museo Archeologico di Napoli (Ansa)" src="/dl/img/2019/03/250x250_1553705683033.rainews_20190327171409252.jpg"></div>
+</a>
+<h3>
+<a href="/dl/rainews/media/Le-Tre-Grazie-e-altre-meraviglie-di-antonio-Canova-in-mostra-a-Napoli-b554b3fd-56ab-4cf2-a5af-ed4f39ae7251.html">Le Tre Grazie e altre meraviglie di Antonio Canova in mostra a Napoli</a>
+</h3>
+</li>
+<li>
+<a class="pic" href="/dl/rainews/articoli/tatuaggi-il-ministero-della-salute-ritira-9-pigmenti-sono-cancerogeni-d626267f-3909-4a02-a489-fa3fd0a99df6.html">
+<div>
+<img alt="tatuaggi, tatoo, piercing (Ansa)" src="/dl/img/2019/03/250x250_1553682423159.rainews_20190327112426992.jpg"></div>
+</a>
+<h3>
+<a href="/dl/rainews/articoli/tatuaggi-il-ministero-della-salute-ritira-9-pigmenti-sono-cancerogeni-d626267f-3909-4a02-a489-fa3fd0a99df6.html">Tatuaggi. Il ministero della salute ritira 9 pigmenti: sono cancerogeni </a>
+</h3>
+</li>
+<li>
+<a class="pic" href="/dl/rainews/articoli/bullismo-istat-vittima-1-adolescente-su-2-piu-colpite-ragazze-31e60cfc-f07e-4b71-a1e0-09037b369d8c.html">
+<div>
+<img alt="CYBER BULLISMO foto generica (pixabay)" src="/dl/img/2019/03/250x250_1553698953721.bullying_679274_1280.jpg"></div>
+</a>
+<h3>
+<a href="/dl/rainews/articoli/bullismo-istat-vittima-1-adolescente-su-2-piu-colpite-ragazze-31e60cfc-f07e-4b71-a1e0-09037b369d8c.html">Bullismo: vittima un adolescente su due, più colpite le ragazze</a>
+</h3>
+</li>
+<li>
+<a class="pic" href="/dl/rainews/media/Dal-colera-ai-cambiamenti-climatici-il-Mozambico-dopo-il-ciclone-Idai-lotta-per-la-sopravvivenza-ce1ba198-5e4e-4870-9fc3-ba7030dbae11.html">
+<div>
+<img alt="mozambico ciclone aiuti" src="/dl/img/2019/03/250x250_1553682938179.AP19086232977764.png"></div>
+</a>
+<h3>
+<a href="/dl/rainews/media/Dal-colera-ai-cambiamenti-climatici-il-Mozambico-dopo-il-ciclone-Idai-lotta-per-la-sopravvivenza-ce1ba198-5e4e-4870-9fc3-ba7030dbae11.html">Dal colera ai cambiamenti climatici, il Mozambico dopo il ciclone Idai lotta per la sopravvivenza</a>
+</h3>
+</li>
+<li>
+<a class="pic" href="/dl/rainews/media/Basta-rifiuti-in-mare-Dal-cestino-acchiappa-plastica-alle-barriere-galleggianti-del-Po-da733b6d-871d-4305-9917-543155bae86a.html">
+<div>
+<img alt="Il dispositivo Seabin cattura plastica Marina di Genova (Ansa)" src="/dl/img/2019/03/250x250_1553699097579.rainews_20190327160348639.jpg"></div>
+</a>
+<h3>
+<a href="/dl/rainews/media/Basta-rifiuti-in-mare-Dal-cestino-acchiappa-plastica-alle-barriere-galleggianti-del-Po-da733b6d-871d-4305-9917-543155bae86a.html">Basta rifiuti in mare! Dal cestino acchiappa plastica alle barriere galleggianti del Po</a>
+</h3>
+</li>
+<li>
+<a class="pic" href="/dl/rainews/articoli/Cina-ex-presidente-Interpol-accusato-di-corruzione-ed-espulso-dal-Partito-e36d67e1-a061-4d3e-a903-7130b07fb3cc.html">
+<div>
+<img alt="Meng Hongwei (GettyImages)" src="/dl/img/2019/03/250x250_1553681940679.GettyImages_992663824.jpg"></div>
+</a>
+<h3>
+<a href="/dl/rainews/articoli/Cina-ex-presidente-Interpol-accusato-di-corruzione-ed-espulso-dal-Partito-e36d67e1-a061-4d3e-a903-7130b07fb3cc.html">Cina, ex presidente dell'Interpol accusato di corruzione ed espulso dal Partito</a>
+</h3>
+</li>
+</ul>
+</div><!-- [RN Lancio Set] Entro 5 anni di nuovo americani sulla Luna --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/Pence-entro-5-anni-astronauti-americani-torneranno-sulla-Luna-a195bb48-370f-455a-898c-d9f709b0286e.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="L'astronauta James B. Irwin sulla Luna il 30 luglio 1971 (ap)" class="borderColor31" data-original="/dl/img/2019/03/475x255_1553682477780.1.jpg"/></a><div class="label color31">Conquista dello Spazio </div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/Pence-entro-5-anni-astronauti-americani-torneranno-sulla-Luna-a195bb48-370f-455a-898c-d9f709b0286e.html">Entro 5 anni di nuovo americani sulla Luna</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 12:02" class="autoTimeFormat">2019/03/27 12:02</time>
+<a class="ico comm" href="/dl/rainews/media/Pence-entro-5-anni-astronauti-americani-torneranno-sulla-Luna-a195bb48-370f-455a-898c-d9f709b0286e.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/Pence-entro-5-anni-astronauti-americani-torneranno-sulla-Luna-a195bb48-370f-455a-898c-d9f709b0286e.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [Rn LinkBanner Set] Spettacolo --><div class="box link">
+<a href="http://www.rainews.it/spettacolohttp://www.rainews.it/spettacolo"><img src="/dl/img/2014/02/310x152_1392113639276_banner_rettangolariSPETTACOLO.jpg"></a>
+</div><!-- [RN Lancio Set] Mannoia: un album molto "personale" --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/Musica-Fiorella-Mannoia-un-nuovo-album-molto-personale-f6759c08-8097-4ab5-a6d7-292a109957cf.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Fiorella Mannoia personale" class="borderColor53" data-original="/dl/img/2019/03/475x255_1553695662709.png"/></a><div class="label color53">Musica</div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/Musica-Fiorella-Mannoia-un-nuovo-album-molto-personale-f6759c08-8097-4ab5-a6d7-292a109957cf.html">Mannoia: un album molto "personale"</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/media/Musica-Fiorella-Mannoia-un-nuovo-album-molto-personale-f6759c08-8097-4ab5-a6d7-292a109957cf.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/Musica-Fiorella-Mannoia-un-nuovo-album-molto-personale-f6759c08-8097-4ab5-a6d7-292a109957cf.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Nuovo Multimedia Set] Non stop Video --><div data-streamid="ContentSet-ce7369d1-4b7e-42eb-8ca0-6bd1822022c6" class="box box_ls">
+<div class="nostop nostopVideo nostopVideoPhoto dark">
+<a href="/dl/rainews/redazioni/ContentSet-751365e1-0e95-45c7-9909-86a63d5d5f84-0.html">
+<div class="label color2">Non stop Video</div>
+</a>
+<ul>
+<li data-uniquename="ContentItem-ba85e057-d490-4bec-9d47-7f70e7011783" class="video">
+<a href="/dl/rainews/media/Manifestazione-dei-funzionari-di-Polizia-ba85e057-d490-4bec-9d47-7f70e7011783.html">
+<div class="cover">
+<img alt="Manifestazione dei funzionari di Polizia (frame video)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/105x79_1553714910210.png"></div>
+<span>Italia</span>
+<div class="timeShare">
+<time class="autoTimeFormat" datetime="27-03-2019 20:25"></time>
+</div>
+<p>Roma, i funzionari di Polizia in piazza</p>
+</a>
+</li>
+<li data-uniquename="ContentItem-f84b5f2c-cec0-4b2d-bada-2ee22348e076" class="video">
+<a href="/dl/rainews/media/meteo-rainews24-f84b5f2c-cec0-4b2d-bada-2ee22348e076.html">
+<div class="cover">
+<img alt="Meteo, tappo meteo, meteoshow (Screenshot)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/02/105x79_1550552198648.png"></div>
+<span>Italia</span>
+<div class="timeShare">
+<time class="autoTimeFormat" datetime="28-03-2019 06:15"></time>
+</div>
+<p>Le previsioni del tempo per giovedì 28 marzo: il Meteo di Rainews24</p>
+</a>
+</li>
+<li data-uniquename="ContentItem-15272e12-ada9-4a13-8136-f88268e33433" class="video">
+<a href="/dl/rainews/media/Boschi-fragili-15272e12-ada9-4a13-8136-f88268e33433.html">
+<div class="cover">
+<img alt="frame Boschi fragili" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/105x79_1553697627541.png"></div>
+<span>Ambiente</span>
+<div class="timeShare">
+<time class="autoTimeFormat" datetime="27-03-2019 15:20"></time>
+</div>
+<p>Boschi fragili</p>
+</a>
+</li>
+</ul>
+</div>
+</div><!-- [RN adv 300x250 Set] adv 300x250 --><div class="banner300x250 box adv" id="banner300x250"> 
+</div>
+
+</div>
+<!-- col sx primo piano -->
+<div class="colSx">
+<!-- [RN 3 Colonne Alto Block] 3 COLONNE ALTO --><!-- [RN Lancio Set] Brexit, May: mi dimetto in cambio dell'ok all'accordo --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/brexit-bocciate-dalla-camera-dei-comuni-le-otto-alternative-al-piano-may-97f7dc81-941e-4a39-b102-19440784a334.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Theresa May parlamento brexit (ap)" class="borderColor35" data-original="/dl/img/2019/03/475x255_1553529822511.1024_preview.jpg"/></a><div class="label color35">Brexit</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/brexit-bocciate-dalla-camera-dei-comuni-le-otto-alternative-al-piano-may-97f7dc81-941e-4a39-b102-19440784a334.html">Brexit, May: mi dimetto in cambio dell'ok all'accordo</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 22:31" class="autoTimeFormat">2019/03/27 22:31</time>
+<a class="ico comm" href="/dl/rainews/articoli/brexit-bocciate-dalla-camera-dei-comuni-le-otto-alternative-al-piano-may-97f7dc81-941e-4a39-b102-19440784a334.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/brexit-bocciate-dalla-camera-dei-comuni-le-otto-alternative-al-piano-may-97f7dc81-941e-4a39-b102-19440784a334.html">0</a>
+</div>
+<p>Approvata breve proroga per l'uscita dall'Ue: 12 aprile o 22 maggio</p>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/brexit-governo-may-respinge-petizione-on-line-pro-ue-9a4e8b5b-dd67-4ac8-a4fd-bd16b22616cd.html" class="ico quote"><span>Il governo May</span> respinge la petizione on-line pro-Ue</a>
+</li>
+</ul>
+<ul class="special special3">
+<li>
+<a href="/dl/rainews/articoli/Brexit-otto-piani-ammessi-al-voto-dei-Comuni-dallo-speaker-Bercow-33645917-3d24-4dce-8538-3d846b178cb2.html" class="pic">
+<div>
+<img alt="Theresa May parlamento brexit (ap)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553529822511.1024_preview.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Brexit-otto-piani-ammessi-al-voto-dei-Comuni-dallo-speaker-Bercow-33645917-3d24-4dce-8538-3d846b178cb2.html">
+<div>
+<div>
+<div>May annuncia dimissioni se il suo accordo con Ue sarà approvato</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Brexit-otto-piani-ammessi-al-voto-dei-Comuni-dallo-speaker-Bercow-33645917-3d24-4dce-8538-3d846b178cb2.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Brexit-otto-piani-ammessi-al-voto-dei-Comuni-dallo-speaker-Bercow-33645917-3d24-4dce-8538-3d846b178cb2.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Brexit-otto-piani-ammessi-al-voto-dei-Comuni-dallo-speaker-Bercow-33645917-3d24-4dce-8538-3d846b178cb2.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Brexit-Tusk-non-possiamo-tradire-chi-vuole-restare-nella-Ue-26ca6cd9-8bf8-4231-8bfc-a8b428c645e6.html" class="pic">
+<div>
+<img alt="presidente del Consiglio europeo Donald Tusk Brexit 200319 (AP/Frank Augstein)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553098983671.1024_preview.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Brexit-Tusk-non-possiamo-tradire-chi-vuole-restare-nella-Ue-26ca6cd9-8bf8-4231-8bfc-a8b428c645e6.html">
+<div>
+<div>
+<div>Brexit, Tusk: non possiamo tradire chi vuole restare nella Ue</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Brexit-Tusk-non-possiamo-tradire-chi-vuole-restare-nella-Ue-26ca6cd9-8bf8-4231-8bfc-a8b428c645e6.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Brexit-Tusk-non-possiamo-tradire-chi-vuole-restare-nella-Ue-26ca6cd9-8bf8-4231-8bfc-a8b428c645e6.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Brexit-Tusk-non-possiamo-tradire-chi-vuole-restare-nella-Ue-26ca6cd9-8bf8-4231-8bfc-a8b428c645e6.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/brexit-emendamento-parlamento-controlla-may-umiliata-d3b306b2-db8f-4356-9f26-c9b459b9a30f.html" class="pic">
+<div>
+<img alt="Parlamento britannico (Ansa Epa/Mark Duffy)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553588882076.may.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/brexit-emendamento-parlamento-controlla-may-umiliata-d3b306b2-db8f-4356-9f26-c9b459b9a30f.html">
+<div>
+<div>
+<div>Brexit, il parlamento controlla. La stampa britannica: May umiliata</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/brexit-emendamento-parlamento-controlla-may-umiliata-d3b306b2-db8f-4356-9f26-c9b459b9a30f.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/brexit-emendamento-parlamento-controlla-may-umiliata-d3b306b2-db8f-4356-9f26-c9b459b9a30f.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/brexit-emendamento-parlamento-controlla-may-umiliata-d3b306b2-db8f-4356-9f26-c9b459b9a30f.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Confindustria: "L'Italia è ferma, azzerata la stima del Pil per il 2019" --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Confindustria-lancia-allarme-Italia-ferma-azzerata-la-stima-del-Pil-per-il-2019-e34fbe0c-1855-4488-9c8e-ed01cd2e6801.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="La sede di Confindustria a Roma (Blackcat/Wikipedia)" class="borderColor12" data-original="/dl/img/2018/10/475x255_1538558857919.2012_01_07_Roma_Palazzo_Confindustria_2.jpg"/></a><div class="label color12">Allarme recessione </div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Confindustria-lancia-allarme-Italia-ferma-azzerata-la-stima-del-Pil-per-il-2019-e34fbe0c-1855-4488-9c8e-ed01cd2e6801.html">Confindustria: "L'Italia è ferma, azzerata la stima del Pil per il 2019"</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 10:44" class="autoTimeFormat">2019/03/27 10:44</time>
+<a class="ico comm" href="/dl/rainews/articoli/Confindustria-lancia-allarme-Italia-ferma-azzerata-la-stima-del-Pil-per-il-2019-e34fbe0c-1855-4488-9c8e-ed01cd2e6801.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Confindustria-lancia-allarme-Italia-ferma-azzerata-la-stima-del-Pil-per-il-2019-e34fbe0c-1855-4488-9c8e-ed01cd2e6801.html">0</a>
+</div>
+<p>Crescita zero quest'anno e un leggero rialzo, lo 0,4%, per il Pil italiano nel 2020</p>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/Draghi-rischi-orientata-al-ribasso-Bce-pronta-a-reagire-ee53ed45-aa99-46d9-942d-f41474facca6.html" class="ico quote"><span>Draghi:</span> rischi orientati al ribasso, Bce pronta a reagire</a>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Istat-a-marzo-cala-ancora-fiducia-consumatori-sale-per-imprese-5b0c93c6-46a1-4ffa-94d2-e991314262ec.html" class="ico quote"><span>Istat:</span> a marzo cala fiducia consumatori</a>
+</li>
+</ul>
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/visco-bankitalia-necessarie-riforme-strutturali-europa-chiave-crescita-74488ede-c4a1-47f4-a301-df79467c0445.html" class="pic">
+<div>
+<img alt="Ignazio Visco al congresso Assiom Forex (LaPresse)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/02/50x50_1549109884291.LP_9169345.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/visco-bankitalia-necessarie-riforme-strutturali-europa-chiave-crescita-74488ede-c4a1-47f4-a301-df79467c0445.html">
+<div>
+<div>
+<div>Visco: necessarie riforme strutturali, Europa chiave per la crescita</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/visco-bankitalia-necessarie-riforme-strutturali-europa-chiave-crescita-74488ede-c4a1-47f4-a301-df79467c0445.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/visco-bankitalia-necessarie-riforme-strutturali-europa-chiave-crescita-74488ede-c4a1-47f4-a301-df79467c0445.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/visco-bankitalia-necessarie-riforme-strutturali-europa-chiave-crescita-74488ede-c4a1-47f4-a301-df79467c0445.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Confindustria-reddito-non-aiutera-servono-cantieri-in-tutto-il-Paese-fd515d11-c235-4fb3-b243-943051493aa0.html" class="pic">
+<div>
+<img alt="Lavoratori in nero, cantiere, lavori edili (pixabay)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/01/50x50_1546679047360.construction_workers_199695_1920.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Confindustria-reddito-non-aiutera-servono-cantieri-in-tutto-il-Paese-fd515d11-c235-4fb3-b243-943051493aa0.html">
+<div>
+<div>
+<div>Confindustria: reddito non aiuterà, servono cantieri in tutto il Paese</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Confindustria-reddito-non-aiutera-servono-cantieri-in-tutto-il-Paese-fd515d11-c235-4fb3-b243-943051493aa0.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Confindustria-reddito-non-aiutera-servono-cantieri-in-tutto-il-Paese-fd515d11-c235-4fb3-b243-943051493aa0.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Confindustria-reddito-non-aiutera-servono-cantieri-in-tutto-il-Paese-fd515d11-c235-4fb3-b243-943051493aa0.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Decretone, via libera definitivo in Senato  --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Decretone-via-libera-definitivo-in-Senato-45930460-d562-41f2-bb6b-255efbd75cd6.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Decretone passa al Senato" class="borderColor6" data-original="/dl/img/2019/03/475x255_1553707667078.decretone.png"/></a><div class="label color6">Palazzo Madama</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Decretone-via-libera-definitivo-in-Senato-45930460-d562-41f2-bb6b-255efbd75cd6.html">Decretone, via libera<br/>definitivo in Senato </a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 19:54" class="autoTimeFormat">2019/03/27 19:54</time>
+<a class="ico comm" href="/dl/rainews/articoli/Decretone-via-libera-definitivo-in-Senato-45930460-d562-41f2-bb6b-255efbd75cd6.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Decretone-via-libera-definitivo-in-Senato-45930460-d562-41f2-bb6b-255efbd75cd6.html">0</a>
+</div>
+<p>Il provvedimento introduce le misure sul Reddito di cittadinanza e Quota 100</p>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/Ok-Camera-a-decretone-con-291-si-il-testo-torna-al-Senato-0f0113ac-a20b-4303-b0e9-9bcb16dc3924.html" class="ico quote"><span>Ok Camera a decretone con 291 sì</span> il testo torna al Senato</a>
+</li>
+</ul>
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/decretone-reddito-pensioni-fiducia-camera-05cbd65b-2375-4ca4-a509-1cf2c045a41a.html" class="pic">
+<div>
+<img alt="Camera dei deputati" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/11/50x50_1542747939740.4.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/decretone-reddito-pensioni-fiducia-camera-05cbd65b-2375-4ca4-a509-1cf2c045a41a.html">
+<div>
+<div>
+<div>Decretone, il governo incassa la fiducia della Camera</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/decretone-reddito-pensioni-fiducia-camera-05cbd65b-2375-4ca4-a509-1cf2c045a41a.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/decretone-reddito-pensioni-fiducia-camera-05cbd65b-2375-4ca4-a509-1cf2c045a41a.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/decretone-reddito-pensioni-fiducia-camera-05cbd65b-2375-4ca4-a509-1cf2c045a41a.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/voto-emendamenti-decretone-reddito-quota-100-prova-senato-c7901d10-56f4-42bd-99fc-022cf324ef61.html" class="pic">
+<div>
+<img alt="Senato,: decretone. Maria Elisabetta Alberti Casellati (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/02/50x50_1551188075223.rainews_20190226143333174.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/voto-emendamenti-decretone-reddito-quota-100-prova-senato-c7901d10-56f4-42bd-99fc-022cf324ef61.html">
+<div>
+<div>
+<div>Gli emendamenti al decretone, reddito e quota 100 alla prova del Senato</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/voto-emendamenti-decretone-reddito-quota-100-prova-senato-c7901d10-56f4-42bd-99fc-022cf324ef61.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/voto-emendamenti-decretone-reddito-quota-100-prova-senato-c7901d10-56f4-42bd-99fc-022cf324ef61.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/voto-emendamenti-decretone-reddito-quota-100-prova-senato-c7901d10-56f4-42bd-99fc-022cf324ef61.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Stadio Roma, pm chiede archiviazione per Daniele Frongia --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Stadio-Roma-pm-chiede-archiviazione-per-Frongia-21dd00ac-9e4d-4ffe-bc78-46a3602b3ca1.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="L'assessore allo Sport del Comune di Roma Daniele Frongia" class="borderColor24" data-original="/dl/img/2019/03/475x255_1553711691262.frongia.JPG"/></a><div class="label color24">L'inchiesta</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Stadio-Roma-pm-chiede-archiviazione-per-Frongia-21dd00ac-9e4d-4ffe-bc78-46a3602b3ca1.html">Stadio Roma, pm chiede archiviazione per Daniele Frongia</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/articoli/Stadio-Roma-pm-chiede-archiviazione-per-Frongia-21dd00ac-9e4d-4ffe-bc78-46a3602b3ca1.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Stadio-Roma-pm-chiede-archiviazione-per-Frongia-21dd00ac-9e4d-4ffe-bc78-46a3602b3ca1.html">0</a>
+</div>
+<p>
+</p>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/Stadio-della-Roma-procura-chiede-rinvio-a-giudizio-per-Parnasi-e-altri-14-af5afdb2-1750-4d27-9806-c4141fb64f2e.html" class="ico quote"><span>Stadio della Roma,</span> Procura chiede rinvio a giudizio per Parnasi e altri 14</a>
+</li>
+</ul>
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/Stadio-della-Roma-Raggi-non-si-torna-al-passato-0cf53513-117d-4556-a973-98cbbf63c2cb.html" class="pic">
+<div>
+<img alt="La sindaca di Roma Virginia Raggi in Campidoglio durante conferenza stampa sul progetto dello stadio di Tor di Valle, Roma 5 febbraio 2019. ANSA/GIUSEPPE LAMI" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553260486660.rainews_20190322141255807.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Stadio-della-Roma-Raggi-non-si-torna-al-passato-0cf53513-117d-4556-a973-98cbbf63c2cb.html">
+<div>
+<div>
+<div>Stadio della Roma. La sindaca Raggi: non si torna al passato  </div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Stadio-della-Roma-Raggi-non-si-torna-al-passato-0cf53513-117d-4556-a973-98cbbf63c2cb.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Stadio-della-Roma-Raggi-non-si-torna-al-passato-0cf53513-117d-4556-a973-98cbbf63c2cb.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Stadio-della-Roma-Raggi-non-si-torna-al-passato-0cf53513-117d-4556-a973-98cbbf63c2cb.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Stadio-Roma-indagato-assessore-allo-Sport-del-Campidoglio-Frongia-37bb32b0-d022-4cef-9069-8a59990fa739.html" class="pic">
+<div>
+<img alt="Frongia e Raggi (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553180640919.rainews_20190321160305709.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Stadio-Roma-indagato-assessore-allo-Sport-del-Campidoglio-Frongia-37bb32b0-d022-4cef-9069-8a59990fa739.html">
+<div>
+<div>
+<div>Stadio Roma: indagato assessore Sport del Campidoglio</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Stadio-Roma-indagato-assessore-allo-Sport-del-Campidoglio-Frongia-37bb32b0-d022-4cef-9069-8a59990fa739.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Stadio-Roma-indagato-assessore-allo-Sport-del-Campidoglio-Frongia-37bb32b0-d022-4cef-9069-8a59990fa739.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Stadio-Roma-indagato-assessore-allo-Sport-del-Campidoglio-Frongia-37bb32b0-d022-4cef-9069-8a59990fa739.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Relazione con un minorenne, domiciliari per la donna di Prato --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/domiciliari-infermiera-prato-6f3a22da-b9b1-46f0-8cf2-23573cffbc8e.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="studente biblioteca (pixabay)" class="borderColor24" data-original="/dl/img/2019/03/475x255_1553688528504.library_922998_1280.jpg"/></a><div class="label color24">Violenza sessuale</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/domiciliari-infermiera-prato-6f3a22da-b9b1-46f0-8cf2-23573cffbc8e.html">Relazione con un minorenne, domiciliari per la donna di Prato</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 15:33" class="autoTimeFormat">2019/03/27 15:33</time>
+<a class="ico comm" href="/dl/rainews/articoli/domiciliari-infermiera-prato-6f3a22da-b9b1-46f0-8cf2-23573cffbc8e.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/domiciliari-infermiera-prato-6f3a22da-b9b1-46f0-8cf2-23573cffbc8e.html">0</a>
+</div>
+<p>Indagato anche il marito dell'operatrice sanitaria 31enne che al ragazzo impartiva ripetizioni di inglese.  Nel computer della donna sarebbero stati trovati accessi a siti pedopornografici</p>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/La-prof-con-l-alunno-dna-conferma-15enne-e-il-padre-del-neonato-2093eaeb-ffb1-4467-9696-da63336c9ef4.html" class="ico quote"><span>Prato</span> Sesso con minorenne, Dna conferma: il 15enne è il padre del neonato</a>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Salvini riceve i Carabinieri e i ragazzi del bus sequestrato --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Bus-sequestrato-a-Milano-Salvini-riceve-al-Viminale-i-Carabinieri-e-i-ragazzi-ac1b029a-a6ca-4bb3-a2df-d7c3ef1e9617.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="  " class="borderColor24" data-original="/dl/img/2019/03/475x255_1553692748973.rainews_2019032714171186.jpg"/></a><div class="label color24">Viminale</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Bus-sequestrato-a-Milano-Salvini-riceve-al-Viminale-i-Carabinieri-e-i-ragazzi-ac1b029a-a6ca-4bb3-a2df-d7c3ef1e9617.html">Salvini riceve i Carabinieri<br/>e i ragazzi del bus sequestrato</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 13:31" class="autoTimeFormat">2019/03/27 13:31</time>
+<a class="ico comm" href="/dl/rainews/articoli/Bus-sequestrato-a-Milano-Salvini-riceve-al-Viminale-i-Carabinieri-e-i-ragazzi-ac1b029a-a6ca-4bb3-a2df-d7c3ef1e9617.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Bus-sequestrato-a-Milano-Salvini-riceve-al-Viminale-i-Carabinieri-e-i-ragazzi-ac1b029a-a6ca-4bb3-a2df-d7c3ef1e9617.html">0</a>
+</div>
+<p>Il ministro dell'Interno: sì alla cittadinanza per Ramy e Adam, ma la legge non si tocca. Poi: "Qualcuno li ha usati per battaglia politica"</p>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/terrore-bus-gip-strage-con-finalita-terroristiche-aad76f7b-81af-4c7b-bc5b-ae49a893cc97.html" class="ico quote"><span>Terrore bus.</span> Gip: strage con finalità terroristiche</a>
+</li>
+<li>
+<a href="/dl/rainews/articoli/I-ragazzi-del-bus-Ramy-e-Adam-Da-grandi-vogliamo-fare-i-carabinieri-e044d9e6-0e82-4f48-bd24-8682d1e9c696.html" class="ico quote"><span>Ramy e Adam:</span> "Da grandi vogliamo fare i carabinieri"</a>
+</li>
+</ul>
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/Terrore-sul-bus-deve-restare-in-carcere-Ousseynou-Sy-puo-colpire-ancora-dicono-i-Pm-di-Milano-b1eabcf5-005a-4c47-b9e2-fb5191d83674.html" class="pic">
+<div>
+<img alt="Ousseynou Sy (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553163381821.rainews_20190321110815799.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Terrore-sul-bus-deve-restare-in-carcere-Ousseynou-Sy-puo-colpire-ancora-dicono-i-Pm-di-Milano-b1eabcf5-005a-4c47-b9e2-fb5191d83674.html">
+<div>
+<div>
+<div>Terrore sul bus, deve restare in carcere Ousseynou Sy</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Terrore-sul-bus-deve-restare-in-carcere-Ousseynou-Sy-puo-colpire-ancora-dicono-i-Pm-di-Milano-b1eabcf5-005a-4c47-b9e2-fb5191d83674.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Terrore-sul-bus-deve-restare-in-carcere-Ousseynou-Sy-puo-colpire-ancora-dicono-i-Pm-di-Milano-b1eabcf5-005a-4c47-b9e2-fb5191d83674.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Terrore-sul-bus-deve-restare-in-carcere-Ousseynou-Sy-puo-colpire-ancora-dicono-i-Pm-di-Milano-b1eabcf5-005a-4c47-b9e2-fb5191d83674.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Appicca-fuoco-su-un-bus-con-scolaresca-a-bordo-fermato-88ce3290-7e4b-4657-9c76-e968f502e3e3.html" class="pic">
+<div>
+<img alt="Milano: sequestra bus con scolaresca a bordo gli d&agrave; fuoco (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553086102871.6b6a121d5d1897c5b6e2fd82775342b5.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Appicca-fuoco-su-un-bus-con-scolaresca-a-bordo-fermato-88ce3290-7e4b-4657-9c76-e968f502e3e3.html">
+<div>
+<div>
+<div>Autista dirotta poi incendia bus con decine di scolari a bordo</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Appicca-fuoco-su-un-bus-con-scolaresca-a-bordo-fermato-88ce3290-7e4b-4657-9c76-e968f502e3e3.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Appicca-fuoco-su-un-bus-con-scolaresca-a-bordo-fermato-88ce3290-7e4b-4657-9c76-e968f502e3e3.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Appicca-fuoco-su-un-bus-con-scolaresca-a-bordo-fermato-88ce3290-7e4b-4657-9c76-e968f502e3e3.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Rogatoria della Procura di Roma per il sequestro di Silvia Romano --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/Kenya-rogatoria-della-Procura-di-Roma-per-il-sequestro-di-Silvia-Romano-d166e310-7274-48a1-9993-e04d0f0594c7.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Silvia Romano" class="borderColor35" data-original="/dl/img/2018/12/475x255_1545738366041.apertura.JPG"/></a><div class="label color35">Kenya</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Kenya-rogatoria-della-Procura-di-Roma-per-il-sequestro-di-Silvia-Romano-d166e310-7274-48a1-9993-e04d0f0594c7.html">Rogatoria della Procura di Roma<br/>per il sequestro di Silvia Romano</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 13:11" class="autoTimeFormat">2019/03/27 13:11</time>
+<a class="ico comm" href="/dl/rainews/articoli/Kenya-rogatoria-della-Procura-di-Roma-per-il-sequestro-di-Silvia-Romano-d166e310-7274-48a1-9993-e04d0f0594c7.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/Kenya-rogatoria-della-Procura-di-Roma-per-il-sequestro-di-Silvia-Romano-d166e310-7274-48a1-9993-e04d0f0594c7.html">0</a>
+</div>
+<p>Gli inquirenti chiedono agli omologhi kenyoti di potere condividere gli elementi di indagine acquisiti dalla magistratura locale </p>
+</div>
+<div class="related">
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/Silvia-Romano-viva-e-ancora-nel-paese-lo-afferma-la-polizia-del-Kenya-f74d8252-aabd-47c6-92c2-fdce8f69738e.html" class="pic">
+<div>
+<img alt="Un'immagine su cellulare di Silvia Costanza Romano (AP Photo/Antonio Calanni)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/12/50x50_1545725909918.AP18345536152683.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Silvia-Romano-viva-e-ancora-nel-paese-lo-afferma-la-polizia-del-Kenya-f74d8252-aabd-47c6-92c2-fdce8f69738e.html">
+<div>
+<div>
+<div>"Silvia Romano è viva e ancora nel paese": lo afferma la polizia del Kenya</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Silvia-Romano-viva-e-ancora-nel-paese-lo-afferma-la-polizia-del-Kenya-f74d8252-aabd-47c6-92c2-fdce8f69738e.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Silvia-Romano-viva-e-ancora-nel-paese-lo-afferma-la-polizia-del-Kenya-f74d8252-aabd-47c6-92c2-fdce8f69738e.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Silvia-Romano-viva-e-ancora-nel-paese-lo-afferma-la-polizia-del-Kenya-f74d8252-aabd-47c6-92c2-fdce8f69738e.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Il-sequestro-di-Silvia-Romano-altri-6-arresti-in-Kenya-capo-della-polizia-Siamo-ottimisti-97a5c76c-1800-44b9-bd46-0bbd9dc97581.html" class="pic">
+<div>
+<img alt="Silvia Romano Taglio per Facebook (Facebook/Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/11/50x50_1542882271867.silviaromanoFacebook.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Il-sequestro-di-Silvia-Romano-altri-6-arresti-in-Kenya-capo-della-polizia-Siamo-ottimisti-97a5c76c-1800-44b9-bd46-0bbd9dc97581.html">
+<div>
+<div>
+<div>Il sequestro di Silvia Romano, altri 6 arresti in Kenya</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Il-sequestro-di-Silvia-Romano-altri-6-arresti-in-Kenya-capo-della-polizia-Siamo-ottimisti-97a5c76c-1800-44b9-bd46-0bbd9dc97581.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Il-sequestro-di-Silvia-Romano-altri-6-arresti-in-Kenya-capo-della-polizia-Siamo-ottimisti-97a5c76c-1800-44b9-bd46-0bbd9dc97581.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Il-sequestro-di-Silvia-Romano-altri-6-arresti-in-Kenya-capo-della-polizia-Siamo-ottimisti-97a5c76c-1800-44b9-bd46-0bbd9dc97581.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Ponte Genova, indagati per falso Donferri e Galatà --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/ponte-genova-indagati-falso-vertici-spea-aspi-b6f50578-7ce5-4ed6-bd4f-81b68caa3a5b.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Ponte Morandi, 6 mesi dopo (Ansa)" class="borderColor24" data-original="/dl/img/2019/02/475x255_1550149159841.rainews_20190214135903595.jpg"/></a><div class="label color24">Inchiesta</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/ponte-genova-indagati-falso-vertici-spea-aspi-b6f50578-7ce5-4ed6-bd4f-81b68caa3a5b.html">Ponte Genova, indagati per falso Donferri e Galatà</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 14:43" class="autoTimeFormat">2019/03/27 14:43</time>
+<a class="ico comm" href="/dl/rainews/articoli/ponte-genova-indagati-falso-vertici-spea-aspi-b6f50578-7ce5-4ed6-bd4f-81b68caa3a5b.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/ponte-genova-indagati-falso-vertici-spea-aspi-b6f50578-7ce5-4ed6-bd4f-81b68caa3a5b.html">0</a>
+</div>
+<p>Gli inquirenti vogliono far luce sulla possibilità che Aspi sapesse che i report sui viadotti erano falsati</p>
+</div>
+<div class="related">
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/crollo-ponte-gdf-sequestro-ministero-2a8ebb08-f67f-44b7-b43a-ac99efc4a131.html" class="pic">
+<div>
+<img alt="Genova, lavori di smaltimento dopo il crollo del Ponte Morandi (La Presse)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/08/50x50_1535191413415.LP_8398057.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/crollo-ponte-gdf-sequestro-ministero-2a8ebb08-f67f-44b7-b43a-ac99efc4a131.html">
+<div>
+<div>
+<div>Crollo ponte Morandi: Gdf sequestra documenti a ministero, provveditorato e Spea</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/crollo-ponte-gdf-sequestro-ministero-2a8ebb08-f67f-44b7-b43a-ac99efc4a131.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/crollo-ponte-gdf-sequestro-ministero-2a8ebb08-f67f-44b7-b43a-ac99efc4a131.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/crollo-ponte-gdf-sequestro-ministero-2a8ebb08-f67f-44b7-b43a-ac99efc4a131.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/crollo-ponte-genova-aspi-risultati-monitoraggi-no-allarme-980d3af3-c674-46bc-9144-114d186ae7b1.html" class="pic">
+<div>
+<img alt="Genova, Ponte Morandi (La Presse)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/09/50x50_1537944905258.LP_8488941.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/crollo-ponte-genova-aspi-risultati-monitoraggi-no-allarme-980d3af3-c674-46bc-9144-114d186ae7b1.html">
+<div>
+<div>
+<div>Aspi: i risultati dei monitoraggi non avevano segnalato motivi di allarme</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/crollo-ponte-genova-aspi-risultati-monitoraggi-no-allarme-980d3af3-c674-46bc-9144-114d186ae7b1.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/crollo-ponte-genova-aspi-risultati-monitoraggi-no-allarme-980d3af3-c674-46bc-9144-114d186ae7b1.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/crollo-ponte-genova-aspi-risultati-monitoraggi-no-allarme-980d3af3-c674-46bc-9144-114d186ae7b1.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<!-- col cx -->
+<div class="colCx">
+<!-- [RN 1 Colonna Alto Block] 1 COLONNA ALTO --><!-- [RN Nuovo Multimedia Set] Hot Pics --><div class="box hotBox hotPics">
+<div>
+<h3>
+<a style="color: white" href="/dl/rainews/redazioni/ContentSet-dfa4779f-a45d-474f-a459-71c7bbc77325-0.html">Hot Pics</a>
+</h3>
+<ul>
+<li>
+<a href="/dl/rainews/media/Dal-colera-ai-cambiamenti-climatici-il-Mozambico-dopo-il-ciclone-Idai-lotta-per-la-sopravvivenza-ce1ba198-5e4e-4870-9fc3-ba7030dbae11.html" class="pic round"><img src="/dl/img/2019/03/500x250_1553682938179.AP19086232977764.png"></a>
+<div>
+<div>
+<h5>
+<a href="/dl/rainews/media/Dal-colera-ai-cambiamenti-climatici-il-Mozambico-dopo-il-ciclone-Idai-lotta-per-la-sopravvivenza-ce1ba198-5e4e-4870-9fc3-ba7030dbae11.html">Dal colera ai cambiamenti climatici, il Mozambico dopo il ciclone Idai lotta per la sopravvivenza</a>
+</h5>
+</div>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/media/I-ciliegi-sono-in-fiore-A-Tokyo-arrivata-la-primavera-65c045bc-756d-4853-a7ad-4b07107b4533.html" class="pic round"><img src="/dl/img/2019/03/500x250_1553701403906.LP_9461042.jpg"></a>
+<div>
+<div>
+<h5>
+<a href="/dl/rainews/media/I-ciliegi-sono-in-fiore-A-Tokyo-arrivata-la-primavera-65c045bc-756d-4853-a7ad-4b07107b4533.html">I ciliegi sono in fiore. A Tokyo è arrivata la primavera</a>
+</h5>
+</div>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/media/Basta-rifiuti-in-mare-Dal-cestino-acchiappa-plastica-alle-barriere-galleggianti-del-Po-da733b6d-871d-4305-9917-543155bae86a.html" class="pic round"><img src="/dl/img/2019/03/500x250_1553699097579.rainews_20190327160348639.jpg"></a>
+<div>
+<div>
+<h5>
+<a href="/dl/rainews/media/Basta-rifiuti-in-mare-Dal-cestino-acchiappa-plastica-alle-barriere-galleggianti-del-Po-da733b6d-871d-4305-9917-543155bae86a.html">Basta rifiuti in mare! Dal cestino acchiappa plastica alle barriere galleggianti del Po</a>
+</h5>
+</div>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/media/Brigitte-e-Peng-mano-nella-mano-all-Opera-e-elegantissime-rosso-e-nero-alla-cena-di-gala-978980e8-578c-4a1b-a4d9-6cbd62092c7e.html" class="pic round"><img src="/dl/img/2019/03/500x250_1553596811413.LP_9452969.jpg"></a>
+<div>
+<div>
+<h5>
+<a href="/dl/rainews/media/Brigitte-e-Peng-mano-nella-mano-all-Opera-e-elegantissime-rosso-e-nero-alla-cena-di-gala-978980e8-578c-4a1b-a4d9-6cbd62092c7e.html">Brigitte e Peng, mano nella mano all'Opera e elegantissime in rosso e nero alla cena di gala</a>
+</h5>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [Rn LinkBanner Set] Banner quadrato Basta la salute --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/Basta-la-Salute-6ed37405-756a-4e09-bc00-151f19c07db6.html" target="_blank"><img src="/dl/img/2017/12/145x142_1512494264335.banner_310x310_Basta_la_Salute.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Banner quadrato tutti frutti --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/Tuttifrutti-a-Napoli-per-giornate-primavera-del-FAI-incontro-con-Massimo-Ranieri-e-Luca-Marinelli-0a4cf08c-b15a-4381-8ea8-c467b66ec5af.html" target="_blank"><img src="/dl/img/2017/12/145x142_1512494418019.TuttiFruttiQuad2.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Nuovo banner Mordi e Fuggi 2018 --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/Mordi-e-fuggi-gusto-vegetale-Dall-antipasto-al-dessert-per-chi-sceglie-uno-stile-di-vita-vegetariano-e-vegano-46a22309-1101-4432-b44c-d171eff21233.html" target="_blank"><img src="/dl/img/2018/09/145x142_1537882639329.1536824291929.png"></a>
+</div><!-- [Rn LinkBanner Set] Sabato&Domenica24 --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/Sabato-e-Domenica24-puntata-del-24-marzo-2019-3dd78990-64b4-42a2-83b1-f86c6182cf79.html" target="_blank"><img src="/dl/img/2017/12/145x142_1512990783053.bannere_sabatoedoenica.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Central Park West --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/Central-Park-West-Armenia-in-mostra-al-Metropolitan-Museum-di-New-York-33fa96c2-0956-4e22-bfe7-12434145b9fe.html" target="_blank"><img src="/dl/img/2019/03/145x284_1553259475798.banner_CPW_OK.jpg"></a>
+</div><!-- [Rn LinkBanner Set] AR --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/AR-Firenze-i-tesori-di-Palazzo-Corsini-cb2e61e2-a7d2-4f79-a4e6-94a40ee536a3.html" target="_blank"><img src="/dl/img/2019/03/145x284_1553259550550.BannerAR_OK.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Il sabbatico --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/Il-Sabbatico-Il-senso-della-parola-fratricidio-920a91fe-3800-4209-952a-31a8f0d6b86a.html" target="_blank"><img src="/dl/img/2019/03/145x284_1553259588054.bannerIlSabbatico_OK.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Banner nuovo weekend al cinema --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/weekend-cinema-8ee2ab9a-7f58-4ecf-b56d-6366fd1e13dd.html" target="_blank"><img src="/dl/img/2017/12/145x142_1512494753526.weekendQuad.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Banner quadrato Vrooom --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/vrooom-winterace-dolomiti-porsche-gmund-1f7007be-160b-409f-b5fd-078ab05c3137.html" target="_blank"><img src="/dl/img/2017/12/145x142_1512548061713.Vroomquad.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Banner quadrato Pillole di Mercalli --><div class="box link">
+<a href="http://pilloledimercalli.blog.rainews.it/" target="_blank"><img src="/dl/img/2017/01/145x142_1483989918778.bannerquadratoMercalli.jpg"></a>
+</div><!-- [RN Focus Set] "I buchi neri" della Lega --><div class="box Focus">
+<div class="boxRedazione">
+<div class="top">
+<div class="cc">
+<div class="label">Rimborsi</div>
+</div>
+<a class="pic" href="http://confini.blog.rainews.it/"><img alt="Giovanni Tizian (LaPresse)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/100x100_1553680134436.LP_5414742.jpg"></a>
+</div>
+<div class="txt">
+<h2>
+<a href="http://confini.blog.rainews.it/">"I buchi neri" della Lega</a>
+</h2>
+<h4>di Pierluigi Mele</h4>
+<p>Intervista a Giovanni Tizian</p>
+<div data-href="http://confini.blog.rainews.it/" class="Share">
+<a class="ico comm" href="http://confini.blog.rainews.it/#commenti"></a><a class="ico share" href="http://confini.blog.rainews.it/"></a>
+</div>
+</div>
+</div>
+</div><!-- [Rn LinkBanner Set] TgR Veneto --><div class="box link">
+<a href="http://www.rainews.it/Veneto" target="_blank"><img src="/dl/img/2018/01/145x142_1516627231739.tgr_veneto.jpg"></a>
+</div><!-- [Rn LinkBanner Set] LudoTech - quadrato --><div class="box link">
+<a href="http://ludotech.blog.rainews.it/"><img src="/dl/img/2017/03/145x142_1488804920880.LudoTech_linkbanner_Q.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Studio 24 quadrato --><div class="box link">
+<a href="http://studio24.blog.rainews.it/" target="_blank"><img src="/dl/img/2018/11/145x142_1542010199225.bannerstudii24.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Banner instagram rainews --><div class="box link">
+<a href="https://www.instagram.com/rainewsofficial/"><img src="/dl/img/2017/01/145x142_1484047481212.bannerinsta.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Economia quadrato --><div class="box link">
+<a href="http://economia.blog.rainews.it/"><img src="/dl/img/2018/11/145x142_1541782329927.banner_economia24_OK.jpg"></a>
+</div>
+
+</div>
+<!-- editor's choice -->
+<div class="colAll">
+<div id="editorChoice" class="box">
+<div class="label">Editor's Choice</div>
+<div class="top">
+<ul class="tags"> 
+</ul>
+</div>
+<div class="tile">
+<ul> 
+<li data-id="ContentItem-313c74aa-adbd-444b-9a6c-dc8a20d56b6d" class="p1 big">
+<a class="img" href="/dl/rainews/media/I-ciliegi-sono-in-fiore-A-Tokyo-arrivata-la-primavera-65c045bc-756d-4853-a7ad-4b07107b4533.html"><img alt="La fioritura dei ciliegi a Tokyo (LaPresse)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553701403906.LP_9461042.jpg"></a><a href="/dl/rainews/media/I-ciliegi-sono-in-fiore-A-Tokyo-arrivata-la-primavera-65c045bc-756d-4853-a7ad-4b07107b4533.html" class="txt">
+<h2>Tokyo, i ciliegi sono in fiore
+è arrivata la primavera</h2>
+<time datetime="" class="autoTimeFormat"></time>
+</a>
+</li>
+<li data-id="ContentItem-121a526d-c779-48cc-917b-0c25eace7251" class="p2 mb">
+<a class="img" href="/dl/rainews/media/Melbourne-Il-lago-diventa-rosa-ecco-perche-d100e7bd-8282-47f9-9be3-f260bf85e589.html"><img alt="lago rosa melbourne" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553680276886.GettyImages_1138537238.jpg"></a><a href="/dl/rainews/media/Melbourne-Il-lago-diventa-rosa-ecco-perche-d100e7bd-8282-47f9-9be3-f260bf85e589.html" class="txt">
+<h2>Melbourne, il lago
+diventa rosa</h2>
+<time datetime="2019/03/27 11:07" class="autoTimeFormat tinyTime">2019/03/27 11:07</time>
+</a>
+</li>
+<li data-id="ContentItem-cdd051d6-9a0a-4319-b6ae-0dd6cd4591b3" class="p3 mb">
+<a class="img" href="/dl/rainews/media/Come-nasce-una-citta-ecco-basmaya-il-nuovo-volto-di-baghdad-1d3cbf68-6c96-4d24-8b4d-efb74384f6b6.html"><img alt="Lavori in corso a Basmaya, Baghdad (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553678378704.rainews_20190327101028422.jpg"></a><a href="/dl/rainews/media/Come-nasce-una-citta-ecco-basmaya-il-nuovo-volto-di-baghdad-1d3cbf68-6c96-4d24-8b4d-efb74384f6b6.html" class="txt">
+<h2>Ecco Bismaya, il nuovo volto di Baghdad</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-853c8dfd-405c-475d-bca0-034853e434e8" class="p4 mb">
+<a class="img" href="/dl/rainews/media/Migliaia-di-tulipani-olandesi-colorano-uno-spicchio-di-Roma-a163451e-2e52-4bf7-98a4-cde884ffd93f.html"><img alt="I tulipani a Roma (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553620370852.rainews_20190326172916262.jpg"></a><a href="/dl/rainews/media/Migliaia-di-tulipani-olandesi-colorano-uno-spicchio-di-Roma-a163451e-2e52-4bf7-98a4-cde884ffd93f.html" class="txt">
+<h2>Migliaia di tulipani olandesi a Roma</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-b8dbc720-36a7-4f67-a989-7d24b019c213" class="p5 mb">
+<a class="img" href="/dl/rainews/media/Brigitte-e-Peng-mano-nella-mano-all-Opera-e-elegantissime-rosso-e-nero-alla-cena-di-gala-978980e8-578c-4a1b-a4d9-6cbd62092c7e.html"><img alt="Brigitte Macron e Peng Liyuan in visita all'Opera di Parigi (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553596811413.LP_9452969.jpg"></a><a href="/dl/rainews/media/Brigitte-e-Peng-mano-nella-mano-all-Opera-e-elegantissime-rosso-e-nero-alla-cena-di-gala-978980e8-578c-4a1b-a4d9-6cbd62092c7e.html" class="txt">
+<h2>First ladies ambasciatrici di stile
+Oriente e Occidente si danno la mano</h2>
+<time datetime="2019/03/27 11:05" class="autoTimeFormat tinyTime">2019/03/27 11:05</time>
+</a>
+</li>
+<li data-id="ContentItem-5609ea7e-b961-48b0-a336-2be8f1434b14" class="p6 mb">
+<a class="img" href="/dl/rainews/media/Torna-a-splendere-il-cartone-preparatorio-di-Raffaello-per-La-scuola-di-Atene-72e14889-a996-40cb-8252-449309518f6e.html"><img alt="scuola di atene raffaello" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553528401306.rainews_20190325163135166.jpg"></a><a href="/dl/rainews/media/Torna-a-splendere-il-cartone-preparatorio-di-Raffaello-per-La-scuola-di-Atene-72e14889-a996-40cb-8252-449309518f6e.html" class="txt">
+<h2>Il cartone preparatorio della Scuola di Atene</h2>
+<time datetime="2019/03/25 16:56" class="autoTimeFormat tinyTime">2019/03/25 16:56</time>
+</a>
+</li>
+<li data-id="ContentItem-6d044e6c-af73-4ad2-b6c7-46ba8de0ce45" class="p7 mb">
+<a class="img" href="/dl/rainews/media/fiocco-azzurro-primavera-Avvistato-cucciolo-delfino-a-largo-litorale-romano-b36c0ce4-49f7-40d9-90af-7698c36b598f.html"><img alt="Avvistato cucciolo delfino a largo litorale romano (Ansa per gentile concessione di Oceanomare Dolphins Onlus)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553521699964.rainews_20190325144625447.jpg"></a><a href="/dl/rainews/media/fiocco-azzurro-primavera-Avvistato-cucciolo-delfino-a-largo-litorale-romano-b36c0ce4-49f7-40d9-90af-7698c36b598f.html" class="txt">
+<h2>Fiocco azzurro di primavera</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-84e2daa2-b240-48f9-b6e8-f843cb33d23f" class="p8 sb">
+<a class="img" href="/dl/rainews/media/Il-francescano-Peter-Tabichi-insegnante-migliore-del-mondo-4f51ada7-5566-4f57-bbba-a97d51f73138.html"><img alt="Peter Tabichi ha vinto il Global Teacher Prize 2019 (Ap)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553522944892.peter1.jpg"></a><a href="/dl/rainews/media/Il-francescano-Peter-Tabichi-insegnante-migliore-del-mondo-4f51ada7-5566-4f57-bbba-a97d51f73138.html" class="txt">
+<h2>Si chiama Peter Tabichi e viene dal Kenya. È lui l'insegnante migliore del mondo</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-5c7e20f4-3b7d-4ade-aec6-16886758b6b1" class="p9 sb">
+<a class="img" href="/dl/rainews/media/La-principessa-e-la-first-lady-Charlene-di-Monaco-e-Peng-Liyuan-da6bfedf-b8a7-42f8-a258-3cde4fae84e5.html"><img alt="La Principessa Charlene di Monaco e la first lady cinese Peng Liyuan, Principato di Monaco (Eric Gaillard/Afp/Getty)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553437574245.GettyImages_1132454891.jpg"></a><a href="/dl/rainews/media/La-principessa-e-la-first-lady-Charlene-di-Monaco-e-Peng-Liyuan-da6bfedf-b8a7-42f8-a258-3cde4fae84e5.html" class="txt">
+<h2>La principessa e la first lady</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-e03d037b-93db-40ab-b743-baebeb30b17e" class="p10 sb">
+<a class="img" href="/dl/rainews/media/Lavori-ancora-in-corso-Meghan-e-Harry-rinviano-il-trasloco-nella-loro-nuova-casa-3cb7b595-fe06-432b-8b4c-0ba1f2cc70c9.html"><img alt="I duchi di Sussex Meghan Markle e Harry (Getty)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553426338703.GettyImages_1135095928.jpg"></a><a href="/dl/rainews/media/Lavori-ancora-in-corso-Meghan-e-Harry-rinviano-il-trasloco-nella-loro-nuova-casa-3cb7b595-fe06-432b-8b4c-0ba1f2cc70c9.html" class="txt">
+<h2>Meghan e Harry rinviano il trasloco </h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-3b2d6482-4038-4bc9-83f9-e8400f780564" class="p11 sb">
+<a class="img" href="/dl/rainews/media/Addio-a-Scott-Walker-la-parabola-di-un-antidivo-dal-pop-alla-sperimentazione-7641bad5-1ee1-4bee-a570-8041154023bc.html"><img alt="scott walker" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553510642049.GettyImages_85514728_1.jpg"></a><a href="/dl/rainews/media/Addio-a-Scott-Walker-la-parabola-di-un-antidivo-dal-pop-alla-sperimentazione-7641bad5-1ee1-4bee-a570-8041154023bc.html" class="txt">
+<h2>Addio a Scott Walker, parabola di antidivo</h2>
+<time datetime="2019/03/25 11:44" class="autoTimeFormat tinyTime">2019/03/25 11:44</time>
+</a>
+</li>
+<li data-id="ContentItem-4295555c-db2b-484f-8152-7dd57fb055b5" class="p12 sb">
+<a class="img" href="/dl/rainews/media/norvegia-nave-da-crociera-in-avaria-iniziate-operazioni-di-evacuazioni-dei-1300-passeggeri-4a783611-27b7-43d7-8301-56948a7d3668.html"><img alt="Norvegia: nave passeggeri Viking Sky in avaria (Gettyimages)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553357055576.GettyImages_1132173735.jpg"></a><a href="/dl/rainews/media/norvegia-nave-da-crociera-in-avaria-iniziate-operazioni-di-evacuazioni-dei-1300-passeggeri-4a783611-27b7-43d7-8301-56948a7d3668.html" class="txt">
+<h2>Avaria nave crociera 
+Evacuazione per 1.300 </h2>
+<time datetime="2019/03/23 20:05" class="autoTimeFormat tinyTime">2019/03/23 20:05</time>
+</a>
+</li>
+<li data-id="ContentItem-6022b792-abb5-4645-9553-05defc8e2ece" class="p13 sb">
+<a class="img" href="/dl/rainews/media/Angelica-e-Orlando-i-pupi-siciliani-in-dono-al-presidente-cinese-Xi-Jinping-d2590494-f8b3-409e-9029-ba96a266780b.html"><img alt="I pupi siciliani Orlando e Angelica donati al presidente cinese Xi Jinping (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553339591172.rainews_20190323121224996.jpg"></a><a href="/dl/rainews/media/Angelica-e-Orlando-i-pupi-siciliani-in-dono-al-presidente-cinese-Xi-Jinping-d2590494-f8b3-409e-9029-ba96a266780b.html" class="txt">
+<h2>Angelica e Orlando
+in dono a Xi Jinping</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-53632f12-95b6-4d2d-9bb3-20145399af25" class="p14 sb">
+<a class="img" href="/dl/rainews/media/ISS-prima-spacewalk-tutta-al-femminile-Nasa-diretta-tv-0245fd15-9fa6-4854-a5b9-6a9e38cea47d.html"><img alt="Iss. Anne Mcclain e Christina Koch si preparano per la spacewalk (nasa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553251316504.1.png"></a><a href="/dl/rainews/media/ISS-prima-spacewalk-tutta-al-femminile-Nasa-diretta-tv-0245fd15-9fa6-4854-a5b9-6a9e38cea47d.html" class="txt">
+<h2>La prima "spacewalk" del 2019</h2>
+<time datetime="2019/03/22 12:09" class="autoTimeFormat tinyTime">2019/03/22 12:09</time>
+</a>
+</li>
+<li data-id="ContentItem-7afbb557-dc7f-48b6-a0c1-c8301a9568f2" class="p15 sb">
+<a class="img" href="/dl/rainews/media/Cile-il-lago-piu-amato-di-Santiago-e-scomparso-Le-foto-prima-e-dopo-Ecco-perche-bd931449-59c5-4124-a00d-de4d0526b58e.html"><img alt="lago cile" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553177368362.GettyImages_1131632932.jpg"></a><a href="/dl/rainews/media/Cile-il-lago-piu-amato-di-Santiago-e-scomparso-Le-foto-prima-e-dopo-Ecco-perche-bd931449-59c5-4124-a00d-de4d0526b58e.html" class="txt">
+<h2>Cile, scompare il lago più amato</h2>
+<time datetime="" class="autoTimeFormat tinyTime"></time>
+</a>
+</li>
+<li data-id="ContentItem-a303d630-3055-4ed3-9a7d-a063ff1b0c4f" class="p16 sb">
+<a class="img" href="/dl/rainews/media/Holi-festival-l-esplosione-dei-colori-che-saluta-l-arrivo-della-primavera-e4e0b710-ce64-43f8-8f87-6c5ed021dc56.html"><img alt="holi primavera colori" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/410x306_1553163259432.AP19080329677957.jpg"></a><a href="/dl/rainews/media/Holi-festival-l-esplosione-dei-colori-che-saluta-l-arrivo-della-primavera-e4e0b710-ce64-43f8-8f87-6c5ed021dc56.html" class="txt">
+<h2>Holi festival, l'esplosione di colori
+che saluta l'arrivo della primavera</h2>
+<time datetime="2019/03/21 11:39" class="autoTimeFormat tinyTime">2019/03/21 11:39</time>
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<!-- col sx -->
+<div class="colSx">
+<!-- [RN 3 Colonne Centro Block] 3 COLONNE CENTRO --><!-- [RN Lancio Set] Borse incerte, positiva Milano --><div class="box speciale">
+<div class="bigNew alone">
+
+
+
+<a href="/dl/rainews/articoli/Borse-incerte-positiva-Milano-cf510571-c8d3-4ec5-87c5-d6a195e47472.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Tappo borsa" class="borderColor" data-original="/dl/img/2019/01/232x160_1547658553542.Tappo_borsa4.jpg"/></a><div class="label color12">Mercati</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Borse-incerte-positiva-Milano-cf510571-c8d3-4ec5-87c5-d6a195e47472.html">Borse incerte, positiva Milano</a>
+</h2>
+<p>
+</p>
+</div>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/articoli/Borse-incerte-positiva-Milano-cf510571-c8d3-4ec5-87c5-d6a195e47472.html">0</a><a class="ico share" href="/dl/rainews/articoli/Borse-incerte-positiva-Milano-cf510571-c8d3-4ec5-87c5-d6a195e47472.html">0</a>
+</div>
+</div>
+</div><!-- [RN Lancio Set] Garante nazionale dei detenuti: sovraffollamento non è fake news --><div class="box speciale">
+<div class="bigNew alone">
+
+
+
+<a href="/dl/rainews/articoli/Garante-nazionale-dei-detenuti-sovraffollamento-non-fake-news-8ee38dd7-9de2-461c-91df-ff581dee55b0.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Mauro Palma (Ansa)" class="borderColor" data-original="/dl/img/2019/03/232x160_1553676880688.rainews_20190327095155648.jpg"/></a><div class="label color6">Montecitorio</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Garante-nazionale-dei-detenuti-sovraffollamento-non-fake-news-8ee38dd7-9de2-461c-91df-ff581dee55b0.html">Garante nazionale dei detenuti: sovraffollamento non è fake news</a>
+</h2>
+<p>
+</p>
+</div>
+<div class="timeShare">
+<time datetime="2019/03/27 09:47" class="autoTimeFormat">2019/03/27 09:47</time>
+<a class="ico comm" href="/dl/rainews/articoli/Garante-nazionale-dei-detenuti-sovraffollamento-non-fake-news-8ee38dd7-9de2-461c-91df-ff581dee55b0.html">0</a><a class="ico share" href="/dl/rainews/articoli/Garante-nazionale-dei-detenuti-sovraffollamento-non-fake-news-8ee38dd7-9de2-461c-91df-ff581dee55b0.html">0</a>
+</div>
+</div>
+<div class="related">
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/Rivolta-in-carcere-a-Sanremo-i-detenuti-lanciano-tv-e-mobili-77e9a982-e1db-4a9d-9ef4-9e31cf342e47.html" class="pic">
+<div>
+<img alt="Detenuto (Ansa)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/10/50x50_1539507996468.rainews_20181014110557196.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Rivolta-in-carcere-a-Sanremo-i-detenuti-lanciano-tv-e-mobili-77e9a982-e1db-4a9d-9ef4-9e31cf342e47.html">
+<div>
+<div>
+<div>Rivolta in carcere a Sanremo: i detenuti lanciano tv e mobili</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Rivolta-in-carcere-a-Sanremo-i-detenuti-lanciano-tv-e-mobili-77e9a982-e1db-4a9d-9ef4-9e31cf342e47.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Rivolta-in-carcere-a-Sanremo-i-detenuti-lanciano-tv-e-mobili-77e9a982-e1db-4a9d-9ef4-9e31cf342e47.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Rivolta-in-carcere-a-Sanremo-i-detenuti-lanciano-tv-e-mobili-77e9a982-e1db-4a9d-9ef4-9e31cf342e47.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/avezzano-detenuti-al-lavoro-al-tribunale-per-scontare-pena-c3b28d4c-67bf-486f-9b1a-adc4f05e76ba.html" class="pic">
+<div>
+<img alt="Detenuti, Magistrati, Sindaci, Carcere, Personale, contribuiscono al buon funzionamento (Tribunale di Avezzano)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2018/06/50x50_1529409116768.20180613_104416_ridotto_80.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/avezzano-detenuti-al-lavoro-al-tribunale-per-scontare-pena-c3b28d4c-67bf-486f-9b1a-adc4f05e76ba.html">
+<div>
+<div>
+<div>Avezzano. Detenuti al lavoro al Tribunale per scontare pena</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/avezzano-detenuti-al-lavoro-al-tribunale-per-scontare-pena-c3b28d4c-67bf-486f-9b1a-adc4f05e76ba.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/avezzano-detenuti-al-lavoro-al-tribunale-per-scontare-pena-c3b28d4c-67bf-486f-9b1a-adc4f05e76ba.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/avezzano-detenuti-al-lavoro-al-tribunale-per-scontare-pena-c3b28d4c-67bf-486f-9b1a-adc4f05e76ba.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Raid vicino all'ospedale di Ritaf Sette morti, 4 sono bambini --><div class="box speciale">
+<div class="bigNew alone">
+
+
+
+<a href="/dl/rainews/articoli/save-the-children-raid-ospedale-7-morti-4-bambini-c38aba10-e548-480e-b813-f2bbc8c5dd35.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="yemen bambino ospedale" class="borderColor" data-original="/dl/img/2019/03/232x160_1553666203257.yemen_bambino.jpg"/></a><div class="label color35">YEMEN</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/save-the-children-raid-ospedale-7-morti-4-bambini-c38aba10-e548-480e-b813-f2bbc8c5dd35.html">Raid vicino all'ospedale di Ritaf<br/>Sette morti, 4 sono bambini</a>
+</h2>
+<p>
+</p>
+</div>
+<div class="timeShare">
+<time datetime="2019/03/27 06:52" class="autoTimeFormat">2019/03/27 06:52</time>
+<a class="ico comm" href="/dl/rainews/articoli/save-the-children-raid-ospedale-7-morti-4-bambini-c38aba10-e548-480e-b813-f2bbc8c5dd35.html">0</a><a class="ico share" href="/dl/rainews/articoli/save-the-children-raid-ospedale-7-morti-4-bambini-c38aba10-e548-480e-b813-f2bbc8c5dd35.html">0</a>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/Oxfam-ogni-giorno-3-civili-vengono-uccisi-in-Yemen-03f41642-5f0f-4031-8137-a8a71d68fa0e.html" class="ico quote"><span>Oxfam:</span> ogni giorno 3 civili vengono uccisi in Yemen</a>
+</li>
+</ul>
+</div>
+</div>
+</div><!-- [RN Lancio Set] Draghi: rischi orientati al ribasso, la Bce è pronta a reagire --><div class="box speciale">
+<div class="bigNew alone">
+
+
+
+<a href="/dl/rainews/articoli/Draghi-rischi-orientata-al-ribasso-Bce-pronta-a-reagire-ee53ed45-aa99-46d9-942d-f41474facca6.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Mario Draghi (LaPresse)" class="borderColor" data-original="/dl/img/2019/01/232x160_1548692077282.LP_9122827.jpg"/></a><div class="label color12">Eurozona</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Draghi-rischi-orientata-al-ribasso-Bce-pronta-a-reagire-ee53ed45-aa99-46d9-942d-f41474facca6.html">Draghi: rischi orientati al ribasso,<br/>la Bce è pronta a reagire</a>
+</h2>
+<p>
+</p>
+</div>
+<div class="timeShare">
+<time datetime="2019/03/27 09:25" class="autoTimeFormat">2019/03/27 09:25</time>
+<a class="ico comm" href="/dl/rainews/articoli/Draghi-rischi-orientata-al-ribasso-Bce-pronta-a-reagire-ee53ed45-aa99-46d9-942d-f41474facca6.html">0</a><a class="ico share" href="/dl/rainews/articoli/Draghi-rischi-orientata-al-ribasso-Bce-pronta-a-reagire-ee53ed45-aa99-46d9-942d-f41474facca6.html">0</a>
+</div>
+<div class="related">
+<ul class="normal">
+<li>
+<a href="/dl/rainews/articoli/bce-tassi-fermi-fino-fine-2019-97825671-b863-4456-8b85-0a5dbff9e4ab.html" class="ico quote"><span>Banca centrale europea:</span> tassi fermi fino alla fine del 2019</a>
+</li>
+</ul>
+</div>
+</div>
+</div><!-- [RN Lancio Set] Ipotesi di fusione tra Renault  e Nissan, poi l'acquisto di Fca --><div class="box speciale">
+<div class="bigNew alone">
+
+
+
+<a href="/dl/rainews/articoli/Ipotesi-di-fusione-tra-Renault-e-Nissan-poi-acquisto-di-Fca-6b1bc9ef-6877-4e1f-944c-ed6d0cce2952.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="FCA Fiat Chrysler Automobiles (GettyImages)" class="borderColor" data-original="/dl/img/2017/01/232x160_1483949555352.GettyImages_470356502.jpg"/></a><div class="label color12">Case automobilistiche</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Ipotesi-di-fusione-tra-Renault-e-Nissan-poi-acquisto-di-Fca-6b1bc9ef-6877-4e1f-944c-ed6d0cce2952.html">Ipotesi di fusione tra Renault <br/>e Nissan, poi l'acquisto di Fca</a>
+</h2>
+<p>
+</p>
+</div>
+<div class="timeShare">
+<time datetime="2019/03/27 12:22" class="autoTimeFormat">2019/03/27 12:22</time>
+<a class="ico comm" href="/dl/rainews/articoli/Ipotesi-di-fusione-tra-Renault-e-Nissan-poi-acquisto-di-Fca-6b1bc9ef-6877-4e1f-944c-ed6d0cce2952.html">0</a><a class="ico share" href="/dl/rainews/articoli/Ipotesi-di-fusione-tra-Renault-e-Nissan-poi-acquisto-di-Fca-6b1bc9ef-6877-4e1f-944c-ed6d0cce2952.html">0</a>
+</div>
+</div>
+<div class="related">
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/fca-firmato-rinnovo-contratto-per-87000-lavoratori-af3022bc-da57-480d-9b86-1438eee345c8.html" class="pic">
+<div>
+<img alt="La bandiera con le nuova sigla FCA al Lingotto di Torino (AP Photo/Massimo Pinca)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2014/10/50x50_1413229792041_Italy_Fiat_Chrysler_S_rain.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/fca-firmato-rinnovo-contratto-per-87000-lavoratori-af3022bc-da57-480d-9b86-1438eee345c8.html">
+<div>
+<div>
+<div>Fca, firmato rinnovo contratto per 87.000 lavoratori</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/fca-firmato-rinnovo-contratto-per-87000-lavoratori-af3022bc-da57-480d-9b86-1438eee345c8.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/fca-firmato-rinnovo-contratto-per-87000-lavoratori-af3022bc-da57-480d-9b86-1438eee345c8.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/fca-firmato-rinnovo-contratto-per-87000-lavoratori-af3022bc-da57-480d-9b86-1438eee345c8.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Fca-Manley-piano-investimenti-in-Italia-va-avanti-lo-adeguiamo-all-ecotassa-df7176f2-e46e-4465-824c-a409a9b959a0.html" class="pic">
+<div>
+<img alt="L'amministratore delegato di Fca Mike Manley" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/01/50x50_1547503729091.4.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Fca-Manley-piano-investimenti-in-Italia-va-avanti-lo-adeguiamo-all-ecotassa-df7176f2-e46e-4465-824c-a409a9b959a0.html">
+<div>
+<div>
+<div>Fca, Manley: "Rivediamo il piano di investimenti in Italia" </div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Fca-Manley-piano-investimenti-in-Italia-va-avanti-lo-adeguiamo-all-ecotassa-df7176f2-e46e-4465-824c-a409a9b959a0.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Fca-Manley-piano-investimenti-in-Italia-va-avanti-lo-adeguiamo-all-ecotassa-df7176f2-e46e-4465-824c-a409a9b959a0.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Fca-Manley-piano-investimenti-in-Italia-va-avanti-lo-adeguiamo-all-ecotassa-df7176f2-e46e-4465-824c-a409a9b959a0.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div><!-- [RN Lancio Set] Non regge la tregua: raid di Israele  e due nuovi razzi lanciati da Gaza  --><div class="box speciale">
+<div class="bigNew alone">
+
+
+
+<a href="/dl/rainews/articoli/Non-regge-la-tregua-tra-Israele-e-Hamas-raid-aerei-e-nuovi-razzi-lanciati-da-Gaza-3d434e72-1faf-4f18-ac36-43262ac6b88f.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Ancora razzi e raid tra Gaza e Israele (Ansa)" class="borderColor" data-original="/dl/img/2019/03/232x160_1553672050359.rainews_20190327083149574.jpg"/></a><div class="label color35">Medio Oriente</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/Non-regge-la-tregua-tra-Israele-e-Hamas-raid-aerei-e-nuovi-razzi-lanciati-da-Gaza-3d434e72-1faf-4f18-ac36-43262ac6b88f.html">Non regge la tregua: raid di Israele <br/>e due nuovi razzi lanciati da Gaza </a>
+</h2>
+<p>I missili sono stati intercettati dal sistema Iron Dome</p>
+</div>
+<div class="timeShare">
+<time datetime="2019/03/27 10:00" class="autoTimeFormat">2019/03/27 10:00</time>
+<a class="ico comm" href="/dl/rainews/articoli/Non-regge-la-tregua-tra-Israele-e-Hamas-raid-aerei-e-nuovi-razzi-lanciati-da-Gaza-3d434e72-1faf-4f18-ac36-43262ac6b88f.html">0</a><a class="ico share" href="/dl/rainews/articoli/Non-regge-la-tregua-tra-Israele-e-Hamas-raid-aerei-e-nuovi-razzi-lanciati-da-Gaza-3d434e72-1faf-4f18-ac36-43262ac6b88f.html">0</a>
+</div>
+</div>
+<div class="related">
+<ul class="special special2">
+<li>
+<a href="/dl/rainews/articoli/Razzo-su-una-casa-a-Tel-Aviv-Israele-reagisce-con-raid-su-Gaza-56f24802-43a4-41c8-9144-2014907615ae.html" class="pic">
+<div>
+<img alt="Attacco israeliano a Gaza (Gettyimages)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553535405669.GettyImages_1132776277.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Razzo-su-una-casa-a-Tel-Aviv-Israele-reagisce-con-raid-su-Gaza-56f24802-43a4-41c8-9144-2014907615ae.html">
+<div>
+<div>
+<div>Razzo su una casa a Tel Aviv, Israele reagisce con raid su Gaza</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Razzo-su-una-casa-a-Tel-Aviv-Israele-reagisce-con-raid-su-Gaza-56f24802-43a4-41c8-9144-2014907615ae.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Razzo-su-una-casa-a-Tel-Aviv-Israele-reagisce-con-raid-su-Gaza-56f24802-43a4-41c8-9144-2014907615ae.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Razzo-su-una-casa-a-Tel-Aviv-Israele-reagisce-con-raid-su-Gaza-56f24802-43a4-41c8-9144-2014907615ae.html"></a>
+</div>
+</li>
+<li>
+<a href="/dl/rainews/articoli/Gaza-al-via-offensiva-di-Israele-contro-Hamas-dopo-il-razzo-lanciato-su-Tel-Aviv-1caa31a4-7f0a-4819-8522-ac4e19fcdae7.html" class="pic">
+<div>
+<img alt="Attacco israeliano a Gaza (Gettyimages)" src="/dl/rainews/images/pixel.gif" data-original="/dl/img/2019/03/50x50_1553535433021.GettyImages_1132776432.jpg"></div>
+</a><a class="txt" href="/dl/rainews/articoli/Gaza-al-via-offensiva-di-Israele-contro-Hamas-dopo-il-razzo-lanciato-su-Tel-Aviv-1caa31a4-7f0a-4819-8522-ac4e19fcdae7.html">
+<div>
+<div>
+<div>Gaza, al via l'offensiva di Israele dopo il razzo lanciato su Tel Aviv</div>
+</div>
+</div>
+</a>
+<div data-href="/dl/rainews/articoli/Gaza-al-via-offensiva-di-Israele-contro-Hamas-dopo-il-razzo-lanciato-su-Tel-Aviv-1caa31a4-7f0a-4819-8522-ac4e19fcdae7.html" class="Share">
+<a class="ico comm" href="/dl/rainews/articoli/Gaza-al-via-offensiva-di-Israele-contro-Hamas-dopo-il-razzo-lanciato-su-Tel-Aviv-1caa31a4-7f0a-4819-8522-ac4e19fcdae7.html#commenti"></a><a class="ico share" href="/dl/rainews/articoli/Gaza-al-via-offensiva-di-Israele-contro-Hamas-dopo-il-razzo-lanciato-su-Tel-Aviv-1caa31a4-7f0a-4819-8522-ac4e19fcdae7.html"></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+<div class="tematicheAdd"></div>
+</div>
+<!-- col cx -->
+<div class="colCx">
+<!-- [RN 1 Colonna Centro Block] 1 COLONNA CENTRO --><!-- [Rn LinkBanner Set] Link banner TGR Sicilia Web Quadrato --><div class="box link">
+<a href="http://www.rainews.it/sicilia"><img src="/dl/img/2018/03/145x142_1520699967122.1520439153766.TGR_web_Sicilia_Q1.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Educazione finanziaria (quadrato) --><div class="box link">
+<a href="http://www.quellocheconta.gov.it/it/"><img src="/dl/img/2018/05/145x142_1526065156320.q3.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Link banner TGR Toscana Web Quadrato --><div class="box link">
+<a href="http://www.rainews.it/toscana"><img src="/dl/img/2018/03/145x142_1520699546213.1486053618983.TGR_Web_Toscana_Linkbanner_Q1.jpg"></a>
+</div><!-- [Rn LinkBanner Set] banner blog quadrato piccolo --><div class="box link">
+<a href="http://www.rainews.it/blog" target="_blank"><img src="/dl/img/2016/05/145x142_1462640112425.banner_blog_quadrato_piccolo.jpg"></a>
+</div><!-- [Rn LinkBanner Set] la Bussola Q2 --><div class="box link">
+<a href="http://labussola.blog.rainews.it/"><img src="/dl/img/2016/03/145x142_1458665374347.laBussola_linkbannerQ2.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Banner Futuro24 --><div class="box link">
+<a href="http://futuro24.blog.rainews.it/" target="_blank"><img src="/dl/img/2018/09/145x142_1538217568848.bannerquadrato.jpg"></a>
+</div><!-- [Rn LinkBanner Set] Premio Roberto Morrione. Il bando dell'ottava edizione --><div class="box link">
+<a href="http://www.premiorobertomorrione.it/bando" target="_blank"><img src="/dl/img/2018/11/145x142_1543412956504.PRM_8___banner_RAI_Partner_350X350.jpg"></a>
+</div><!-- [Rn LinkBanner Set] I conti in tasca quadrato --><div class="box link">
+<a href="http://www.rainews.it/dl/rainews/media/I-conti-in-tasca-puntata-del-26-ottobre-2018-6fefc56f-281b-4732-b526-05e6b4f9694a.html" target="_blank"><img src="/dl/img/2018/05/145x142_1527186024146.lb_quad_ContiInTasca.jpg"></a>
+</div>
+
+</div>
+<!-- col dx -->
+<div class="colDx">
+<!-- [RN 2 Colonne Centro Block] 2 COLONNE CENTRO --><!-- [RN Lancio Set] All'asta le chitarre di David Gilmour --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/In-vendita-un-pezzo-di-storia-del-rock-Le-chitarre-di-David-Gilmour-vanno-all-asta-86807a0b-5748-430b-a6de-f83b1b54aec2.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="La Stratocaster del 1969 nota come " The Black Strat" ​​durante l'anteprima di "The Personal Guitar Collection of David Gilmour" presso la casa d'aste Christie's di Londra (Ansa)" class="borderColor53" data-original="/dl/img/2019/03/475x255_1553694594537.rainews_20190327144844156.jpg"/></a><div class="label color53">New York</div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/In-vendita-un-pezzo-di-storia-del-rock-Le-chitarre-di-David-Gilmour-vanno-all-asta-86807a0b-5748-430b-a6de-f83b1b54aec2.html">All'asta le chitarre<br/>di David Gilmour</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/27 15:38" class="autoTimeFormat">2019/03/27 15:38</time>
+<a class="ico comm" href="/dl/rainews/media/In-vendita-un-pezzo-di-storia-del-rock-Le-chitarre-di-David-Gilmour-vanno-all-asta-86807a0b-5748-430b-a6de-f83b1b54aec2.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/In-vendita-un-pezzo-di-storia-del-rock-Le-chitarre-di-David-Gilmour-vanno-all-asta-86807a0b-5748-430b-a6de-f83b1b54aec2.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] Ecco Bismaya, il nuovo volto di Baghdad --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/Come-nasce-una-citta-ecco-basmaya-il-nuovo-volto-di-baghdad-1d3cbf68-6c96-4d24-8b4d-efb74384f6b6.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Lavori in corso a Basmaya, Baghdad (Ansa)" class="borderColor35" data-original="/dl/img/2019/03/475x255_1553678378704.rainews_20190327101028422.jpg"/></a><div class="label color35">Iraq, nasce una città</div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/Come-nasce-una-citta-ecco-basmaya-il-nuovo-volto-di-baghdad-1d3cbf68-6c96-4d24-8b4d-efb74384f6b6.html">Ecco Bismaya, il nuovo volto di Baghdad</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/media/Come-nasce-una-citta-ecco-basmaya-il-nuovo-volto-di-baghdad-1d3cbf68-6c96-4d24-8b4d-efb74384f6b6.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/Come-nasce-una-citta-ecco-basmaya-il-nuovo-volto-di-baghdad-1d3cbf68-6c96-4d24-8b4d-efb74384f6b6.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] No al bando Huawei Rafforzare sicurezza --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/articoli/5G-unione-europea-raccomandazione-ai-paesi-membri-non-escludere-imprese-da-infrastrutture-di-rete-valutare-sicurezza-fc016b7c-9d5c-4174-9aaf-3469b9649dc9.html" class="img"><img src="/dl/rainews/images/pixel.gif" alt="Auto connessa 5G (Gettyimages)" class="borderColor27" data-original="/dl/img/2018/12/475x255_1546185137861.GettyImages_1037842386.jpg"/></a><div class="label color27">5G in Europa</div><div class="txt">
+<h2>
+<a href="/dl/rainews/articoli/5G-unione-europea-raccomandazione-ai-paesi-membri-non-escludere-imprese-da-infrastrutture-di-rete-valutare-sicurezza-fc016b7c-9d5c-4174-9aaf-3469b9649dc9.html">No al bando Huawei<br/>Rafforzare sicurezza</a>
+</h2>
+<div class="timeShare">
+<time datetime="2019/03/26 16:41" class="autoTimeFormat">2019/03/26 16:41</time>
+<a class="ico comm" href="/dl/rainews/articoli/5G-unione-europea-raccomandazione-ai-paesi-membri-non-escludere-imprese-da-infrastrutture-di-rete-valutare-sicurezza-fc016b7c-9d5c-4174-9aaf-3469b9649dc9.html#commenti">0</a><a class="ico share" href="/dl/rainews/articoli/5G-unione-europea-raccomandazione-ai-paesi-membri-non-escludere-imprese-da-infrastrutture-di-rete-valutare-sicurezza-fc016b7c-9d5c-4174-9aaf-3469b9649dc9.html">0</a>
+</div>
+<p>
+</p>
+</div>
+</div><!-- [RN Lancio Set] A caccia di onde gravitazionali --><div class="box primaPagina speciale ">
+
+
+
+<a href="/dl/rainews/media/Osservatorio-Ego-virgo-di-Cascina-a-caccia-di-onde-gravitazionali-e3e67854-491d-471e-a4b3-29895df9e60c.html" class="img mediaVideoIcon"><img src="/dl/rainews/images/pixel.gif" alt="Osservatorio Ego virgo di Cascina (Screen)" class="borderColor31" data-original="/dl/img/2019/03/475x255_1553611500849.png"/></a><div class="label color31">Osservatorio EGO-VIRGO</div><div class="txt">
+<h2>
+<a href="/dl/rainews/media/Osservatorio-Ego-virgo-di-Cascina-a-caccia-di-onde-gravitazionali-e3e67854-491d-471e-a4b3-29895df9e60c.html">A caccia di onde gravitazionali</a>
+</h2>
+<div class="timeShare">
+<time datetime="" class="autoTimeFormat"></time>
+<a class="ico comm" href="/dl/rainews/media/Osservatorio-Ego-virgo-di-Cascina-a-caccia-di-onde-gravitazionali-e3e67854-491d-471e-a4b3-29895df9e60c.html#commenti">0</a><a class="ico share" href="/dl/rainews/media/Osservatorio-Ego-virgo-di-Cascina-a-caccia-di-onde-gravitazionali-e3e67854-491d-471e-a4b3-29895df9e60c.html">0</a>
+</div>
+<p>Da Cascina (Pisa) <strong>Andrea Bettini</strong></p>
+</div>
+</div><!-- [RN Non stop News Set] ULTIM'ORA TELEVIDEO --><!-- #include virtual="/dl/rainews/html/nonstopnews/${uniqueNameStopNews}.html"--><div data-lstype="nonstopnews" data-streamid="ContentSet-48e15680-055e-480e-8eac-f6c7e132eac8" class="box box_ls">
+<div class="nostop nostopTxt">
+<div class="label color2">ULTIM'ORA TELEVIDEO</div>
+<ul data-itemlimit="3">
+<li data-uniquename="ContentItem-eb1ca28a-f476-49ce-926d-8a0f1397882c">
+<a href="/dl/rainews/articoli/ContentItem-eb1ca28a-f476-49ce-926d-8a0f1397882c.html">
+<div class="timeShare">
+<time datetime="2019/03/28 05:50" class="autoTimeFormat nonstopnews">2019/03/28 05:50</time>
+</div>
+<p>Dazi,Li:pari trattamento aziende estere</p>
+</a>
+</li>
+<li data-uniquename="ContentItem-91160dc0-fb78-4a1f-8c51-acaa830d982b">
+<a href="/dl/rainews/articoli/ContentItem-91160dc0-fb78-4a1f-8c51-acaa830d982b.html">
+<div class="timeShare">
+<time datetime="2019/03/28 04:43" class="autoTimeFormat nonstopnews">2019/03/28 04:43</time>
+</div>
+<p>Venezuela, blackout costato 200mln</p>
+</a>
+</li>
+<li data-uniquename="ContentItem-5ee5bebf-54b6-4e7e-9bb1-b1675789f07e">
+<a href="/dl/rainews/articoli/ContentItem-5ee5bebf-54b6-4e7e-9bb1-b1675789f07e.html">
+<div class="timeShare">
+<time datetime="2019/03/28 04:05" class="autoTimeFormat nonstopnews">2019/03/28 04:05</time>
+</div>
+<p>Cile,pedofilia:chiesa accetta condanna</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+<!-- tematiche 6 colonne -->
+<div class="colAll"><div id="bloccoTemi" class="box">
+<div class="menuTemi">
+<div class="slideTemi">
+<div onClick="backTematiche()" class="back">
+<span class="hide">&lt;</span>
+</div>
+<ul id="slideTemi"></ul>
+<div onClick="nextTematiche()" class="next">
+<span class="hide">&gt;</span>
+</div>
+</div>
+<div id="showAll" class="mostra">Mostra tutte</div>
+</div>
+<div style="display:none;" class="menuTemiAll">
+<ul id="menuTemiAll"></ul>
+</div>
+<div class="temi">
+<ul id="temi"></ul>
+</div>
+<ul id="paginazioneLista" class="paginazione"></ul>
+<input id="current_page" type="hidden"><input id="show_per_page" type="hidden"><a style="display:none;" href="javascript:void(0)" class="openSettings"><span class="hide">Impostazioni temi</span></a>
+</div><div style="display:none;" class="setTematiche overlay">
+<div>
+<div>
+<div>
+<div class="settings">
+<div>
+<h5>Metti in primo piano gli argomenti che vuoi</h5>
+<h6>Seleziona dal men&ugrave; i 2 temi di tuo maggiore interesse  e spostali nella tua homepage</h6>
+<a href="javascript:void(0)" class="ico close"><span class="hide">Chiudi(x)</span></a>
+<div class="menuSettings"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer -->
+</div>
+
+<script>var dfpEnabled = true;</script>
+
+<script src="/dl/components/js/rai.adv.dfp.js?20190221093928" defer></script>
+<script>
+  $(function() {
+    $('.tabBox').each(function() {
+      var box, btnVideo, btnFoto, tabVideo, tabFoto;
+      box = $(this);
+      btnVideo = box.find('a.video');
+      btnFoto = box.find('a.foto');
+      tabVideo = box.find('.tabVideo');
+      tabFoto = box.find('.tabFoto');
+      btnVideo.click(function() {
+        btnFoto.removeClass('attivo');
+        btnVideo.addClass('attivo');
+        tabFoto.hide();
+        tabVideo.show();
+        trackPage(document.location, true, 'tab=video');
+        return false;
+      });
+      btnFoto.click(function() {
+        btnVideo.removeClass('attivo');
+        btnFoto.addClass('attivo');
+        tabVideo.hide();
+        tabFoto.show();
+        trackPage(document.location, true, 'tab=foto');
+        return false;
+      });
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+	<script>
+	if (typeof(parentPage) != 'undefined') {
+		
+		  if (!parentPage.bsp) {
+		    parentPage.bsp = 'rtv_streaming_rainews^rtv_streaming_rainews^wmv';
+		    parentPage.bsp_fmt = 'fmt_videoplayer_rainews';
+		  }
+				
+	}
+	</script>
+		
+
+
+<script>
+if (/.*\.rai\.it/.test(document.location.hostname)) {
+  document.domain = 'rai.it';
+}
+// fix half boxes in .colDx
+$('.colDx .box.half').each(function() {
+    var t, c;
+    t = $(this);
+    c = t.prevUntil('.box:not(.half)').length;
+    if (c % 2 == 0) {
+      t.removeClass('right');
+      t.addClass('left');
+    } else {
+      t.addClass('right');
+      t.removeClass('left');
+    }
+    //console.log(t, c);
+  }
+);
+// device detection
+function initTouchMenu() {
+  var menu, menuBtn;
+  menu = $('.menuTematiche');
+  menuBtn = menu.find('span.menuIcon');
+  menu.unbind('touchstart touchend click');
+  menuBtn.unbind('touchstart touchend click');
+  menu.bind('touchend', function() {
+    // just need to bind a click handler to make it receive simulated hover events
+    var prev, par;
+    menu.toggleClass('expanded');
+    if (!menu.is('.expanded')) {
+      par = menuBtn.parent();
+      prev = menuBtn.prev();
+      menuBtn.remove();
+      window.setTimeout(function() {
+        if (prev.length > 0) {
+          menuBtn.insertBefore(prev);
+        } else {
+          par.prepend(menuBtn);
+        }
+      }, 0);
+    }
+  });
+};
+if ('ontouchstart' in window) {
+  initTouchMenu();
+}
+
+riordinoBoxMobile();
+
+//$(window).resize(function(){
+//	riordinoBoxMobile();
+//});
+
+//if (!!isIphone || !!isIpad || (!!isAndroid && !isAndroidTablet) || (!!isBBerry && !isBBerryTablet) || !!isWindowsPhone) {
+//	riordinoBoxMobile();
+//}
+
+function riordinoBoxMobile(){
+	if($(window).width()<767){
+		if((currPageType == 'tgr') || (currPageType == 'regione')){
+			if($('.colCx').length){
+				// pagina enhanced 312
+				$('#Focus').attr('data-sort', '1').addClass('sort');
+				$('.colSx').attr('data-sort', '2').addClass('sort');
+				$('.colDx').attr('data-sort', '3').removeClass('colDx').addClass('colSx sort');
+			  	$('.colCx').attr('data-sort', '4').removeClass('colCx').addClass('colSx sort');
+			  	$('.rubricheTgr').parent().attr('data-sort', '5').addClass('sort');
+		  	}else{
+			  	// pagina enhanced 222
+		  		$('.colDx').removeClass('colDx').addClass('colSx');
+		  	}
+	
+		  	$('.sort').sort(function (a, b) {
+				return $(a).data('sort') - $(b).data('sort');
+			}).each(function (_, container) {
+				$(container).parent().append(container);
+			});
+	  	}else{
+			(function() {
+			    var ap, c3a, c2a, c1a, ed, c3c, c2c, c1c, tem;
+			
+			    ap = $('#Focus');
+			    ed = $('#editorChoice').parent();
+			    c3a = ed.prevAll('.colSx'); // c3a = c3a.length > 0 ? c3a : false;
+			    c1a = ed.prevAll('.colCx'); // c1a = c1a.length > 0 ? c1a : false;
+			    c2a = ed.prevAll('.colDx'); // c2a = c2a.length > 0 ? c2a : false;
+			    c3c = ed.nextAll('.colSx'); // c3c = c3c.length > 0 ? c3c : false;
+			    c1c = ed.nextAll('.colCx'); // c1c = c1c.length > 0 ? c1c : false;
+			    c2c = ed.nextAll('.colDx'); // c2c = c2c.length > 0 ? c2c : false;
+			    tem = $('#bloccoTemi').parent();	
+			
+			    // Apertura
+			    // 3 colonne sopra Editor’s choice
+			    // 2 colonne sopra Editor’s choice
+			    // Editor’s choice
+			    // 3 colonne sotto Editor’s Choice
+			    // 2 colonne sotto Editor’s Choice
+			    // 1 colonna sopra Editor’s Choice
+			    // 1 colonna sotto Editor’s Choice
+			    // box tematiche
+			
+			    c3a.insertAfter(ap);
+			    c2a.insertAfter(c3a);
+			    // ed.insertAfter(c2a);
+			    c3c.insertAfter(ed);
+			    c2c.insertAfter(c3c);
+			    c1a.insertAfter(c2c);
+			    c1c.insertAfter(c1a);
+					
+			    // if (ap.is('.big')) {
+			    //   // sposto 2 colonne alto prima di editors choice
+			    //   if (ed.length > 0) {
+			    //     c2a.insertBefore(ed);
+			    //   }
+			    // }
+			    // if (c2a.length > 0 && c1a.length > 0) {
+			    //   // c1a.insertBefore(c2a);
+			    // }
+			    c3a.add(c3c).add(ap).add(ed).add(tem).add(".colDx").css('clear', 'both');
+			    c2a.add(c2c).add(c1a).add(c1c).add(".colDx").each(function() {
+			      var t, c;
+			      t = $(this);
+			      c = t.data('prev-class') || t.attr('class');
+			      t.data('prev-class', c);
+			      t.removeClass('colDx colCx').addClass('colSx');
+			    });
+			
+			    // $('meta[name=viewport]').attr('content', 'width=475');
+			
+		  	}());
+		}
+	}
+}
+</script>
+
+
+
+
+<style type="text/css">
+.footer {
+    background-color: #14232a !important;
+    color: #485459;
+    font-size: 12px;
+    padding: 2rem 0;
+    max-width: 100%;
+    margin: 0 auto;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.containerTextLink
+{
+	margin:0 auto;
+	max-width:1000px;
+	padding-left: 0.625rem;
+    padding-right: 0.625rem;
+	width:920px;
+}
+
+.logoTextFooter
+{
+	width:670px;
+	float:left;
+	padding-left: 0;
+    padding-right: 1.25rem;
+}
+
+.rightLinks{
+	width:auto;
+	float:left;
+	height:56px;
+	margin-left: calc(-0.625rem + 40px);
+    margin-right: calc(-0.625rem + 40px);
+}
+
+.rightLinks .link
+{
+	padding-left: 0.625rem;
+    padding-right: 0.625rem;
+	padding-bottom:4px;
+}
+
+.logoTextFooter .logo_footer, .logoTextFooter span 
+{
+	float:left;
+}
+
+.logoTextFooter span
+{
+line-height:18px;
+}
+.rightLinks a
+{
+	color: #485459;
+    display: block;
+
+}
+
+.footer .logo_footer svg {
+    width: 56px;
+    height: 56px;
+}
+
+.footer .logo_footer {
+    float: left;
+    margin-right: 20px;
+}
+
+@media screen and (min-width: 64em)
+{
+	.rightLinks {
+		-webkit-order: 3;
+		-ms-flex-order: 3;
+		order: 3;
+	}
+}
+
+@media screen and (max-width:63.938em)
+{
+	.rightLinks
+	{
+		width:100%;
+	}
+	
+	.rightLinks div
+	{
+		max-width:100%;
+		margin:0 auto;
+	}
+	
+	.rightLinks .link
+	{
+		width:33.3%;
+		text-align:center;
+		float:left;
+		padding:0;
+		margin:0;
+	}
+	
+	.logoTextFooter span
+	 {
+		float:none;
+	 }
+	 
+	 .hide-for-small-only
+	 {
+		display:none;
+	 }
+}
+</style>
+<div class="row footer">
+	<div class="containerTextLink">
+		<div class="row inner-footer">
+			<div class="rightLinks">
+				<div>
+					<div class="link"><a href="http:www.rai.it/privacy/PrivacyPolicy.html">Privacy policy</a></div>
+					<div class="link"><a href="https://www.iubenda.com/privacy-policy/844946/cookie-policy">Cookie policy</a></div>
+					<div class="link"><a href="//www.rai.it/trasparenza">Società trasparente</a></div>
+				</div>
+			</div>
+			<div class="logoTextFooter">
+				<div class="logo_footer">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" class="logoRai">
+						<g display="inline">
+							<path d="m199.960999,0.02613h-199.961259v199.97387h199.961259v-199.97387l0,0zm-159.700298,97.626572h2.007999c6.765999,0 14.394001,-1.250999 14.394001,-9.946999c0,-8.671005 -7.628002,-9.948006 -14.394001,-9.948006h-2.007999v19.895004l0,0zm45.645,44.068291h-25.841l-19.595001,-30.716995h-0.209v30.716995h-20.756001v-79.869293h31.017002c15.789097,0 27.757,7.535004 27.757,24.575996c0,11.030006 -6.153999,20.561302 -17.483002,22.568306l25.110001,32.724991l0,0zm20.691299,-27.104996c0,6.871002 4.551003,12.177002 12.399002,12.177002c7.835999,0 12.386002,-5.306 12.386002,-12.177002c0,-6.675995 -4.550003,-12.281998 -12.386002,-12.281998c-7.848,0 -12.399002,5.606003 -12.399002,12.281998m43.416,27.104996h-19.257004v-6.022995h-0.233994c-3.377007,5.397003 -10.039001,7.822006 -16.415001,7.822006c-16.102203,0 -27.431305,-13.455002 -27.431305,-29.022003c0,-15.567299 11.147003,-28.918304 27.236305,-28.918304c6.231995,0 12.815994,2.334 16.843994,7.106003v-5.292999h19.257004v54.328293l0,0zm32.399002,-75.202293c0,5.945 -4.889008,10.808998 -10.807999,10.808998c-5.919006,0 -10.807999,-4.863998 -10.807999,-10.808998c0,-5.918999 4.888992,-10.782001 10.807999,-10.782001c5.918991,0 10.807999,4.863003 10.807999,10.782001m-1.173004,75.202293h-19.257004v-54.328293h19.257004v54.328293l0,0zm-181.238998,23.27301v-88.318306v-18.617996v-25.202h-0.987l0.987,132.138302z" fill="#7c8589" id="path2901"></path>
+						</g>
+					</svg>
+				</div>
+				<span>
+					Rai - Radiotelevisione Italiana Spa <br>
+					Sede legale: Viale Mazzini, 14 - 00195 Roma |
+					Cap. Soc. Euro 242.518.100,00 interamente versato<br>
+					<span class="hide-for-small-only">Ufficio del Registro delle Imprese di Roma 
+					© RAI 2014 - tutti i diritti riservati. P.Iva 06382641006</span>
+				</span>	
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  <!-- google analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    
+		ga('create', 'UA-46130216-1', 'rainews.it');
+		ga('send', 'pageview');
+	
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+try {
+  if (typeof(setPageNielsenInfo) == 'function') {
+    setPageNielsenInfo();
+  }
+} catch(e) {
+}
+</script>
+<!--if expr="$audiwebv601 != 'true'"  -->
+	
+		<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+		<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+		<script type="text/javascript">
+		var _rsCI="rainet-it";
+		var _rsCG="0";
+		var _rsDN="//secure-it.imrworldwide.com/";
+		var _rsCC=0;
+		var _rsIP=1;
+		</script>
+		<script type="text/javascript" src="//secure-it.imrworldwide.com/v52.js"></script>
+		<noscript>
+		<div style="display: none;">
+			<img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=rainet-it&amp;cg=0" style="display:none" alt=""/>
+		</div>
+		</noscript>
+		<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+	
+<!--endif  -->
+<!-- Begin comScore Tag --> 
+<script type="text/plain" class="_iub_cs_activate"> 
+  var _comscore = _comscore || []; 
+  _comscore.push({ c1: "2", c2: "15866303" }); 
+  (function() { 
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 
+    el.parentNode.insertBefore(s, el); 
+  })(); 
+</script> 
+<noscript> 
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15866303&cv=2.0&cj=1"/> 
+</noscript> 
+<!-- End comScore Tag -->
+
+
+
+</body>
+</html>
+
