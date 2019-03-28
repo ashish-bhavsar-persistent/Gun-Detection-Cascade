@@ -1,0 +1,139 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+  <HEAD>
+		<title>&nbsp;Athletics Department - Tufts University</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+		<link href="/athletics/styles.css" rel="stylesheet" type="text/css">
+  </HEAD>
+	<body MS_POSITIONING="FlowLayout">
+		<form name="Form1" method="post" action="_common/_wfcontent.aspx?404%3bhttp%3a%2f%2fase.tufts.edu%3a80%2fathletics%2fWomenBasketball%2fphotos%2fkhalilah-act0607.jpg" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjg2OTU2NTA1D2QWAmYPZBYEAgEPZBYIAgIPFgIeA3NyYwUjL2F0aGxldGljcy9waG90b3Mvc2VjdGlvbkp1bWJvcy5qcGdkAgMPEGQPFh1mAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbAhwWHRAFC1NlbGVjdCBUZWFtBQsvYXRobGV0aWNzL2cQBQ5NZW4ncyBCYXNlYmFsbAULbWVuQmFzZWJhbGxnEAUQTWVuJ3MgQmFza2V0YmFsbAUNbWVuQmFza2V0YmFsbGcQBQpNZW4ncyBDcmV3BQdtZW5DcmV3ZxAFE01lbidzIENyb3NzIENvdW50cnkFD21lbkNyb3NzQ291bnRyeWcQBQ5NZW4ncyBGb290YmFsbAULbWVuRm9vdGJhbGxnEAUQTWVuJ3MgSWNlIEhvY2tleQUMbWVuSWNlSG9ja2V5ZxAFDk1lbidzIExhY3Jvc3NlBQttZW5MYWNyb3NzZWcQBQxNZW4ncyBTb2NjZXIFCW1lblNvY2NlcmcQBQxNZW4ncyBTcXVhc2gFCW1lblNxdWFzaGcQBRVNZW4ncyBTd2ltbWluZyZEaXZpbmcFC21lblN3aW1taW5nZxAFDE1lbidzIFRlbm5pcwUJbWVuVGVubmlzZxAFEU1lbidzIFRyYWNrJkZpZWxkBQhtZW5UcmFja2cQBRJXb21lbidzIEJhc2tldGJhbGwFD3dvbWVuQmFza2V0YmFsbGcQBQxXb21lbidzIENyZXcFCXdvbWVuQ3Jld2cQBRVXb21lbidzIENyb3NzIENvdW50cnkFEXdvbWVuQ3Jvc3NDb3VudHJ5ZxAFD1dvbWVuJ3MgRmVuY2luZwUMd29tZW5GZW5jaW5nZxAFFFdvbWVuJ3MgRmllbGQgSG9ja2V5BRB3b21lbkZpZWxkSG9ja2V5ZxAFEFdvbWVuJ3MgTGFjcm9zc2UFDXdvbWVuTGFjcm9zc2VnEAUPV29tZW4ncyBTYWlsaW5nBQx3b21lblNhaWxpbmdnEAUOV29tZW4ncyBTb2NjZXIFC3dvbWVuU29jY2VyZxAFEFdvbWVuJ3MgU29mdGJhbGwFDXdvbWVuU29mdGJhbGxnEAUOV29tZW4ncyBTcXVhc2gFC3dvbWVuU3F1YXNoZxAFF1dvbWVuJ3MgU3dpbW1pbmcmRGl2aW5nBQ13b21lblN3aW1taW5nZxAFDldvbWVuJ3MgVGVubmlzBQt3b21lblRlbm5pc2cQBRNXb21lbidzIFRyYWNrJkZpZWxkBQp3b21lblRyYWNrZxAFEldvbWVuJ3MgVm9sbGV5YmFsbAUPd29tZW5Wb2xsZXliYWxsZxAFCkNvLWVkIEdvbGYFCGNvZWRHb2xmZxAFDUNvLWVkIFNhaWxpbmcFC2NvZWRTYWlsaW5nZxYBZmQCBA8WAh8ABSEvYXRobGV0aWNzL3Bob3Rvcy9yaWdodEp1bWJvcy5qcGdkAgYPFgIeBFRleHQFDlBhZ2UgTm90IEZvdW5kZAIDDxYCHwEF7wINCgkJCVRoYW5rIHlvdSBmb3IgdmlzaXRpbmcgdGhlIEF0aGxldGljcyB3ZWIgc2l0ZS4gVGhlIHBhZ2UgeW91IA0KCQkJcmVxdWVzdGVkIHdhcyBub3QgZm91bmQuIDxicj4NCgkJCTxicj4NCgkJCVRoZSBBdGhsZXRpY3Mgc2l0ZSBoYXMgYmVlbiByZXZhbXBlZCBhbmQgb3VyIG1lbnUgaGFzIGNoYW5nZWQuIA0KCQkJUGxlYXNlIHVzZSB0aGUgbWVudSB0byB0aGUgbGVmdCB0byBicm93c2UgdGhlIHNpdGUgb3IgdmlzaXQgb3VyDQoJCQk8YSBocmVmPSJkZWZhdWx0Lmh0bSI+aG9tZSBwYWdlPC9hPiBmb3IgbGF0ZXN0IG5ld3MsIHNjb3Jlcywgb3IgDQoJCQl1cGNvbWluZyBnYW1lcyAmYW1wOyBldmVudHMgaW5mb3JtYXRpb24uPHA+Jm5ic3A7ZGTv5iocIVxU6TbHaYC/94Jy1d9FUQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1A0FFBB4" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWIAKPz+qKCALr1tCvDwL32fCQDAKLs/q6AwK9mouvDgKihbLUAwLk34uXCAKduJPMDwK4jKGrBALNson+AQKtpPGwDgKEgvIDArKxpvwGAu6ZgJUFAuiG0loCwKe+oQYC1pHlqAMC4sXPgAEC9pnsYAKcq8qEBAL8iPONDwLFj9j/AwLnyMeVCAKig8rQAQLIiYHaCAK80Y65CwL2k5KEDAL+xKCXCwKOxb+BDALfycD9CgK/y4arCgLC/4wvoR8ZZ4xW8jZYkCnb/KXmo0fxE3M=" />
+			
+<div align="center">
+	<table border="0" cellspacing="0" cellpadding="0" id="outer">
+		<tr>
+			<td>
+				<table id="inner" cellspacing="5" cellpadding="0">
+					<tr>
+						<td>
+							<input name="_WcContentTop1$TxtSearch" type="text" id="_WcContentTop1_TxtSearch" />&nbsp;&nbsp;<input type="submit" name="_WcContentTop1$BtnSearch" value="Go!" id="_WcContentTop1_BtnSearch" />
+						</td>
+						<td id="address" colspan="2">Cousens Gymnasium, College Avenue, Medford, MA 02155 | 
+							Phone: (617) 627-3232 | <a href="mailto:paul.sweeney@tufts.edu">Contact Us</a></td>
+					</tr>
+					<tr>
+						<td><a href="/athletics/default.htm"><img border="0" src="/athletics/images/jumbotufts.gif" width="160" height="175" alt="Tufts Jumbos"></a></td>
+						<td id="titlebox">
+							<a href="/athletics/default.htm"><img border="0" src="/athletics/images/title.gif" width="395" height="40"></a><br>
+							<img src="/athletics/photos/sectionJumbos.jpg" id="_WcContentTop1_ImgTopBanner" border="0" width="420" height="135" alt="section photo" /></td>
+						<td id="teams">
+							<select name="_WcContentTop1$DdlTeams" id="_WcContentTop1_DdlTeams">
+	<option selected="selected" value="/athletics/">Select Team</option>
+	<option value="menBaseball">Men's Baseball</option>
+	<option value="menBasketball">Men's Basketball</option>
+	<option value="menCrew">Men's Crew</option>
+	<option value="menCrossCountry">Men's Cross Country</option>
+	<option value="menFootball">Men's Football</option>
+	<option value="menIceHockey">Men's Ice Hockey</option>
+	<option value="menLacrosse">Men's Lacrosse</option>
+	<option value="menSoccer">Men's Soccer</option>
+	<option value="menSquash">Men's Squash</option>
+	<option value="menSwimming">Men's Swimming&amp;Diving</option>
+	<option value="menTennis">Men's Tennis</option>
+	<option value="menTrack">Men's Track&amp;Field</option>
+	<option value="womenBasketball">Women's Basketball</option>
+	<option value="womenCrew">Women's Crew</option>
+	<option value="womenCrossCountry">Women's Cross Country</option>
+	<option value="womenFencing">Women's Fencing</option>
+	<option value="womenFieldHockey">Women's Field Hockey</option>
+	<option value="womenLacrosse">Women's Lacrosse</option>
+	<option value="womenSailing">Women's Sailing</option>
+	<option value="womenSoccer">Women's Soccer</option>
+	<option value="womenSoftball">Women's Softball</option>
+	<option value="womenSquash">Women's Squash</option>
+	<option value="womenSwimming">Women's Swimming&amp;Diving</option>
+	<option value="womenTennis">Women's Tennis</option>
+	<option value="womenTrack">Women's Track&amp;Field</option>
+	<option value="womenVolleyball">Women's Volleyball</option>
+	<option value="coedGolf">Co-ed Golf</option>
+	<option value="coedSailing">Co-ed Sailing</option>
+
+</select>
+							<br>
+							<img src="/athletics/photos/rightJumbos.jpg" id="_WcContentTop1_ImgRightCorner" border="0" width="190" height="135" /></td>
+					</tr>
+					<tr>
+						<td id="left">
+							<table cellspacing="0" cellpadding="0">
+								
+<tr>
+	<td id="mainnav">
+		<a href="http://www.gotuftsjumbos.com/information/club_sports">Club Sports</a><br>
+		<a href="http://www.gotuftsjumbos.com/information/directions">Directions</a><br>
+		<a href="http://www.gotuftsjumbos.com/facilities/information">Facility Information</a><br>
+		<a href="http://www.gotuftsjumbos.com/information/intramurals">Intramurals</a><br>
+		<a href="http://ase.tufts.edu/athletics/recruiting.aspx">Recruit Form</a><br>
+		<a href="http://www.gotuftsjumbos.com/information/links">Resources</a><br>
+		<a href="http://www.gotuftsjumbos.com/information/staff_directory">Staff Directory</a><br>
+		<a href="http://www.gotuftsjumbos.com/landing/index">Teams</a><br>
+		<a href="http://www.gotuftsjumbos.com/information/visitors">Visitors Information</a>
+		<!-- <a href="/athletics/history.htm">Tufts History</a> -->
+		</td>
+</tr>
+<tr>
+	<td id="external">
+		<a href="http://www.gotuftsjumbos.com/landing/index">Athletics Home</a><br>
+		<a target="_blank" href="http://www.jumbocast.com">JumboCast</a><br>
+		<a target="_blank" href="http://www.nescac.com/">NESCAC</a><br>
+		<a href="http://ase.tufts.edu/physed/default.asp">Physical Education</td>
+</tr>
+<tr>
+	<td id="donation">
+		</a>
+		<br><img src="/athletics/images/TwithTusks.gif" alt="Tufts Athletics"><br><br>
+		<a href="http://www.gotuftsjumbos.com/tufts_info/donate">Donate to Tufts Athletics</td></a>
+</tr>
+							</table>
+						</td>
+						<td id="content" colspan="2">
+							<p><font class="title">Page Not Found</font>
+								<hr color="#663300">
+			
+			Thank you for visiting the Athletics web site. The page you 
+			requested was not found. <br>
+			<br>
+			The Athletics site has been revamped and our menu has changed. 
+			Please use the menu to the left to browse the site or visit our
+			<a href="default.htm">home page</a> for latest news, scores, or 
+			upcoming games &amp; events information.<p>&nbsp;
+			
+
+					</TD>
+				</TR>
+				<tr>
+					<td id="tufts"><a href="http://www.tufts.edu"><img border="0" src="/athletics/images/tufts.gif" alt="Tufts"></a></td>
+					<td id="bottomlinks" colspan="2">
+						
+<a href="http://ase.tufts.edu">Arts, Sciences, &amp; Engineering</a> | 
+<a href="http://www.tufts.edu">Tufts University</a> | 
+<a href="http://tufts.edu/home/maps/?p=medford">Maps &amp; Directions</a>  
+					</td>
+				</tr>
+			</TABLE>
+			</TD>
+		</TR>
+	</TABLE>
+</DIV>
+
+		</form>
+	</body>
+</HTML>

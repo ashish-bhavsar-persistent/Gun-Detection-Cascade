@@ -1,0 +1,1327 @@
+
+<!DOCTYPE html>
+<html lang="nl" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">                   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekblad deGouda - Nieuws uit Gouda en omstreken.Weekblad deGouda digitaal | Het nieuwsportaal uit Gouda en omstreken</title>     
+    <link rel="profile" href="http://gmpg.org/xfn/11">           
+    <link rel="pingback" href="https://degouda.nl/xmlrpc.php">
+    
+           
+        <link rel="shortcut icon" type="image/x-icon"  href="https://degouda.nl/wp-content/uploads/2014/07/favicon.png">
+        
+            <link rel="apple-touch-icon" sizes="57x57" href="https://degouda.nl/wp-content/uploads/2014/07/logo_57x9.png">
+    
+        <link rel="apple-touch-icon" sizes="72x72" href="https://degouda.nl/wp-content/uploads/2014/07/logo_72x11.png">
+    
+        <link rel="apple-touch-icon" sizes="114x114" href="https://degouda.nl/wp-content/uploads/2014/07/logo_114x17.png">
+    
+            <link rel="apple-touch-icon" sizes="144x144" href="https://degouda.nl/wp-content/uploads/2014/07/logo_144x21.png">        
+    
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+
+    <!--[if lt IE 9]>
+        <script src="https://degouda.nl/wp-content/themes/fastnews/js/html5shiv.js"></script>
+        <script src="https://degouda.nl/wp-content/themes/fastnews/js/respond.min.js"></script>
+        <script src="https://degouda.nl/wp-content/themes/fastnews/js/css3-mediaqueries.js"></script>
+        <script src="https://degouda.nl/wp-content/themes/fastnews/js/PIE_IE678.js"></script>
+    <![endif]-->
+    
+    
+<!-- This site is optimized with the Yoast SEO plugin v10.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Weekblad deGouda geeft u het laatste nieuws uit Gouda en omstreken. Weekblad deGouda is onderdeel van de Gouda Media Groep. Elke week in uw brievenbus."/>
+<link rel="canonical" href="https://degouda.nl/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Weekblad deGouda - Nieuws uit Gouda en omstreken." />
+<meta property="og:description" content="Weekblad deGouda geeft u het laatste nieuws uit Gouda en omstreken. Weekblad deGouda is onderdeel van de Gouda Media Groep. Elke week in uw brievenbus." />
+<meta property="og:url" content="https://degouda.nl/" />
+<meta property="og:site_name" content="Weekblad deGouda digitaal" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://degouda.nl/#website","url":"https://degouda.nl/","name":"Weekblad deGouda digitaal","potentialAction":{"@type":"SearchAction","target":"https://degouda.nl/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//qeryz.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Weekblad deGouda digitaal &raquo; Feed" href="https://degouda.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weekblad deGouda digitaal &raquo; Reactiesfeed" href="https://degouda.nl/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/degouda.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=a20d960f0340b673f445b0ee075747a8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://degouda.nl/wp-includes/css/dist/block-library/style.min.css?ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://degouda.nl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='wc-shortcodes-style-css'  href='https://degouda.nl/wp-content/plugins/wc-shortcodes/public/assets/css/style.css?ver=3.45' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-bootstrap-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/bootstrap.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-fontawesome-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-superfish-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/superfish.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-flexlisder-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/flexslider.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-prettyPhoto-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/prettyPhoto.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-style-css'  href='https://degouda.nl/wp-content/themes/fastnews/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-extra-style-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/extra.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-responsive-css'  href='https://degouda.nl/wp-content/themes/fastnews/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Sansita+One-css'  href='http://fonts.googleapis.com/css?family=Sansita+One%3A300%2C300italic%2C400%2C400italic%2C700%2C700italic&#038;subset=latin&#038;ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Arimo-css'  href='http://fonts.googleapis.com/css?family=Arimo%3A300%2C300italic%2C400%2C400italic%2C700%2C700italic&#038;subset=latin&#038;ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-Rokkitt-css'  href='http://fonts.googleapis.com/css?family=Rokkitt%3A300%2C300italic%2C400%2C400italic%2C700%2C700italic&#038;subset=latin&#038;ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_table_style-css'  href='https://degouda.nl/wp-content/plugins/easy-table/themes/default/style.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpresscanvas-font-awesome-css'  href='https://degouda.nl/wp-content/plugins/wc-shortcodes/public/assets/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tw-recent-posts-widget-css'  href='https://degouda.nl/wp-content/plugins/tw-recent-posts-widget/tw-recent-posts-widget.css?ver=1.0.5' type='text/css' media='screen' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kopa_front_variable = {"ajax":{"url":"https:\/\/degouda.nl\/wp-admin\/admin-ajax.php"},"template":{"post_id":7}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://qeryz.com/survey/js/qryz_v3.2.js?ver=a20d960f0340b673f445b0ee075747a8'></script>
+<link rel='https://api.w.org/' href='https://degouda.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://degouda.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://degouda.nl/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://degouda.nl/' />
+<link rel="alternate" type="application/json+oembed" href="https://degouda.nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdegouda.nl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://degouda.nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdegouda.nl%2F&#038;format=xml" />
+
+<!-- This site is using AdRotate v5.0 to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-2 {  margin: 0 auto; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+
+<style>
+.scroll-back-to-top-wrapper {
+    position: fixed;
+	opacity: 0;
+	visibility: hidden;
+	overflow: hidden;
+	text-align: center;
+	z-index: 99999999;
+    background-color: #e30613;
+	color: #f2f2f2;
+	width: 40px;
+	height: 38px;
+	line-height: 38px;
+	right: 30px;
+	bottom: 30px;
+	padding-top: 2px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.scroll-back-to-top-wrapper:hover {
+	background-color: #c40717;
+  color: #ffffff;
+}
+.scroll-back-to-top-wrapper.show {
+    visibility:visible;
+    cursor:pointer;
+	opacity: 0.8;
+}
+.scroll-back-to-top-wrapper i.fa {
+	line-height: inherit;
+}
+.scroll-back-to-top-wrapper .fa-lg {
+	vertical-align: 0;
+}
+</style>
+<!--BEGIN: TRACKING CODE MANAGER BY INTELLYWP.COM IN HEAD//-->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '413277875785067');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=413277875785067&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//--><style>
+        .logo-image{
+            margin-top:0px;
+            margin-left:0px;
+            margin-right:px;
+            margin-bottom:0px;
+        } 
+    </style><style>
+        .home-slider .flex-control-paging li a.flex-active {
+            background: ;
+        }
+
+        .navy-button,
+        .border-button:hover,
+        .kp-dropcap,
+        .kp-dropcap.color,
+        #header-top,
+        #main-menu li ul,
+        #toggle-view-menu > li,
+        .search-box .search-form .search-submit,
+        .newsletter-form .submit,
+        .accordion-title span,
+        .tag-box a:hover,
+        .kopa-related-post h3,
+        #comments h3,
+        #respond h3,
+        #contact-box h3,
+        #comments-form #submit-comment,
+        #contact-form #submit-contact,
+        .kp-gallery-carousel .flex-prev:hover,
+        .kp-gallery-carousel .flex-next:hover {
+            background-color: ;
+        }
+
+        .navy-button,
+        .border-button:hover,
+        #responsive-menu,
+        .newsletter-form .submit,
+        .newsletter-form .email:focus,
+        #comments-form #comment_name:focus,
+        #comments-form #comment_email:focus,
+        #comments-form #comment_url:focus,
+        #comments-form #comment_message:focus,
+        #contact-form #contact_name:focus,
+        #contact-form #contact_email:focus,
+        #contact-form #contact_url:focus,
+        #contact-form #contact_message:focus {
+            border-color: ;
+        }
+
+        .t-bottom-sidebar,
+        .list-container-3 ul li.active a, 
+        .list-container-3 ul li:hover a {
+            border-top-color: ;
+        }
+
+        blockquote {
+            border-left-color: ;
+        }
+
+        .entry-date,
+        .widget-title,
+        .more-link,
+        h1, h2, h3, h4, h5, h6,
+        a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+        .kp-headline dd a:hover,
+        .social-link li a:hover,
+        .home-slider .entry-categories a:hover,
+        .home-slider .flex-caption h2 a:hover,
+        .kp-gallery-slider .slides li h4 a:hover,
+        .b-bottom-sidebar .widget a:hover,
+        #toggle-view li h3:hover,
+        .about-author .social-link li a:hover,
+        .kp-headline-title,
+        .newsletter-form .submit:hover,
+        .breadcrumb .current-page,
+        .pagination ul li span.current,
+        .entry-box footer p a,
+        .author-name,
+        #comments .comment-body .date,
+        #comments .comment-body .comment-edit-link,
+        #comments .comment-body .comment-reply-link:hover,
+        .kopa-comment-pagination a:hover,
+        .kopa-comment-pagination .current,
+        #comments-form label.required span,
+        #contact-form label.required span,
+        label.error,
+        .error-404 .right-col h1,
+        .error-404 .right-col a,
+        .kopa-pagelink a {
+            color: ;
+        }      
+
+        .search-box .search-form .search-text {
+            background-color: 000000;
+        }  
+        </style><style>
+        body {
+            color: #666666;
+        }
+
+        #main-content .sidebar .widget .widget-title {
+            color: #e30613;
+        }
+
+        #main-content .widget .widget-title {
+            color: ;
+        }
+
+        h1,
+        .elements-box h1 {
+            color: #e30613;
+        }
+        h2, 
+        .elements-box h2 {
+            color: #e30613;
+        }
+        h3,
+        .elements-box h3 {
+            color: #e30613;
+        }
+        h4,
+        .elements-box h4 {
+            color: #e30613;
+        }
+        h5,
+        .elements-box h5 {
+            color: #e30613;
+        }
+        h6,
+        .elements-box h6 {
+            color: #e30613;
+        }
+        </style><style>
+         h1, h2, h3, h4, h5, h6 {
+            font-family: 'Sansita One', sans-serif;
+        }
+        </style><style>
+         body,
+         .pagination ul li,
+         .search-box .search-form .search-text,
+         .search-box .search-form .search-submit,
+         .widget_categories .postform, 
+         .widget_archive select,
+         .list-container-3 ul li a,
+         #comments-form label.required, #contact-form label.required,
+         #comments-form #submit-comment, #contact-form #submit-contact,
+         .error-404 .left-col p
+          {
+            font-family: 'Arimo', sans-serif;
+        }
+        </style><style>
+        #main-menu > li > a,
+        #main-menu li ul li a,
+        #footer-menu li a {
+            font-family: 'Sansita One', sans-serif;
+        }
+        </style><style>
+        .widget .widget-title,
+        #main-content .widget .widget-title {
+            font-family: 'Rokkitt', sans-serif;
+        }
+        </style><style>
+                    body,
+                    .tab-container-3 ul li a,
+                    #copyright{
+                       font-size:12pxpx;
+                   }
+                   </style><style>
+            #main-menu > li > a,
+            #main-menu li ul li a {
+                font-size: 14px;
+            }
+        </style><style>
+        .widget .widget-title,
+        #main-content .widget .widget-title,
+        #main-content .sidebar .widget .widget-title {
+            font-size: 16px;
+        }
+        </style><style>.kp-headline-title { 
+color: #fff;
+}
+
+.widget-title { 
+background-color: #e30613;
+border-bottom: 3px double #DEDEDE;
+color: #fff;
+margin: 0px 0px 10px;
+text-transform: uppercase;
+padding-top:8px;
+padding-left:5px;
+}
+
+#header-top { 
+background-color: #4E4E4E;
+padding-top: 6px;
+}
+.tw-recent-posts .featured-post h4 a {
+  font-size: 20px;
+}
+
+.tw-recent-posts .featured-post .excerpt { 
+clear: none;
+font-size: 12px;
+line-height: 1.3em;
+letter-spacing:0.5px;
+}
+
+#header-middle { 
+background-color: #E30613;
+border-bottom: 1px solid #E30613;
+padding: 25px 0px 15px;
+}
+
+#header-bottom { 
+background-color: #D10511;
+border-bottom: 1px solid #D10511;
+}
+
+.fa { 
+color: #4E4E4E;
+}
+
+.navy-button, .border-button:hover { 
+background-color: #e30613;
+border: 1px solid #e30613;
+color: #FFFFFF;
+}
+
+#main-menu > li.current-menu-item > a, #main-menu > li.current-menu-parent > a { 
+background-color: #E30613;
+color: #FFFFFF;
+}
+
+#main-menu > li.menu-item-has-children:hover > a { 
+background-color: #D10511;
+}
+
+.b-bottom-sidebar .widget .widget-title { 
+background-color: #4E4E4E;
+border: medium none currentColor;
+color: #FFFFFF;
+margin-bottom: 10px;
+}
+
+.widget > ul > li { 
+border-top: 1px solid #fff;
+margin:5px 0px 0px;
+padding-top:5px;
+}
+
+ul { 
+font-family: "arimo";
+font-size: 12px;
+letter-spacing:0.5px;
+margin: 0px;
+padding: 0px;
+}
+
+
+body {
+background: url(http://dekrantvangouda.nl/wp-content/uploads/2015/05/achtergrondkvg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#main-content > .wrapper { 
+background-color: #FFFFFF;
+border-left: 1px solid #DEDEDE;
+border-right: 1px solid #DEDEDE;
+}
+
+.widget-area-5 .wrapper {
+background-color:#fff;
+}
+
+#main-content .sidebar .widget .widget-title { 
+color: #FFFFFF;
+}
+
+#bottom-sidebar { 
+border-bottom: 1px solid #DEDEDE;
+background-color:#4E4E4E;
+}
+
+.t-bottom-sidebar { 
+border-top: 3px solid #4E4E4E;
+}
+
+#kp-page-footer { 
+background-color: #4E4E4E;
+border-bottom: 3px double #DEDEDE;
+margin-bottom:0px;
+padding-top: 10px;
+}
+
+.b-bottom-sidebar .widget, .b-bottom-sidebar .widget a {
+color:#fff; 
+}
+
+a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .kp-headline dd a:hover, .social-link li a:hover, .home-slider .entry-categories a:hover, .home-slider .flex-caption h2 a:hover, .kp-gallery-slider .slides li h4 a:hover, .b-bottom-sidebar .widget a:hover, #toggle-view li h3:hover, .about-author .social-link li a:hover { 
+color: #e30613;
+}
+
+img.size-full, img.size-large, img.wp-post-image { 
+height: 100%;
+max-width: 100%;
+}
+
+.kp-categories-2 .entry-list li .entry-thumb, .latest-entry-item .entry-thumb { 
+width:200px;
+}
+
+#toggle-view-menu > li { 
+background-color: #A91C22;
+}
+
+#toggle-view-menu li:hover { 
+background-color: #7E1319;
+}
+
+#toggle-view-menu span { 
+background-color: #A91C22;
+}
+
+#toggle-view-menu .menu-panel { 
+background-color: #A91C22;
+}
+
+#comments-form #submit-comment, #contact-form #submit-contact { 
+width:150px;
+}
+
+.home-slider .flex-control-paging li a.flex-active { 
+background: #A91C22;
+}
+
+.search-box .search-form .search-text {
+    background:url(../images/icons/search-icon@2x.png) no-repeat 7px center #4E4E4E;
+    background-size: 16px 16px;
+}
+
+.tag-box a:hover { 
+background-color: #A91C22;
+color: #FFFFFF;
+}
+
+.home-slider .flex-control-nav {
+    width: auto;
+    right: 20px;
+    visibility: hidden;
+}
+
+.home-slider .flex-caption{
+padding-top:5px;
+padding-right:5px;
+padding-bottom:5px;
+padding-left:5px;
+font-size:12px;
+}
+
+.search-box .search-form .search-text { 
+background: url("http://dekrantvangouda.nl/wp-content/themes/fastnews/images/icons/search-icon.png") 7px 50% no-repeat #4E4E4E;
+border: medium none currentColor;
+border-radius: 4px;
+box-shadow: none;
+box-sizing: border-box;
+color: #FFFFFF;
+font-family: "Arial", "Helvetica", sans-serif;
+font-size: 12px;
+height: 30px;
+line-height: 30px;
+margin: 0px;
+padding: 0px 70px 0px 30px;
+position: relative;
+width: 150px;
+}
+
+.search-box .search-form .search-submit {
+  border: none;
+  background-color: #4e4e4e;
+  position: absolute;
+  right: 6px;
+  top: 6px;
+  width: 60px;
+  height: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #fff;
+  line-height: 10px;
+  text-transform: uppercase;
+  border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+}
+</style><!--[if lt IE 9]><style>
+        .flex-control-paging li a,
+        .carousel-nav a,
+        .kp-video-widget ul li .entry-item .entry-thumb .play-icon,
+        .search-box .search-form .search-text,
+        .search-box .search-form .search-submit,
+        .kp-gallery-slider .play-icon,
+        .kp-gallery-carousel .play-icon,
+        .kp-dropcap.color {
+            behavior: url(https://degouda.nl/wp-content/themes/fastnews/js/PIE.htc);
+        }
+    </style><![endif]-->		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://degouda.nl/wp-content/uploads/2016/05/cropped-weekblad-deGouda-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://degouda.nl/wp-content/uploads/2016/05/cropped-weekblad-deGouda-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://degouda.nl/wp-content/uploads/2016/05/cropped-weekblad-deGouda-180x180.png" />
+<meta name="msapplication-TileImage" content="https://degouda.nl/wp-content/uploads/2016/05/cropped-weekblad-deGouda-270x270.png" />
+<style type='text/css'>
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+</head>
+    
+<body class="home page-template-default page page-id-7 page-parent wc-shortcodes-font-awesome-enabled home-page">
+
+<div class="kp-page-header">
+    <div id="header-top">
+        <div class="wrapper clearfix">
+            <nav id="main-nav" class="pull-left">
+                <ul id="main-menu" class="menu clearfix"><li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-has-children menu-item-134"><a href="https://degouda.nl/" aria-current="page">Nieuws</a>
+<ul class="sub-menu">
+	<li id="menu-item-10825" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10825"><a href="https://degouda.nl/category/archief-2018/">Archief</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://degouda.nl/nieuws/vorige-edities/">Vorige edities</a></li>
+	<li id="menu-item-12540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12540"><a href="https://degouda.nl/category/columns/">columns</a></li>
+	<li id="menu-item-3197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3197"><a href="https://degouda.nl/category/archief-2015/">Archief 2015</a></li>
+	<li id="menu-item-410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-410"><a href="https://degouda.nl/category/archief-2014/">Archief 2014</a></li>
+</ul>
+</li>
+<li id="menu-item-4540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4540"><a href="http://www.dekrantvangouda.nl">Radio&#038;TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-4307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4307"><a target="_blank" href="http://www.goudafm.nl">GoudaFM</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a target="_blank" href="http://www.goudatv.nl">GoudaTV</a></li>
+</ul>
+</li>
+<li id="menu-item-25589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25589"><a href="https://degouda.nl/matties/">Matties</a>
+<ul class="sub-menu">
+	<li id="menu-item-25590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25590"><a href="https://degouda.nl/sport-punt-gouda/">Sport.Gouda</a></li>
+	<li id="menu-item-26051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26051"><a href="https://degouda.nl/so-natural/">So Natural</a></li>
+	<li id="menu-item-26348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26348"><a href="https://degouda.nl/sjaak-willemstein/">Sjaak Willemstein</a></li>
+</ul>
+</li>
+<li id="menu-item-9972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9972"><a href="https://degouda.nl/service/bezorging/">Bezorging</a></li>
+<li id="menu-item-25767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25767"><a href="https://degouda.nl/category/vacatures/">vacatures</a></li>
+<li id="menu-item-23995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23995"><a href="http://www.degoudastore.nl">Adverteren</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-47"><a href="https://degouda.nl/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-6169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6169"><a href="https://degouda.nl/abonneren/">Abonneren</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://degouda.nl/service/colofon/">Colofon</a></li>
+</ul>
+</li>
+<li id="menu-item-25921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25921"><a href="https://degouda.nl/app/">App</a></li>
+<li id="menu-item-29883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29883"><a href="http://goudafm.nl/de-agenda-voor-de-regio-gouda/">Agenda</a></li>
+</ul><div id="mobile-menu" class="menu-mainmenu-container"><span>Menu</span><ul id="toggle-view-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-has-children menu-item-134 clearfix"><h3><a href="https://degouda.nl/">Nieuws</a></h3>
+<span>+</span><div class='clear'></div><div class='menu-panel clearfix'><ul>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10825"><a href="https://degouda.nl/category/archief-2018/">Archief</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://degouda.nl/nieuws/vorige-edities/">Vorige edities</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12540"><a href="https://degouda.nl/category/columns/">columns</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3197"><a href="https://degouda.nl/category/archief-2015/">Archief 2015</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-410"><a href="https://degouda.nl/category/archief-2014/">Archief 2014</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4540 clearfix"><h3><a href="http://www.dekrantvangouda.nl">Radio&#038;TV</a></h3>
+<span>+</span><div class='clear'></div><div class='menu-panel clearfix'><ul>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4307"><a target="_blank" href="http://www.goudafm.nl">GoudaFM</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a target="_blank" href="http://www.goudatv.nl">GoudaTV</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25589 clearfix"><h3><a href="https://degouda.nl/matties/">Matties</a></h3>
+<span>+</span><div class='clear'></div><div class='menu-panel clearfix'><ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25590"><a href="https://degouda.nl/sport-punt-gouda/">Sport.Gouda</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26051"><a href="https://degouda.nl/so-natural/">So Natural</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26348"><a href="https://degouda.nl/sjaak-willemstein/">Sjaak Willemstein</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9972 clearfix"><h3><a href="https://degouda.nl/service/bezorging/">Bezorging</a></h3></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25767 clearfix"><h3><a href="https://degouda.nl/category/vacatures/">vacatures</a></h3></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23995 clearfix"><h3><a href="http://www.degoudastore.nl">Adverteren</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-47 clearfix"><h3><a href="https://degouda.nl/contact/">Contact</a></h3>
+<span>+</span><div class='clear'></div><div class='menu-panel clearfix'><ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6169"><a href="https://degouda.nl/abonneren/">Abonneren</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://degouda.nl/service/colofon/">Colofon</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25921 clearfix"><h3><a href="https://degouda.nl/app/">App</a></h3></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29883 clearfix"><h3><a href="http://goudafm.nl/de-agenda-voor-de-regio-gouda/">Agenda</a></h3></li>
+</ul></div>            </nav>
+            <!-- main-nav -->
+            
+            <div class="search-box pull-right clearfix">
+                <form action="https://degouda.nl" class="search-form clearfix" method="get">
+                    <input type="text" onblur="if (this.value == '') this.value = this.defaultValue;" onfocus="if (this.value == this.defaultValue) this.value = '';" value="Typ hier uw zoekwoorden" name="s" class="search-text">
+                    <input type="submit" value="Zoeken" class="search-submit">
+                </form>
+            </div>
+            <!--search-box-->
+        </div>
+        <!-- wrapper -->
+    </div>
+    <!-- header-top -->
+    <div id="header-middle">
+        <div class="wrapper clearfix">
+            <div class="logo-image pull-left">
+                 
+                <a href="https://degouda.nl"><img src="https://degouda.nl/wp-content/uploads/2015/04/logo_200x100.png" alt="Weekblad deGouda digitaal"></a>
+                            </div>
+            <div class="top-banner pull-right">
+                            </div>
+        </div>
+        <!-- wrapper -->
+    </div>
+    <!-- header-middle -->
+    <div id="header-bottom">
+        <div class="wrapper clearfix">
+            <div class="kp-headline-wrapper pull-left">
+                                    
+            </div>
+            <!-- kp-headline-wrapper -->
+            
+            
+    <ul class="social-link pull-right clearfix">
+                            <li><a href="https://www.facebook.com/deGouda" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/degouda" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                                                                                    <li><a href="https://www.youtube.com/goudatv" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                                            <li><a href="http://www.dekrantvangouda.nl/index.php?id=16558&#038;type=334&#038;feed_id=43522&#038;no_cache=1" target="_blank"><i class="fa fa-rss"></i></a></li>
+                        </ul>
+
+                <!-- social-link -->
+        </div>
+        <!-- wrapper -->
+    </div>
+    <!-- header-bottom -->
+</div>
+<!-- kp-page-header -->
+
+<div id="main-content" class="clearfix">
+<div class="wrapper">
+    <div class="col-a widget-area-1">
+        
+        <div id="custom_html-8" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="http:/www.degouda.nl/app" target="_blank"> <img src="http://degouda.nl/wp-content/uploads/2018/04/app-degouda.jpg" width=503 /></a></div></div><div id="kopa_widget_flexslider-4" class="widget kp-slider-widget">        <div class="loading flexslider home-slider" data-animation="slide" data-direction="horizontal" data-slideshow_speed="7000" data-animation_speed="600" data-autoplay="true">
+            <ul class="slides">
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32445-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/bram-ladage-500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/bram-ladage.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/bram-ladage-190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">27-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32445-2/"></a></h2>
+                            <p>Woensdag 27 maart kon men een patatje halen voor een euro bij Bram Ladage op de Markt.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32379-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/Voorjaar-betekent-dat-langs-de-Oude-Rijn-bij-Bodegraven-veel-lammetjes-in-de-weilanden.--500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/Voorjaar-betekent-dat-langs-de-Oude-Rijn-bij-Bodegraven-veel-lammetjes-in-de-weilanden.-.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/Voorjaar-betekent-dat-langs-de-Oude-Rijn-bij-Bodegraven-veel-lammetjes-in-de-weilanden.--190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">24-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32379-2/"></a></h2>
+                            <p>Voorjaar betekent dat langs de Oude Rijn bij Bodegraven veel lammetjes in de weilanden.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32376-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/De-geitenvierling-op-de-kinderboerderij-De-Goudse-Hofsteden-bij-hun-moeder.--500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/De-geitenvierling-op-de-kinderboerderij-De-Goudse-Hofsteden-bij-hun-moeder.-.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/De-geitenvierling-op-de-kinderboerderij-De-Goudse-Hofsteden-bij-hun-moeder.--190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">24-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32376-2/"></a></h2>
+                            <p>De geitenvierling op de kinderboerderij De Goudse Hofsteden bij hun moeder.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32365-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/In-de-Garenspinnerij-was-het-Festival-Door-Elkaar-op-herhaling-met-o.m.-eigen-toneelvoorstellingen.--500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/In-de-Garenspinnerij-was-het-Festival-Door-Elkaar-op-herhaling-met-o.m.-eigen-toneelvoorstellingen.-.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/In-de-Garenspinnerij-was-het-Festival-Door-Elkaar-op-herhaling-met-o.m.-eigen-toneelvoorstellingen.--190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">24-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32365-2/"></a></h2>
+                            <p>In de Garenspinnerij was het Festival Door Elkaar op herhaling met o.m. eigen toneelvoorstellingen.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32362-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/Het-Blij-nieuws-festival-in-de-Agnietenkapel-werd-geopend-door-loco-burgemeester-Micheil-binnik-kinderburgemeester-Tess-Huijsmans-en-initiatiefnemer-Arjan-van-der-Veer.--500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/Het-Blij-nieuws-festival-in-de-Agnietenkapel-werd-geopend-door-loco-burgemeester-Micheil-binnik-kinderburgemeester-Tess-Huijsmans-en-initiatiefnemer-Arjan-van-der-Veer.-.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/Het-Blij-nieuws-festival-in-de-Agnietenkapel-werd-geopend-door-loco-burgemeester-Micheil-binnik-kinderburgemeester-Tess-Huijsmans-en-initiatiefnemer-Arjan-van-der-Veer.--190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">24-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32362-2/"></a></h2>
+                            <p>Het Blij-nieuws festival in de Agnietenkapel werd geopend door loco-burgemeester Michiel Bunnik, kinderburgemeester Tess Huijsmans en initiatiefnemer&#8230;</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32322-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/karnemelksloot-brug-500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/karnemelksloot-brug.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/karnemelksloot-brug-190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">21-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32322-2/"></a></h2>
+                            <p>Ook de brug aan de Karnemelksloot in Gouda heeft zo nu en dan een wasbeurt nodig.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32319-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/beyer-salet-museumgouda-500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/beyer-salet-museumgouda.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/beyer-salet-museumgouda-190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">21-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32319-2/"></a></h2>
+                            <p>Donderdag 21 maart onthulde burgemeester Mirjam Salet een zeer zeldzaam 16e-eeuws kunstwerk in Museum Gouda.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32301-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/Stemmen-voor-de-Provinciale-Staten-en-het-Waterschap-in-de-Agnietenkapel-in-Gouda.--500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/Stemmen-voor-de-Provinciale-Staten-en-het-Waterschap-in-de-Agnietenkapel-in-Gouda.-.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/Stemmen-voor-de-Provinciale-Staten-en-het-Waterschap-in-de-Agnietenkapel-in-Gouda.--190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">20-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32301-2/"></a></h2>
+                            <p>Stemmen voor de Provinciale Staten en het Waterschap in de Agnietenkapel in Gouda.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32250-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/De-nieuwe-tweede-zaak-van-Davids-Gelato-aan-de-markt-draait-op-volle-toeren-500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/De-nieuwe-tweede-zaak-van-Davids-Gelato-aan-de-markt-draait-op-volle-toeren.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/De-nieuwe-tweede-zaak-van-Davids-Gelato-aan-de-markt-draait-op-volle-toeren-190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">17-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32250-2/"></a></h2>
+                            <p>De nieuwe tweede zaak van David&#8217;s Gelato aan de Markt draait op volle toeren.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                            <li>
+                    <article>
+                        <a href="https://degouda.nl/32247-2/"><img width="500" height="300" src="https://degouda.nl/wp-content/uploads/2019/03/Modelbouwvereniging-ML-scalemodelling-hield-zondag-open-dag-in-gebouw-de-Clown.--500x300.jpg" class="attachment-flexslider-image-size size-flexslider-image-size wp-post-image" alt="" srcset="https://degouda.nl/wp-content/uploads/2019/03/Modelbouwvereniging-ML-scalemodelling-hield-zondag-open-dag-in-gebouw-de-Clown.-.jpg 500w, https://degouda.nl/wp-content/uploads/2019/03/Modelbouwvereniging-ML-scalemodelling-hield-zondag-open-dag-in-gebouw-de-Clown.--190x114.jpg 190w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                        <div class="flex-caption">
+                            <header>
+                                <span class="entry-categories">in: <a href="https://degouda.nl/category/headline/" rel="category tag">headline</a></span>
+                                <span class="entry-met">&nbsp;|&nbsp;</span>
+                                <span class="entry-date">17-03-2019</span>
+                            </header>
+                            <h2><a href="https://degouda.nl/32247-2/"></a></h2>
+                            <p>Modelbouwvereniging ML scalemodelling hield zondag open dag in gebouw de Clown.</p>
+                        </div>
+                        <!-- flex-caption -->
+                    </article>
+                </li>
+                        </ul>
+            <!-- slides -->
+        </div>
+        </div><div id="custom_html-9" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- KVG_responsief -->
+<ins class="adsbygoogle"
+     style="display:block;"
+     data-ad-client="ca-pub-6130653734515764"
+     data-ad-slot="3654103132"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div></div><div id="tw-recent-posts-2" class="widget tw-recent-posts"><h3 class="widget-title">Laatste Nieuws</h3>
+<div class="featured-posts textwidget">
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/gouwekerk-gouda-decor-voor-bible-art-expositie-met-dali-en-chagall/" rel="bookmark" title="Gouwekerk Gouda decor voor Bible Art-expositie met Dalí en Chagall">
+                Gouwekerk Gouda decor voor Bible Art-expositie met Dalí en Chagall            </a>
+        </h4>
+	
+			<div class="post-time">
+			27-03-2019		</div>
+	
+			<a href="https://degouda.nl/gouwekerk-gouda-decor-voor-bible-art-expositie-met-dali-en-chagall/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/biblie-art-DALI-gouwekerk-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+Gouda &#8211; Op donderdag 18 april opent in de Gouwekerk te Gouda de unieke expositie Bible Art: Van Dalí tot Chagall. Het gaat om een exclusieve samenstelling van ruim 250 litho’s, gravures, tekeningen en artefacts van onder andere Salvador Dalí en Marc Chagall. De expositie is een... <a href="https://degouda.nl/gouwekerk-gouda-decor-voor-bible-art-expositie-met-dali-en-chagall/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/sportpenning-voor-jiu-jitsuka-boy-vogelzang/" rel="bookmark" title="Sportpenning voor Jiu Jitsuka Boy Vogelzang">
+                Sportpenning voor Jiu Jitsuka Boy Vogelzang            </a>
+        </h4>
+	
+			<div class="post-time">
+			27-03-2019		</div>
+	
+			<a href="https://degouda.nl/sportpenning-voor-jiu-jitsuka-boy-vogelzang/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/boy-vogelzang-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+Gouda &#8211; Gouwenaar Boy Vogelzang kreeg vandaag uit handen van sportwethouder Michiel Bunnik de Goudse sportpenning overhandigd. Hij ontvangt deze voor een reeks van behaalde medailles voor senioren gedurende 2015, 2016 en 2017. De meest aansprekende prestatie is het winnen van de World Games... <a href="https://degouda.nl/sportpenning-voor-jiu-jitsuka-boy-vogelzang/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/degouda-verloot-kaarten-voor-exclusive-spring-fair/" rel="bookmark" title="deGouda verloot kaarten voor Exclusive Spring Fair">
+                deGouda verloot kaarten voor Exclusive Spring Fair            </a>
+        </h4>
+	
+			<div class="post-time">
+			27-03-2019		</div>
+	
+			<a href="https://degouda.nl/degouda-verloot-kaarten-voor-exclusive-spring-fair/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/beurs-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+BAARN – Kasteel Groeneveld is tijdens het Paasweekend dé plek voor een combinatie van luxe funshoppen, foodtrucks en entertainment. De hoogwaardige “binnen – buitenbeurs” Exclusive Spring Fair is dé unieke Woon- &amp; lifestylebeurs, waarbij het volledige kasteel is omgetoverd tot een... <a href="https://degouda.nl/degouda-verloot-kaarten-voor-exclusive-spring-fair/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/toch-een-hotel-bij-station-in-gouda/" rel="bookmark" title="&#8216;Toch een hotel bij station in Gouda&#8217;">
+                &#8216;Toch een hotel bij station in Gouda&#8217;            </a>
+        </h4>
+	
+			<div class="post-time">
+			27-03-2019		</div>
+	
+			<a href="https://degouda.nl/toch-een-hotel-bij-station-in-gouda/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/SAM_8458-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+Gouda &#8211; De gemeente Gouda heeft gisteravond gemeld dat er zeer waarschijnlijk een hotel komt bij het station. Hier zal op korte termijn een plan worden gepresenteerd.
+
+
+
+
+
+
+Volgens de plannen zou dit tussen het Huis van de Stad en de bioscoop Cinema Gouda plaats vinden. Dat zou betekenen... <a href="https://degouda.nl/toch-een-hotel-bij-station-in-gouda/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/provinciale-staten-nemen-afscheid-van-36-leden/" rel="bookmark" title="Provinciale Staten nemen afscheid van 36 leden">
+                Provinciale Staten nemen afscheid van 36 leden            </a>
+        </h4>
+	
+			<div class="post-time">
+			26-03-2019		</div>
+	
+			<a href="https://degouda.nl/provinciale-staten-nemen-afscheid-van-36-leden/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/provincie-zuid-holland-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+Op 27 maart vindt de laatste Statenvergadering uit de Statenperiode 2015-2019 plaats. Tijdens de vergadering wordt afscheid genomen van 36 van de 55 Statenleden die niet terugkeren in Provinciale Staten.
+
+
+
+
+
+De vertrekkende Statenleden Robert Klumpes (GroenLinks), Peter van den Berg (SGP en CU),... <a href="https://degouda.nl/provinciale-staten-nemen-afscheid-van-36-leden/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/odmh-houdt-toezicht-met-een-drone/" rel="bookmark" title="ODMH houdt toezicht met een drone">
+                ODMH houdt toezicht met een drone            </a>
+        </h4>
+	
+			<div class="post-time">
+			26-03-2019		</div>
+	
+			<a href="https://degouda.nl/odmh-houdt-toezicht-met-een-drone/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/drone-gouda-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+De Omgevingsdienst Midden-Holland gaat met zijn tijd mee en gaat een drone inzetten voor het toezicht. Op dit moment vliegt de ODMH vier keer per jaar met een vliegtuig over de regio. Hierbij wordt gekeken of er situaties zijn die niet voldoen aan de milieu- of bouwregelgeving. Vanaf april wordt... <a href="https://degouda.nl/odmh-houdt-toezicht-met-een-drone/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+	<div class="featured-post">
+
+			<h4>
+            <a href="https://degouda.nl/help-ehbo-gouda-aan-een-onderkomen/" rel="bookmark" title="Help EHBO Gouda aan een onderkomen">
+                Help EHBO Gouda aan een onderkomen            </a>
+        </h4>
+	
+			<div class="post-time">
+			26-03-2019		</div>
+	
+			<a href="https://degouda.nl/help-ehbo-gouda-aan-een-onderkomen/">
+            <img width="190" height="148" src="https://degouda.nl/wp-content/uploads/2019/03/ehbo-gouda-190x148.jpg" class="alignleft wp-post-image" alt="" title="" />        </a>
+	
+			<div class="excerpt">
+            
+EHBO vereniging in Gouda heeft de wens om een eigen gebouw te kopen wat ze nu al enkele jaren huren. Hierdoor is er een crowdfunding in het leven geroepen.
+
+
+
+
+
+De EHBO vereniging Gouda is een vrijwilligers organisatie die op verschillende evenementen in Gouda de hulpverlening doet. Om dit goed... <a href="https://degouda.nl/help-ehbo-gouda-aan-een-onderkomen/" class="read-more">Lees verder»</a>		</div>
+	
+		<div class="clear"></div>
+	</div>
+</div>
+</div><div id="kopa_widget_text-27" class="widget kopa_widget_text">        <h2><strong><a href="https://degouda.nl/category/archief-2018//">Meer nieuws &gt;
+</a></strong><br></br>
+
+
+<!-- BEGIN JS TAG - dekrantvangouda.nl_0089_203_APP_468x60 < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=7166091&cb=[CACHEBUSTER]&referrer=dekrantvangouda.nl&postcode=280&pubclick=[INSERT_CLICK_TAG]" TYPE="text/javascript"></SCRIPT>
+<!-- END TAG -->
+        </div>
+    </div>
+    <!-- col-a -->
+
+    <div class="col-b">
+                <!-- widget-area-2 -->
+        <div class="widget-area-3">
+            
+            <div id="kopa_widget_text-32" class="widget kopa_widget_text"><h3 class="widget-title">GoudaFM Live</h3>        <iframe width="325" height="215" src="//ok.ru/videoembed/853127011941" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+        </div><div id="custom_html-10" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://kiesjefolders.nl/?b=2" target="_blank">
+	<img src="http://degouda.nl/wp-content/uploads/2018/06/bezorging.gif" width="100%" /></a><br><br>
+
+
+
+<a href="http://degouda.nl/lees-degouda-digitaal" target="_blank">
+<img src="http://degouda.nl/wp-content/uploads/2018/08/nieuwsbrief.jpg" width="100%" /></a>
+
+
+
+
+
+
+
+
+
+</div></div><div id="custom-recent-posts-7" class="widget widget_recent_entries"><h3 class="widget-title">Vacatures</h3><ul>
+			<li class="crpw-item">
+
+				<a  href="https://degouda.nl/administratief-medewerker-4-6-uur/" rel="bookmark" title="Permanent link to Administratief medewerker (4 &#8211; 6 uur)" class="crpw-title">Administratief medewerker (4 &#8211; 6 uur)</a>
+						
+			</li>
+					<li class="crpw-item">
+
+				<a  href="https://degouda.nl/freelance-artikel-schrijvers/" rel="bookmark" title="Permanent link to Freelance Artikel schrijvers" class="crpw-title">Freelance Artikel schrijvers</a>
+						
+			</li>
+					<li class="crpw-item">
+
+				<a  href="https://degouda.nl/administratief-medewerker-service-full-time/" rel="bookmark" title="Permanent link to Administratief medewerker Service (full time)" class="crpw-title">Administratief medewerker Service (full time)</a>
+						
+			</li>
+					<li class="crpw-item">
+
+				<a  href="https://degouda.nl/verkoper-verkoopster-16-uur/" rel="bookmark" title="Permanent link to Verkoper/verkoopster &#8211; 16 uur" class="crpw-title">Verkoper/verkoopster &#8211; 16 uur</a>
+						
+			</li>
+					<li class="crpw-item">
+
+				<a  href="https://degouda.nl/sales-medewerker-24-32-uur-per-week/" rel="bookmark" title="Permanent link to Sales medewerker (24-32 uur per week)" class="crpw-title">Sales medewerker (24-32 uur per week)</a>
+						
+			</li>
+					<li class="crpw-item">
+
+				<a  href="https://degouda.nl/service-engineer-2/" rel="bookmark" title="Permanent link to Service Engineer" class="crpw-title">Service Engineer</a>
+						
+			</li>
+					<li class="crpw-item">
+
+				<a  href="https://degouda.nl/installatie-servicemonteur/" rel="bookmark" title="Permanent link to Installatie / servicemonteur" class="crpw-title">Installatie / servicemonteur</a>
+						
+			</li>
+		</ul>
+</div><div id="kopa_widget_advertising-11" class="widget kp-adv-widget">
+                            <a href="http://degouda.nl/category/papieren-tijgers/"><img src="http://degouda.nl/wp-content/uploads/2018/05/weeber-papieren-tijgers.jpg" alt=""></a>
+            
+            
+        </div><div id="text-34" class="widget widget_text">			<div class="textwidget"><p><iframe style="border: none; overflow: hidden; width:100%; height: 220px;" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fdegouda&#038;width=300&#038;height=220&#038;colorscheme=light&#038;show_faces=true&#038;header=false&#038;stream=false&#038;show_border=false&#038;appId=150818234997570" frameborder="0" scrolling="no"></iframe></p>
+</div>
+		</div>
+        </div>
+        <!-- widget-area-3 -->
+        <div class="widget-area-4">
+            
+            <div id="kopa_widget_text-41" class="widget kopa_widget_text"><h3 class="widget-title">Huidige editie</h3>        <div data-configid="25092021/68604086" style="width:180px; height:214px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>        </div><div id="kopa_widget_advertising-12" class="widget kp-adv-widget"><h3 class="widget-title">GoudaFM</h3>
+                            <a href="https://www.periscope.tv/GoudaFM/1mrGmnyXLzLJy"><img src="http://degouda.nl/wp-content/uploads/2018/10/KIJK-LIVE.jpg" alt=""></a>
+            
+            
+        </div><div id="custom_html-11" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></div><div id="kopa_widget_text-14" class="widget kopa_widget_text">        <A HREF="http://degouda.nl/category/columns/"><IMG SRC="https://degouda.nl/wp-content/uploads/2019/02/column-2019-new.jpg"</A><br><br>
+
+        </div>
+        </div>
+        <!-- widget-area-4 -->
+        <div class="clear"></div>
+    </div>
+    <!-- col-b -->
+    <div class="clear"></div>
+</div>
+<!-- wrapper -->
+
+
+
+
+    <div id="bottom-sidebar">
+        <div class="wrapper">
+            <div class="t-bottom-sidebar clearfix">
+                
+                
+                            </div>
+            <!-- t-bottom-sidebar -->
+            <div class="b-bottom-sidebar clearfix">
+                <div class="bottom-left-col">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3 col-xs-6 widget-area-12">
+                            <div id="kopa_widget_text-4" class="widget kopa_widget_text">        Print Media Nederland <br></br>
+<b>Uitgever van:</b>
+<br><br>
+<a href="http://www.degouda.nl">Weekblad deGouda</a><br>
+<a href="http://www.goudafm.nl" target="_blank">GoudaFM</a><br>
+<a href="http://www.goudatv.nl" target="_blank">GoudaTV</a><br>
+<br>
+
+<a href="https://itunes.apple.com/nl/app/degouda/id1353450123?platform=ipad&preserveScrollPosition=true#platform/ipad" target="_blank">
+<img src="http://degouda.nl/wp-content/uploads/2018/04/ios-app.png" width="142px" /></a><br></br>
+
+<a href="https://play.google.com/store/apps/details?id=com.epublisherworld.degouda" target="_blank">
+<img src="http://degouda.nl/wp-content/uploads/2018/04/android-app.png" width="142px" /></a>        </div>                        </div>
+                        <!-- widget-area-12 -->
+                        <div class="col-md-3 col-sm-3 col-xs-6 widget-area-13">
+                                                    </div>
+                        <!-- widget-area-6 -->
+                        <div class="col-md-3 col-sm-3 col-xs-6 widget-area-14">
+                            <div id="kopa_widget_text-6" class="widget kopa_widget_text"><h3 class="widget-title">Service</h3>        <a href="http://www.degoudastore.nl">Adverteren</a><br>
+<a href="http://www.degouda.nl/service/bezorging/">Bezorging</a><br>
+<a href="http://www.degouda.nl/service/colofon/">Colofon</a><br>
+<a href="http://www.degouda.nl/contact/">Contact</a><br>
+<br>
+<a href="http://www.degouda.nl/nieuws/vorige-edities/">Vorige edities</a><br>
+<a href="http://www.degouda.nl/category/archief-2016/">Archief 2016</a><br>        </div><div id="kopa_widget_text-5" class="widget kopa_widget_text"><h3 class="widget-title">Extra</h3>        <a href="http://www.degouda.nl/sport/">Sport</a><br>
+<a href="http://www.degouda.nl/gallerij/">Foto Galerij</a><br>
+
+        </div>                        </div>
+                        <!-- widget-area-7 -->
+                        <div class="col-md-3 col-sm-3 col-xs-6 widget-area-15">
+                            <div id="kopa_widget_text-7" class="widget kopa_widget_text"><h3 class="widget-title">Volg ons op</h3>        <a href="https://www.facebook.com/degouda" target="_blank"><img src="http://dekrantvangouda.nl/wp-content/uploads/2014/07/facebook.png" height="45"></a> <a href="https://twitter.com/degouda" target="_blank"><img src="http://dekrantvangouda.nl/wp-content/uploads/2014/07/twitter.png" height="45"></a> <a href="https://www.instagram.com/degouda/" target="_blank"><img src="http://degouda.nl/wp-content/uploads/2017/03/instagram.png" height="45"></a>
+<br><br>
+<a href="https://www.youtube.com/goudatv" target="_blank"><img src="http://dekrantvangouda.nl/wp-content/uploads/2014/07/you_tube.png" height="45"></a><a href="http://www.degouda.nl/category/archief-2018/feed/" target="_blank"><img src="http://www.degouda.nl/wp-content/uploads/2014/07/rss.png" height="45"></a>
+        </div>                        </div>
+                        <!-- widget-area-8 -->
+                    </div>
+                    <!-- row -->
+                </div>
+                <!-- bottom-left-col -->
+                <div class="bottom-right-col widget-area-16">
+                    <div id="kopa_widget_text-8" class="widget kopa_widget_text"><h3 class="widget-title">Contact</h3>        Karnemelksloot 31<br>
+2806 BA Gouda<br><br>
+T   0182 - 322 456<br>
+F   0182 - 322 466<br><br>
+E   <a href="mailto:info@degouda.nl">info(@)degouda.nl</a><br><br>
+        </div>                </div>
+                <!-- bottom-right-col -->
+            </div>
+            <!-- b-bottom-sidebar -->
+        </div>
+        <!-- wrapper -->
+    </div>
+    <!-- bottom-sidebar -->
+</div>
+<!-- main-content -->
+
+<footer id="kp-page-footer">
+    <div class="wrapper text-center" id="copyright"><p>Copyright © 2019 . All Rights Reserved. <a href="http://www.printmedianederland.nl" target="_blank">Print Media Nederland</a>.</p><div class='code-block code-block-2 ai-viewport-1' style='margin: 8px auto 8px 0; text-align: left; display: block; clear: both;'>
+<div class="g g-2"><div class="g-single a-47"><a class="gofollow" data-track="NDcsMiwxLDYw" href="https://www.primera.nl/winkels/primera-gouda-gildenburgh"><img src="https://degouda.nl/wp-content/uploads/2019/03/Primera-long-pasfotos.gif" /></a></div></div></div>
+
+</div>
+</footer>
+<!-- kp-page-footer -->
+
+<div class="scroll-back-to-top-wrapper">
+	<span class="scroll-back-to-top-inner">
+					<i class="fa fa-2x fa-arrow-circle-up"></i>
+			</span>
+</div><input type="hidden" id="kopa_set_view_count_wpnonce" name="kopa_set_view_count_wpnonce" value="e7d8f2b505" /><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43494152-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel='stylesheet' id='animated-css'  href='https://degouda.nl/wp-content/plugins/like-box-pro/includes/style/effects.css?ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='front_end_like_box-css'  href='https://degouda.nl/wp-content/plugins/like-box-pro/includes/style/style.css?ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://degouda.nl/wp-includes/css/dashicons.min.css?ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://degouda.nl/wp-includes/js/thickbox/thickbox.css?ver=a20d960f0340b673f445b0ee075747a8' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/degouda.nl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/degouda.nl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=a20d960f0340b673f445b0ee075747a8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var scrollBackToTop = {"scrollDuration":"500","fadeDuration":"0.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WCShortcodes = {"ajaxurl":"https:\/\/degouda.nl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/plugins/wc-shortcodes/public/assets/js/rsvp.js?ver=3.45'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/superfish.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/retina.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/jquery.carouFredSel-6.2.1-packed.js?ver=6.2.1'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/modernizr-transitions.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/imagesloaded.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/masonry.pkgd.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/jquery.validate.min.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/jquery.form.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/set-view-count.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kopa_custom_front_localization = {"validate":{"form":{"submit":"Verzenden","sending":"Aan het verzenden"},"name":{"required":"Vul uw naam in.","minlength":"At least {0} characters required."},"email":{"required":"Vul uw emailadres in.","email":"Vult u alstublieft een geldig emailadres in."},"url":{"required":"Vul uw websiteurl in.","url":"Vult u alstublieft een geldige websiteurl in."},"message":{"required":"Vul uw reactie in.","minlength":"At least {0} characters required."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/themes/fastnews/js/custom.js'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/comment-reply.min.js?ver=a20d960f0340b673f445b0ee075747a8'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/wp-embed.min.js?ver=a20d960f0340b673f445b0ee075747a8'></script>
+<script type='text/javascript' src='https://degouda.nl/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js?ver=a20d960f0340b673f445b0ee075747a8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Volgende >","prev":"< Vorige","image":"Afbeelding","of":"van","close":"Sluiten","noiframes":"Deze functie vereist inline-frames. Je hebt inline-frames uitgeschakeld of de browser ondersteunt ze niet.","loadingAnimation":"https:\/\/degouda.nl\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://degouda.nl/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+ 
+<!-- Start of code for Qeryz Survey Wordpress Plugin  -->
+    <script type="text/javascript">  
+    var qRz = qRz || [];                         
+    (function() {                
+        setTimeout(function(){                                         
+            var qryz_plks = document.createElement("div");
+            qryz_plks.id = "qryz_plks";
+            qryz_plks.className = "qryz_plks";
+            document.body.appendChild(qryz_plks);
+            qryzInit2(3803);
+        },0);
+    })();
+    </script><!--End of Qeryz Survey Script--></body>
+
+</html>

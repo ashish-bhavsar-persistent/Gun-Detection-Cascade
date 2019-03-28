@@ -1,0 +1,2073 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <!-- nid: "a41" -->
+    <!-- pageid: "695347", pageversionid: "2730135" -->
+<head><script>window['adrum-start-time'] = new Date().getTime();window['adrum-app-key'] = "EUM-AAB-AUN";</script><script src='/appd-static/4.2.1.8/adrum.js'></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="user-scalable=1, width=device-width, initial-scale=1.0">
+                <meta name="description" content="KPN.com, voor service en online bestellen van 4G-abonnementen, vast bellen, Interactieve TV, internet en KPN Compleet. Voel je vrij!" />
+        	<link rel="canonical" href="https://www.kpn.com" />
+    <meta name="keywords" content="telecommunicatie,tv,internet,bellen,ict,service,aansluiten,kpn,interactieve tv,mobiel bellen,mobiel abonnement" />
+    <meta name="page-market" content="cm" />
+    <meta name="content-type" content="home" />
+    <title>Internet, televisie, vast bellen en mobiel met 4G netwerk | KPN</title>
+    <!-- Bootstrap -->
+    <link href="/public/css/screen.css" rel="stylesheet">
+    <!-- Not including google tags -->
+      
+         <script src="https://cdn.optimizely.com/js/1629614474.js"></script>
+      
+       <script src="https://cdn.blueconic.net/kpn.js"></script>
+      
+          <script src="https://assets.adobedtm.com/9c39b9aa8a00f7c4bc0d485e1da145a71879e347/satelliteLib-70479c0fd48d12c904ac8537f56f61e796abb1dc.js"></script>
+      
+    <!-- Start FreeStyle -->
+    <!--  FreeStyle -->
+    <!-- End FreeStyle -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/public/images/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/public/images/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/public/images/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/public/images/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/public/images/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/public/images/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/public/images/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/public/images/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/public/images/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/public/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/public/images/favicon/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/public/images/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/public/images/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/public/images/favicon/manifest.json">
+    <link rel="mask-icon" href="/public/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="KPN.com">
+    <meta name="application-name" content="KPN.com">
+    <meta name="msapplication-TileColor" content="#0077CC">
+    <meta name="msapplication-TileImage" content="/public/images/favicon/mstile-144x144.png">
+    <meta name="msapplication-config" content="/public/images/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#0077CC">
+                    <meta name="apple-itunes-app" content="app-id=521093471">
+                    <meta name="google-play-app" content="app-id=nl.kpn.mijn">
+   <script src="/public/scripts/js/main-optimized.min.js" data-main="/public/scripts/js/main" ></script>
+</head>
+    <body>
+        <header>
+    <!--googleoff: all-->
+        <div class="skip-menu">
+            <a class="skip-link" href="#main-content">Spring naar de inhoud</a>
+            <a class="skip-link" href="#search-input">Ga naar het invoerveld voor zoeken</a>
+        </div>
+	<nav>
+		<div class="container-fluid">
+            <div class="row">
+                <div class="mob-nav-left col-xs-4 visible-xs visible-sm">
+                    <button class="btn btn-navigation" data-target="#sidebar-nav">
+                        <span class="icon-bars">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </span>
+                        <span class="menu-txt">Menu</span>
+                    </button>
+                </div>
+				<div class="logo col-xs-4">
+	<a href="//www.kpn.com" title="Internet, televisie, vast bellen en mobiel met 4G netwerk | KPN">
+	            <img src="//www.kpn.com/public/images/logos/logo-kpn-groot.png" alt="KPN Logo" />
+	</a>
+</div>
+							<!-- Set up the homepages  -->
+<div class="market-select visible-md visible-lg">
+    <ul>
+     <li>
+         <a class="active" href="/prive.htm" title="Bezoek KPN voor consumenten klanten">Priv&eacute;</a>
+     </li>
+     <li>
+         <a class="" href="/zakelijk.htm" title="Bezoek KPN voor zakelijke klanten">Zakelijk</a>
+     </li>
+    </ul>
+</div>
+                <div class="mob-nav-right col-xs-4 visible-xs visible-sm text-right">
+                                        <a class="btn btn-navigation" href="https://account.kpn.com/#/" title="MijnKPN">
+			    <span class="kpn-ui-icon ui-account"></span>
+			    <span class="sr-only">MijnKPN</span>
+			</a>
+                    <button class="btn btn-navigation toggle-search">
+                        <span class="kpn-ui-icon ui-search"></span>
+                    </button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="visible-md visible-lg main-menu">
+						<ul class="megamenu nav-lvl-1 list-inline">
+	          	<li>
+	          		<a href="#" title="Informatie &amp; Bestellen">Informatie &amp; Bestellen</a>
+	    		<div class="nav-lvl-2 nav-image">
+	    			<div class="container-fluid">
+						<ul class="row sub-menu-wrapper">
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/mobiel-shop.htm" title="Koop je nieuwe mobiele telefoon veilig en snel bij KPN">Mobiel</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="https://mobielshop.kpn.com/mobiel/verlengen-abonnement" title="Verlengen">Verlengen</a>
+	          			</li>
+						<li>
+	             			<a href="https://mobielshop.kpn.com/mobiel/smartphones" title="Telefoons">Telefoons</a>
+	          			</li>
+						<li>
+	             			<a href="/mobiel-abonnement/sim-only.htm" title="Sim Only abonnementen">Sim Only</a>
+	          			</li>
+						<li>
+	             			<a href="/mobiel-abonnement.htm" title="Mobiele abonnementen vergelijken bij KPN">Mobiel abonnement</a>
+	          			</li>
+						<li>
+	             			<a href="/prepaid.htm" title="Zelf bepalen hoeveel je uitgeeft: Prepaid van KPN">Prepaid</a>
+	          			</li>
+						<li>
+	             			<a href="/netwerk/4g.htm" title="Supersnel en stabiel 4G van KPN">4G Netwerk</a>
+	          			</li>
+						<li>
+	             			<a href="/mobiel-abonnement/bundels.htm" title="Overige opties">Overige opties</a>
+	          			</li>
+	    		</ul>
+	      				</li>
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="https://www.kpn.com/internet-tv/" title="Interactieve TV, Internet en Bellen voor thuis">Thuis</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="https://www.kpn.com/internet-tv/" title="Internet en TV pakket">Internet en TV pakket</a>
+	          			</li>
+						<li>
+	             			<a href="/televisie.htm" title="Digitaal tv-kijken zoals jij het wilt, thuis en onderweg">Televisie</a>
+	          			</li>
+						<li>
+	             			<a href="/internet/glasvezel.htm" title="Glasvezel">Glasvezel</a>
+	          			</li>
+						<li>
+	             			<a href="/internet.htm" title="Wat is KPN Internet?">Internet</a>
+	          			</li>
+						<li>
+	             			<a href="/bellen.htm" title="Bellen via de vaste lijn van KPN">Bellen</a>
+	          			</li>
+						<li>
+	             			<a href="/smartlife.htm" title="Vanuit 1 app je huis bedienen">KPN SmartLife</a>
+	          			</li>
+	    		</ul>
+	      				</li>
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/compleet.htm" title="KPN Compleet">KPN Compleet</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="/compleet/aanmelden.htm" title="Aanmelden voor KPN Compleet">Aanmelden KPN Compleet</a>
+	          			</li>
+						<li>
+	             			<a href="/compleet.htm" title="Ontdek de voordelen van KPN Compleet">Voordelen van KPN Compleet</a>
+	          			</li>
+						<li>
+	             			<a href="/compleet/service.htm" title="Service KPN Compleet">Service</a>
+	          			</li>
+	    		</ul>
+	      				</li>
+				   <li class="col-md-4 list-unstyled pull-right">
+					   <div class="menu-image pull-right">
+					   		<div class="blockWrapperContent">                <a href="https://mobielshop.kpn.com/mobiel/samsung/galaxy-s10/prism-black-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=megamenu-samsung-s10" >
+        <img src="https://www.kpn.com/upload_mm/8/d/d/2675557_1551945341069_190306-Megamenu-Samsung-S10.png" class="img-responsive"  alt="Samsung Galaxy S10" />
+    </a></div>
+				 	   </div>
+					</li>
+						</ul>
+					</div>
+				</div>
+	          	</li>
+	          	<li>
+	          		<a href="/service.htm" title="Klantenservice | Regel het direct!">Service &amp; Contact</a>
+	    		<div class="nav-lvl-2 nav-image">
+	    			<div class="container-fluid">
+						<ul class="row sub-menu-wrapper">
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/service/mobiel.htm" title="Veel gezocht door mobiele klanten">Mobiel</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="/service/mobiel/instellen.htm" title="Mobiel toestel instellen">Toestel instellen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/mobiel/sim-kaart.htm" title="SIM-kaart en PUK-code">SIM-kaart en PUK-code</a>
+	          			</li>
+						<li>
+	             			<a href="/service/mobiel/prepaid-opwaarderen.htm" title="Prepaid opwaarderen">Prepaid opwaarderen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/mobiel/schade-diefstal.htm" title="Schade, verlies of diefstal">Schade, verlies of diefstal</a>
+	          			</li>
+						<li>
+	             			<a href="/service/mobiel/problemen.htm" title="Problemen &amp; Storingen Mobiel">Problemen met mobiel</a>
+	          			</li>
+	   	    		<li>
+		       			<a href="/service/mobiel.htm" class="secondary-link" title="Veel gezocht door mobiele klanten">Toon Alles</a>
+		       		</li>
+	    		</ul>
+	      				</li>
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/service/internet.htm" title="Veel gezocht door internet klanten">Internet</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="/service/internet/wifi-en-modems.htm" title="WiFi en modems installeren">WiFi en modems installeren</a>
+	          			</li>
+						<li>
+	             			<a href="https://www.kpn.com/internet/wifi/tuner.htm#/flow" title="Internetsnelheid testen &amp; verbeteren">Wifi snelheid verbeteren</a>
+	          			</li>
+						<li>
+	             			<a href="/service/internet/veilig-internetten.htm" title="Veilig Internetten">Veilig internetten</a>
+	          			</li>
+						<li>
+	             			<a href="/service/internet/e-mail.htm" title="Alles over e-mail">E-mail</a>
+	          			</li>
+						<li>
+	             			<a href="/service/internet/problemen.htm" title="Problemen &amp; Storingen met Internet &amp; wifi">Problemen met internet &amp; wifi</a>
+	          			</li>
+	   	    		<li>
+		       			<a href="/service/internet.htm" class="secondary-link" title="Veel gezocht door internet klanten">Toon Alles</a>
+		       		</li>
+	    		</ul>
+	      				</li>
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/service/televisie.htm" title="Veel gezocht door televisie klanten">Televisie</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="/service/televisie/installeren.htm" title="TV installeren">TV installeren</a>
+	          			</li>
+						<li>
+	             			<a href="/service/televisie/zenders.htm" title="Zenderpakketten aan- of uitzetten">Zenderpakketten aanzetten</a>
+	          			</li>
+						<li>
+	             			<a href="/service/televisie/pincode-itv.htm" title="Interactieve TV pincode &amp; abonnementsnummer">Pincode Interactieve TV</a>
+	          			</li>
+						<li>
+	             			<a href="/televisie/online-tv-kijken.htm" title="Kijk eenvoudig online tv op al je apparaten ">Online TV kijken</a>
+	          			</li>
+						<li>
+	             			<a href="/service/televisie/problemen.htm" title="Problemen &amp; Storingen TV">Problemen met TV</a>
+	          			</li>
+						<li>
+	             			<a href="/service/televisie/digitenne.htm" title="Digitenne aansluiten en problemen oplossen">Digitenne</a>
+	          			</li>
+	   	    		<li>
+		       			<a href="/service/televisie.htm" class="secondary-link" title="Veel gezocht door televisie klanten">Toon Alles</a>
+		       		</li>
+	    		</ul>
+	      				</li>
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/service/bellen.htm" title="Veel gezocht door Vast bellen klanten">Vast bellen</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="/service/bellen/telefoon-aansluiten.htm" title="Vaste telefoon aansluiten (VoiP &amp; PSTN/ISDN)">Telefoon aansluiten</a>
+	          			</li>
+						<li>
+	             			<a href="/service/bellen/telefoon-doorschakelen.htm" title="Doorschakelen vaste telefoon thuis aan- of uitzetten  ">Doorschakelen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/bellen/voicemail-gebruiken.htm" title="VoiceMail aan- of uitzetten en gebruiken">VoiceMail gebruiken</a>
+	          			</li>
+						<li>
+	             			<a href="/service/bellen/nummerweergave.htm" title="NummerWeergave aan- en uitzetten op je vaste telefoon ">NummerWeergave</a>
+	          			</li>
+						<li>
+	             			<a href="/service/bellen/problemen.htm" title="Problemen &amp; Storingen met Vast Bellen">Problemen met Vast bellen</a>
+	          			</li>
+	    		</ul>
+	      				</li>
+		          		<li class="col-md-2 list-unstyled">
+		          			<a href="/service/administratie.htm" title="Veel gezocht door onze klanten">Administratie</a>
+	    		<ul class="list-unstyled nav-lvl-3">
+						<li>
+	             			<a href="/service/administratie/facturen.htm" title="Factuur &amp; Betalen">Factuur &amp; betalen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/administratie/verhuizen.htm" title="Je KPN producten verhuizen mee">Verhuizen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/administratie/bestelling.htm" title="Bekijk de status van je bestelling">Bestelstatus</a>
+	          			</li>
+						<li>
+	             			<a href="/service/administratie/overstappen.htm" title="Eenvoudig overstappen naar KPN  ">Overstappen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/administratie/wijzigen.htm" title="Gegevens wijzigen">Gegevens wijzigen</a>
+	          			</li>
+						<li>
+	             			<a href="/service/administratie/overlijden.htm" title="Wat te doen bij overlijden">Wat te doen bij overlijden</a>
+	          			</li>
+	   	    		<li>
+		       			<a href="/service/administratie.htm" class="secondary-link" title="Veel gezocht door onze klanten">Toon Alles</a>
+		       		</li>
+	    		</ul>
+	      				</li>
+						</ul>
+			       			<ul class="col-md-10">
+	                			<div class="horizontal-link">
+	                    			Direct naar <a href="/service.htm" class="secondary-link">klantenservice</a>
+	                			</div>
+	            			</ul>
+					</div>
+				</div>
+	          	</li>
+	          	<li>
+	          		<a href="/beleef.htm" title="Beleef KPN">Beleef KPN</a>
+	          	</li>
+	</ul>
+                </div>
+                                    <div class="special-page-link visible-md visible-lg">
+			<a class="btn btn-navigation" href="https://account.kpn.com/#/" title="MijnKPN">
+			    <span class="kpn-ui-icon ui-account"></span>
+			    <span class="title-content">MijnKPN</span>
+			</a>
+		</div>
+                                    <div class="special-page-link visible-md visible-lg">
+			<a class="btn btn-navigation" href="https://webmail.kpnmail.nl/mail/logon.asp" title="Webmail">
+			    <span class="kpn-ui-icon ui-envelop"></span>
+			    <span class="sr-only">Webmail</span>
+			</a>
+		</div>
+	            <div class="searchbox-spacer"></div>
+<div class="searchbox">
+    <form class="navbar-form" role="search"
+          id="header-search-form"
+          action="/search.htm" method="get">
+		<div class="input-group">
+			<label for="search-input" class="sr-only">Zoeken naar</label>
+			<input class="search-query form-control no-mouseflow" type="search" name="q" id="search-input" autocomplete="off" placeholder="Zoeken..." />
+			<span class="input-group-btn" id="search-button-group">
+				<button type="submit" class="btn" id="search-button">
+					<span class="kpn-ui-icon ui-search"></span>
+					<span class="sr-only">Zoeken</span>
+				</button>
+			</span>
+		</div>
+		<ul class="suggest-list" role="menu" style="display: none;"></ul>
+	</form>
+</div>
+            </div>
+        </div>
+    </nav>
+    <div style="display: none;">
+        <a rel="nofollow" href="/kpnehpsp/index.htm"></a>
+    </div>
+    
+    <!--googleon: all-->
+</header>
+        <div id="content-wrap" class="">
+            <section class="top_editable_area" data-editorial-label="TOP BANNER"><section class="banner  toptasks-banner ">
+    <picture>
+		<!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source media="(min-width: 1280px)" srcset="/upload_mm/9/d/a/34145_fullimage_homepage-feb-2019-2.psdhome-dt-l-1920x300px.png">
+        <source media="(min-width: 992px)" srcset="/upload_mm/8/f/e/2663451_1551692509196_homepage-feb-2019-2.psdHome-DT-M-1280x300px.png">
+        <source media="(min-width: 768px)" srcset="/upload_mm/6/e/d/2721661_1553162351902_homepage-feb-2019-2.psdHome-DT-T-991x452px.png">
+        <!--[if IE 9]></video><![endif]-->
+        <img srcset="/upload_mm/c/6/6/2666829_1551773936620_Nieuwe_home_Oma_MOB.jpg" alt="Welkom">
+    </picture>
+	<div class="banner-text-container ">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12 banner-text text-center text-white ">
+		                    <p id="2730181-timeMessage" class="heading"></p>
+		                    <p class="sub-heading">waarmee kunnen we je helpen?</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+	<script type="text/javascript">
+		var currentDateTime = new Date();
+		var textnode = document.createTextNode("");
+			if(currentDateTime.getHours() < 6){
+				textnode = document.createTextNode('Goedenacht,');
+			} else if(currentDateTime.getHours() < 12){
+				textnode = document.createTextNode('Goedemorgen,');	
+			} else if(currentDateTime.getHours() < 18){
+				textnode = document.createTextNode('Goedemiddag,');
+			} else {
+				textnode = document.createTextNode('Goedenavond,');
+			}
+		document.getElementById('2730181-timeMessage').appendChild(textnode);
+	</script></section>
+            <div id="sidebar-nav" class="hidden-md hidden-lg">
+                <!--googleoff: all-->
+<div class="sidebar-dialog">
+    <div class="sidebar-content">
+        <div class="sidebar-body">
+            <nav>
+				<div class="menu-header visible-xs-block visible-sm-block">
+					<div class="menu-item">
+						<button class="btn btn-navigation btn-sm" id="btn-back-menu">
+							<span class="kpn-ui-icon ui-chevron-left" aria-hidden="true"></span>
+						</button>
+					</div>
+					<div class="menu-item text-center">
+						<a class="logo" href="//www.kpn.com" title="Internet, televisie, vast bellen en mobiel met 4G netwerk | KPN">
+									<img alt="KPN Logo" src="//www.kpn.com/public/images/logos/logo-kpn-klein.png" />
+						</a>
+					</div>
+					<div class="menu-item text-right">
+						<button class="btn btn-navigation btn-sm" data-dismiss="modal" aria-label="Close">
+							<span class="kpn-ui-icon ui-close" aria-hidden="true"></span>
+						</button>
+					</div>
+				</div>
+		   		<ul class="nav-lvl-1">
+         <li>
+<a href="#" id="pageid-542532">Informatie &amp; Bestellen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-2">
+					<li>
+<a href="/mobiel-shop.htm" id="pageid-623401">Mobiel<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="https://mobielshop.kpn.com/mobiel/verlengen-abonnement" id="pageid-561760">Verlengen</a>
+					</li>
+					<li>
+<a href="https://mobielshop.kpn.com/mobiel/smartphones" id="pageid-662190">Telefoons</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/sim-only.htm" id="pageid-624942">Sim Only</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement.htm" id="pageid-812785">Mobiel abonnement<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/mobiel-abonnement/overstappen.htm" id="pageid-554708">Overstappen</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/tarieven.htm" id="pageid-697628">Tarieven<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/mobiel-abonnement/tarieven/mobiel-internet.htm" id="pageid-697706">Tarieven Mobiel Internet</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels.htm" id="pageid-687183">Overige opties en bundels<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/mobiel-abonnement/bundels/buitenland.htm" id="pageid-607404">Buitenland<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/mobiel-abonnement/bundels/buitenland/binnen-eu.htm" id="pageid-1501864">Binnen EU</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/buitenland/wereld.htm" id="pageid-1500998">Buiten EU</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/buitenland/instellingen.htm" id="pageid-566934">Instellingen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/extra-bundel.htm" id="pageid-581529">Extra Bundel</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/spotify-premium.htm" id="pageid-578600">Spotify Premium</a>
+					</li>
+					<li>
+<a href="/internet/wifi-hotspots/gratis-wifi-met-fon.htm" id="pageid-578505">KPN Wifi HotSpots</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/toestelverzekering.htm" id="pageid-827622">ToestelVerzekering</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/toestel-veilig.htm" id="pageid-579443">KPN Veilig</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels/mbs-doneren.htm" id="pageid-912297">MB's doneren</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/sim-only.htm" id="pageid-1522432">Sim Only</a>
+					</li>
+					<li>
+<a href="/smartphones/vergelijken.htm" id="pageid-1603853">Smartphone Kiezen</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/prepaid-naar-sim-only.htm" id="pageid-2166952">Prepaid naar Sim Only</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/prepaid.htm" id="pageid-648477">Prepaid<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/prepaid/bundels.htm" id="pageid-567522">Bundels</a>
+					</li>
+					<li>
+<a href="/prepaid/buitenland.htm" id="pageid-740312">Prepaid buitenland</a>
+					</li>
+					<li>
+<a href="/prepaid/internet.htm" id="pageid-1667338">Prepaid Internet</a>
+					</li>
+					<li>
+<a href="/prepaid/nummerbehoud.htm" id="pageid-578132">Nummerbehoud</a>
+					</li>
+					<li>
+<a href="/prepaid/tarieven.htm" id="pageid-740751">Tarieven</a>
+					</li>
+					<li>
+<a href="/prepaid/opwaarderen.htm" id="pageid-667588">Opwaarderen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/prepaid/opwaarderen/tarieven-internet.htm" id="pageid-668600">Tarieven Internet Prepaid</a>
+					</li>
+					<li>
+<a href="/prepaid/opwaarderen/extra-tegoed-aanvragen.htm" id="pageid-668453">Extra tegoed aanvragen</a>
+					</li>
+					<li>
+<a href="/prepaid/opwaarderen/internet-prepaid-formulier.htm" id="pageid-668243">Formulier Mobiel Internet Prepaid</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/prepaid/app.htm" id="pageid-1715205">Prepaid app</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/netwerk/4g.htm" id="pageid-564192">4G Netwerk</a>
+					</li>
+					<li>
+<a href="/mobiel-abonnement/bundels.htm" id="pageid-1021436">Overige opties</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="https://www.kpn.com/internet-tv/" id="pageid-675824">Thuis<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="https://www.kpn.com/internet-tv/" id="pageid-1232063">Internet en TV pakket</a>
+					</li>
+					<li>
+<a href="/televisie.htm" id="pageid-1912916">Televisie<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/televisie/pakketten.htm" id="pageid-583593">Extra zenderpakketten<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/televisie/pakketten/pluspakket.htm" id="pageid-583903">Pluspakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/opnemen-pakket.htm" id="pageid-584042">Opnemen Pakket<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/televisie/extra-diensten/opnemen-pakket.htm" id="pageid-584086">Serie opnemen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/televisie/pakketten/film1.htm" id="pageid-584126">Film1 Pakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/fox-sports.htm" id="pageid-584185">FOX Sports<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/televisie/pakketten/fox-sports/eredivisie.htm" id="pageid-732300">FOX Sports Eredivisie</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/fox-sports/international.htm" id="pageid-741569">FOX Sports International</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/fox-sports/compleet.htm" id="pageid-732355">FOX Sports Compleet</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/fox-sports/bestellen.htm" id="pageid-1575256">FOX Sports Bestellen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/televisie/pakketten/live-voetbal.htm" id="pageid-584239">Live voetbal</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/erotiek-pakket.htm" id="pageid-584463">Erotiek Pakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/videoland.htm" id="pageid-584358">Videoland</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/turks-pakket.htm" id="pageid-584505">Turks Pakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/hindi-pakket.htm" id="pageid-584550">Hindi Pakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/duits-pakket.htm" id="pageid-584630">Duits Pakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/kidspakket.htm" id="pageid-584408">Kids Pakket</a>
+					</li>
+					<li>
+<a href="/televisie/pakketten/ziggo-sport-totaal.htm" id="pageid-584671">Ziggo Sport Totaal</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/televisie/online-tv-kijken.htm" id="pageid-1466711">Online TV kijken</a>
+					</li>
+					<li>
+<a href="/televisie/installeren.htm" id="pageid-1474111">TV installeren<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/televisie/installeren/interactieve-tv.htm" id="pageid-1474208">Interactieve TV aansluiten</a>
+					</li>
+					<li>
+<a href="/televisie/installeren/afstandsbediening.htm" id="pageid-1475111">Afstandsbediening<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/televisie/installeren/afstandsbediening/instellen.htm" id="pageid-1475159">Afstandsbediening instellen</a>
+					</li>
+					<li>
+<a href="/televisie/installeren/afstandsbediening/gebruiken.htm" id="pageid-1475193">Afstandsbediening gebruiken</a>
+					</li>
+					<li>
+<a href="/televisie/installeren/afstandsbediening/kapot.htm" id="pageid-1475220">Afstandsbediening kapot</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/televisie/installeren/kinderslot-instellen.htm" id="pageid-1475467">Kinderslot instellen &amp; zenders verbergen</a>
+					</li>
+					<li>
+<a href="/televisie/installeren/draadloze-verbindingsset.htm" id="pageid-1340419">Draadloze Verbindingsset</a>
+					</li>
+					<li>
+<a href="/televisie/installeren/extra-tv-ontvanger.htm" id="pageid-1728588">Extra tv-ontvanger</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/televisie/digitenne.htm" id="pageid-2343170">Digitenne</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/internet/glasvezel.htm" id="pageid-708941">Glasvezel</a>
+					</li>
+					<li>
+<a href="/internet.htm" id="pageid-1608820">Internet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/internet/wifi.htm" id="pageid-2160616">Wifi</a>
+					</li>
+					<li>
+<a href="/internet/speedtest.htm" id="pageid-1003047">Speedtest</a>
+					</li>
+					<li>
+<a href="/internet/glasvezel.htm" id="pageid-629716">Glasvezel internet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/internet/glasvezel/lampjes-glasvezel.htm" id="pageid-2566118">lampjes glasvezel</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/prive.htm" id="pageid-692766">Overige opties<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="https://www.kpn.com/spotify" id="pageid-581668">Spotify Premium</a>
+					</li>
+					<li>
+<a href="/internet/opties/kpn-veilig.htm" id="pageid-581599">KPN Veilig</a>
+					</li>
+					<li>
+<a href="/internet/opties/sneller-internet.htm" id="pageid-581742">Sneller Internet</a>
+					</li>
+					<li>
+<a href="/wifi-versterker.htm" id="pageid-693765">WiFi Versterker</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/internet/wifi-hotspots.htm" id="pageid-1033205">Wifi Hotspots<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/internet/wifi-hotspots/gratis-wifi-met-fon.htm" id="pageid-1045988">KPN Wifi Hotspots Fon</a>
+					</li>
+					<li>
+<a href="/internet/wifi-hotspots/premium.htm" id="pageid-1046030">KPN Wifi HotSpots Premium</a>
+					</li>
+					<li>
+<a href="/internet/wifi-hotspots/fon-instellingen.htm" id="pageid-1329266">Fon instellingen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/internet/wifi-versterker.htm" id="pageid-1648598">Wifi Versterker<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/internet/wifi-versterker/handleidingen.htm" id="pageid-1390339">Handleidingen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/internet/wifi-versterker-b.htm" id="pageid-2424153">Wifi Versterker b</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/bellen.htm" id="pageid-873297">Bellen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/thuis/tarieven.htm" id="pageid-589097">Tarieven<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/bellen/abonnementen.htm" id="pageid-590244">Losse abonnementen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/bellen/abonnementen.htm" id="pageid-590283">Tarieven BelBasis</a>
+					</li>
+					<li>
+<a href="/bellen/abonnementen.htm" id="pageid-590356">Tarieven BelBudget</a>
+					</li>
+					<li>
+<a href="/bellen/abonnementen.htm" id="pageid-590398">Tarieven BelVrij</a>
+					</li>
+					<li>
+<a href="/bellen/speciale-nummers.htm" id="pageid-590473">Speciale nummers</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/bellen/opties.htm" id="pageid-700202">Overige opties<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/bellen/opties/onbeperkt-bellen.htm" id="pageid-700244">Onbeperkt bellen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/bellen/buitenland.htm" id="pageid-844733">Bellen in het buitenland<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/bellen/buitenland/belgie.htm" id="pageid-894289">Bellen naar Belgi&euml;</a>
+					</li>
+					<li>
+<a href="/bellen/buitenland/duitsland.htm" id="pageid-894932">Bellen naar Duitsland</a>
+					</li>
+					<li>
+<a href="/bellen/buitenland/suriname.htm" id="pageid-895003">Bellen naar Suriname</a>
+					</li>
+					<li>
+<a href="/bellen/buitenland/turkije.htm" id="pageid-895135">Bellen naar Turkije</a>
+					</li>
+					<li>
+<a href="/bellen/buitenland/marokko.htm" id="pageid-895191">Bellen naar Marokko</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/smartlife.htm" id="pageid-834696">KPN SmartLife<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/smartlife/uitbreidingen.htm" id="pageid-1201079">Uitbreidingen</a>
+					</li>
+					<li>
+<a href="/smartlife/mogelijkheden.htm" id="pageid-1201022">Mogelijkheden</a>
+					</li>
+					<li>
+<a href="/smartlife/service.htm" id="pageid-834781">Service &amp; Contact<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/smartlife/service/installeren.htm" id="pageid-844969">Installeren</a>
+					</li>
+					<li>
+<a href="/smartlife/service/gebruiken.htm" id="pageid-844986">KPN SmartLife-app &amp; functies<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/smartlife/service/gebruiken/programmas-smartlife-app.htm" id="pageid-855799">Programma's</a>
+					</li>
+					<li>
+<a href="/smartlife/service/gebruiken/beveiliging.htm" id="pageid-855816">Beveiliging</a>
+					</li>
+					<li>
+<a href="/smartlife/service/gebruiken/huisoppas.htm" id="pageid-870699">Huisoppas</a>
+					</li>
+					<li>
+<a href="/smartlife/service/gebruiken/meldkamer.htm" id="pageid-855850">Meldkamer</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur.htm" id="pageid-1223742">Apparatuur<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/smartlife/service/apparatuur/deur-raamsensor.htm" id="pageid-860246">Deur- /raamsensor</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/slimme-stekker.htm" id="pageid-860383">Slimme stekker</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/bewegingssensor.htm" id="pageid-857680">Bewegingssensor</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/afstandsbediening.htm" id="pageid-857645">Afstandsbediening</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/rookmelder.htm" id="pageid-860348">Slimme rookmelder</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/d-link-camera-1.htm" id="pageid-2550814">D-Link buitencamera</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/philips-hue.htm" id="pageid-834882">Philips Hue</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/plugwise-thermostaat-anna.htm" id="pageid-855414">Thermostaat Anna</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/osram.htm" id="pageid-1669640">Osram</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/logitech-circle-2-camera.htm" id="pageid-1663803">Logitech Circle 2</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/centralite-security-keypad.htm" id="pageid-1678172">Security Keypad</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/centralite-water-sensor.htm" id="pageid-2076048">Centralite Water Sensor</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/sonos.htm" id="pageid-2551917">Sonos</a>
+					</li>
+					<li>
+<a href="/smartlife/service/apparatuur/kpn-smartlife-box.htm" id="pageid-2554077">KPN SmartLife Box</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/vitaal/thuis.htm" id="pageid-886896">Vitaal<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/vitaal/thuis.htm" id="pageid-888327">Thuis</a>
+					</li>
+					<li>
+<a href="/vitaal/service.htm" id="pageid-1198816">Service<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/vitaal/service/informatie-bestellen.htm" id="pageid-1450997">Informatie &amp; Bestellen</a>
+					</li>
+					<li>
+<a href="/vitaal/service/privacy.htm" id="pageid-1571245">Privacy</a>
+					</li>
+					<li>
+<a href="/vitaal/service/installeren.htm" id="pageid-914375">Installeren</a>
+					</li>
+					<li>
+<a href="/vitaal/service/gebruiken.htm" id="pageid-914599">Gebruiken</a>
+					</li>
+					<li>
+<a href="/vitaal/service/administratie.htm" id="pageid-1451104">Administratie</a>
+					</li>
+					<li>
+<a href="/vitaal/service/problemen-storingen.htm" id="pageid-1451138">Problemen &amp; Storingen</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/compleet.htm" id="pageid-1541362">KPN Compleet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="/compleet/aanmelden.htm" id="pageid-591401">Aanmelden KPN Compleet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/compleet/aanmelden/uitbreiden.htm" id="pageid-2708045">Aanmelding KPN Compleet uitbreiden</a>
+					</li>
+					<li>
+<a href="/compleet/aanmelden/aanmelden.htm" id="pageid-2727951">Temp for Aanmelden voor KPN Compleet</a>
+					</li>
+					<li>
+<a href="/compleet/aanmelden/aanmelding-succesvol.htm" id="pageid-2708125">Aanmelding Succesvol </a>
+					</li>
+					<li>
+<a href="/compleet/aanmelden/overzicht-aan-te-melden-producten.htm" id="pageid-2708062">Overzicht aan te melden producten</a>
+					</li>
+					<li>
+<a href="/compleet/aanmelden/aanmelden-nog-niet-mogelijk.htm" id="pageid-2264072">Aanmelden (nog) niet mogelijk</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/compleet.htm" id="pageid-590720">Voordelen van KPN Compleet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/compleet/voordelen/gratis-onderling-bellen.htm" id="pageid-633307">Gratis onderling bellen</a>
+					</li>
+					<li>
+<a href="/compleet/voordelen/mbs-delen.htm" id="pageid-591264">MB's delen</a>
+					</li>
+					<li>
+<a href="/compleet/voordelen/wissel-je-zenderpakket.htm" id="pageid-700928">Gratis zenderpakket bij KPN Compleet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/compleet/voordelen/wissel-je-zenderpakket/pluspakket.htm" id="pageid-2479099">Gratis Pluspakket bij KPN Compleet</a>
+					</li>
+					<li>
+<a href="/compleet/voordelen/wissel-je-zenderpakket/fox-sports-eredivisie.htm" id="pageid-2483888">Gratis FOX Sports Eredivisie bij KPN Compleet</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/compleet/voordelen/5-euro-korting.htm" id="pageid-2553763">5 euro korting</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/compleet/service.htm" id="pageid-663765">Service</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+         </li>
+         <li>
+<a href="/service.htm" id="pageid-578291">Service &amp; Contact<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-2">
+					<li>
+<a href="/service/mobiel.htm" id="pageid-529113">Mobiel<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="/service/mobiel/instellen.htm" id="pageid-534792">Toestel instellen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/mobiel/instellen/hulp-bij-instellen.htm" id="pageid-550847">Hulp bij instellen</a>
+					</li>
+					<li>
+<a href="/service/mobiel/instellen/apps.htm" id="pageid-536101">Apps van KPN<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="https://www.kpn.com/service/mobiel/instellen/apps.htm" id="pageid-552298">iOS</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/mobiel/instellen/apps.htm" id="pageid-552369">Android</a>
+					</li>
+					<li>
+<a href="/service/mijnkpn/uitleg.htm" id="pageid-552606">MijnKPN app</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/mobiel/instellen/toesteltips.htm" id="pageid-702118">Toesteltips voor je mobiel</a>
+					</li>
+					<li>
+<a href="/service/mobiel/instellen/dongel.htm" id="pageid-628897">Dongel installeren</a>
+					</li>
+					<li>
+<a href="/service/mobiel/instellen/verbruik.htm" id="pageid-1475813">Inzicht mobiel internetverbruik</a>
+					</li>
+					<li>
+<a href="/service/mobiel/instellen/doorschakelen.htm" id="pageid-1931545">Mobiele telefoon doorschakelen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/mobiel/sim-kaart.htm" id="pageid-552957">SIM-kaart en PUK-code<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/mobiel/sim-kaart/aanvragen.htm" id="pageid-529777">SIM-kaart vervangen of extra SIM-kaart</a>
+					</li>
+					<li>
+<a href="/service/mobiel/sim-kaart/puk-code-opvragen.htm" id="pageid-740160">PUK-code opvragen</a>
+					</li>
+					<li>
+<a href="/service/mobiel/sim-kaart/sim-lock.htm" id="pageid-529147">SIM-lock verwijderen</a>
+					</li>
+					<li>
+<a href="/service/mobiel/sim-kaart/activeren.htm" id="pageid-1273185">Nieuwe SIM-kaart activeren</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/mobiel/prepaid-opwaarderen.htm" id="pageid-529193">Prepaid opwaarderen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/mobiel/prepaid-opwaarderen/tegoed-opvragen.htm" id="pageid-530338">Prepaid tegoed opvragen</a>
+					</li>
+					<li>
+<a href="/service/mobiel/prepaid-opwaarderen/tablet-en-dongel.htm" id="pageid-668766">Direct opwaarderen voor tablet en dongel</a>
+					</li>
+					<li>
+<a href="/service/mobiel/prepaid-opwaarderen/bonustariefplan.htm" id="pageid-1232334">Bonustariefplan</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/mobiel/schade-diefstal.htm" id="pageid-529679">Schade, verlies of diefstal<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/mobiel/schade-diefstal/verlies-diefstal.htm" id="pageid-611823">Verlies of diefstal</a>
+					</li>
+					<li>
+<a href="/service/mobiel/schade-diefstal/schade.htm" id="pageid-583694">Toestel schade</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/mobiel/problemen.htm" id="pageid-536393">Problemen met mobiel<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/mobiel/problemen/problemen-met-mobiel-bellen-oplossen.htm" id="pageid-628849">Problemen met mobiel bellen oplossen</a>
+					</li>
+					<li>
+<a href="/service/mobiel/problemen/storing-mobiel-internet.htm" id="pageid-629176">Storing mobiel internet</a>
+					</li>
+					<li>
+<a href="/service/mobiel/problemen/toestelhulp.htm" id="pageid-677938">Problemen met toestel oplossen</a>
+					</li>
+					<li>
+<a href="/service/mobiel/problemen/problemen-sms.htm" id="pageid-2211762">Problemen sms</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/internet.htm" id="pageid-532197">Internet<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="/service/internet/wifi-en-modems.htm" id="pageid-536985">WiFi en modems installeren<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/internet/wifi-en-modems/verbinden-met-wifi.htm" id="pageid-668943">Verbinden met wifi</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/internet/wifi-en-modems.htm" id="pageid-607945">Wifi-instellingen wijzigen</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/internet/wifi-en-modems/handleidingen-experia-box.htm#!/devices/all/internet" id="pageid-1050765">Experia Box handleidingen</a>
+					</li>
+					<li>
+<a href="/service/internet/wifi-en-modems/herstart-reset-experia-box.htm" id="pageid-2211807">Herstart Experia Box</a>
+					</li>
+					<li>
+<a href="/service/internet/wifi-en-modems/reset-experia-box.htm" id="pageid-2229845">Reset Experia Box</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="https://www.kpn.com/internet/wifi/tuner.htm#/flow" id="pageid-537071">Wifi snelheid verbeteren<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/internet/snelheid-verbeteren/servicetool-snelheidstest-internetverbinding.htm" id="pageid-701392">Servicetool Snelheidstest Internetverbinding</a>
+					</li>
+					<li>
+<a href="/service/internet/snelheid-verbeteren/servicetool-kwaliteitstest-internetverbinding.htm" id="pageid-701422">Servicetool Kwaliteitstest Internetverbinding</a>
+					</li>
+					<li>
+<a href="/service/internet/snelheid-verbeteren/beveiligingskwetsbaarheid-melden.htm" id="pageid-649469">Beveiligingskwetsbaarheid melden</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten.htm" id="pageid-686631">Veilig internetten<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/internet/veilig-internetten/kpn-veilig.htm" id="pageid-537156">Wat is KPN Veilig<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/internet/veilig-internetten/kpn-veilig/kpn-veilig-op-pc.htm" id="pageid-2389479">KPN Veilig op PC</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/kpn-veilig/kpn-veilig-op-mac.htm" id="pageid-2405618">KPN Veilig op Mac</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/kpn-veilig/kpn-veilig-op-android.htm" id="pageid-2431483">KPN Veilig op Android</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/kpn-veilig/kpn-veilig-op-ios.htm" id="pageid-2432226">KPN Veilig op iOS</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="https://www.kpn.com/beleef/veiligheid/tips-om-je-kind-veilig-digitaal-te-laten-surfen.htm" id="pageid-636882">Kinderen en veilig internet</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/gevaar-en-fraude.htm" id="pageid-636929">Internet gevaar en telefonische fraude</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/valse-email.htm" id="pageid-670749">Phishing e-mails<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/internet/veilig-internetten/valse-email/netneutraliteit.htm" id="pageid-637242">Netneutraliteit<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/service/internet/veilig-internetten/valse-email/netneutraliteit/beschikbare-websites-in-quarantaine.htm" id="pageid-2596424">Beschikbare websites in de quarantaine omgeving</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/valse-email/netneutraliteit/geblokkeerd-door-kpn-abuse-team.htm" id="pageid-2601583">Geblokkeerd door het KPN AbuseTeam</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/valse-email/oude-phishing-meldingen.htm" id="pageid-704494">Oude Phishing Meldingen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/abuse.htm" id="pageid-602694">Abuse<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/internet/veilig-internetten/abuse/geblokkeerd-abuse.htm" id="pageid-2212000">Geblokkeerd abuse</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/abuse/virus-verwijderen.htm" id="pageid-2212066">Virus verwijderen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-6">
+					<li>
+<a href="/service/internet/veilig-internetten/abuse/virus-verwijderen/malwarebytes.htm" id="pageid-2212139">Malwarebytes</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/abuse/virus-verwijderen/eset-online-scanner.htm" id="pageid-2212211">ESET Online Scanner</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/abuse/virus-verwijderen/f-secure-online-scanner.htm" id="pageid-2212359">F-Secure Online Scanner</a>
+					</li>
+					<li>
+<a href="/service/internet/veilig-internetten/abuse/virus-verwijderen/emsisoft-scanner.htm" id="pageid-2212434">Emsisoft scanner</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/internet/e-mail.htm" id="pageid-532851">E-mail<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/internet/e-mail/instellen-laptop-pc.htm" id="pageid-1343793">E-mail instellen PC of Mac</a>
+					</li>
+					<li>
+<a href="/service/internet/e-mail/geen-e-mail-ontvangen-of-versturen.htm" id="pageid-2141189">Geen mail ontvangen of versturen</a>
+					</li>
+					<li>
+<a href="/service/internet/e-mail/wachtwoord-of-gebruikersnaam-vergeten.htm" id="pageid-2154990">Wachtwoord en/of gebruikersnaam vergeten</a>
+					</li>
+					<li>
+<a href="/service/internet/e-mail/overzicht-kpn-e-mailadressen.htm" id="pageid-2155411">Overzicht KPN e-mailadressen</a>
+					</li>
+					<li>
+<a href="/service/internet/e-mail/verwijderen-van-e-mailberichten.htm" id="pageid-2155445">Hoe verwijder ik e-mailberichten</a>
+					</li>
+					<li>
+<a href="/service/internet/e-mail/e-mailaccount-of-adres-aanmaken-of-opheffen.htm" id="pageid-2155775">Account of adres aanmaken of opheffen</a>
+					</li>
+					<li>
+<a href="/service/internet/e-mail/e-mail-probleem-oplossen-op-mobiel-of-tablet.htm" id="pageid-2156288">Probleem oplossen op mobiel of tablet</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/internet/problemen.htm" id="pageid-677273">Problemen met internet &amp; wifi</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/televisie.htm" id="pageid-531201">Televisie<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="/service/televisie/installeren.htm" id="pageid-610887">TV installeren<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/televisie/installeren/interactieve-tv.htm" id="pageid-657400">Interactieve TV aansluiten<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/televisie/installeren/interactieve-tv/handleidingen.htm" id="pageid-684565">Handleidingen voor Interactieve TV</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/televisie/digitenne.htm" id="pageid-609322">Digitenne aansluiten<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/televisie/installeren/digitenne/digitenne-handleidingen.htm" id="pageid-1389476">Digitenne aansluiten &amp; gebruiken</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/televisie/installeren/kinderslot-instellen.htm" id="pageid-1436657">Kinderslot instellen</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/televisie/installeren/draadloze-verbindingsset.htm" id="pageid-532399">Draadloze Verbindingsset<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/televisie/installeren/draadloze-verbindingsset-1/handleidingen.htm" id="pageid-1389790">Draadloze verbindingset aansluiten</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/televisie/zenders.htm" id="pageid-531905">Zenderpakketten aanzetten</a>
+					</li>
+					<li>
+<a href="/service/televisie/pincode-itv.htm" id="pageid-974616">Pincode Interactieve TV</a>
+					</li>
+					<li>
+<a href="/televisie/online-tv-kijken.htm" id="pageid-556142">Online TV kijken</a>
+					</li>
+					<li>
+<a href="/service/televisie/problemen.htm" id="pageid-570885">Problemen met TV<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/televisie/problemen/servicetool-foutcode12.htm" id="pageid-594998">Servicetool Foutcode 12</a>
+					</li>
+					<li>
+<a href="/service/televisie/problemen/oplossen-opnames.htm" id="pageid-2187509">Oplossen opnames</a>
+					</li>
+					<li>
+<a href="/service/televisie/problemen/oplossen-beeld-en-geluid-niet-synchroon.htm" id="pageid-2189629">Oplossen beeld en geluid niet synchroon</a>
+					</li>
+					<li>
+<a href="/service/televisie/problemen/oplossen-slecht-haperend-geluid.htm" id="pageid-2233998">Oplossen slecht haperend geluid</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/televisie/digitenne.htm" id="pageid-1475249">Digitenne</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/bellen.htm" id="pageid-537278">Vast bellen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="/service/bellen/telefoon-aansluiten.htm" id="pageid-537295">Telefoon aansluiten<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/bellen/telefoon-aansluiten/wireless-usb-adapter.htm" id="pageid-578430">Wireless USB-adapter</a>
+					</li>
+					<li>
+<a href="/service/bellen/telefoon-aansluiten/quattrovox-webvox-isdn.htm" id="pageid-581337">Handleidingen Quattrovox, Webvox &amp; ISDN</a>
+					</li>
+					<li>
+<a href="/service/bellen/telefoon-aansluiten/handleidingen-vaste-telefoon.htm" id="pageid-651753">Handleidingen vaste en draadloze telefoons</a>
+					</li>
+					<li>
+<a href="/service/bellen/telefoon-aansluiten/isdn-apparatuur-verwijderen.htm" id="pageid-1365287">ISDN apparatuur verwijderen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/bellen/telefoon-doorschakelen.htm" id="pageid-537312">Doorschakelen</a>
+					</li>
+					<li>
+<a href="/service/bellen/voicemail-gebruiken.htm" id="pageid-1213459">VoiceMail gebruiken</a>
+					</li>
+					<li>
+<a href="/service/bellen/nummerweergave.htm" id="pageid-1313357">NummerWeergave</a>
+					</li>
+					<li>
+<a href="/service/bellen/problemen.htm" id="pageid-537363">Problemen met Vast bellen</a>
+					</li>
+					<li>
+<a href="/service/bellen/telefonische-overlast.htm" id="pageid-556083">Telefonische overlast<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/bellen/telefonische-overlast/melden-overlast.htm" id="pageid-637214">Melden overlast</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie.htm" id="pageid-649794">Administratie<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-3">
+					<li>
+<a href="/service/administratie/facturen.htm" id="pageid-582997">Factuur &amp; betalen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-tv-internet-en-bellen.htm" id="pageid-1286561">Factuur begrijpen TV, Internet en bellen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-tv-internet-en-bellen/eerste-factuur.htm" id="pageid-585009">Eerste factuur TV, Internet en bellen</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-tv-internet-en-bellen/maandelijkse-factuur.htm" id="pageid-585048">Maandfactuur TV, Internet en bellen</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-tv-internet-en-bellen/netflix-op-kpn-factuur.htm" id="pageid-1370334">Netflix betalen op je KPN factuur</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-mobiel.htm" id="pageid-1275191">Factuur begrijpen Mobiel<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-5">
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-mobiel/eerste-factuur-mobiel.htm" id="pageid-666391">Eerste factuur Mobiel</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-mobiel/maandfactuur-mobiel.htm" id="pageid-666444">Maandfactuur Mobiel</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/factuur-begrijpen-mobiel/online-aankopen-via-kpn-factuur.htm" id="pageid-1552453">Online aankopen via je KPN factuur</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/automatische-incasso-mislukt.htm" id="pageid-937974">Automatische incasso mislukt</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/betaalmogelijkheden.htm" id="pageid-1352770">Betaalmogelijkheden</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/ik-betaal-nu.htm" id="pageid-596549">Betalen na blokkade</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/online-betaalafspraak-maken.htm" id="pageid-680911">Betaling eenmalig uitstellen</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/payinfo.htm" id="pageid-666497">Stop betaalde sms-diensten</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/internet/veilig-internetten/valse-email.htm" id="pageid-803935">Phishing e-mails</a>
+					</li>
+					<li>
+<a href="/service/administratie/facturen/factuur-instellingen.htm" id="pageid-2712856">Factuur instellingen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen.htm" id="pageid-550934">Verhuizen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/administratie/verhuizen/verhuizen-tv-internet-bellen-of-compleet.htm" id="pageid-1434890">Verhuizen TV, Internet en bellen of Compleet</a>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen/verhuisstatus.htm" id="pageid-950205">Status van je verhuizing</a>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen/informatie-over-je-verhuizing.htm" id="pageid-1231735">Meer informatie over verhuizen</a>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen/net-verhuisd.htm" id="pageid-1597561">Ik ben verhuisd</a>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen/samenwonen.htm" id="pageid-1988677">Samenwonen</a>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen/nieuwbouw.htm" id="pageid-1989057">Verhuizen naar nieuwbouw</a>
+					</li>
+					<li>
+<a href="/service/administratie/verhuizen/emigreren.htm" id="pageid-1991555">Emigreren</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie/bestelling.htm" id="pageid-611078">Bestelstatus<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="https://www.kpn.com/service/administratie/bestelling.htm" id="pageid-581823">Mobiel</a>
+					</li>
+					<li>
+<a href="https://www.kpn.com/service/administratie/bestelling.htm" id="pageid-583210">TV, Internet &amp; Bellen </a>
+					</li>
+					<li>
+<a href="/service/administratie/bestelling/bestelstatus.htm" id="pageid-615086">Volg je bestelling</a>
+					</li>
+					<li>
+<a href="/service/administratie/bestelling/annuleren-wijzigen-retourneren.htm" id="pageid-1970907">Annuleren, wijzigen of retourneren</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie/overstappen.htm" id="pageid-646436">Overstappen</a>
+					</li>
+					<li>
+<a href="/service/administratie/wijzigen.htm" id="pageid-536186">Gegevens wijzigen<span class="sidenav-left-icon kpn-ui-icon ui-chevron-right hidden-md hidden-lg" aria-hidden="true"></span>
+   </a>
+		<ul class="nav-lvl-4">
+					<li>
+<a href="/service/administratie/wijzigen/contract-overnemen.htm" id="pageid-971377">Contract overnemen</a>
+					</li>
+		</ul>
+					</li>
+					<li>
+<a href="/service/administratie/overlijden.htm" id="pageid-532702">Wat te doen bij overlijden</a>
+					</li>
+		</ul>
+					</li>
+		</ul>
+         </li>
+         <li>
+<a href="/beleef.htm" id="pageid-1253075">Beleef KPN</a>
+         </li>
+</ul>
+				<script type="text/javascript">
+				    SELECTED_MENU_ID = "695347";
+				    MARKET = 'cm';
+				    FIRST_VISIBLE_PARENT = "";
+				</script>
+				    <form class="navbar-form visible-xs-block visible-sm-block" role="search" id="sb-search" action="/search.htm" method="get">
+    <div class="input-group">
+        <label for="sb-search-txt" class="sr-only">Zoeken naar</label>
+        <input class="form-control no-mouseflow" type="search" id="sb-search-txt" name="q" autocomplete="off" placeholder="Zoeken naar..." />
+        <div class="input-group-btn">
+            <button type="submit" class="btn" id="sb-search-btn">
+                <span class="sr-only">Zoeken</span>
+                <span class="kpn-ui-icon ui-search" aria-hidden="true"></span>
+            </button>
+        </div>
+    </div>
+</form>
+				    <ul class="nav-lvl-1 visible-xs-block visible-sm-block">    
+            <li>
+                <a href="https://webmail.kpnmail.nl/mail/logon.asp"><span class="sidenav-left-icon kpn-ui-icon ui-envelop"></span>Webmail</a>
+            </li>
+            <li>
+                <a href="/zakelijk.htm">Zakelijk</a>
+            </li>
+</ul>
+				    <ul class="meta-nav visible-xs-block visible-sm-block">
+                <li>
+                    <a href="/algemeen/over-kpn.htm">Over KPN</a>
+                </li>
+                <li>
+                    <a href="https://www.kpnvandaag.nl/#/">KPN Vandaag</a>
+                </li>
+                <li>
+                    <a href="https://forum.kpn.com/">Forum</a>
+                </li>
+                <li>
+                    <a href="https://webmail.kpnmail.nl/mail/logon.asp">Webmail</a>
+                </li>
+    </ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<!--googleon: all-->
+            </div>
+                <div class="container-fluid" id="main-content">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-10 col-md-offset-1">
+                        </div>
+                    </div>
+                </div>
+            <div class="editableContainer" data-editorial-label="CONTENT"><div class="container-fluid">
+	<div class="row">
+		<div class="col-xs-12 col-md-10 col-md-offset-1">
+			<div class="row gray-background toptasks-homepage-row">
+	<div class="col-xs-12">
+		<div class="row">
+			<div class="col-xs-12 template-elements toptasks-homepage">
+				<div class="template-item toptask-collapsible-block toptask col-xs-6 col-sm-6 col-md-4">
+    <div class="template-item-inner bg-white">
+        <div class="toptask-collapsible-block-title icon-left">
+           		<div class="kpn-service-icon icon-gradient service-home"></div>
+            	<h2><a href="https://www.kpn.com/internet-tv/?icid=toptaak-thuis">Thuis</a></h2>
+        </div>
+        <div class="template-item-content">
+	            <div class="toptask-list-links">
+	                <ul>
+		                    <li>
+		                        <a href="https://www.kpn.com/internet-tv/?icid=toptaak1-internettv">Internet en TV pakket</a>
+		                    </li>
+		                    <li>
+		                        <a href="https://www.kpn.com/internet/glasvezel.htm?icid=toptaak2-glasvezel">Glasvezel internet</a>
+		                    </li>
+		                    <li>
+		                        <a href="https://www.kpn.com/televisie/pakketten.htm?icid=toptaak3-zenderpakketten">Extra zenderpakketten</a>
+		                    </li>
+	                </ul>
+	            </div>
+	            <div class="template-item-link text-center">
+<a class="btn btn-primary" href="https://www.kpn.com/internet-tv/?icid=toptaak-thuis">Alles voor Thuis</a>
+	            </div>
+        </div>
+            <a href="https://www.kpn.com/internet-tv/?icid=toptaak-thuis" class="button-wrap visible-xs"></a>
+    </div>
+</div><div class="template-item toptask-collapsible-block toptask col-xs-6 col-sm-6 col-md-4">
+    <div class="template-item-inner bg-white">
+        <div class="toptask-collapsible-block-title icon-left">
+           		<div class="kpn-service-icon icon-gradient service-mobiel"></div>
+            	<h2><a href="https://www.kpn.com/mobiel-shop.htm?icid=toptaak-mobiel">Mobiel</a></h2>
+        </div>
+        <div class="template-item-content">
+	            <div class="toptask-list-links">
+	                <ul>
+		                    <li>
+		                        <a href="https://mobielshop.kpn.com/mobiel/smartphones?icid=toptaak4-mobielabonnement">Telefoon en abonnement</a>
+		                    </li>
+		                    <li>
+		                        <a href="https://www.kpn.com/mobiel-abonnement/sim-only.htm?icid=toptaak5-simonly">Sim Only</a>
+		                    </li>
+		                    <li>
+		                        <a href="https://mobielshop.kpn.com/mobiel/verlengen-abonnement?icid=toptaak6-verlengen">Verlengen</a>
+		                    </li>
+	                </ul>
+	            </div>
+	            <div class="template-item-link text-center">
+<a class="btn btn-primary" href="https://www.kpn.com/mobiel-shop.htm?icid=toptaak-mobiel">Alles voor Mobiel</a>
+	            </div>
+        </div>
+            <a href="https://www.kpn.com/mobiel-shop.htm?icid=toptaak-mobiel" class="button-wrap visible-xs"></a>
+    </div>
+</div><div class="col-md-4 col-xs-12 col-sm-12 items-small">
+    <div class="template-item toptask-collapsible-block toptask col-xs-6 col-sm-4 col-md-12 item-small">
+    <div class="template-item-inner bg-white">
+        <div class="toptask-collapsible-block-title icon-left">
+           		<div class="kpn-service-icon icon-gradient service-person"></div>
+            	<h2><a href="https://account.kpn.com?icid=toptaak7-mijnkpn">MijnKPN</a></h2>
+        </div>
+        <div class="template-item-content">
+	            <div class="template-item-link text-center">
+<a class="btn btn-primary" href="https://account.kpn.com?icid=toptaak7-mijnkpn"></a>
+	            </div>
+        </div>
+            <a href="https://account.kpn.com?icid=toptaak7-mijnkpn" class="button-wrap visible-xs"></a>
+    </div>
+</div><div class="template-item toptask-collapsible-block toptask col-xs-6 col-sm-4 col-md-12 item-small">
+    <div class="template-item-inner bg-white">
+        <div class="toptask-collapsible-block-title icon-left">
+           		<div class="kpn-service-icon icon-gradient service-callcenter-agent"></div>
+            	<h2><a href="https://www.kpn.com/service.htm?icid=toptaak8-service">Klantenservice</a></h2>
+        </div>
+        <div class="template-item-content">
+	            <div class="template-item-link text-center">
+<a class="btn btn-primary" href="https://www.kpn.com/service.htm?icid=toptaak8-service"></a>
+	            </div>
+        </div>
+            <a href="https://www.kpn.com/service.htm?icid=toptaak8-service" class="button-wrap visible-xs"></a>
+    </div>
+</div><div class="template-item toptask-collapsible-block toptask col-xs-6 col-sm-4 col-md-12 item-small">
+    <div class="template-item-inner bg-white">
+        <div class="toptask-collapsible-block-title icon-left">
+           		<div class="kpn-service-icon icon-gradient service-settings-gear"></div>
+            	<h2><a href="https://www.kpn.com/service/storingen.htm?icid=toptaak9-storing">Problemen en storingen</a></h2>
+        </div>
+        <div class="template-item-content">
+	            <div class="template-item-link text-center">
+<a class="btn btn-primary" href="https://www.kpn.com/service/storingen.htm?icid=toptaak9-storing"></a>
+	            </div>
+        </div>
+            <a href="https://www.kpn.com/service/storingen.htm?icid=toptaak9-storing" class="button-wrap visible-xs"></a>
+    </div>
+</div>
+</div>
+			</div>
+			<div class="col-xs-12">
+				<p><br></p><section class="banner   ">
+    <picture>
+		<!--[if IE 9]><video style="display: none;"><![endif]-->
+        <source media="(min-width: 1280px)" srcset="/upload_mm/9/9/6/2738061_1553696392999_Huawei-P30Pro-Sonos-Charger-Desktop-300.png">
+        <source media="(min-width: 992px)" srcset="/upload_mm/f/8/a/2738061_1553696392993_Huawei-P30Pro-Sonos-Charger-Desktop-300.png">
+        <source media="(min-width: 768px)" srcset="/upload_mm/c/c/0/2738061_1553696392988_Huawei-P30Pro-Sonos-Charger-Tablet.png">
+        <!--[if IE 9]></video><![endif]-->
+        <img srcset="/upload_mm/2/b/3/2738061_1553696392976_Huawei-P30Pro-Sonos-Charger-Mob.png" alt="Huawei P30 Pro">
+    </picture>
+	<div class="banner-text-container mobile-content bg-kpn-green-xs ">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12 banner-text col-sm-6 col-md-5 col-md-offset-1 text-white ">
+									<h2><strong>Huawei P30 Pro</strong><br>Sonos One en Wireless Charger</h2>
+									<p>t.w.v. € 289.- cadeau!</p>
+									<a href="https://mobielshop.kpn.com/mobiel/huawei/p30-pro/zwart-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=hptopbanner-huaweip30pro" class="btn btn-primary " 
+									role="button" title="https://mobielshop.kpn.com/mobiel/huawei/p30-pro/zwart-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=hptopbanner-huaweip30pro" >Pre-order nu</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+			</div>
+		</div>
+	</div>
+</div><h2></h2><div class="spacer-wrap">
+    <h2><strong>Nu bij KPN</strong> <br>Bekijk de nieuwste aanbiedingen</h2><div class="row">
+    <div class="col-xs-12 template-elements">
+        	<div class="template-item navigation-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white border ">
+		    			<div class="navigation-block-image ">
+		    				<a href="https://mobielshop.kpn.com/mobiel/samsung/galaxy-s10/prism-black-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=product1-s10"><img src="/upload_mm/d/6/e/2738195_1553698168116_190327-Samsung-S10-299x195px-01-min.png" alt="" class=""></a>
+		    			</div>
+				<div class="template-item-content text-center">
+							<h3 class="font-weight-bold ">Samsung Galaxy S10</h3>
+						<p>De gloednieuwe Samsung Galaxy S10: nu tot € 72,- extra korting!</p>
+				<div class="template-item-link ">
+<a class="btn btn-primary" href="https://mobielshop.kpn.com/mobiel/samsung/galaxy-s10/prism-black-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=product1-s10">Bekijk telefoon</a>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="template-item navigation-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white border ">
+		    			<div class="navigation-block-image ">
+		    				<a href="https://mobielshop.kpn.com/mobiel/huawei/p30-pro/zwart-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=hptopbanner-huaweip30pro?icid=product2-huaweip30pro"><img src="/upload_mm/4/4/7/2738194_1553698154308_190327-Huawei-P30Pro-Sonos-Charger.png" alt="" class=""></a>
+		    			</div>
+				<div class="template-item-content text-center">
+							<h3 class="font-weight-bold ">Huawei P30 Pro</h3>
+						<p>Actie: ontvang een Sonos speaker en Wireless charger t.w.v. € 289,- cadeau én krijg tot  € 72,- korting.</p>
+				<div class="template-item-link ">
+<a class="btn btn-primary" href="https://mobielshop.kpn.com/mobiel/huawei/p30-pro/zwart-128gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=hptopbanner-huaweip30pro?icid=product2-huaweip30pro">Pre-order nu</a>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="template-item navigation-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white border ">
+		    			<div class="navigation-block-image ">
+		    				<a href="https://mobielshop.kpn.com/mobiel/apple/iphone-xr/red-64gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=product3-iphonexr"><img src="/upload_mm/b/c/7/2738196_1553698181608_190327-Apple-iPhone-XR-299x195px-01-min.png" alt="" class=""></a>
+		    			</div>
+				<div class="template-item-content text-center">
+							<h3 class="font-weight-bold ">iPhone XR</h3>
+						<p>Met grotere databundels en zelf bepalen hoeveel je belt én ontvang tot € 48,- korting.</p>
+				<div class="template-item-link ">
+<a class="btn btn-primary" href="https://mobielshop.kpn.com/mobiel/apple/iphone-xr/red-64gb/15-gb-en-onbeperkt-bellen-sms/2-jaar?icid=product3-iphonexr">Bekijk telefoon</a>
+				</div>
+			</div>
+		</div>
+	</div>
+    </div>
+</div>
+</div><h2></h2><p><br></p><div class="row gray-background">
+	<div class="col-xs-12"><h2><strong></strong><strong>Beleef KPN</strong> <br>Boordevol weetjes, nieuws en (win)acties<strong></strong></h2><div class="row">
+    <div class="col-xs-12 template-elements">
+        	<div class="template-item content-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white ">
+			    		<div class="content-block-image" style="background-image: url('/upload_mm/2/c/c/2732309_1553588434602_190308-Contentblok-F1-Renault.png');"></div>
+				<div class="template-item-content ">
+							<h3 class="font-weight-bold ">Ook bij KPN kijk je Formule 1</h3>
+						<p>De tweede race van het Formule 1 seizoen vindt plaats op 31 maart op het Bahrein International Circuit. Bekijk de wedstrijd als losse race of met een maandelijks aan- en uit te zetten abonnement via je Interactieve TV.</p>
+				<div class="template-item-link list-links">
+							<a href="https://www.kpn.com/beleef/sport/aftellen-naar-de-formule-1-race-van-bahrein.htm?icid=content1-f1">Zo kijk je Formule 1</a>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="template-item content-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white ">
+			    		<div class="content-block-image" style="background-image: url('/upload_mm/0/8/a/2698760_1552384958105_190312-Contentblok-Toestel-inruilen-04d-4col-515x200px-min.png');"></div>
+				<div class="template-item-content ">
+							<h3 class="font-weight-bold ">Ruil je oude telefoon in voor geld</h3>
+						<p>Je kunt vanaf nu je oude telefoon bij elke KPN-winkel inleveren voor een vergoeding! We nemen álle telefoons in; of je KPN klant bent of niet. Zo help je ook het milieu te sparen!</p>
+				<div class="template-item-link list-links">
+							<a href="https://www.kpn.com/service/administratie/toestelinruil.htm?icid=content2-toestelinruilen">Doe de toestelwaarde check</a>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="template-item content-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white ">
+			    		<div class="content-block-image" style="background-image: url('/upload_mm/8/6/a/2698321_1552381954198_190311-Contentblok-Wifi-tuner.png');"></div>
+				<div class="template-item-content ">
+							<h3 class="font-weight-bold ">Wifi-advies op maat met de Wifi Tuner</h3>
+						<p>Slechte wifi-verbinding in sommige delen van je huis? Met de Wifi Tuner van KPN is dat verleden tijd. Je kunt dan zelf overal de wifi check doen én de wifi-kwaliteit in elke ruimte verbeteren!</p>
+				<div class="template-item-link list-links">
+							<a href="https://www.kpn.com/beleef/internet/wifi-tuner-wifi-verbeteren.htm?icid=content3-wifituner">Doe de check</a>
+				</div>
+			</div>
+		</div>
+	</div>
+    </div>
+</div></div>
+</div><div class="spacer-wrap">
+    <div class="row">
+    <div class="col-xs-12 template-elements">
+        	<div class="template-item navigation-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white border ">
+		    			<div class="navigation-block-image ">
+		    				<a href="https://www.kpn.com/service/storingen.htm?icid=service1-storing"><img src="/upload_mm/3/a/a/30004_fullimage_180920-homepage-visuals-297x80px-1-fullimage-icoon-huipnodig.png" alt="" class=""></a>
+		    			</div>
+				<div class="template-item-content text-center">
+							<h3 class="font-weight-bold ">Hulp nodig?</h3>
+				<div class="template-item-link list-links">
+							<a href="https://www.kpn.com/service/storingen.htm?icid=service1-storing">Instellingen en problemen</a>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="template-item navigation-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white border ">
+		    			<div class="navigation-block-image ">
+		    				<a href="https://www.kpn.com/w3/vind-een-winkel"><img src="/upload_mm/7/9/2/30006_fullimage_180920-homepage-visuals-297x80px-3-fullimage-icoon-vindeenwinkel.png" alt="" class=""></a>
+		    			</div>
+				<div class="template-item-content text-center">
+							<h3 class="font-weight-bold ">Vind een winkel</h3>
+				<div class="template-item-link list-links">
+							<a href="https://www.kpn.com/w3/vind-een-winkel">Zoek op postcode</a>
+				</div>
+			</div>
+		</div>
+	</div>	<div class="template-item navigation-block col-xs-12 col-sm-6 col-md-4">
+		<div class="template-item-inner bg-white border ">
+		    			<div class="navigation-block-image ">
+		    				<a href="https://www.kpn.com/service.htm?icid=service3-online"><img src="/upload_mm/5/3/9/29987_fullimage_180920-homepage-visuals-297x80px-2-fullimage-icoon-klantenservice.png" alt="" class=""></a>
+		    			</div>
+				<div class="template-item-content text-center">
+							<h3 class="font-weight-bold ">Online klantenservice</h3>
+				<div class="template-item-link list-links">
+							<a href="https://www.kpn.com/service.htm?icid=service3-online">Vraag &amp; antwoord</a>
+				</div>
+			</div>
+		</div>
+	</div>
+    </div>
+</div>
+</div><div class="row gray-background">
+	<div class="col-xs-12"><h2><strong>V</strong><strong>oor ondernemers </strong><br>Het beste netwerk. Ook op kantoor.</h2><div class="row">
+    <div class="col-xs-12 template-elements">
+        <div class="template-item toptask-collapsible-block toptask col-xs-12 col-sm-6 col-md-4">
+    <div class="template-item-inner bg-white">
+        <div class="toptask-collapsible-block-title icon-left">
+           		<div class="kpn-service-icon icon-gradient service-businessman"></div>
+            	<h2>Zakelijk</h2>
+        </div>
+        <div class="template-item-content">
+	            <div class="toptask-list-links">
+	                <ul>
+		                    <li>
+		                        <a href="https://www.kpn.com/zakelijk/internet.htm?icid=hpzm-internet">Zakelijk internet</a>
+		                    </li>
+		                    <li>
+		                        <a href="https://www.kpn.com/zakelijk/mobiel.htm?icid=hpzm-mobiel">Zakelijk mobiel</a>
+		                    </li>
+		                    <li>
+		                        <a href="https://www.kpn.com/zakelijk/telefonie.htm?icid=hpzm-telefonie">Zakelijk vaste telefonie</a>
+		                    </li>
+	                </ul>
+	            </div>
+        </div>
+    </div>
+</div>	<div class="template-item proposition-block col-xs-12 col-sm-6 col-md-8">
+		<div class="template-item-inner bg-white " style="background-image: url('/upload_mm/0/d/3/2691262_1552315342667_CM_home_ZM_wifi_visual_2.jpg');">
+					<div class="proposition-block-title">
+			            <h2 class="font-weight-bold">Wifi in alle hoekjes en gaatjes <span class="font-weight-light"><br>met Zakelijk Internet</span></h2>
+			            <h2 class="font-weight-light"></h2>
+			        </div>
+				<div class="template-item-link ">
+<a class="btn btn-primary" href="https://zakelijk.kpn.com/pakketten/?icid=hpzm-banner-internet">Vergelijk pakketten</a>
+				</div>
+		</div>
+	</div>
+    </div>
+</div></div>
+</div>
+		</div>
+	</div>
+</div></div>
+            <section class="banner bottom_banner" data-editorial-label="BOTTOM BANNER"></section>
+        </div>
+        <div class="footer">
+    <!--googleoff: all-->
+    <div class="container-fluid">
+            <a class="logo" href="//www.kpn.com" title="Internet, televisie, vast bellen en mobiel met 4G netwerk | KPN">
+                    <img src="//www.kpn.com/public/images/footer/kpn-logo.png" alt="KPN Logo" />
+            </a>
+                    <div class="blockWrapperContent">            <div id="sitemap" class="row">
+    <div class="col-xs-6 col-sm-4 col-md-2">
+                <span><a href="https://www.kpn.com/mobiel-shop.htm" title="https://www.kpn.com/mobiel-shop.htm">Mobiele telefoons</a></span>
+        <ul>
+    <li><a href="https://www.kpn.com/mobiel-abonnement.htm" title="https://www.kpn.com/mobiel-abonnement.htm">Telefoon abonnement</a></li>
+    <li><a href="https://www.kpn.com/mobiel-abonnement/sim-only.htm" title="https://www.kpn.com/mobiel-abonnement/sim-only.htm">Sim Only</a></li>
+    <li><a href="https://www.kpn.com/mobiel-abonnement/bundels/buitenland.htm" title="https://www.kpn.com/mobiel-abonnement/bundels/buitenland.htm">Buitenland</a></li>
+    <li><a href="https://www.kpn.com/prepaid.htm" title="https://www.kpn.com/prepaid.htm">Prepaid</a></li>
+    <li><a href="https://www.kpn.com/netwerk/4g.htm" title="https://www.kpn.com/netwerk/4g.htm">4G</a></li>
+    <li><a href="https://mobielshop.kpn.com/mobiel/smartphones" title="https://mobielshop.kpn.com/mobiel/smartphones">Populaire telefoons</a></li>
+    <li><a href="https://www.kpn.com/apple/iphone-xs.htm" title="iPhone Xs en iPhone Xs Max kopen & vergelijken">iPhone Xs en Xs Max</a></li>
+    <li><a href="https://www.kpn.com/apple/iphone-xr.htm" title="iPhone XR kopen & vergelijken">iPhone XR</a></li>
+    <li><a href="https://www.kpn.com/samsung/nieuwe-samsung.htm" title="Nieuwe Samsung">Nieuwe Samsung</a></li>
+    <li><a href="https://www.kpn.com/samsung/galaxy-s10.htm" title="Samsung Galaxy S10">Samsung Galaxy S10</a></li>
+    <li><a href="https://www.kpn.com/samsung/galaxy-s9.htm" title="https://www.kpn.com/samsung/galaxy-s9.htm">Samsung Galaxy S9</a></li>
+    <li><a href="https://mobielshop.kpn.com/mobiel/sony/xperia-xz3/zwart-64gb" title="Sony Xperia XZ3">Sony Xperia XZ3</a></li>
+    <li><a href="https://mobielshop.kpn.com/mobiel/huawei/mate-20-pro/zwart-128gb" title="Huawei Mate20 Pro">Huawei Mate20 Pro</a></li>
+    </ul>
+            </div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+                <span><a href="https://www.kpn.com/internet-tv/" title="https://www.kpn.com/internet-tv/">Internet en TV </a></span>
+        <ul>
+    <li><a href="https://www.kpn.com/internet-tv/" title="https://www.kpn.com/internet-tv/">Pakketten vergelijken</a></li>
+    <li><a href="https://www.kpn.com/internet.htm" title="Wat is KPN Internet?">Internet</a></li>
+    <li><a href="https://www.kpn.com/televisie.htm" title="Digitaal tv-kijken zoals jij het wilt, thuis en onderweg">Interactieve TV</a></li>
+    <li><a href="https://www.kpn.com/televisie/pakketten.htm" title="Extra zenderpakketten voor Interactieve TV">Zenderpakketten</a></li>
+    <li><a href="https://www.kpn.com/televisie/zenders.htm" title="Zenderoverzicht radio en Interactieve TV">Zenderoverzicht</a></li>
+    <li><a href="https://www.kpn.com/bellen.htm" title="Bellen via de vaste lijn van KPN">Vaste telefonie </a></li>
+    <li><a href="https://www.kpn.com/internet/speedtest.htm" title="Speedtest">Speedtest</a></li>
+    <li><a href="https://www.kpn.com/internet.htm" title="Wat is KPN Internet?">Internetopties</a></li>
+    <li><a href="https://www.kpn.com/internet/glasvezel.htm" title="Bekijk en vergelijk Glasvezel Internet van KPN">Glasvezel internet</a></li>
+    <li><a href="https://www.kpn.com/service/televisie/online-tv-kijken.htm" title="Kijk eenvoudig online tv op al je apparaten ">Online tv-kijken</a></li>
+    <li><a href="https://www.kpn.com/televisie/pakketten/pluspakket/bestellen.htm" title="Pluspakket bestellen">Pluspakket</a></li>
+    <li><a href="https://www.kpn.com/televisie/pakketten/fox-sports.htm " title="https://www.kpn.com/televisie/pakketten/fox-sports.htm ">FOX Sports</a></li>
+    <li><a href="https://www.kpn.com/televisie/pakketten/videoland.htm" title="Videoland">Videoland</a></li>
+    <li><a href="https://www.kpn.com/waar-is-alles-in-1.htm" title="Alles-in-1 is veranderd naar Internet en TV ">Waar is Alles-in-1 heen?</a></li>
+    </ul>
+            </div>
+    <div class="clearfix visible-xs-block"></div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+                <span><a href="https://www.kpn.com/compleet.htm" title="KPN Compleet">KPN Compleet</a></span>
+        <ul>
+    <li><a href="https://www.kpn.com/compleet.htm" title="KPN Compleet">Voordelen</a></li>
+    <li><a href="https://campagnes.kpn.com/krijg-meer/kpn-compleet/prive" title="https://campagnes.kpn.com/krijg-meer/kpn-compleet/prive">Aanmelden</a></li>
+    <li><a href="https://www.kpn.com/overstapwekker.htm" title="https://www.kpn.com/overstapwekker.htm">Overstapwekker</a></li>
+    </ul>
+            </div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+                <span><a href="https://www.kpn.com/service.htm" title="https://www.kpn.com/service.htm">Service &amp; Contact</a></span>
+        <ul>
+    <li><a href="https://www.kpn.com/service/administratie/facturen.htm" title="https://www.kpn.com/service/administratie/facturen.htm">Facturen</a></li>
+    <li><a href="https://www.kpn.com/service/administratie/wijzigen.htm" title="https://www.kpn.com/service/administratie/wijzigen.htm">Wijzigen</a></li>
+    <li><a href="https://www.kpn.com/service/administratie/verhuizen.htm" title="https://www.kpn.com/service/administratie/verhuizen.htm">Verhuizen</a></li>
+    <li><a href="https://www.kpn.com/service/administratie/overstappen.htm" title="https://www.kpn.com/service/administratie/overstappen.htm">Overstappen</a></li>
+    <li><a href="https://www.kpn.com/service/storingen.htm" title="https://www.kpn.com/service/storingen.htm">Problemen &amp; storingen</a></li>
+    <li><a href="https://www.kpn.com/service/internet/veilig-internetten.htm" title="https://www.kpn.com/service/internet/veilig-internetten.htm">Veilig internetten</a></li>
+    <li><a href="https://www.kpn.com/service/administratie.htm" title="https://www.kpn.com/service/administratie.htm">Administratie</a></li>
+    <li><a href="https://www.kpn.com/service/administratie/bestelling.htm" title="Bekijk de status van je bestelling">Wijzig of annuleer bestelling</a></li>
+    <li><a href="https://www.kpn.com/vind-een-winkel.htm" title="Vind een winkel bij jou in de buurt">KPN winkels</a></li>
+    <li><a href="https://www.kpn.com/algemeen/cookies.htm" title="https://www.kpn.com/algemeen/cookies.htm">Cookies</a></li>
+    </ul>
+            </div>
+    <div class="clearfix visible-xs-block"></div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+                <span><a href="https://account.kpn.com" title="https://account.kpn.com">MijnKPN</a></span>
+        <ul>
+    <li><a href="https://account.kpn.com" title="https://account.kpn.com">Inloggen</a></li>
+    <li><a href="https://account.kpn.com/#/registration" title="https://account.kpn.com/#/registration">Registreren</a></li>
+    <li><a href="https://account.kpn.com/#/account/forgotpassword" title="https://account.kpn.com/#/account/forgotpassword">Wachtwoord vergeten</a></li>
+    <li><a href="https://www.kpn.com/service/mijnkpn/uitleg.htm" title="https://www.kpn.com/service/mijnkpn/uitleg.htm">Wat is MijnKPN</a></li>
+    <li><a href="https://www.kpn.com/service/mijnkpn/uitleg.htm" title="https://www.kpn.com/service/mijnkpn/uitleg.htm">MijnKPN App</a></li>
+    <li><a href="https://webmail.kpnmail.nl/" title="https://webmail.kpnmail.nl/">Webmail</a></li>
+    </ul>
+            </div>
+    <div class="col-xs-6 col-sm-4 col-md-2">
+                <span><a href="https://overons.kpn" title="https://overons.kpn">Over ons</a></span>
+        <ul>
+    <li><a href="https://overons.kpn/nl/nieuws" title="https://overons.kpn/nl/nieuws">KPN Nieuws</a></li>
+    <li><a href="https://overons.kpn/nl/het-bedrijf" title="https://overons.kpn/nl/het-bedrijf">Het bedrijf</a></li>
+    <li><a href="https://overons.kpn/pers" title="https://overons.kpn/pers">Pers</a></li>
+    <li><a href="https://ir.kpn.com" title="https://ir.kpn.com">Investor Relations</a></li>
+    <li><a href="https://jobs.kpn.com/" title="https://jobs.kpn.com/">Werken bij</a></li>
+    <li><a href="https://www.kpnvandaag.nl" title="https://www.kpnvandaag.nl">KPN Vandaag</a></li>
+    <li><a href="https://forum.kpn.com/" title="https://forum.kpn.com/">Forum</a></li>
+    <li><a href="https://www.kpn.com/beleef.htm" title="Beleef KPN">Beleef KPN - blog</a></li>
+    </ul>
+            </div>
+</div></div>
+            <div id="social" class="row text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="https://www.facebook.com/kpn" rel="noreferrer noopener" target="_blank">
+                            <span class="kpn-icon kpn-logo-facebook" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/user/KPN" rel="noreferrer noopener" target="_blank">
+                            <span class="kpn-icon kpn-logo-youtube" aria-hidden="true"></span>
+                       </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/kpn" rel="noreferrer noopener" target="_blank">
+                            <span class="kpn-icon kpn-logo-linkedin" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/kpn" rel="noreferrer noopener" target="_blank">
+                            <span class="kpn-icon kpn-logo-twitter" aria-hidden="true"></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+                    <div id="footer-links" class="row text-center">
+      <ul class="list-inline">
+            <li>
+               <a href="/algemeen/alle-voorwaarden.htm">Alle voorwaarden</a>
+            </li>
+            <li>
+               <a href="https://www.kpn.com/algemeen/missie-en-privacy-statement.htm">Privacy</a>
+            </li>
+            <li>
+               <a href="/algemeen/security.htm">Security</a>
+            </li>
+            <li>
+               <a href="https://www.kpn.com/algemeen/missie-en-privacy-statement/security-vulnerability/report-security-vulnerability.htm">Report Vulnerability</a>
+            </li>
+            <li>
+               <a href="https://www.kpn.com/algemeen/missie-en-privacy-statement/beveiligingskwetsbaarheid/beveiligingskwetsbaarheid-melden.htm">Beveiligingslek melden</a>
+            </li>
+            <li>
+               <a href="/algemeen/over-kpn.htm">Over KPN</a>
+            </li>
+      </ul>
+   </div>
+    </div>
+    <!--googleon: all-->
+</div>
+        <script>
+    // Picture element HTML shim|v it for old IE (pairs with Picturefill.js)
+    document.createElement("picture");
+</script>
+<script type="text/javascript">
+	var contextPath = "/w3";
+</script>
+<!-- Start FreeStyle -->
+
+<!-- End FreeStyle -->
+<script>
+                            require(['common/helpers'], function (helpers) {
+                                if(helpers.userAgent.isAndroid()) {
+                                    require(['modules/smartappbanner'], function (smartappbanner) {
+                                        smartappbanner.init({
+                                            appName: 'MijnKPN',
+                                            brand: 'KPN B.V.',
+                                            button: 'Bekijk',
+                                            text: 'Altijd bij de hand',
+                                            price: 'Download',
+                                            icon: '/public/images/content/smartappbanner/mijnkpn-144x144.png'
+                                        });
+                                    });
+                                }
+                            });
+                        </script>
+                     <!-- start DTM metadata -->
+                        <script>
+                            digitalData = {
+                                page: {
+                                    pageInfo: {
+                                        pageName: 'prive',
+                                        pageSection: '',
+                                        pageMarket: 'cm'
+                                    },
+                                    category: {
+                                        contentType: 'home'
+                                    },
+                                    attributes: {
+                                        modificationDate: '20190327',
+                                        stackType: 'xc',
+                                        kpnEmployeeLogin: 'false',
+                                        companyName: '',
+                                        companyvCode: ''
+                                    }
+                                }
+                            }
+                        </script>
+                    
+            
+                <script type="text/javascript">_satellite.pageBottom();</script>
+            
+                <script type="text/javascript">
+                    var kpnMflow = {
+                        bcLevel: function () {
+                            return kpnBCUtil.getLevel();
+                        },
+                        getCookie: function (cname) {
+                            var name = cname + "=";
+                            var ca = document.cookie.split(';');
+                            for (var i = 0; i < ca.length; i++) {
+                                var c = ca[i];
+                                while (c.charAt(0) == '')
+                                    c = c.substring(1);
+                                if (c.indexOf(name) != -1)
+                                    return c.substring(name.length, c.length);
+                            }
+                            return "";
+                        }
+                    };
+                    // the page you would like to create a custom recording rate for
+                    if (window.location.pathname.indexOf('/service') > -1) {
+                        var mfRate = parseInt((Math.random() * 100)) % 10;
+                    } else {
+                        var mfRate = 1;
+                    }
+                    if (kpnMflow.bcLevel() === 'optimaal' && (mfRate == 0 || kpnMflow.getCookie('mf_user'))) {
+                        var mouseflowPath = document.domain + document.location.pathname;
+                        var _mfq = _mfq || [];
+                        (function () {
+                            var mf = document.createElement("script");
+                            mf.type = "text/javascript";
+                            mf.async = true;
+                            mf.src = "//cdn.mouseflow.com/projects/598ed7d6-e2d5-470e-ad57-21a39dc791cd.js";
+                            document.getElementsByTagName("head")[0].appendChild(mf);
+                        })();
+                        //link mouseflow and optimizely
+                        if (window["optimizely"] && window["optimizely"]["data"]) {
+                            var activeExperiments = window['optimizely'].data.state.activeExperiments;
+                            var experimentVariationNames = "";
+                            var _mfq = _mfq || [];
+                            for (var i = 0; i < activeExperiments.length; i++) {
+                                var experimentId = activeExperiments[i];
+                                var variationName = window['optimizely'].data.state.variationNamesMap[experimentId];
+                                var experimentName = window['optimizely'].data.experiments[experimentId].name;
+                                experimentVariationNames += (experimentVariationNames != "" ? "/" : "") + experimentName + ":" + variationName;
+                                _mfq.push(["setVariable", "optimizely_" + experimentName, variationName]);
+                            }
+                            if (experimentVariationNames != "") {
+                                window.mouseflowPath = window.location.pathname + "/" + experimentVariationNames;
+                            }
+                        }
+                    }
+                </script>
+    </body>
+</html>

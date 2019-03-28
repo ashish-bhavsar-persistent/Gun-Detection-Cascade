@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+		
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+            
+                
+    
+        
+                    
+                            
+                            
+                            
+                
+                    
+                            
+                            
+                            
+                
+    
+            
+        
+                        
+            
+      
+    
+        
+    
+        
+    
+       
+    
+            
+        
+    
+                
+                    
+                    
+                    
+                    
+                    
+        
+                
+                    
+                    
+                    
+                    
+                    
+                    
+        
+		
+		
+		
+		
+		
+		
+	<head>
+		<meta charset="utf-8"/>
+		<meta content="width=device-width, initial-scale=1" name="viewport"/>
+		<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+		<title>
+			
+
+
+
+    Departments - 
+
+			University Communications -  University of San Diego
+		</title>
+		
+		
+		
+    
+        
+            
+            
+        
+    <link href="https://www.sandiego.edu/communications/departments/" rel="canonical"/>
+
+		<meta name="department" content="University Communications">		
+    <link href="//www.sandiego.edu/2015/global/styles/icomoon.css" rel="stylesheet"/>
+    <link href="//www.sandiego.edu/2015/global/styles/global.css" rel="stylesheet"/>
+    <link href="//www.sandiego.edu/2015/mypostings/styles/mypostings.css" rel="stylesheet"/>
+    <link href="//www.sandiego.edu/_common/css/2015/print.css" rel="stylesheet"/>
+        
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if IE 9]>
+        <link href="//www.sandiego.edu/2015/global/styles/ie9.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if lte IE 8]>
+        <link href="//www.sandiego.edu/2015/global/styles/ie8.css" rel="stylesheet">
+    <![endif]-->
+
+		
+		
+		
+		
+		
+    <!-- build:js scripts/vendor/modernizr.js -->
+    <script src="//www.sandiego.edu/2015/global/scripts/vendor/modernizr.js"></script>
+    <!-- endbuild -->
+    
+    <!-- build:js scripts/vendor.js -->
+    <script src="//www.sandiego.edu/2015/global/scripts/vendor/jquery.js"></script>
+    <!-- endbuild -->
+    
+    <!-- used for charts -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+    <script src="//www.sandiego.edu/2015/charts/USDchart.js"></script>
+
+    <!-- Begin New Directory -->
+ 	<link href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet"/>
+ 	<script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+ 	
+ 	<!-- Weather widget -->
+ 	<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
+ 	<script src="//www.sandiego.edu/2015/weather/weather.js"></script>
+
+    <style>
+    .clearable{
+	  background: #fff url(https://www.sandiego.edu/2015/directory/images/mJotv.png) no-repeat right -10px center !important;
+	  border: 1px solid #999 !important;
+	  padding: 3px 18px 3px 4px !important !important;     /* Use the same right padding (18) in jQ! */
+	  border-radius: 3px;
+	  transition: background 0.4s !important;
+	}
+	.clearable.x  { background-position: right 5px center!important; z-index: 999; } /* (jQ) Show icon */
+	.clearable.onX{ cursor: pointer !important; }              /* (jQ) hover cursor style */
+	.clearable::-ms-clear {display: none !important; width:0 !important; height:0 !important;} /* Remove IE default X */
+    </style>
+    <!-- End Directory -->
+
+
+		
+    <script src="//use.typekit.net/lqp2ckk.js"></script>
+    <script type="text/javascript">
+        try {
+            Typekit.load();
+        } catch(e) {
+        }
+    </script>
+
+		
+		
+		
+		
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4570549-1', 'sandiego.edu');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+
+		
+		
+		
+	</head>
+	<body class="department">
+		<!--stopindex-->
+		
+	
+		
+		
+		<div id="header-nav-wrapper">
+            <header class="header server-www">
+                <div class="row collapse">
+                    <div class="small-8 medium-6 large-7 columns wrapper">
+                        <!-- Logo -->
+                        <div class="logo">
+                            <a href="//www.sandiego.edu/">
+                                <img src="//www.sandiego.edu/2015/global/images/logos/logo-reverse-immaculata.png" alt="USD Logo"></a>
+                        </div>
+                    </div>
+                    <div id="main-menu" class="small-4 medium-3 large-2 xlarge-push-4 columns wrapper">
+                        <!-- Nav Trigger -->
+                        <a class="cd-primary-nav-trigger" href="#">
+                            <span class="cd-menu-icon"></span>
+                            <span class="cd-menu-text">Menu</span>
+                        </a>
+                    </div>
+                </div>
+            </header><div class="nav-bg"></div>
+            <nav class="nav-global" id="site-menu">
+			<div class="cd-primary-nav">
+				<button class="skip">Skip Global Menu</button>
+				<!-- Dashboard Inner Wrapper -->
+				<div class="row">
+					<!-- Primary Links -->
+					<div id="primary" class="columns">
+						<div class="row">
+							<div id="mainlinks" class="columns" role="region" aria-label="Menu">
+								<h2><span>Discover USD</span></h2>
+								<ul class="menu-main" role="menubar" aria-label="Top Links Menu">
+									<li class="menuitem" role="menuitem" aria-label="Academics">
+									    <a href="//www.sandiego.edu/academics/">Academics <span class="icon icon-angle-right"></span><p>College &amp; Schools and Academic Programs</p></a>
+									    <span aria-label="open" class="nav-toggle icon icon-plus5"><span class="show-for-sr">Open</span></span>
+									    <div class="dropmenu extended">
+									        <div class="col main">
+				                                <button class="skip2">Skip to Admissions Menu</button>
+									            <dl>
+									                <dd><a href="//www.sandiego.edu/academics/majors-and-minors/">Majors and Minors</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/graduate-programs.php">Graduate Programs</a></dd>
+									                <dd><a href="https://catalogs.sandiego.edu/">Course Catalogs</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/study-abroad.php">Study Abroad</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/meet-our-faculty/">Meet Our Faculty</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/centers-and-institutes.php">Centers and Institutes</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/libraries.php">Libraries</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/research-and-scholarship/">Student and Faculty Research</a></dd>
+                                                </dl>
+                                            </div>
+									        <div class="col secondary">
+									            <dl class="col">
+									                <dt><a href="//www.sandiego.edu/academics/colleges-and-schools/">College and Schools</a></dt>
+									                <dd><a href="//www.sandiego.edu/cas/">Arts and Sciences</a></dd>
+									                <dd><a href="//www.sandiego.edu/business/">Business</a></dd>
+									                <dd><a href="//www.sandiego.edu/engineering/">Engineering</a></dd>
+									                <dd><a href="//www.sandiego.edu/law/">Law</a></dd>
+                                                </dl>
+									            <dl class="col no-title">
+									                <dd><a href="//www.sandiego.edu/soles/">Leadership and Education</a></dd>
+									                <dd><a href="//www.sandiego.edu/nursing/">Nursing and Health Science</a></dd>
+									                <dd><a href="//www.sandiego.edu/peace/">Peace Studies</a></dd>
+									                <dd><a href="//pce.sandiego.edu">Continuing Education</a></dd>
+                                                </dl>
+									            <dl class="related">
+									                <dt><span>Related Links</span></dt>
+									                <dd><a href="//www.sandiego.edu/core/">Liberal Arts Core</a></dd>
+									                <dd><a href="//www.sandiego.edu/mission/about-us/catholic-identity.php">Catholic Intellectual Tradition</a></dd>
+									                <dd><a href="//www.sandiego.edu/careers/">Career Development Center</a></dd>
+									                <dd><a href="//www.sandiego.edu/academics/franciscan-school-of-theology.php">Franciscan School of Theology (Affiliation)</a></dd>
+                                                </dl>
+                                            </div>
+                                        </div>    
+									</li>
+									<li class="menuitem" role="menuitem" aria-label="Admissions">
+									    <a href="//www.sandiego.edu/admissions/">Admissions <span class="icon icon-angle-right"></span><p>Tuition, Fees and Scholarships</p></a>
+									    <span aria-label="open" class="nav-toggle icon icon-plus5"><span class="show-for-sr">Open</span></span>
+									    <div class="dropmenu">
+									        <div class="col main">
+				                                <button class="skip2">Skip to Campus Life Menu</button>
+									            <dl>
+									                <dd><a href="//www.sandiego.edu/admissions/why-usd.php">Why USD?</a></dd>
+									                <dd><a href="//www.sandiego.edu/admissions/undergraduate/">Undergraduate</a></dd>
+									                <dd><a href="//www.sandiego.edu/admissions/graduate/">Graduate</a></dd>
+									                <dd><a href="//www.sandiego.edu/law/admissions/">Law</a></dd>
+									                <dd><a href="//www.sandiego.edu/admissions/tuition-and-financial-aid.php">Tuition and Financial Aid</a></dd>
+									                <dd><a href="//www.sandiego.edu/admissions/undergraduate/tuition-financial-aid/scholarships.php">Scholarships</a></dd>
+									                <dd><a href="//www.sandiego.edu/admissions/student-success.php">Student Success</a></dd>
+                                                </dl>
+                                            </div>
+									        <div class="col secondary">
+									            <dl class="related">
+									                <dt><span>Related Links</span></dt>
+									                <dd><a href="//www.sandiego.edu/careers/">Career Development Center</a></dd>
+									                <dd><a href="//tour.sandiego.edu/">Virtual Tour</a></dd>
+									                <dd><a href="//www.sandiego.edu/visit/">Visit USD</a></dd>
+                                                </dl>
+                                            </div>
+                                        </div>    
+									</li>
+									<li class="menuitem" role="menuitem" aria-label="Campus Life">
+									    <a href="//www.sandiego.edu/campus-life/">Campus Life <span class="icon icon-angle-right"></span><p>Student Activities, Clubs and Athletics</p></a>
+									    <span aria-label="open" class="nav-toggle icon icon-plus5"><span class="show-for-sr">Open</span></span>
+									    <div class="dropmenu">
+									        <div class="col main">
+				                                <button class="skip2">Skip to Faith and Service Menu</button>
+									            <dl>
+									                <dd><a href="//www.sandiego.edu/campus-life/get-involved/">Get Involved</a></dd>
+									                <dd><a href="//www.sandiego.edu/campus-life/residential-life-and-housing.php">Residential Life and Housing</a></dd>
+									                <dd><a href="//www.sandiego.edu/cas/learning-communities/">Learning Communities</a></dd>
+									                <dd><a href="//www.sandiego.edu/campus-life/clubs-and-organizations.php">Clubs and Organizations</a></dd>
+									                <dd><a href="//www.sandiego.edu/campus-life/dining.php">Dining</a></dd>
+									                <dd><a href="//www.sandiego.edu/campus-life/health-and-wellness.php">Health and Wellness</a></dd>
+                                                </dl>
+                                            </div>
+									        <div class="col secondary">
+									            <dl class="related">
+									                <dt><span>Related Links</span></dt>
+									                <dd><a href="//usdtoreros.com/">Torero Athletics</a></dd>
+									                <dd><a href="//www.sandiego.edu/events/">Upcoming Events</a></dd>
+									                <dd><a href="//tour.sandiego.edu/">Virtual Tour</a></dd>
+                                                </dl>
+                                            </div>
+                                        </div>
+									</li>
+									<li class="menuitem" role="menuitem" aria-label="Faith and Service">
+									    <a href="//www.sandiego.edu/faith-and-service/">Faith and Service <span class="icon icon-angle-right"></span><p>Our Foundation and Our Future</p></a>
+									    <span aria-label="open" class="nav-toggle icon icon-plus5"><span class="show-for-sr">Open</span></span>
+									    <div class="dropmenu">
+									        <div class="col main">
+				                                <button class="skip2">Skip to About Menu</button>
+									            <dl>
+									                <dd><a href="//www.sandiego.edu/faith-and-service/catholic-identity.php">Catholic Identity</a></dd>
+									                <dd><a href="//www.sandiego.edu/ministry/">University Ministry</a></dd>
+									                <dd><a href="//www.sandiego.edu//ministry/service-and-social-justice/">Community Service Learning</a></dd>
+                                                </dl>
+                                            </div>
+									        <div class="col secondary">
+									            <dl class="related">
+									                <dt><span>Related Links</span></dt>
+									                <dd><a href="//www.sandiego.edu/mission/about-us/catholic-identity.php">Catholic Intellectual Tradition</a></dd>
+									                <dd><a href="//www.sandiego.edu/ccs/">Center for Christian Spirituality</a></dd>
+									                <dd><a href="//www.sandiego.edu/cctc/">Center for Catholic Thought and Culture</a></dd>
+                                                </dl>
+                                            </div>
+                                        </div>        
+									</li>
+									<li class="menuitem" role="menuitem" aria-label="About USD">
+									    <a href="//www.sandiego.edu/about/">About <span class="icon icon-angle-right"></span><p>History, Vision and Rankings</p></a>
+									    <span aria-label="open" class="nav-toggle icon icon-plus5"><span class="show-for-sr">Open</span></span>
+									    <div class="dropmenu stack">
+									        <div class="col main">
+				                                <button class="skip2">Skip to Information for Menu</button>
+									            <dl>
+									                <dd><a href="//www.sandiego.edu/about/fast-facts.php">Fast Facts</a></dd>
+									                <dd><a href="//www.sandiego.edu/about/mission-vision-values.php">Mission, Vision and Values</a></dd>
+									                <dd><a href="//www.sandiego.edu/about/history.php">History</a></dd>
+									                <dd><a href="//www.sandiego.edu/about/rankings-and-recognition.php">Rankings and Recognition</a></dd>
+									                <dd><a href="//www.sandiego.edu/envisioning-2024/">Strategic Plan: Envisioning 2024</a></dd>
+									                <dd><a href="//www.sandiego.edu/about/leadership/">Leadership</a></dd>
+                                                </dl>
+                                            </div>
+									        <div class="col secondary">
+									            <dl class="related">
+									                <dt><span>Related Links</span></dt>
+									                <dd><a href="//www.sandiego.edu/admissions/why-usd.php">Why USD?</a></dd>
+									                <dd><a href="//www.sandiego.edu/news/">USD News Center</a></dd>
+									                <dd><a href="//www.sandiego.edu/directory/">Directory</a></dd>
+									                <dd><a href="//www.sandiego.edu/facts/heoa/">Student Consumer Information (HEOA)</a></dd>
+                                                </dl>
+                                            </div>
+                                        </div>
+									</li>
+								</ul>
+							</div>
+							<!-- End Secondary CTAs -->
+							<div id="audience-menu" class="columns">
+								<h2><span>Information for</span></h2>
+								<ul class="menu-audience" role="menubar" aria-label="Additional Links Menu">									
+                                    <li role="menuitem" aria-label="Students"><a href="//www.sandiego.edu/information-for/students.php">Students</a></li>
+                                    <li role="menuitem" aria-label="Parents"><a href="//www.sandiego.edu/information-for/parents.php">Parents</a></li>
+                                    <li role="menuitem" aria-label="Alumni"><a href="http://toreronetwork.sandiego.edu/">Alumni</a></li>
+                                    <li role="menuitem" aria-label="Faculty"><a href="//www.sandiego.edu/information-for/faculty.php">Faculty</a></li>
+                                    <li role="menuitem" aria-label="Staff"><a href="//www.sandiego.edu/information-for/staff.php">Staff</a></li>
+								</ul>
+							</div>
+							<div id="torero-links" class="columns">
+								<h2><span>Torero Links</span></h2>
+                                <ul class="resources-slider visible-links" role="menubar" aria-label="Torero Links Menu">
+                                    <li class="resource" role="menuitem">
+                                        <a href="//my.sandiego.edu/">
+                                            <span class="icon icon-MySanDiego" aria-label="MySanDiego"></span>
+                                            <span class="caption">MySanDiego</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="http://toreromail.sandiego.edu/">
+                                            <span class="icon icon-mail" aria-label="Email"></span>
+                                            <span class="caption">Email</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="//ole.sandiego.edu/">
+                                            <span class="icon icon-BBoard" aria-label="Blackboard"></span>
+                                            <span class="caption">Blackboard</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="//www.sandiego.edu/directory/">
+                                            <span class="icon icon-users8" aria-label="Directory"></span>
+                                            <span class="caption">Directory</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="http://www.usdtoreros.com">
+                                            <span class="icon"><img src="//www.sandiego.edu/2015/global/images/logos/sports.svg" alt="Athletics" aria-label="Athletics"></span>
+                                            <span class="caption">Athletics</span>
+                                        </a>
+                                    </li>
+                                    <li class="more-btn">
+                                        <a href="#">
+                                            More <div class="icon icon-caret-down"></div>
+                                        </a>
+                                    </li>                                
+                                    <li class="resource" role="menuitem">
+                                        <a href="//www.sandiego.edu/academic-calendars/">
+                                            <span class="icon icon-calendar2" aria-label="Calendar"></span>
+                                            <span class="caption">Calendar</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="//www.sandiego.edu/academics/libraries.php">
+                                            <span class="icon icon-library2" aria-label="Libraries"></span>
+                                            <span class="caption">Libraries</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="//www.usdtorerostores.com/">
+                                            <span class="icon icon-book9" aria-label="Bookstore"></span>
+                                            <span class="caption">Bookstore</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="//www.sandiego.edu/maps">
+                                            <span class="icon icon-location22" aria-label="Maps"></span>
+                                            <span class="caption">Maps</span>
+                                        </a>
+                                    </li>
+                                    <li class="resource" role="menuitem">
+                                        <a href="//www.sandiego.edu/safety">
+                                            <span class="icon icon-shield5" aria-label="Public Safety"></span>
+                                            <span class="caption">Public Safety</span>
+                                        </a>
+                                    </li>
+                                </ul>
+							</div>
+						</div>
+					</div>
+					<!-- End Primary Links -->
+					<!-- End Dashboard Inner Wrapper -->
+				</div>
+				<!-- Secondary CTAs -->
+				<div id="secondary" class="columns">
+					<div class="row collapse">
+						<div class="small-12 columns">
+							<div id="nav-cta" class="row collapse" data-equalizer role="menubar" aria-label="Quick Links">
+								<div id="apply" class="small-4 columns links" data-equalizer-watch role="menuitem" aria-label="Apply Now">
+									<a href="//www.sandiego.edu/admissions/">
+										<span class="icon icon-pencil7"></span>
+										<span class="text">Apply</span>
+									</a>
+								</div>
+								<div class="small-4 columns links" data-equalizer-watch role="menuitem" aria-label="Visit">
+									<a href="//www.sandiego.edu/visit/">
+										<span class="icon icon-location-pin"></span>
+										<span class="text">Visit</span>
+									</a>
+								</div>
+								<div id="gift" class="small-4 columns links" data-equalizer-watch role="menuitem" aria-label="Make a Gift">
+									<a href="//www.sandiego.edu/giving/">
+										<span class="icon icon-gift3"></span>
+										<span class="text">Give</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+                <div class="search-2 row">
+                    <div id="main-search" class="small-12 medium-4 large-3 xlarge-3 xlarge-pull-1 columns wrapper">
+                        <div id="sb-search" class="sb-search"><form class="search icon icon-search3" role="search" onsubmit="if(document.getElementById('sb-filter') !== null){ document.getElementById('sbFilterId').value=document.querySelector('input[name=sbFilterSelect]:checked').value; document.getElementById('sbFilterId').setAttribute('name', document.querySelector('input[name=sbFilterSelect]:checked').getAttribute('sbcustomname')); }" action="https://search.sandiego.edu/searchblox/usd/index.jsp" method="GET">
+                <input type="text" id="search" class="terms sb-search-input clearable-nav-search" autocomplete="off" maxlength="60" placeholder="SEARCH" aria-label="Search sandiego.edu" name="query">
+                <input type="hidden" name="sort" value="relevance">
+                <input type="hidden" name="xsl" value="json">
+                <input type="hidden" name="facet" value="on">
+                <input type="hidden" name="page" value="1">
+                <input type="hidden" name="filter" value="(contenttype:html^100 OR *)">
+                <input type="hidden" name="facet.field" value="school">
+                <input type="hidden" name="facet.field" value="department">
+                <input type="hidden" name="facet.field" value="newsevents">
+                <input type="hidden" name="facet.field" value="contenttype">
+                <input type="hidden" name="col" value="1">
+                <input type="hidden" name="col" value="3">
+                <input type="hidden" name="col" value="4">
+                <input type="hidden" name="col" value="6">
+                <input type="hidden" name="col" value="7">
+                <input type="hidden" name="col" value="11">
+                <input type="hidden" name="tune" value="false"><!--Enables or disables relevance tuning. true or false -->
+                <input type="hidden" name="tune.0" value="25"><!--Weight used to increase relevance of document if search query appears in document title. 1 to 100-->
+                <input type="hidden" name="tune.1" value="10"><!--Weight used to increase relevance of document if search query appears in document description. 1 to 100-->
+                <input type="hidden" name="tune.2" value="2"><!--Weight used to increase relevance of document if search query appears in keywords meta field. 1 to 100-->
+                <input type="hidden" name="tune.3" value="10"><!--Weight used to increase relevance of document if search query appears in document url. 1 to 100-->
+                <input type="hidden" name="tune.4" value="730"><!--Documents within 730 days are ranked higher than older documents. This sets the time period (in days) after which the relevance of documents decreases based on the document last modified date. Number of Days-->
+                <input type="hidden" name="tune.5" value="12"><!--Shorter urls will be ranked higher than longer urls based on length. 1 to 100-->
+                <input type="hidden" name="q_all" value="">
+                <input type="hidden" name="q_phr" value="">
+                <input type="hidden" name="q_low" value="">
+                <input type="hidden" name="q_not" value="">
+                <input type="hidden" id="sbFilterId" value="">
+                <input type="submit" value="Submit" id="search-main-submit" class="postfix gsa_search_button sb-search-submit">             
+                <span class="sb-icon-search icon icon-search3"><span class="show-for-sr">Search</span></span>
+            </form>
+                    </div>
+                    <div class="search-help">
+                        <button class="skip">Skip popular search navigation</button>
+                        
+                        <div class="pop-search">
+                            <h3>Popular USD Searches:</h3>
+                            <ul>
+                                <li><a href="//www.sandiego.edu/academics/academic-programs/majors.php">majors</a></li>
+                                <li><a href="//www.sandiego.edu/jobs/">jobs</a></li>
+                                <li><a href="http://www.usdtoreros.com/">athletics</a></li>
+                                <li><a href="//www.sandiego.edu/academic-calendars/">academic calendar</a></li>
+                                <li><a href="//www.sandiego.edu/admissions/tuition-and-fees.php">tuition</a></li>
+                                <li><a href="//www.sandiego.edu/registrar/transcripts-diplomas/transcripts.php">transcripts</a></li>
+                                <li><a href="//www.sandiego.edu/international/study-abroad/">study abroad</a></li>
+                                <li><a href="//www.sandiego.edu/residentiallife/">housing</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div></div><!-- header-nav-wrapper -->		
+		
+    
+
+
+
+
+
+
+<div id="site-banner" style="background-image:url(/communications/images/banners/2015/banner1-canyon.jpg)" role="img" aria-label="Immaculata - canyon view" class="has-banner"><div class="row"><div class="columns"><p class="site-name has-banner"></p></div></div></div>		
+    
+
+
+
+<nav class="nav-top">
+    <div class="row">
+        <div class="site-name  small-9 medium-5 large-4 xlarge-3 columns">
+                
+            <!--start and stop indexes are for searchblox -->
+            <!--startindex-->
+            <a href="/communications/"><p class="medium">University Communications</p></a> 
+            <!--stopindex--> 
+        </div>
+        <div class="navigation small-3 medium-7 large-8 xlarge-9 columns">
+            <button class="skip">Skip to page content</button>
+            <p class="more"><a class="show-for-xlarge-down left-off-canvas-toggle" href="#" id="toggle-top-nav"><span class="nav-more">More</span> <span aria-label="toggle" class="icon icon-dots-three-vertical"><span class="show-for-sr">toggle menu</span></span></a></p>
+            <div class="greedy-nav show-for-large-up columns">
+                <ul aria-label="domain navigation" class="visible-links" role="menu">
+                                                                        
+                                                                                                        
+                        <li role="menuitem">   
+                           
+                                                
+                                                                <a class="open" href="index.php">Departments</a>
+                                                    </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">   
+                           
+                                                
+                                                                <a href="https://www.sandiego.edu/brand/">USD Brand</a>
+                                                    </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">   
+                           
+                                                
+                                                                <a href="../news-facts/">News and Facts</a>
+                                                    </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">   
+                           
+                                                
+                                                                <a href="../resources/">Guidelines and Resources</a>
+                                                    </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">   
+                           
+                                                
+                                                                <a href="../staff-directory.php">Contact</a>
+                                                    </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">   
+                           
+                                                
+                                                                <a href="https://www.sandiego.edu/communications/departments/prf/prf_services.php">Project Request</a>
+                                                    </li>
+                                     </ul>
+                <button>More</button>
+                <ul aria-label="responsive navigation" class="hidden-links hidden" role="navigation"></ul>
+            </div>
+        </div>
+    </div>
+</nav>
+		<!--startindex-->
+		<div class="container row">
+			<div class="content-wrapper small-12 columns">
+				<div class="row">
+					<div class="content-wrapper-inner columns">
+						<section class="row" id="content">
+							<div class="columns">
+								
+							</div>
+							<div class="page-content-wrapper columns">
+								<div class="row">
+								    <!--stopindex-->
+									
+        
+    
+        
+        
+            
+            
+    
+    <div class="row" id="breadcrumbs-row">
+        <div class="columns">
+            <p class="breadcrumb">
+                                                                        
+    
+                                                                 
+                                                     <a href="/communications/"><span aria-label="home" class="icon icon-home22"><span class="show-for-sr">Home</span></span></a>  &gt; 
+                                                                                                    
+    
+                                                                                            
+                                                                                                 <span class="current">Departments</span>
+                                                </p>
+        </div>
+    </div>
+
+									<!--startindex-->
+									<div class="off-canvas-wrap" data-offcanvas="">
+										<div class="inner-wrap">
+										    <!--stopindex-->
+											
+
+
+    
+											
+											
+											
+        
+    <span class="nodisplay" id="viewport-width"></span>
+<span class="nodisplay" id="show-menu">Yes</span>
+
+    
+<nav class="large-3 xlarge-2 columns wide" id="nav-side">
+    <button class="skip">Skip navigation and go to page main content</button>
+    
+                            
+                                        
+                                    <ul aria-label="side navigation" class="accordion navigation" role="menu">
+                        <li role="menuitem">   
+               
+                
+                        
+                                        
+            
+    <a class="open active expanded" href="index.php">Departments</a>
+                    
+                                                                <span aria-label="close" class="icon icon-minus5"><span class="show-for-sr">Close</span></span>
+                                                        
+                                                <ul style="display:block;">
+                                                                                                    
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                                                
+                                    
+                    
+        <a href="https://www.sandiego.edu/communications/departments/#community-gov" target="_blank">Community and Government Relations</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                                                    
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                                                
+                                    
+                    
+        <a href="https://www.sandiego.edu/communications/departments/#digital-comm" target="_blank">Digital Communications and Institutional Marketing</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                                                    
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                                                
+                                    
+                    
+        <a href="https://www.sandiego.edu/communications/departments/#media-comm" target="_blank">Media Communications</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                                                    
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                                                
+                                    
+                    
+        <a href="https://www.sandiego.edu/communications/departments/#publications" target="_blank">University Publications</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                    </ul>
+                             </li>
+                    
+                                                   
+                                        
+                                <li role="menuitem">   
+               
+                
+                        
+                                                                                                            
+                            
+                    
+        <a href="https://www.sandiego.edu/brand/" target="_blank">USD Brand</a>
+                        
+                                                                                                        
+                                             </li>
+                    
+                            
+                                        
+                                <li role="menuitem">   
+               
+                
+                        
+                                                                                    
+                            
+            
+        <a href="../news-facts/">News and Facts</a>
+                        
+                                                                            <span aria-label="open" class="icon icon-plus5"><span class="show-for-sr">Open</span></span>
+                                                                                
+                                                <ul style="display:none;">
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../news-facts/fact-book.php">Fact Book</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../news-facts/rankings.php">Rankings</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                    </ul>
+                             </li>
+                    
+                            
+                                        
+                                <li role="menuitem">   
+               
+                
+                        
+                                                                                    
+                            
+            
+        <a href="../resources/">Guidelines and Resources</a>
+                        
+                                                                            <span aria-label="open" class="icon icon-plus5"><span class="show-for-sr">Open</span></span>
+                                                                                
+                                                <ul style="display:none;">
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../resources/clc.php">Licensing</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                                                    
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                                                
+                                    
+                    
+        <a href="https://gallery.sandiego.edu/" target="_blank">Photo Gallery</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../resources/preferred-vendors.php">Preferred Vendors</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../resources/filming.php">Filming and Photography on Campus</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../resources/event-channel-marketing.php">USD Marketing Channels</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                                                        
+                                                                                                        
+                        <li role="menuitem">
+                            
+                                                            
+                            
+                                                                
+                                    
+            
+        <a href="../resources/usd-social-media-managers.php">USD Social Media Managers List</a>
+                        
+                                                                                                                        
+                                                                                 </li>
+                                    </ul>
+                             </li>
+                    
+                                       
+                                        
+                                <li role="menuitem">   
+               
+                
+                        
+                                                                                    
+                            
+            
+        <a href="../staff-directory.php">Contact</a>
+                        
+                                                                                                        
+                                             </li>
+                    
+                                                   
+                                        
+                                <li role="menuitem">   
+               
+                
+                        
+                                                                                                            
+                            
+                    
+        <a href="https://www.sandiego.edu/communications/departments/prf/prf_services.php" target="_blank">Project Request</a>
+                        
+                                                                                                        
+                                             </li>
+                            </ul>
+                 
+        </nav>
+											<!--startindex-->
+											
+											
+											
+            
+    
+
+
+
+    <div aria-label="main content" class="large-9 xlarge-10 columns" id="page-content" role="main">    
+
+
+<div class="default-content row">
+    <div class="columns">
+                                
+        <div id="page-title" class="">    
+                <h1>Departments</h1>
+        </div>        
+        
+        
+                    </div>
+</div>
+    
+
+
+
+
+ 
+        
+                     
+                        
+                        
+        <div class="row">
+            <div aria-label="Row 1" role="region">
+        
+                                                
+                                
+            
+    
+    
+
+                                    
+            <div class="small-12 medium-6 large-6 xlarge-8 xxlarge-8 columns">
+                                                            
+       
+                    
+                <content></content>
+                                </div>
+            
+                                
+                <div class="small-12 medium-6 large-6 xlarge-4 xxlarge-4 columns">                    
+                                                                        
+       
+                    
+                <content></content>
+                                        
+                </div>
+                        
+                    
+                                
+            </div>
+        </div><!-- ending this module row -->
+    
+        
+    <div class="row">
+        <div class="columns">
+            <ul class="accordion" data-accordion="AccordionGroup" role="tablist">
+                                                                            
+                                                                        <li class="accordion-navigation" id="accordion1"><a href="#accordion-panel1">University Communications</a>
+                            <div class="content" id="accordion-panel1" role="tab"><h2>Contacts</h2>
+<ul>
+<li>Peter Marlow, Associate Vice President, <a href="mailto:petermarlow@sandiego.edu,">petermarlow@sandiego.edu</a>, (619) 260-7460</li>
+<li>Linda Long, Executive Assistant, <a href="mailto:lindalong@sandiego.edu">lindalong@sandiego.edu</a>, (619) 260-7460</li>
+</ul></div>
+                        </li>
+                                                                                
+                                                                        <li class="accordion-navigation" id="community-gov"><a href="#accordion-panel2">Community and Government Relations</a>
+                            <div class="content" id="accordion-panel2" role="tab"><h2>Who We Are</h2>
+<p>The Office of Community and Government Relations is the primary liaison between University of San Diego and adjacent neighbors, the regional community, elected officials and education associations.</p>
+<p>As an integral division of University Communications, we disseminate information about university events and activities while building civic partnerships and promoting the campus and its facilities as a community resource. The Office of Community and Government Relations is the principal advocate for USD, and comprehensively represents the interests of the university with all levels of government on the municipal, county, state and federal levels.</p>
+<h2>Contacts</h2>
+<ul>
+<li>Malia Pfister, Specialist, <a href="mailto:mpfister@sandiego.edu">mpfister@sandiego.edu</a>, (619) 260-4297</li>
+</ul></div>
+                        </li>
+                                                                                
+                                                                        <li class="accordion-navigation" id="digital-comm"><a href="#accordion-panel3">Digital Communications and Institutional Marketing</a>
+                            <div class="content" id="accordion-panel3" role="tab"><h2>Who We Are</h2>
+<p>As curators of the University of San Diego's web presence, Digital Communications and Institutional Marketing (DCIM) oversees content development for the University of San Diego homepage, the USD News Center and the university's official social media platforms. In addition, we work with Information Technology Services (ITS) to make sure integrated online communications are developed throughout the university.</p>
+<p>Providing updated and accurate information on the USD website is extremely important. Please contact us if you have any questions regarding how you can best use your website to communicate your message.</p>
+<h2>What We Do</h2>
+<p>DCIM focuses on telling the story of USD and keeping the campus informed through various online platforms. Below is a list of digital assets our team manages on behalf of the university, as well as additional online resources available to the USD community:</p>
+<ul>
+<li><a href="https://www.sandiego.edu//news/">USD News Center</a>: We cover USD news and events through stories and photo/video content.</li>
+<li><a href="../torero-weekly/">Torero Weekly</a>: <em>Torero Weekly</em> is a campus-wide email digest of the week's announcements and upcoming events sent every Monday during the academic year.</li>
+<li><a href="https://www.sandiego.edu/connect/social-networking-directory/">Social Media and Blogs</a>: We maintain a list of all USD-affiliated social media pages and blogs. If you have a page that you'd like to see represented here, contact us.</li>
+<li><a href="https://www.sandiego.edu/documents/directory/social_media_guidelines.pdf">Social Media Guidelines</a>: A reference document for beginning a social media presence for departments and how to best engage with other posters and groups.</li>
+<li><a href="http://www.facebook.com/usandiego">Facebook</a>, <a href="https://twitter.com/uofsandiego?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Twitter</a>, <a href="http://instagram.com/uofsandiego">Instagram</a>, <a href="https://webteam.sandiego.edu/uc/social/usd-snapchat.jpg">Snapchat</a> and <a href="http://www.linkedin.com/company/university-of-san-diego">LinkedIn</a>: We manage and maintain the official University of San Diego social media pages. <a href="mailto:dcim@sandiego.edu">Please contact us</a> for more information, or if you have a news or event item that would benefit from posting on one of these social media sites.</li>
+<li><a href="http://www.sandiego.edu/mypostings">MyPostings</a>: Use this online system for promoting your news and events to various portions of the USD website, including the USD homepage, USD News and Events, and departmental or school websites. In addition, this is a great way to let us know of your notable news and events so that we can assist in getting the word out to other portions of the website and media.</li>
+</ul>
+<h2>Additional Digital Resources</h2>
+<ul>
+<li><a href="../resources/event-channel-marketing.php">USD Marketing Channels:</a> An online resource to help determine what university marketing and communication channels can help promote your event.&#160;</li>
+<li><a href="https://usd.webdamdb.com/login.php">USD Gallery</a>: An online database of high-resolution photos is available for the campus community to use on websites or in printed material. Those with a USD username are able to sign up for access to download photos.</li>
+<li><a href="http://www.flickr.com/photos/usandiego/">USD Flickr</a>: An alternative gallery of USD photos contributed by various departments. Please note these may not always be high resolution.</li>
+<li>Video: USD posts videos on a variety of platforms. The main public platform is the&#160;<a href="http://www.youtube.com/uofsandiego">official USD channel on YouTube</a>. Videos are also posted on the&#160;<a href="http://video.sandiego.edu/">Ensemble</a> video platform (primarily for academic purposes).</li>
+<li>Communication Style Guidelines: For immediate questions, please refer to USD's <a href="https://catcher.sandiego.edu/items/usd/PUB-18-1984%20Visual_Identity_at_a_Glance%20Spring%202018_web.pdf" rel="noopener" target="_blank"><em>Visual Identity at a Glance</em></a> booklet or email <a href="mailto:publications@sandiego.edu">publications@sandiego.edu</a>.</li>
+<li><a href="https://www.sandiego.edu/its/">Information Technology Services (ITS)</a>: Contact ITS for any technical support or help for your website.</li>
+</ul>
+<h2>Contacts</h2>
+<ul>
+<li>Mike Sauer, Director, <a href="mailto:msauer@sandiego.edu">msauer@sandiego.edu</a>, (619) 260-7401</li>
+<li>Ryan T. Blystone, Assistant Director, <a href="mailto:rblystone@sandiego.edu,">rblystone@sandiego.edu</a>, (619) 260-4600 x6652</li>
+<li>Daniel Telles, Web Content Strategist and Developer, <a href="mailto:dtelles@sandiego.edu,">dtelles@sandiego.edu</a>, (619) 260-7862</li>
+<li>Allyson Meyer, Web Content Coordinator, <a href="mailto:allysonmeyer@sandiego.edu,">allysonmeyer@sandiego.edu,</a>&#160;(619) 260-4200</li>
+</ul>
+<p>You can also reach the team by email at&#160;<a href="mailto:dcim@sandiego.edu">dcim@sandiego.edu</a>.</p></div>
+                        </li>
+                                                                                
+                                                                        <li class="accordion-navigation" id="media-comm"><a href="#accordion-panel4">Media Communications</a>
+                            <div class="content" id="accordion-panel4" role="tab"><h2>Who We Are</h2>
+<p>The Media Communications department offers a variety of services for members of the media. We can connect you with our stellar faculty, assist news crews with filming and photography on campus and offer a wealth of information about the University of San Diego.</p>
+<h2>Expert Commentary</h2>
+<p>Media Communications staff can assist you in finding potential experts within the USD community and arrange interviews with faculty, staff and students. Our experts are available to comment on topics ranging from environmental degradation to economics to border issues. <a href="https://www.sandiego.edu//news/experts.php" rel="noopener noreferrer" target="_blank">See our list of featured USD experts</a>.</p>
+<p>USD experts are regularly quoted in the media. <a href="https://www.sandiego.edu//news/in-the-news.php" rel="noopener noreferrer" target="_blank">See the latest appearances on USD in the News</a>.</p>
+<h2>Faculty Publications</h2>
+<p>Learn more about a variety of <a href="https://www.sandiego.edu//news/faculty-publications.php" rel="noopener noreferrer" target="_blank">publications written by USD Faculty</a>.</p>
+<h2>USD Facts and Policies</h2>
+<p>For details about the university, check out our <a href="https://catcher.sandiego.edu/items/publications/USD-2018-Fact-Book.pdf" rel="noopener noreferrer" target="_blank">2018 Fact Book</a>.</p>
+<h2>Filming on Campus</h2>
+<p>For those who wish to film on campus, you must <a href="../resources/filming.php">obtain permission</a> from the Office of University Communications before entering campus.</p>
+<h2>Contacts</h2>
+<ul>
+<li>Pamela Gray Payton, Assistant Vice President, <a href="mailto:pgray@sandiego.edu">pgray@sandiego.edu</a>, Mobile: (619) 929-2386; Office: (619) 260-4681</li>
+<li>Liz Harman, Senior Director, <a href="mailto:eharman@sandiego.edu">eharman@sandiego.edu</a>, Office: (619) 260-4682</li>
+<li>Lissette Martinez, Director, <a href="mailto:lissettemartinez@sandiego.edu">lissettemartinez@sandiego.edu</a>, Office: (619) 260-4659</li>
+<li>Peter Marlow, Associate Vice President, Mobile: (619) 247-6039; Office: (619) 260-7460</li>
+</ul></div>
+                        </li>
+                                                                                
+                                                                        <li class="accordion-navigation" id="publications"><a href="#accordion-panel5">University Publications</a>
+                            <div class="content" id="accordion-panel5" role="tab"><h2>Who We Are</h2>
+<p>The Office of University Publications provides editorial and design services and guidance for clients across campus.</p>
+<h2>What We Do</h2>
+<p>Among the projects this office produces are <em><a href="http://sites.sandiego.edu/usd-magazine/" rel="noopener noreferrer" target="_blank">USD Magazine</a></em>, admissions and career development materials, the annual <em><a href="../news-facts/fact-book.php">USD Fact Book</a></em>, the bi-annual <em>Fine Arts Calendar</em> and many other print and online pieces. All projects start by filling out a <strong><a href="https://www.sandiego.edu/communications/departments/prf/prf_services.php" rel="noopener noreferrer" target="_blank">project request</a></strong>.</p>
+<p>Story ideas for <em><a href="http://sites.sandiego.edu/usd-magazine/" rel="noopener noreferrer" target="_blank">USD Magazine</a></em> &#8212; which is printed three times a year &#8212; are welcome from anyone in the university community. Requests for input are solicited in the magazine itself; from the schools, their deans, faculty and directors of development; from top administrators such as the president, vice presidents and provost; and from within the division of University Relations. <em><a href="http://sites.sandiego.edu/usd-magazine/" rel="noopener noreferrer" target="_blank">USD Magazine</a></em> also has an editorial advisory board of alumni, parent, faculty and staff volunteers who provide editorial guidance and feedback.</p>
+<h2>Contacts</h2>
+<ul>
+<li>Julene Snyder, Senior Director, <a href="mailto:julene@sandiego.edu">julene@sandiego.edu</a>, (619) 260-5985</li>
+<li>Barbara Ferguson, Senior Creative Director, <a href="mailto:barbaraf@sandiego.edu">barbaraf@sandiego.edu</a>, (619) 260-2231</li>
+<li>Anna (Cain) Garretson, Director, Projects and Design, <a href="mailto:acain@sandiego.edu">acain@sandiego.edu</a>, (619) 260-7744</li>
+<li>Timothy McKernan, Creative Director, <a href="mailto:timothym@sandiego.edu">timothym@sandiego.edu</a>, (619) 260-2739</li>
+<li>Patrick Simon, Director, Print and Web Design, <a href="mailto:psimon@sandiego.edu">psimon@sandiego.edu</a>, (619) 260-7515</li>
+<li>Marcy Alyn, Associate Director, Projects and Design, <a href="mailto:malyn@sandiego.edu">malyn@sandiego.edu</a>, (619) 260-7536</li>
+<li>Marina Woods, Graphic Designer/Art Director, Projects and Design, <a href="mailto:mewoods@sandiego.edu">mewoods@sandiego.edu</a>, (619) 260-7478</li>
+</ul></div>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+
+</div><!-- ending main page content -->
+											
+											
+											<!--stopindex-->
+											<a class="exit-off-canvas"></a>
+											<!--startindex-->
+										</div>
+										<!-- inner-wrap for off canvas -->
+									</div>
+									<!-- off-canvas-wrap -->
+									<!--stopindex-->
+									
+									
+<div class="row" id="contact-row">
+    <div class="contact-info columns">
+    
+                        <div class="row">
+        <div class="contact-heading columns">
+            <h2>Contact Information</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="contact-details large-6 columns">
+            <div class="row">
+                <div class="xlarge-6 columns">
+                    <p>
+                    <strong><span class="site-name">University Communications</span></strong><br/><a href="/maps/?id=357&mrkIid=78541" target="_blank">Degheri Alumni Center 103<br /></a>                        5998 Alcalá Park<br/>
+                        San Diego, CA 92110
+                    </p>
+                    <p>Phone: (619) 260-7460<br />Fax: (619) 849-8315<br /><a href="mailto:news@sandiego.edu">news@sandiego.edu</a>                    </p>
+                </div>
+                <div class="module hours xlarge-6 columns" id="building-hours-footer">
+                                    </div>
+            </div>     
+        </div>
+        <div class="contact-connect large-6 columns">
+            <div class="row">
+                <div class="map columns"><img src="/_common/images/2015/map.jpg" alt="Click to see map to Degheri Alumni Center 103"><div class="overlay"><span class="icon icon-location22" aria-label="map location"><span class="show-for-sr">Building Location on Campus Map</span></span><p><a href="/maps/?id=357&mrkIid=78541" target="_blank">View Map and Building Location</a></p></div></div><div class="xlarge-6 columns"><a class="button" href="/communications/staff-directory.php">View Directory</a></div>        
+           </div>
+        </div>
+    </div>    
+    
+    </div>
+</div>
+									<!--startindex-->
+								</div>
+							</div>
+							<!-- page-content-wrapper -->
+						</section>
+						<!-- content -->
+					</div>
+					<!-- content-wrapper-inner -->
+				</div>
+			</div>
+			<!-- content-wrapper -->
+		</div>
+		<!--stopindex-->
+		
+		
+		<footer role="contentinfo" aria-label="footer"><div id="footer-content" class="row">
+                    <div class="columns">
+                        <div id="footer-address" class="large-5 columns">
+                            <p><span class="usd"><a href="https://www.google.com/maps/place/University+of+San+Diego/@32.771917,-117.1903951,17z/data=!4m12!1m6!3m5!1s0x80deaab8bc658bcf:0xd774e81608b43a68!2sUniversity+of+San+Diego!8m2!3d32.771917!4d-117.1882064!3m4!1s0x80deaab8bc658bcf:0xd774e81608b43a68!8m2!3d32.771917!4d-117.1882064">University of San Diego</a></span><br>
+                                <a href="https://www.google.com/maps/place/University+of+San+Diego/@32.771917,-117.1903951,17z/data=!4m12!1m6!3m5!1s0x80deaab8bc658bcf:0xd774e81608b43a68!2sUniversity+of+San+Diego!8m2!3d32.771917!4d-117.1882064!3m4!1s0x80deaab8bc658bcf:0xd774e81608b43a68!8m2!3d32.771917!4d-117.1882064"><span class="address-street">5998 Alcalá Park</span> <span class="address-city">San Diego, CA 92110</span></a><br>
+                                <a href="tel:619-260-4600" class="contact-phone"><span class="icon icon-phone22" aria-label="Phone"></span> (619) 260-4600</a> <a href="//www.sandiego.edu/visit/contact.php" class="contact-email"><span class="icon icon-mail" aria-label="email"></span>
+                                    Contact Us</a></p>
+                       </div>
+                        <!-- footer-address -->
+                        <div id="footer-links" class="large-7 columns">
+                            <div class="row">
+                                <div id="get-started-links" class="medium-6 large-6 xlarge-4 xlarge-push-1 xxlarge-push-2 columns">
+                                    <h2>Get Started</h2>
+                                    <div>
+                                        <ul>
+                                            <li><a href="//www.sandiego.edu/admissions/">Apply Now</a></li>
+                                            <li><a href="//www.sandiego.edu/visit/">Visit University of San Diego</a></li>
+                                            <li><a href="//www.sandiego.edu/visit/contact.php">Request Information</a></li>
+                                            <li><a href="//www.sandiego.edu/jobs/">Jobs at USD</a></li>
+                                            <li><a href="//www.sandiego.edu/maps/">Maps &amp; Directions</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div id="college-links" class="medium-6 large-6 xlarge-7 xxlarge-6 columns">
+                                    <h2>College &amp; Schools</h2>
+                                    <div>
+                                        <ul>
+                                            <li><a href="//www.sandiego.edu/cas/">Arts and Sciences</a></li>
+                                            <li><a href="//www.sandiego.edu/business/">Business</a></li>
+                                            <li><a href="//www.sandiego.edu/engineering/">Engineering</a></li>
+                                            <li><a href="//www.sandiego.edu/law/">Law</a></li>
+                                            <li><a href="//www.sandiego.edu/academics/franciscan-school-of-theology.php">Education Partners</a></li>
+                                        </ul>
+                                        <ul>
+                                            <li><a href="//www.sandiego.edu/soles/">Leadership and Education</a></li>
+                                            <li><a href="//www.sandiego.edu/nursing/">Nursing/Health</a></li>
+                                            <li><a href="//www.sandiego.edu/peace/">Peace Studies</a></li>
+                                            <li><a href="https://pce.sandiego.edu/">Continuing Education</a></li>
+                                            <li><a href="//www.sandiego.edu/academics/libraries.php">Libraries</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- footer-links -->
+                        <div id="footer-social" class="medium-6 medium-pull-6 columns">
+                            <ul class="social-icons inline-list">
+                                <li><a href="//www.facebook.com/usandiego/"><span class="icon icon-facebook" aria-label="facebook"><span class="show-for-sr">Facebook</span></span></a></li>
+                                <li><a href="//instagram.com/uofsandiego/"><span class="icon icon-instagram" aria-label="instagram"><span class="show-for-sr">Instagram</span></span></a></li>
+                                <li><a href="//www.linkedin.com/company/university-of-san-diego/"><span class="icon icon-linkedin" aria-label="linkedin"><span class="show-for-sr">LinkedIn</span></span></a></li>
+                                <li><a href="//twitter.com/uofsandiego/"><span class="icon icon-twitter" aria-label="twitter"><span class="show-for-sr">Twitter</span></span></a></li>
+                            </ul>
+                        </div><!-- footer-social-->
+                    </div>
+                </div><!-- footer-content --><div id="footer-close">
+                        <div class="row">
+                            <div id="copyright" class="xlarge-5 columns">
+                                <p>&copy; 2019 University of San Diego. All rights reserved.</p>
+                            </div>
+                            <div id="feedback" class="xlarge-7 columns">
+                                <ul>
+                                    <li><a href="//www.sandiego.edu/its/about/policies-and-procedures/#accordion4">Web Privacy</a></li>
+                                    <li><a href="//www.sandiego.edu/its/about/policies-and-procedures/#accordion26">Web Accessibility</a></li>
+                                    <li><a href="//www.sandiego.edu/emergency/">Emergency Preparedness</a></li>
+                                    <li><a href="//www.sandiego.edu/site-index.php">Site Index</a></li>
+                                    <li><a href="//www.sandiego.edu/feedback.php?tfa_85=%2Fcommunications%2Fdepartments%2Findex.php">Feedback</a></li>
+                                </ul>
+                                <span><button class="skip">Back to top</button></span>
+                            </div>
+                        </div>
+                    </div><!-- footer-close --></footer>		
+		
+		
+	<!-- build:js scripts/plugins.js -->
+	<script src="//www.sandiego.edu/2015/global/scripts/foundation.min.js"></script>
+	<script src="//www.sandiego.edu/2015/global/scripts/masonry/dist/masonry.pkgd.min.js"></script>
+	<!-- endbuild -->
+	
+	<!-- New Directory -->
+            <script src="//www.sandiego.edu/2015/directory/scripts/live_search.js"></script>
+    	
+	<!-- build:js scripts/main.js -->
+	<script src="//www.sandiego.edu/2015/global/scripts/nav.js"></script>
+	<!--<script src="//www.sandiego.edu/2015/global/scripts/navigation.js"></script>-->
+	<!-- endbuild -->
+	<script>
+        $(document).foundation({
+            equalizer: {
+            equalize_on_stack: true
+            }
+        });
+        $(document).foundation('equalizer', 'reflow');
+        
+        var modal = '';
+        var modal_id = '';
+        var iframe_match = '';
+        var iframe_replace = '';
+        var iframe_reset = '';
+        //on reveal modal opened
+        $(document).on('opened.fndtn.reveal', '[data-reveal]', function () {
+            modal = $(this);
+            modal_id = $(this).attr('id');
+            mytest = $('iframe',this).attr('src');
+            if (typeof mytest !='undefined') {
+                iframe_match = $('iframe',this).attr('src').match("video.sandiego.edu/app/plugin/embed.aspx");
+                iframe_replace = $('iframe',this).attr('src').replace("autoPlay=false","autoPlay=true");
+                iframe_reset = $('iframe',this).attr('src').replace("autoPlay=true","autoPlay=false");
+            }
+            $("#"+modal.attr('id')).focus();
+            if(iframe_match !== null){
+               setTimeout(function(){
+                $("#"+modal.attr('id')+" iframe").attr('src',iframe_replace);
+               }, 1000);
+            }
+            
+            //temporary fix to get x to close via keyboard tabbing and enter key
+            $('.close-reveal-modal',this).html('<button aria-label="Close modal" class="close-button" data-close="" type="button"><span aria-hidden="true">×</span></button><a href="#" style="text-decoration:none;"></a>');
+        });
+        //on reveal modal closed
+        $(document).on('closed.fndtn.reveal', '[data-reveal]', function () {
+            $('a[data-reveal-id="'+ modal_id +'"]').focus();
+            iframe_replace = '';
+            $("#"+modal_id+" iframe").attr('src',iframe_reset);
+        });
+        //on reveal modal, tabbing past X, close modal 
+        $('body').on('blur', '.close-button', function(e){
+            $("#"+modal_id).foundation('reveal', 'close');
+        });
+    </script>
+	<!-- used for sliders -->
+	<script src="//www.sandiego.edu/2015/global/scripts/slick.js"></script>
+	<script src="//www.sandiego.edu/2015/global/scripts/slick.min.js"></script>
+	<!-- used for rotating features -->
+	<script src="//www.sandiego.edu/2015/global/scripts/features.js"></script>
+	<!-- used for mypostings -->
+	<script src="//www.sandiego.edu/2015/mypostings/scripts/mypostings.js"></script>
+		<script src="//www.sandiego.edu/2015/mypostings/scripts/calendar/monthly.js"></script>
+	<script src="//www.sandiego.edu/2015/global/scripts/foundation/foundation-datepicker.js"></script>
+		<!-- used to fix FormAssemby stuff -->
+	<script src="//www.sandiego.edu/2015/global/scripts/forms.js"></script>
+	<!-- accordion and tab stuff -->
+	<script src="//www.sandiego.edu/2015/global/scripts/tabs-accordions.js"></script>
+	<!-- used to determine viewport dimensions -->
+	<script src="//www.sandiego.edu/2015/global/scripts/viewport.js"></script>
+	<!-- used for study abroad -->
+	<script src="//www.sandiego.edu/2015/study-abroad/scripts/study-abroad.js"></script>
+	<!-- for greedy nav -->
+	<script src="//www.sandiego.edu/2015/global/scripts/nav-schools.js"></script>
+
+	
+	<!-- building hours -->
+        <script src="//www.sandiego.edu/2015/global/scripts/template-additions.js"></script>
+
+		
+		
+		
+		
+		
+		
+		<!--startindex-->
+	</body>
+</html>

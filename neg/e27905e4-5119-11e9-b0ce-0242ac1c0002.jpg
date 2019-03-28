@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US">  <!--<![endif]-->
+<head>
+<title>ECO HOSTING DOMAINS</title>
+<!-- META DATA -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Eco Hosting Site Disabled.  Please Contact Support">
+<meta name="keywords" content="Eco Hosting Domains">
+<meta name="author" content="">
+<!-- CSS Global Compulsory -->
+<link rel="stylesheet" href="https://hostability.co.uk/domain-holding/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://hostability.co.uk/domain-holding/css/style.css" />
+<!-- CSS Implementing Plugins -->
+<link rel="stylesheet" href="https://hostability.co.uk/domain-holding/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://hostability.co.uk/domain-holding/css/owl.carousel.css">
+<link rel="stylesheet" href="https://hostability.co.uk/domain-holding/css/animate.min.css">
+<link rel="stylesheet" href="https://hostability.co.uk/domain-holding/css/owl.transitions.css">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+			<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+<!--[if lt IE 10]>
+			<link rel="stylesheet" type="text/css" href="css/ie.css" />
+		<![endif]-->
+<!-- FONTS -->
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<!-- JS -->
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/modernizr.js"></script>
+</head>
+<body class="image-background">
+<!-- START PRELOADER -->
+<div id="preloader">
+  <div id="loading-animation">&nbsp;</div>
+</div>
+<!-- END PRELOADER -->
+<!-- START HOME SECTION -->
+<section id="home" class="home on-menu fullscreen opacity-animation">
+  <div class="container-wrapper">
+    <!-- START CONTAINER -->
+    <div class="container">
+      <div class="slider-container">
+        <div id="owl-demo" class="owl-carousel custom-animations">
+          <!-- START INTRO -->
+          <div id="intro-content">
+            <h3 class="color-white"></h3>
+          </div>
+          <!-- END INTRO -->
+        </div>
+      </div>
+    </div>
+    <!-- END CONTAINER -->
+  </div>
+  <!-- OVERLAY -->
+  <div class="overlay"></div>
+</section>
+<!-- END HOME SECTION -->
+<!-- JS -->
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery.easing.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery.waitforimages.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery.countdown.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/retina-1.1.0.min.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/jquery.appear.js"></script>
+<script type="text/javascript" src="https://hostability.co.uk/domain-holding/js/main.js"></script>
+</body>
+</html>

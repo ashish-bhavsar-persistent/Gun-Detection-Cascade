@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+    
+        <title>
+            
+            University of Richmond
+        </title>
+        <link href="https://kp4assets.richmond.edu/images/kp4/static/favicon.ico" rel="shortcut icon"/>
+        <meta content="The University of Richmond is a highly ranked liberal arts university offering an extraordinary combination of the liberal arts with law, business, leadership studies, and continuing education. The university is consistently named a &quot;best value&quot; in higher education by leading publications. " name="description"/>
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+        
+            <script type="text/javascript">var siteName="www";</script>
+        
+        <meta content="Mon, 25 Mar 2019 16:30:08 -0560" name="date"/>
+        
+        
+        
+
+
+
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+            <link href="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/apple-touch-icon.png" rel="apple-touch-icon" />
+            <link href="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+            <link href="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+            <link href="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+            <link type="text/css" rel="stylesheet" media="screen" href="https://d2r44v0ubjhg6i.cloudfront.net/styles/default/compiled/default.min.css"/>
+            <link type="text/css" rel="stylesheet" media="print" href="https://d2r44v0ubjhg6i.cloudfront.net/styles/print.css" />
+            <!--[if IE 9]>
+            <link rel="stylesheet" type="text/css" media="screen, projection" href="https://d2r44v0ubjhg6i.cloudfront.net/styles/defaultIE/ie9.css" />
+                <script type="text/javascript">
+                    isUnsecureIe = true;
+                </script>
+            <![endif]-->
+
+            <!--[if IE 8]>
+                <link rel="stylesheet" type="text/css" media="screen, projection" href="https://d2r44v0ubjhg6i.cloudfront.net/styles/defaultIE/ie8.css" />
+                <script type="text/javascript">
+                    shareWidgetCompatible = false;
+                    isUnsecureIe = true;
+                </script>
+            <![endif]-->
+
+            <!--[if lt IE 8]>
+                <link rel="stylesheet" type="text/css" media="screen, projection" href="https://d2r44v0ubjhg6i.cloudfront.net/styles/defaultIE/legacy.css" />
+                <script type="text/javascript">
+                    shareWidgetCompatible = false;
+                    isUnsecureIe = true;
+                </script>
+            <![endif]-->
+            <script>
+                var dataLayer = window.dataLayer = window.dataLayer || [];
+            </script>
+                <!-- Google Tag Manager (www) -->
+                <script>
+                    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                    })(window,document,'script','dataLayer','GTM-53S7GL8');
+                </script>
+                <!-- End Google Tag Manager (www) -->
+            
+                <!-- Google Tag Manager - (rollup) -->
+                <script>
+                    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                    })(window,document,'script','dataLayer','GTM-T45RP6M');
+                </script>
+                <!-- End Google Tag Manager - (rollup) -->
+            
+                <!-- Begin CBE code -->
+                <script>
+                    (function(a,b,c,d,e,f,g) {
+                    a[e] = a[e] || function() {(a[e].q = a[e].q || []).push(arguments)};f=b.createElement(c);
+                    g=b.getElementsByTagName(c)[0];f.async=1;f.src=d+"/cbe/";g.parentNode.insertBefore(f,g);
+                    a[e]('create',d,1);
+                    a[e]('log','pageview');
+                    })(window,document,"script","https://richmond.capturehighered.net","_cbe");
+                </script>
+                <!-- End CBE code -->
+				<!-- Begin Slate - Ping code -->
+				<script async="async" src="https://connect.richmond.edu/ping">/**/</script>
+				<!-- End Slate - Ping code -->
+            <script type="text/javascript">
+                Element.prototype.getElementWidth = function() {
+                    if (typeof this.clip !== "undefined") {
+                        return this.clip.width;
+                    } else {
+                        if (this.style.pixelWidth) {
+                            return this.style.pixelWidth;
+                        } else {
+                            return this.offsetWidth;
+                        }
+                    }
+                };
+
+                function resizeImg(img, callback) {
+                    callback = callback || false;
+
+                    if(typeof callback !== "function"){
+                        callback = false;
+                    }
+
+                    if(img.length != "undefined" && img.length == 1){
+                        img = img[0];
+                    }
+
+                    var breakpoints = new Array();
+                    var attributes = img.attributes;
+
+                    for (var i = 0; i < attributes.length; ++i) {
+                        if (attributes[i].name.indexOf("data-img") >= 0) {
+                            breakpoints.push(parseInt(attributes[i].name.replace(/\D/g, "")));
+                        }
+                    }
+
+                    breakpoints.sort(function (a, b) {
+                        return a - b
+                    }); //orders breakpoints from lowest to highest
+
+                    var size = breakpoints[0]; //size defaults to smallest value
+                    var sizeTarget = img.getElementWidth();
+
+                    //resizeIgnore class name forces this function to look up the parental tree one level to gain its size target
+                    function getParentWidth(parent){
+                        if(parent.offsetWidth != 0 && !parent.classList.contains("resizeIgnore")){
+                            sizeTarget = parent.getElementWidth();
+                        } else {
+                            parent = parent.parentNode;
+                            getParentWidth(parent);
+                        }
+                    }
+
+                    if(sizeTarget == 0 || img.parentNode.classList.contains("resizeIgnore")){
+                        var parent = img.parentNode;
+                        getParentWidth(parent);
+                    }
+
+                    for (var i = 0; i < breakpoints.length; i++) {
+                        if (sizeTarget > breakpoints[i]) {
+                            if (i == breakpoints.length - 1) { //last breakpoint
+                                size = breakpoints[i];
+                            } else {
+                                size = breakpoints[i + 1];
+                            }
+                        }
+                    }
+
+                    var hasResponsiveImage = img.getElementsByClassName("img-" + size).length;
+
+                    if (hasResponsiveImage == 0) {
+                        var src = img.getAttribute("data-img-" + size);
+                        var alt = img.getAttribute("data-alt");
+                        var imageCredit = "";
+
+                        if (img.getElementsByClassName("imageCredit").length > 0) {
+                            imageCredit = img.getElementsByClassName("imageCredit")[0].innerText || img.getElementsByClassName("imageCredit")[0].textContent;
+                        }
+
+                        img.innerHTML = '<img src="' + src + '" alt="' + alt + '" class="img-' + size + '" />';
+                        if (imageCredit != "") {
+                            img.innerHTML = img.innerHTML + '<span class="imageCredit">' + imageCredit + '</span>';
+                        }
+                    }
+
+                    if(callback !== false){
+                        callback();
+                    }
+                }
+
+                function resizeImagery(){
+                    var images = document.getElementsByClassName("responsiveImg");
+                    for(var i=0; i<images.length; i++){
+                        resizeImg(images[i]);
+                    }
+                }
+
+                if (window.addEventListener) {
+                    window.addEventListener("resize", resizeImagery);
+                }
+                else {
+                    window.attachEvent("resize", resizeImagery);
+                }
+            </script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/frameworks/jquery-1.10.1.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                if(typeof assetsUrl === "undefined"){
+                        var assetsUrl = "https://www.richmond.edu/_KP4_assets";
+                } else {
+                    assetsUrl = "https://www.richmond.edu/_KP4_assets";
+                }
+
+                if(typeof cdnAssetsUrl === "undefined"){
+                    var cdnAssetsUrl = "https://d2r44v0ubjhg6i.cloudfront.net";
+                } else {
+                    cdnAssetsUrl = "https://d2r44v0ubjhg6i.cloudfront.net";
+                }
+            </script>
+            <script type="text/javascript">
+                $(window).load(function(){
+                    (function(d) {
+                    var config = {
+                        kitId: 'fem0dau',
+                        loading: function() {
+                            // Javascript to execute when fonts start loading
+                        },
+                        active: function() {
+                            // Javascript to execute when fonts become active
+                            if(typeof textmarkResize == 'function'){
+                                textmarkResize();
+                            }
+                            if(typeof resizeSubnav == 'function'){
+                                resizeSubnav();
+                            }
+                        },
+                        inactive: function() {
+                            // Javascript to execute when fonts become inactive
+                            if(typeof textmarkResize == 'function'){
+                                textmarkResize();
+                            }
+                            if(typeof resizeSubnav == 'function'){
+                                resizeSubnav();
+                            }
+                        },
+                        scriptTimeout: 3000
+                    },
+                    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+                    })(document);
+                });
+            </script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/core/jquery-collapsable-content.js" type="text/javascript"></script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/core/jquery-paginate.js" type="text/javascript"></script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/core/jquery-dynamic-elements.js" type="text/javascript"></script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/libraries/hammer.js" type="text/javascript"></script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/libraries/jquery.hammer.js" type="text/javascript"></script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/libraries/modernizr-custom.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                var isMobile = false;
+                var isIpad = false;
+                var isIphone = false;
+                var isHls = false;
+                var isUnsecureIe = false;  //Conditional comments are gone in IE 10, so we need to look for IE 10 as the user agent in JS, or use conditional comments for 9 and below
+                var shareWidgetCompatible = true;
+
+                function mobiledetect(a){
+                    if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) {
+                        isMobile = true;
+                    }
+
+                    if(a.match(/iPad/i) != null){
+                        isIpad = true;
+                    }
+
+                    if(a.match(/ip(hone|od)/i) != null){
+                        isIphone = true;
+                    }
+
+                    if(a.match(/android/i) != null || isIpad == true || isIphone == true){
+                        isHls = true;
+                    }
+
+                    if(a.match(/MSIE\s([\d.]+)/) != null){
+                        isUnsecureIe = true;
+                    }
+                }
+
+                mobiledetect(navigator.userAgent.toLowerCase() || navigator.vendor || window.opera);
+            </script><script src="https://d2r44v0ubjhg6i.cloudfront.net/scripts/core/jquery-responsify.js" type="text/javascript"></script> 
+
+<script type="text/javascript">var assetsUrl = "http://kp4assets.richmond.edu";</script>
+
+<script type="text/javascript">assetsUrl ="https://www.richmond.edu/_KP4_assets";</script> 
+
+        <script src="/_KP4_assets/scripts/loader.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+  
+        
+        <meta content="University of Richmond" property="og:title"/>
+        
+        
+        
+        
+    </head>
+    <body>
+        
+
+                <!-- Google Tag Manager (www noscript) -->
+                <noscript>
+                    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53S7GL8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+                </noscript>
+                <!-- End Google Tag Manager (www noscript) -->
+                <!-- Google Tag Manager (rollup noscript) -->
+                <noscript>
+                    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T45RP6M" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+                </noscript>
+                <!-- End Google Tag Manager (rollup noscript) -->
+            <!-- Undertone Tracking Pixel -->
+            <script type="text/javascript">
+                var p=location.protocol=="https:"?"https:":"http:";
+                var r=Math.floor(Math.random()*999999);
+                document.write('<img src="' + p + '//ads.undertone.com/f?pid=130042&cb=' + r +'" alt="" style="display:none;" border="0" height="1" width="1" />');
+                document.write('<img src="' + p + '//ads.undertone.com/f?pid=136799&cb=' + r +'" alt="" style="display:none;" border="0" height="1" width="1" />');
+            </script>
+            <noscript>
+            <img src="https://ads.undertone.com/f?pid=130042&cb=1553750764112" alt="" style="display: none;" border="0" height="1" width="1" />
+            <img src="https://ads.undertone.com/f?pid=136799&cb=1553750764112" alt="" style="display: none;" border="0" height="1" width="1" />
+            </noscript>
+            <!-- End Undertone Tracking Pixel -->
+
+        
+    
+        <div class="row" id="alert"><!-- warning -->
+
+
+</div>
+        <noscript id="iframeAlert">
+  <style type="text/css">
+     #alert { display: none;}
+  </style>
+  <iframe height="250px" src="/_KP4_assets/actions/get/iframeAlert.php" width="100%"></iframe>
+</noscript>
+        <div id="content">
+            <!-- Class name here is the template type -->
+            <div id="logo" itemtype="http://schema.org/Organization"><a class="shield on" href="http://www.richmond.edu/" itemprop="url"><img alt="University of Richmond" class="svg" itemprop="logo" src="_KP4_assets/svgs/Richmond_Shield_web_noR.svg"/></a><a class="urwordmark off" href="http://www.richmond.edu/" itemprop="url"><img alt="University of Richmond" class="svg" itemprop="logo" src="_KP4_assets/svgs/urwordmark1.svg"/></a></div>
+            <div id="mobileButtons">
+<button id="mobile-menu-button">
+    <span class="icon-menu" data-icon="icon-menu" data-icon-close="icon-remove">Main Menu</span>
+</button>
+<a href="http://www.richmond.edu/" id="mobile-home-button"><span class="icon-home">Richmond Home</span></a>
+<button id="mobile-search-button">
+    <span class="icon-search" data-icon="icon-search" data-icon-close="icon-remove">Search</span>
+</button>
+<button id="mobile-tools-button">
+    <span class="icon-tools" data-icon="icon-tools" data-icon-close="icon-remove">Tools</span>
+</button>
+
+</div>
+            <div class="row" id="toolbar">
+<div class="bar controls">
+    <div class="rowWrap">
+        <div id="urlinks">
+            <div class="controls">
+                <div class="buttonWrap" data-label="Box">
+                    <div class="button" id="sub-toolbar-box"><a class="icon-box" href="https://box.richmond.edu">Box</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Exchange Email">
+                    <div class="button" id="sub-toolbar-exchangemail"><a class="icon-msOutlook" href="https://outlook.office.com">Exchange Email</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Gmail">
+                    <div class="button" id="sub-toolbar-gmail"><a class="icon-gmail" href="https://gmail.richmond.edu">Gmail</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Blackboard">
+                    <div class="button" id="sub-toolbar-blackboard"><a class="icon-blackboard" href="https://blackboard.richmond.edu">Blackboard</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Bannerweb">
+                    <div class="button" id="sub-toolbar-bannerweb"><a class="icon-bannerweb" href="https://bannerweb.richmond.edu">Bannerweb</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Directory" data-label-close="Close Directory">
+                    <div class="button" id="sub-toolbar-directory"><a class="icon-catalog2 expandable" data-flyout="directory" data-icon="icon-catalog2" data-icon-close="icon-remove" href="https://directory.richmond.edu">Directory</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Schools" data-label-close="Close Schools">
+                    <div class="button" id="sub-toolbar-schools"><a class="icon-school expandable" data-flyout="schools" data-icon="icon-school" data-icon-close="icon-remove" href="https://www.richmond.edu/academics/">Schools</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Maps">
+                    <div class="button" id="sub-toolbar-maps"><a class="icon-mapPin" href="https://www.richmond.edu/visit/">Maps</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Library">
+                    <div class="button" id="sub-toolbar-library"><a class="icon-tower" href="https://library.richmond.edu/">Library</a></div>
+                </div>
+                <div class="buttonWrap" data-label="Search" data-label-close="Close Search">
+                    <div class="button" id="sub-toolbar-search"><span class="icon-search expandable" data-flyout="search" data-icon="icon-search" data-icon-close="icon-searchClose">Search</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bar viewer">
+    <div class="rowWrap" id="flyouts">
+        <div class="flyout search clearfix"> <span class="flyoutTitle">Search</span>
+            <form id="top-search" class="icon-search" action="https://search.richmond.edu/?">
+                <label><span class="show-for-sr">Search</span><input class="input" name="query" type="text" value="Search"/></label>
+                <input class="submit show-for-sr" type="submit" value="Submit"/>
+            </form>
+            <div id="top-search-results">
+                <div class="google"></div>
+                <div class="searchblox"></div>
+                <div class="people"></div>
+                <div class="offices"></div>
+                <div class="locations"></div>
+                <div class="features"></div>
+            </div>
+        </div>
+        <div class="flyout home clearfix"> <a href="https://www.richmond.edu" id="ur-home-link">Richmond Home</a> </div>
+        <div class="flyout directory clearfix"> <span class="flyoutTitle">Directory</span>
+            
+		<div id="directory">
+			<form action="https://www.richmond.edu/_KP4_assets/actions/get/directory/keyword.php" method="get" id="keyword_search" class="campusDirectory directory icon-search">
+				<label><span class="show-for-sr">Name or Keyword</span><input type="text" id="keyword" name="keyword" class="input" value="Name or Keyword" data-value="Name or Keyword" data-originalvalue="Name or Keyword"></label>
+				<input type="submit" id="Submit" class="submit show-for-sr" value="Submit">
+				<div class="clear"></div>
+			</form>
+			<p>More search options and features available at <a href="https://www.richmond.edu/directory/">www.richmond.edu/directory</a>.</p>
+			<div id="search_results"></div>
+		</div>
+        </div>
+        <div class="flyout schools clearfix">
+            <ul id="schools-toolbar">
+                <li>
+                    <a href="https://as.richmond.edu">
+                        <span>School of Arts &amp; Sciences</span>
+                        <img alt="School of Arts &amp; Sciences" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/asWordmark-tan.png"/>
+                        <img alt="School of Arts &amp; Sciences" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/asWordmark-white.png"/>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://robins.richmond.edu">
+                        <span>Robins School of Business</span>
+                        <img alt="Robins School of Business" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/rsbWordmark-tan.png"/>
+                            <img alt="Robins School of Business" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/rsbWordmark-white.png"/>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://law.richmond.edu">
+                        <span>School of Law</span>
+                        <img alt="School of Law" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/lawWordmark-tan.png"/>
+                        <img alt="School of Law" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/lawWordmark-white.png"/>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://jepson.richmond.edu">
+                        <span>Jepson School of Leadership Studies</span>
+                        <img alt="Jepson School of Leadership Studies" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/jepsonWordmark-tan.png"/>
+                            <img alt="Jepson School of Leadership Studies" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/jepsonWordmark-white.png"/>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://spcs.richmond.edu">
+                        <span>School of Professional &amp; Continuing Studies</span>
+                        <img alt="School of Professional &amp; Continuing Studies" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/spcsWordmark-tan.png"/>
+                            <img alt="School of Professional &amp; Continuing Studies" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/spcsWordmark-white.png"/>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+</div>
+            <div class="row" id="spotlights"><div id="spotlightMask"><div id="spotlightScroller"><div id="spotlightPadder"><div class="scrollWrap active" data-index="0"><a href="https://spiderpride.richmond.edu/article/-/16155/national-geographic-features-alum-during-international-womens-day-.html">
+                        
+                            <div class="responsiveImg" data-alt="National Geographic features alum's work " data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-830x467.jpg" data-type="16_9"><noscript><img alt="National Geographic features alum's work " src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/spiderpride/2019/03-march /03-22-2019-lichtenfeld-nat-geo/promo/03-22-2019-lichtenfeld-nat-geo-promo-660x371.jpg"/></noscript></div> 
+                        <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="contentWrap" style="background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));">
+                        <div class="content left full">
+                            <h2>National Geographic features alum's work </h2>
+                            <span class="description">
+
+
+Conservationist Laly Lichtenfeld, '96, was included in the magazine's 2019 "Women of Impact" round-up.
+
+
+</span>
+                        </div>
+                    </div></a></div><div class="scrollWrap" data-index="1"><a href="https://president.richmond.edu/spidertalks/index.html">
+                        
+                            <div class="responsiveImg" data-alt="Leadership in Literature, Film, and Performance" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-830x467.jpg" data-type="16_9"><noscript><img alt="Leadership in Literature, Film, and Performance" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/president/spidertalks/bezio/promo/spidertalks-bezio-promo-660x371.jpg"/></noscript></div> 
+                        <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="contentWrap">
+                        <div class="content right halfright">
+                            <h2>Leadership in Literature, Film, and Performance</h2>
+                            <span class="description">In this episode of Spider Talks, President Crutcher sits down with&#160;Jepson School of Leadership Studies associate professor Kristin Bezio, who integrates the study of literature into the Leadership Studies curriculum.</span>
+                        </div>
+                    </div></a></div><div class="scrollWrap" data-index="2"><a href="http://news.richmond.edu/releases/article/-/16118/ur-junior-awarded-2019-newman-civic-fellowship.html">
+                    
+                        <div class="responsiveImg" data-alt="" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -830x467.jpg" data-type="16_9"><noscript><img alt="" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_articles/communications/releases/2019/3-March/newman-civic-fellowship/promo/Lina-Promo -660x371.jpg"/></noscript></div> 
+                    <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="contentWrap" style="background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));">
+                        <div class="content left full">
+                            <h2>National coalition names junior an inspiring leader</h2>
+                            <span class="description">Lina Tori Jan, '20, is a 2019 Newman Civic Fellow, recognized for her demonstrated leadership and investment in solving public problems.</span>
+                        </div>
+                    </div></a></div><div class="scrollWrap" data-index="3"><a href="https://newspiders.richmond.edu/">
+                        
+                            <div class="responsiveImg" data-alt="Congratulations, Class of 2023! " data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-830x467.jpg" data-type="16_9"><noscript><img alt="Congratulations, Class of 2023! " src="https://d1gtq9mqg5x3oe.cloudfront.net/images/newspiders/spotlights/deposit-now-cutout/promo/deposit-now-promo-660x371.jpg"/></noscript></div> 
+                        <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="contentWrap">
+                        <div class="content left full">
+                            <h2>Congratulations, Class of 2023! </h2>
+                            <span class="description">To the newest Spiders who just got admit packets in the mail, we can't wait to have you on campus. Visit our site for New Spiders to make your deposit and explore next steps.</span>
+                        </div>
+                    </div></a></div><div class="scrollWrap" data-index="-1"><a href="https://wc.richmond.edu/college-celebrations/womxns-history-month/index.html">
+                        
+                            <div class="responsiveImg" data-alt="Celebrating Womxn's History Month" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-830x467.jpg" data-type="16_9"><noscript><img alt="Celebrating Womxn's History Month" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/wc/college-celebrations/womxns-history-month/promo/womxns-history-promo-660x371.jpg"/></noscript></div> 
+                        <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="contentWrap" style="background:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,1));">
+                        <div class="content left full">
+                            <h2>Celebrating Womxn's History Month</h2>
+                            <span class="description">Through a series of events, Westhampton College and WGSS reflect on womxn throughout UR's history, present and future &#8212; including two of the first African-American graduates, Isabelle Thomas LeSane and Madieth Malone, W&#8217;72, who shared their experiences with students Ayele d&#8217;Almeida, &#8217;20, and Jacob Roberson, &#8217;19.</span>
+                        </div>
+                    </div></a></div></div></div></div><div id="scrollControls"><div class="controlsWrap"><div class="controlElement on" data-label="National Geographic features alum's work "><svg width="20" height="20" viewbox="0 0 250 250"><path class="loader" fill-opacity=".7" transform="translate(125, 125)"/></svg></div><div class="controlElement" data-label="Leadership in Literature, Film, and Performance"><svg width="20" height="20" viewbox="0 0 250 250"><path class="loader" fill-opacity=".7" transform="translate(125, 125)"/></svg></div><div class="controlElement" data-label="National coalition names junior an inspiring leader"><svg width="20" height="20" viewbox="0 0 250 250"><path class="loader" fill-opacity=".7" transform="translate(125, 125)"/></svg></div><div class="controlElement" data-label="Congratulations, Class of 2023! "><svg width="20" height="20" viewbox="0 0 250 250"><path class="loader" fill-opacity=".7" transform="translate(125, 125)"/></svg></div><div class="controlElement" data-label="Celebrating Womxn's History Month"><svg width="20" height="20" viewbox="0 0 250 250"><path class="loader" fill-opacity=".7" transform="translate(125, 125)"/></svg></div></div></div>        </div><div class="row" id="menu-wrap"><div class="rowWrap" id="menu"><div class="item"><a href="/about/index.html"><span>About</span></a></div><div class="item"><a href="/academics/index.html"><span>Academics</span></a></div><div class="item"><a href="/admission/index.html"><span>Admission &amp; Aid</span></a></div><div class="item"><a href="/studentlife/index.html"><span>Student Life</span></a></div><div class="item"><a href="/arts/index.html"><span>Arts</span></a></div><div class="item"><a href="/athletics/index.html"><span>Athletics</span></a></div><div class="item"><a href="/visit/index.html"><span>Visit</span></a></div><div class="item"><a href="/international/index.html"><span>International</span></a></div><div class="item"><a href="http://giving.richmond.edu" target="_blank"><span>Giving</span></a></div></div></div><div class="row adminRow"><div class="rowWrap"><div class="promos">
+            
+            <div class="promo admin col3-1">
+                <a class="clearfix" href="http://newspiders.richmond.edu/">
+                    
+                    
+                        <div class="responsiveImg" data-alt="Welcome, New Spiders" data-img-121="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-121x121.png" data-img-165="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-165x165.png" data-img-200="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-200x200.png" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-320x320.png" data-img-410="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-410x410.png" data-img-500="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-500x500.png" data-img-59="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-59x59.png" data-type="1_1">
+        <noscript><img alt="Welcome, New Spiders" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/checklist/thumbnails/checklist-320x320.png"/></noscript>
+        
+        </div> 
+                    <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="promoCopy">
+                        <span class="title">Welcome, New Spiders</span>
+                        <span class="copy">Explore opportunities for new students, make your deposit, and get to know the Class of 2023.</span>
+                    </div>
+                </a>
+            </div>
+            <div class="promo admin col3-1">
+                <a class="clearfix" href="https://www.richmond.edu/spider125/">
+                    
+                    
+                        <div class="responsiveImg" data-alt="125 Years of Spiders" data-img-121="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-121x121.png" data-img-165="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-165x165.png" data-img-200="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-200x200.png" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-320x320.png" data-img-410="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-410x410.png" data-img-500="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-500x500.png" data-img-59="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-59x59.png" data-type="1_1">
+        <noscript><img alt="125 Years of Spiders" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider125/thumbnails/spider125-320x320.png"/></noscript>
+        
+        </div> 
+                    <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="promoCopy">
+                        <span class="title">125 Years of Spiders</span>
+                        <span class="copy">It's a big year for the Spiders. Join us as we commemorate the anniversary of our unique identity.</span>
+                    </div>
+                </a>
+            </div>
+            <div class="promo admin col3-1">
+                <a class="clearfix" href="https://www.urspidershop.com/">
+                    
+                    
+                        <div class="responsiveImg" data-alt="Get Your Spider Gear" data-img-121="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-121x121.png" data-img-165="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-165x165.png" data-img-200="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-200x200.png" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-320x320.png" data-img-410="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-410x410.png" data-img-500="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-500x500.png" data-img-59="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-59x59.png" data-type="1_1">
+        <noscript><img alt="Get Your Spider Gear" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spider/thumbnails/spider-320x320.png"/></noscript>
+        
+        </div> 
+                    <script type="text/javascript">
+                                   var images = document.getElementsByClassName('responsiveImg');
+                                   var img = images[images.length - 1];
+                                   resizeImg(img);
+                               </script>
+                    <div class="promoCopy">
+                        <span class="title">Get Your Spider Gear</span>
+                        <span class="copy">Show your #SpiderPride and stock up on Spider gear at the UR SpiderShop.</span>
+                    </div>
+                </a>
+            </div></div></div></div>
+        <link href="/common/css/within-strip-index.css" media="screen" rel="stylesheet" type="text/css"/>
+        <div class="row contentStrip within"><div class="rowWrap"><div class="row"><div class="copy"><ul aria-hidden="true" class="de-slideshow">
+<li/>
+<li/>
+<li/>
+<li/>
+</ul>
+<div aria-hidden="true" class="sweep"></div>
+<h2>Excellence Lives <span>Within Us.</span></h2>
+<p>Spiders are curious. Ambitious. Determined. And we employ these talents to create extraordinary results. We know that what we do here has an incredible impact everywhere.</p>
+<a class="cta" href="https://within.richmond.edu" id="within-link">Read our stories and see the difference&#160;we&#160;make.</a></div></div></div></div>
+        
+        <link href="/common/css/stayConnected.css" media="screen" rel="stylesheet" type="text/css"/>
+        <div class="row contentStrip stayConnected"><div class="rowWrap"><div class="row"><div class="copy"><div class="title">
+<h3>Stay Connected</h3>
+</div>
+<div class="mediaLinks">
+<div class="mediaLink facebook"><a href="https://www.facebook.com/urichmond"><img alt="Facebook" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/facebook/thumbnails/facebook-165x165.png"/><span>urichmond on Facebook</span></a></div>
+<div class="mediaLink twitter"><a href="https://twitter.com/urichmond"><img alt="Twitter" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/twitter/thumbnails/twitter-165x165.png"/><span>@urichmond on Twitter</span></a></div>
+<div class="mediaLink instagram"><a href="https://www.instagram.com/urichmond/"><img alt="Instagram" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/instagram/thumbnails/instagram-165x165.png"/><span>@urichmond on Instagram</span></a></div>
+<div class="mediaLink linkedIn"><a href="https://www.linkedin.com/edu/university-of-richmond-19601"><img alt="LinkedIn" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/linkedIn/thumbnails/linkedIn-165x165.png"/><span>University of Richmond on LinkedIn</span></a></div>
+<div class="mediaLink spiderPride"><a href="http://spiderpride.richmond.edu/"><img alt="Spider Pride" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/spiderPride/promo/spiderpride-wordmark-320x180.png"/><span>Spider Pride</span></a></div>
+<div class="mediaLink magazine"><a href="http://magazine.richmond.edu/"><img alt="Univers ity of Richmond Magazine" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/_global/adminPromos/magazine/promo/magazine-320x180.png"/><span>University of Richmond Magazine</span></a></div>
+<div class="clear"></div>
+</div></div></div></div></div>
+        <div class="row eventCardsRow"><div class="rowWrap"><h2>Event Picks</h2>
+           <div class="maeEventsList eventCards">
+            <a href="https://calendar.richmond.edu/page.html?eventid=16105&informationid=casData,startdate:2019-03-28,enddate:2019-03-28,starttime:180000,endtime:200000" class="eventCard col4-1" data-title="Austin Spider Gathering">
+                <div class="imageWrapper">
+                <div class="responsiveImg" data-alt="" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-830x467.jpg" data-type="16_9"><noscript><img src="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-1000x563.jpg" alt="" class="img-1000"></noscript></div>
+                <script type="text/javascript">
+                    var images = document.getElementsByClassName('responsiveImg');
+                    var img = images[images.length - 1];
+                    resizeImg(img);
+                </script></div>
+                <div class="content">
+                    <div class="wrapper">
+                        <div class="dates"><div class="date"><div class="month">Mar</div><div class="day">28</div></div></div>
+                        <div class="title">Austin: Spider Gathering</div>
+                        <div class="time">6:00 PM - 8:00 PM</div>
+                        <div class="description">Join fellow alumni, family, friends, and University staff for an evening at Javelina. Enjoy appetizers and a cash bar while mingling with other Spiders.
+Thursday, March 28
+ 6 - 8 p.m.
+Javelina
+69 Rainey Street
+Austin, TX 78701
+$5 per person includes appetizers and a cash bar.
+Registration is... </div>
+                    </div>
+                </div>
+                <div class="button">Read More</div>
+            </a>
+            <a href="https://calendar.richmond.edu/page.html?eventid=15632&informationid=casData,startdate:2019-03-29,enddate:2019-03-29,starttime:123000,endtime:132500" class="eventCard col4-1" data-title="CCE Brown Bag The Holocaust and Religious Social Responsibility Lessons from a Pilgrimage to Poland">
+                <div class="imageWrapper">  <div class="responsiveImg" data-alt="" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-830x467.jpg" data-type="16_9"><noscript><img alt="" src="https://d1gtq9mqg5x3oe.cloudfront.net/images/engage/events/brown-bag-new/promo/brown-bag-promo-660x371.jpg"/></noscript></div>
+           <script type="text/javascript">
+                var images = document.getElementsByClassName('responsiveImg');
+                var img = images[images.length - 1];
+                resizeImg(img);
+           </script>
+         </div>
+                <div class="content">
+                    <div class="wrapper">
+                        <div class="dates"><div class="date"><div class="month">Mar</div><div class="day">29</div></div></div>
+                        <div class="title">CCE Brown Bag: The Holocaust and Religious Social Responsibility: Lessons from a Pilgrimage to Poland</div>
+                        <div class="time">12:30 PM - 1:25 PM</div>
+                        <div class="description">Location: Tyler Haynes Commons, Room 305
+Speakers: Josh Jeffreys, Jewish Chaplain and Director of Religious Life, Office of the Chaplaincy, University of Richmond
+Jess Winkler, '19
+Anna Lowenthal, '19
+Josh Kim, '19
+Mo Coovadia, '19
+Jenny Piciw, '20
+Claire Mendelson, '20
+Elle Pofilio, '21
+Kay... </div>
+                    </div>
+                </div>
+                <div class="button">Read More</div>
+            </a>
+            <a href="https://calendar.richmond.edu/page.html?eventid=16137&informationid=casData,startdate:2019-04-04,enddate:2019-04-04,starttime:173000,endtime:193000" class="eventCard col4-1" data-title="RVA Tap into oUR Network Series">
+                <div class="imageWrapper">
+                <div class="responsiveImg" data-alt="" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-830x467.jpg" data-type="16_9"><noscript><img src="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/generic/promo_generic-1000x563.jpg" alt="" class="img-1000"></noscript></div>
+                <script type="text/javascript">
+                    var images = document.getElementsByClassName('responsiveImg');
+                    var img = images[images.length - 1];
+                    resizeImg(img);
+                </script></div>
+                <div class="content">
+                    <div class="wrapper">
+                        <div class="dates"><div class="date"><div class="month">Apr</div><div class="day">04</div></div></div>
+                        <div class="title">RVA: Tap into oUR Network Series</div>
+                        <div class="time">5:30 PM - 7:30 PM</div>
+                        <div class="description">
+Join us for our second event in this new series featuring campus representatives at local breweries and casual venues with the goal of allowing alumni to "tap" into the UR network and what it means to be a Spider!
+Enjoy this opportunity for casual conversations with Dr. Nancy Bagranoff, dean of ...the</div>
+                    </div>
+                </div>
+                <div class="button">Read More</div>
+            </a>
+            <a href="https://calendar.richmond.edu/page.html?eventid=15636&informationid=casData,startdate:2019-04-05,enddate:2019-04-05,starttime:123000,endtime:132500" class="eventCard col4-1" data-title="CCE Brown Bag Why a Mentoring Mindset Improves the Workplace">
+                <div class="imageWrapper">
+                <div class="responsiveImg" data-alt="" data-img-1000="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-1000x563.jpg" data-img-220="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-220x124.jpg" data-img-320="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-320x180.jpg" data-img-480="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-480x270.jpg" data-img-660="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-660x371.jpg" data-img-720="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-720x405.jpg" data-img-830="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-830x467.jpg" data-type="16_9"><noscript><img src="https://d1gtq9mqg5x3oe.cloudfront.net/images/www/default-event/promo/cce/promo_cce-1000x563.jpg" alt="" class="img-1000"></noscript></div>
+                <script type="text/javascript">
+                    var images = document.getElementsByClassName('responsiveImg');
+                    var img = images[images.length - 1];
+                    resizeImg(img);
+                </script></div>
+                <div class="content">
+                    <div class="wrapper">
+                        <div class="dates"><div class="date"><div class="month">Apr</div><div class="day">05</div></div></div>
+                        <div class="title">CCE Brown Bag: Why a Mentoring Mindset Improves the Workplace</div>
+                        <div class="time">12:30 PM - 1:25 PM</div>
+                        <div class="description">Speakers: Elizabeth Bass
+Betsy Bilhartz
+Nicole Maldonado Benites
+Location: Tyler Haynes Commons, Room 305
+The Bonner Center for Civic Engagement (CCE) hosts weekly Brown Bag discussions, open to members of the campus and the community, from 12:30&#8211;1:25p.m. on most Fridays during the academic... </div>
+                    </div>
+                </div>
+                <div class="button">Read More</div>
+            </a></div>
+            <a class="viewMore" href="https://calendar.richmond.edu">
+                <div class="title icon-caretRight">Browse all events</div>
+            </a>                <script type="text/javascript">
+                     $(document).ready(function(){
+                    if(isMobile == false){
+                        var elem = $('#ankler');
+
+                        function toggleFixed(){
+                            var threshhold = $(document).height() - ($(document).scrollTop() + $(window).height()) - $('#footer').height();
+
+                            if(threshhold >= 0){
+                                elem.addClass('fixed');
+                            } else {
+                                elem.removeClass('fixed');
+                            }
+                        }
+
+                        $(window).scroll(function(){
+                            toggleFixed();
+                        });
+
+                        $(window).resize(function(){
+                            toggleFixed();
+                        });
+
+                        toggleFixed();
+                    }
+                })
+                </script>
+                </div></div>
+        
+        <div class="row contentStrip instagramFlow"><div class="rowWrap"><div class="row"><div class="rowWrap">
+     
+				<h2>Photos from @urichmond</h2>
+				<div class="flowWrap" data-id="urichmond" data-count="12">
+					<div class="flowBox image" data-id="2009094941942329415_354125398">
+						<a href="https://www.instagram.com/p/BvhvTR-gbBH/" target="_blank"><img alt="Spring blooms in the shade of Stern Quad." src="https://scontent.cdninstagram.com/vp/f8f7efc08fb84a0d8f32d9c42741cac7/5D16B713/t51.2885-15/e15/p320x320/53870696_362556467690554_5508337361710388837_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>Spring blooms in the shade of Stern Quad.</span></a>
+						<p class="caption">Spring blooms in the shade of Stern Quad.</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2008363826637997878_354125398">
+						<a href="https://www.instagram.com/p/BvfJEJygIc2/" target="_blank"><img alt="🚨Future Spider Alert🚨 #TowerTuesday" src="https://scontent.cdninstagram.com/vp/8ef7018062473f6fc34c3e73ef004fb9/5D420C17/t51.2885-15/e35/p320x320/54447000_584129821997159_5595022262913119172_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>🚨Future Spider Alert🚨 #TowerTuesday</span></a>
+						<p class="caption">🚨Future Spider Alert🚨 <a href="https://www.instagram.com/explore/tags/TowerTuesday/">#TowerTuesday</a></p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2007634266371956633_354125398">
+						<a href="https://www.instagram.com/p/BvcjLp2AJ-Z/" target="_blank"><img alt="Kicking off this week with a spring in our step." src="https://scontent.cdninstagram.com/vp/c010b4ec2b9cf30bcf746caa7efe7282/5D4F00D9/t51.2885-15/e35/p320x320/54732016_404074683482877_6414419016689444850_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>Kicking off this week with a spring in our step.</span></a>
+						<p class="caption">Kicking off this week with a spring in our step.</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2006771626419767032_354125398">
+						<a href="https://www.instagram.com/p/BvZfClyFUb4/" target="_blank"><img alt="This week's #SpiderSpotting takes us all the way to Tanzania where @amelia_vogler and @psdrennan, both '11, showed off their #SpiderPride at the top of Kilimanjaro. 🕷❤️💙" src="https://scontent.cdninstagram.com/vp/a990a85ba551096dbdd675afc9feec67/5D4678F9/t51.2885-15/e15/s320x320/53625764_2609359065771889_2062750168788793927_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>This week's #SpiderSpotting takes us all the way to Tanzania where @amelia_vogler and @psdrennan, both '11, showed off their #SpiderPride at the top of Kilimanjaro. 🕷❤️💙</span></a>
+						<p class="caption">This week's <a href="https://www.instagram.com/explore/tags/SpiderSpotting/">#SpiderSpotting</a> takes us all the way to Tanzania where  <a href="https://www.instagram.com/amelia_vogler/">@amelia_vogler</a> and  <a href="https://www.instagram.com/psdrennan/">@psdrennan</a>, both '11, showed off their <a href="https://www.instagram.com/explore/tags/SpiderPride/">#SpiderPride</a> at the top of Kilimanjaro. 🕷❤️💙</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2006223514311712611_354125398">
+						<a href="https://www.instagram.com/p/BvXiagmld9j/" target="_blank"><img alt="Closing out our Saturday with a little stroll around #URichmond. 😍
+・・・
+📸: @vanna_delcid" src="https://scontent.cdninstagram.com/vp/367fee42d8426bfaa5ef685bf44c8bf3/5D48BCEE/t51.2885-15/e15/s320x320/53759587_308748186459193_945445481628453179_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>Closing out our Saturday with a little stroll around #URichmond. 😍
+・・・
+📸: @vanna_delcid</span></a>
+						<p class="caption">Closing out our Saturday with a little stroll around <a href="https://www.instagram.com/explore/tags/URichmond/">#URichmond</a>. 😍
+・・・
+📸:  <a href="https://www.instagram.com/vanna_delcid/">@vanna_delcid</a></p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2004751897689604112_354125398">
+						<a href="https://www.instagram.com/p/BvSTzq0lEAQ/" target="_blank"><img alt="Cue Natasha Bedingfield 🎶" src="https://scontent.cdninstagram.com/vp/793a263db8724b391e1508013065f8df/5D16953D/t51.2885-15/e15/p320x320/53661107_2244605969137272_8738594247855751190_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>Cue Natasha Bedingfield 🎶</span></a>
+						<p class="caption">Cue Natasha Bedingfield 🎶</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox video" data-id="2004015852843821528_354125398">
+						<div class="icon-ringPlay">
+							<a href="https://www.instagram.com/p/BvPsczpAenY/" target="_blank"><img alt="Taking in the first day of spring on Westhampton Lake. 🕷❤️💙" src="https://scontent.cdninstagram.com/vp/6baa67f3df3244cdf56ee4d1b8457a25/5C9E649B/t51.2885-15/e15/s320x320/52117832_1935719469873724_4634677238727570906_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>Taking in the first day of spring on Westhampton Lake. 🕷❤️💙</span></a>
+						</div>
+						<p class="caption">Taking in the first day of spring on Westhampton Lake. 🕷❤️💙</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2003286573471560066_354125398">
+						<a href="https://www.instagram.com/p/BvNGoZTFPGC/" target="_blank"><img alt="If picking flowers on the last day of winter is wrong, then we don't want to be right. #TowerTuesday" src="https://scontent.cdninstagram.com/vp/05c03949f3d5bd1199cdb922ed3b9e38/5D299D4F/t51.2885-15/e15/p320x320/54510782_464405274097908_6404413699778108104_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>If picking flowers on the last day of winter is wrong, then we don't want to be right. #TowerTuesday</span></a>
+						<p class="caption">If picking flowers on the last day of winter is wrong, then we don't want to be right. <a href="https://www.instagram.com/explore/tags/TowerTuesday/">#TowerTuesday</a></p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2002567236560162844_354125398">
+						<a href="https://www.instagram.com/p/BvKjEqmARAc/" target="_blank"><img alt="Caught us waving to spring. 👋🤙" src="https://scontent.cdninstagram.com/vp/9928f76da1571464c425b283c72f1142/5D2E8809/t51.2885-15/e35/p320x320/54510870_307383946646369_9024528650659465321_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>Caught us waving to spring. 👋🤙</span></a>
+						<p class="caption">Caught us waving to spring. 👋🤙</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2001697692120379271_354125398">
+						<a href="https://www.instagram.com/p/BvHdXIOje-H/" target="_blank"><img alt="This week's #SpiderSpotting takes us south of the border to Tulum, Mexico where Claudia Ollé, '19, and @daniortiz_79, '20, showed off their #SpiderPride while cooling off at a cenote. 🕷❤️💙" src="https://scontent.cdninstagram.com/vp/eb6ea3c2a0d3ac0f2b3b19b3e7b68f4f/5D4202D9/t51.2885-15/e15/s320x320/52995638_378549419644907_4719708603624797793_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>This week's #SpiderSpotting takes us south of the border to Tulum, Mexico where Claudia Ollé, '19, and @daniortiz_79, '20, showed off their #SpiderPride while cooling off at a cenote. 🕷❤️💙</span></a>
+						<p class="caption">This week's <a href="https://www.instagram.com/explore/tags/SpiderSpotting/">#SpiderSpotting</a> takes us south of the border to Tulum, Mexico where Claudia Ollé, '19, and  <a href="https://www.instagram.com/daniortiz_79/">@daniortiz_79</a>, '20, showed off their <a href="https://www.instagram.com/explore/tags/SpiderPride/">#SpiderPride</a> while cooling off at a cenote. 🕷❤️💙</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox image" data-id="2001073965015042611_354125398">
+						<a href="https://www.instagram.com/p/BvFPitGAQoz/" target="_blank"><img alt="No better way to spend your favorite day of the week than with your favorite human at your favorite place. 🕷🐶
+・・・
+📸: @fosterthepupper feat. Ollie and @sarah_shavo, ‘20" src="https://scontent.cdninstagram.com/vp/506879d915e0a18020d85f164ba682c3/5D45388D/t51.2885-15/e35/p320x320/53086314_375387363050091_7183884168915149158_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>No better way to spend your favorite day of the week than with your favorite human at your favorite place. 🕷🐶
+・・・
+📸: @fosterthepupper feat. Ollie and @sarah_shavo, ‘20</span></a>
+						<p class="caption">No better way to spend your favorite day of the week than with your favorite human at your favorite place. 🕷🐶
+・・・
+📸:  <a href="https://www.instagram.com/fosterthepupper/">@fosterthepupper</a> feat. Ollie and  <a href="https://www.instagram.com/sarah_shavo/">@sarah_shavo</a>, ‘20</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div>
+					<div class="flowBox video" data-id="2000322145175021749_354125398">
+						<div class="icon-ringPlay">
+							<a href="https://www.instagram.com/p/BvCkmSTgSi1/" target="_blank"><img alt="After a week of nice weather at #URichmond, we look back on the snow that kicked off last year's Spring Break. See you soon, #Spiders! #FBF 🕷❤️💙" src="https://scontent.cdninstagram.com/vp/1f97a8800e0a97b7b1ce69be4166a7b1/5C9F4396/t51.2885-15/e15/s320x320/53709458_415032799256335_384664385612174965_n.jpg?_nc_ht=scontent.cdninstagram.com"><span>After a week of nice weather at #URichmond, we look back on the snow that kicked off last year's Spring Break. See you soon, #Spiders! #FBF 🕷❤️💙</span></a>
+						</div>
+						<p class="caption">After a week of nice weather at <a href="https://www.instagram.com/explore/tags/URichmond/">#URichmond</a>, we look back on the snow that kicked off last year's Spring Break. See you soon, <a href="https://www.instagram.com/explore/tags/Spiders/">#Spiders</a>! <a href="https://www.instagram.com/explore/tags/FBF/">#FBF</a> 🕷❤️💙</p>
+						<div class="identity">
+							<img alt="University of Richmond" class="profile" src="https://scontent.cdninstagram.com/vp/b5c59069197f4f840eb103228cd51db2/5D46ABED/t51.2885-19/s150x150/52402904_629564804166886_6419048929924481024_n.jpg?_nc_ht=scontent.cdninstagram.com">
+							<span class="fullName">University of Richmond</span>
+							<a href="https://www.instagram.com/urichmond/" class="userName">@urichmond</a>
+						</div>
+					</div></div></div></div></div></div>
+        
+        
+
+<script type="text/javascript">
+                $(document).ready(function(){
+                    var elem = $('.ankler');
+
+                    function toggleFixed(){
+                        var threshhold = $(document).height() - ($(document).scrollTop() + $(window).height()) - $('#footer').height();
+
+                        if(threshhold >= 0){
+                            elem.addClass('fixed');
+                        } else {
+                            elem.removeClass('fixed');
+                        }
+                    }
+
+                    $(window).scroll(function(){
+                        toggleFixed();
+                    });
+
+                    $(window).resize(function(){
+                        toggleFixed();
+                    });
+
+                    toggleFixed();
+                })
+            </script>
+
+
+        <div class="row contentStrip ankler"><div class="rowWrap"><div class="row"><div class="copy"><a href="/students/">Current Students</a> <a href="/faculty-staff/">Faculty &amp; Staff</a> <a href="/alumni/">Alumni</a></div></div></div></div>
+        
+            <!-- END content -->
+            <div class="row" id="footer">
+                
+<div class="rowWrap">
+    <div class="address">
+    <a class="wordmark" href="http://www.richmond.edu">
+                            <img alt="University of Richmond" src="https://d2r44v0ubjhg6i.cloudfront.net/images/kp4/footerWordmark.png"/></a>
+    <p>410 Westhampton Way<br/>
+    
+    University of Richmond,&#xa0;VA&#xa0;23173<br/>
+    (804) 289-8000
+    <br/>(800) 700-1662<br/></p>
+    <p><a href="https://www.richmond.edu/visit/">Maps &amp; Directions</a></p>
+<p><a href="https://www.richmond.edu/legal/copyright.html">&#169; 1995-2019</a>&#160; | &#160; <a href="https://www.richmond.edu/legal/index.html">Legal Notices</a>&#160; | &#160; <a href="https://www.richmond.edu/feedback/?url=www.richmond.edu%2F">Site feedback</a></p></div>
+    <div id="socialMedia">
+    <a class="facebook icon-circleLogoFacebook" href="https://facebook.com/urichmond">Facebook</a><a class="twitter icon-circleLogoTwitter" href="https://twitter.com/urichmond">Twitter</a><a class="instagram icon-circleLogoInstagram" href="http://instagram.com/urichmond">Instagram</a>
+    </div>
+    <div class="links">
+    <div class="linksWrap clearfix">
+    <div class="segment"><div class="title">Administration</div>
+    <ul>
+<li><a href="https://hr.richmond.edu">Human Resources</a></li>
+<li><a href="https://president.richmond.edu">President's Office</a></li>
+<li><a href="https://provost.richmond.edu">Provost's Office</a></li>
+<li><a href="https://communications.richmond.edu">University Communications</a></li>
+<li><a href="https://studentdevelopment.richmond.edu">Student Development</a></li>
+<li><a href="https://is.richmond.edu">Information Services</a></li>
+<li><a href="https://businessaffairs.richmond.edu/" target="_blank">Business Affairs</a></li>
+</ul></div>
+    <div class="segment"><div class="title">General Info</div>
+    <ul>
+<li><a href="https://www.richmond.edu/facts/index.html">UR Facts</a></li>
+<li><a href="https://registrar.richmond.edu/planning/calendar/index.html">Academic Calendar</a></li>
+<li><a href="https://news.richmond.edu">Newsroom</a></li>
+<li><a href="https://directory.richmond.edu/">Directory</a></li>
+<li><a href="http://www.urspidershop.com/">Bookstore</a></li>
+<li><a href="https://ifx.richmond.edu/accreditation/">Accreditation</a></li>
+<li><a href="https://www.richmond.edu/compliance/">Compliance</a></li>
+</ul></div>
+    <div class="segment"><div class="title">Schools</div>
+    <ul>
+<li><a href="https://as.richmond.edu">Arts &amp; Sciences</a></li>
+<li><a href="https://robins.richmond.edu">Business</a></li>
+<li><a href="https://jepson.richmond.edu">Leadership Studies</a></li>
+<li><a href="https://law.richmond.edu">Law</a></li>
+<li><a href="https://spcs.richmond.edu">Professional &amp; Continuing Studies</a></li>
+</ul></div>
+    <div class="segment"><div class="title">Health &amp; Safety</div>
+    <ul>
+<li><a href="https://alert.richmond.edu">UR Alert</a></li>
+<li><a href="https://police.richmond.edu">University Police</a></li>
+<li><a href="https://wellness.richmond.edu">Wellness</a></li>
+<li><a href="https://preparedness.richmond.edu/planning/index.html">Emergency Preparedness</a></li>
+<li><a href="https://transportation.richmond.edu">Transportation</a></li>
+<li><a href="https://studentdevelopment.richmond.edu/student-concerns/sexual-misconduct/">Sexual Misconduct Policy</a></li>
+</ul></div></div></div></div><script type="text/javascript">
+			var badForms;
+			if(typeof($) != 'undefined'){
+				$("body").ready(function(){
+					badForms = $("form[action='https://webapps.richmond.edu/URPoster/URPoster.php']");
+					if(badForms.length > 0 && typeof isUnsecureIe !== "undefined" && isUnsecureIe == true){
+						badForms.html('<div class="announcement high icon-alert2"><div><span class="title">Unsecure version of Internet Explorer</span><p>The version of Internet Explorer you are using does not support the necessary security standards for form submission. To complete the form on this page, please visit this page using a more modern web browser.</p><ul><li><a href="https://www.google.com/chrome/browser/">Google Chrome</a></li><li><a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a></li><li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=48126">Microsoft Edge</a></li><li><a href="https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads/">Microsoft Internet Explorer 11</a></li></ul></div></div>');
+					}
+				});
+			}
+			</script><!-- Washington Post - Footer Tracking Code -->
+                
+<div id="ttdUniversalPixelTagb66ff709a4584ff1956be974f0d2ae0e" style="display:none">
+    <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        (function(global) {
+            if (typeof TTDUniversalPixelApi === 'function') {
+                var universalPixelApi = new TTDUniversalPixelApi();
+                universalPixelApi.init("das0vmi", ["xq6eoh3"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTagb66ff709a4584ff1956be974f0d2ae0e");
+            }
+        })(this);
+    </script>
+</div>
+
+        <!-- End Washington Post - Footer Tracking Code -->
+
+            </div>
+            <!-- END footer -->
+        </div>
+        
+        
+    </body>
+</html>

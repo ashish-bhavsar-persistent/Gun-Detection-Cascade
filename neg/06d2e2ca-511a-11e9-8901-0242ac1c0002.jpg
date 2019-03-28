@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="title" content="SURFconext: overal veilige toegang met 1 set credentials | SURF.nl" />
+<link rel="shortcut icon" href="/themes/surf/favicons/favicon.ico" />
+<meta property="og:site_name" content="SURF.nl" />
+<link rel="mask-icon" href="/themes/surf/favicons/safari-pinned-tab.svg" />
+<meta name="twitter:title" content="SURFconext: overal veilige toegang met 1 set credentials" />
+<meta name="twitter:description" content="Laat je gebruikers met 1 gebruikersnaam en wachtwoord inloggen bij alle clouddiensten die
+jouw instelling gebruikt. Veilig, gemakkelijk en privacyvriendelijk." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.surf.nl/surfconext-overal-veilige-toegang-met-1-set-credentials" />
+<link rel="icon" sizes="16x16" href="/themes/surf/favicons/favicon-16x16.png" />
+<meta property="og:title" content="SURFconext: overal veilige toegang met 1 set credentials" />
+<link rel="icon" sizes="32x32" href="/themes/surf/favicons/favicon-32x32.png" />
+<meta property="og:description" content="Laat je gebruikers met 1 gebruikersnaam en wachtwoord inloggen bij alle clouddiensten die
+jouw instelling gebruikt. Veilig, gemakkelijk en privacyvriendelijk." />
+<link rel="icon" sizes="192x192" href="/themes/surf/favicons/android-chrome-192x192.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/surf/favicons/apple-touch-icon.png" />
+<link rel="manifest" href="/themes/surf/favicons/site.webmanifest" />
+<link rel="manifest" href="/themes/surf/favicons/site.webmanifest" />
+<meta name="msapplication-config" content="/themes/surf/favicons/browserconfig.xml" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="en" href="https://www.surf.nl/en/surfconext-global-access-with-1-set-of-credentials" />
+<link rel="alternate" hreflang="nl" href="https://www.surf.nl/surfconext-overal-veilige-toegang-met-1-set-credentials" />
+<link rel="canonical" href="/surfconext-overal-veilige-toegang-met-1-set-credentials" />
+<link rel="shortlink" href="/node/1521" />
+<link rel="revision" href="/surfconext-overal-veilige-toegang-met-1-set-credentials" />
+
+    <title>SURFconext: overal veilige toegang met 1 set credentials | SURF.nl</title>
+    <link rel="stylesheet" href="/files/css/css_VHU_wSyeuqsZ8wGaXCPjBUXSbc8s_LY_fXs6Qq4sa_g.css?poythb" media="all" />
+<link rel="stylesheet" href="/files/css/css_2RfQxZnAgIr75U8LFWxHbjzLaaXpPU2jkD7ykM5CVtk.css?poythb" media="all" />
+<link rel="stylesheet" href="/files/css/css_JMmXe4YkUGDb16IGALzC2Xl3RD5JB8inXoiAYN1fOB8.css?poythb" media="print" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1521","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","lg_cookiecontrol":{"content":{"header":"Gebruikte cookies op de website","message":"\u003Cp\u003ESURF plaatst functionele cookies om deze website goed te laten werken. Ook plaatsen we analytische cookies om de website te verbeteren. De data wordt waar mogelijk geanonimiseerd.\u003C\/p\u003E\r\n\u003Cp\u003EIngesloten content (zoals YouTube-video\u0027s) kan cookies van derde partijen bevatten. Wil je deze cookies van derden toestaan?\u003C\/p\u003E","dismiss":"Negeer","allow":"Accepteer","deny":"Weiger","link":"Meer weten?","href":"\/cookies","close":"Sluit","mySettings":"Wijzig voorkeuren","moreInfoLink":"Meer weten?","moreInfo":"This website uses functional cookies and cookies for web statistics and videos. We do this to provide you with an optimal service. Cookies are small text files that are stored on your device when you visit our website. You can select which cookies you allow so be set in the settings form. By clicking Accept or by continuing to use the website you give your consent to store cookies when you visit the website.","closeOverlayLink":"Sluit","adjustSettings":"Cookievoorkeuren","availableOptionsIntro":"\u003Ch2\u003EJe cookievoorkeuren\u003C\/h2\u003E\r\n\u003Cp class=\u0022intro\u0022\u003EGeef aan welke soorten cookies je wilt accepteren.\u003C\/p\u003E\r\n\u003Cp class=\u0022extra-info\u0022\u003EMeer informatie over deze cookies lees je in \u003Ca href=\u0022\/cookies\u0022\u003Eonze cookieverklaring\u003C\/a\u003E. In \u003Ca href=\u0022\/privacy\u0022\u003Eonze privacyverklaring\u003C\/a\u003E lees je alles over hoe we met jouw privacy omgaan.\u003C\/p\u003E","saveOptions":"Opslaan"},"availableOptions":{"functional":{"title":"Functioneel","description":"deze cookies zorgen ervoor dat de website goed werkt","mandatory":true},"analytics":{"title":"Analytisch","description":"we hebben deze cookies privacy-vriendelijk ingesteld, de verzamelde informatie is waar mogelijk geanonimiseerd. Deze gegevens gebruiken we om de website te verbeteren","mandatory":true},"other":{"title":"Derde partijen","description":"ingesloten content (zoals YouTube-video\u2019s) kan cookies van derde partijen bevatten","mandatory":false,"placeholder_texts":{"iframe":"Deze inhoud wordt geblokkeerd omdat je (nog) geen derde partijen cookies toestaat. Klik hier om alsnog te accepteren."}}},"dismissOnScroll":100,"dismissOnTimeout":30000,"revokable":false},"matomo":{"trackMailto":true},"surfMatomo":{"initializeMatomo":{"linkTracking":{"enable":true,"ignoreClasses":["no-tracking","colorbox"]},"documentTitle":false,"doNotTrack":true,"userId":false,"downloadExtensions":false,"cookieDomain":false,"messages":[],"siteId":"2","trackerUrl":"\/\/webstats.surf.nl\/piwik.php","customUrl":"","status":null,"trackPageView":true}},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(externe link)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"header, footer, .paragraph--type--contact","extCssExplicit":"","extAlert":false,"extAlertText":"Deze link leidt naar een externe website. We zijn niet verantwoordelijk voor hun inhoud.","mailtoClass":"mailto","mailtoLabel":"(link verzend email)"}},"user":{"uid":0,"permissionsHash":"c6b026808c1afed4a3c621aee67478074b323dec0f66ed4250ba96e5f2efd11e"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/files/js/js_Q8878hoPelFJVMLtIVVxE3hClbrlUVxyl6eGcqeHY2Y.js"></script>
+<script src="//webstats.surf.nl/piwik.js" async defer type="text/plain" data-lg-cookiecontrol="processed" class="lg-cookiecontrol-analytics"></script>
+<script src="/files/js/js_TtAtZVJWlb32wcXVImL12Z0urLH7xXXYbRZ52qicjoU.js"></script>
+
+  </head>
+  <body class="page-color--purple path-node page-node-type-product">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Overslaan en naar de inhoud gaan
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="page">
+
+  
+  <header class="page-header">
+      <div class="region region-header-top">
+    <div class="region-inner region-header-top-inner page-container">
+      <nav aria-labelledby="block-top-menu-menu" id="block-top-menu" class="block block-menu navigation menu--top">
+            
+  <h2 class="visually-hidden" id="block-top-menu-menu">Portalen</h2>
+  
+
+        
+        <ul class="menu">
+                  <li class="menu-item">
+        <a href="https://www.surfspot.nl">SURFspot</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://dashboard.surfnet.nl/login.php" title="surfdashboard">SURFdashboard</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://sts.surfmarket.nl/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn%3Aseo%3Asharepoint&amp;wctx=https%3A//www.surfmarket.nl/Paginas/Doorverwijzing.aspx">Mijn SURFmarket</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://userinfo.surfsara.nl/">Userinfo</a>
+                      </li>
+      </ul>
+  
+
+
+  </nav>
+
+    </div>
+  </div>
+
+      <div class="region region-header">
+    <div class="region-inner region-header-inner page-container">
+      
+<div id="block-branding-logo-header" class="block block-system block-system-branding-block">
+
+    
+      
+        
+    <div class="block-content">
+            <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="/themes/surf/logo.svg" alt="Home" />
+    </a>
+          </div>
+  
+    
+</div>
+<nav aria-labelledby="block-main-menu-menu" id="block-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-main-menu-menu">Hoofdnavigatie</h2>
+  
+
+        
+        <ul class="menu">
+                  <li class="menu-color--green menu-item menu-item--expanded">
+        <a href="/ict-voorzieningen" data-drupal-link-system-path="node/35">
+            <span class="text">ICT-voorzieningen</span>
+            <svg class="icon-inline icon-triangle-down"><use xlink:href="#triangle-down"></use></svg>
+            <span class="hr menu-color-bg"><span>
+          </a>
+                                    <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span>Expertises</span>
+                                    <ul class="menu">
+                    <li class="menu-item">
+        <a href="/expertises/netwerk-en-infrastructuur" title="Zonder stabiel netwerk geen onderwijs, onderzoek en innovatie met ict." data-drupal-link-system-path="node/41">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Netwerk en infrastructuur</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/data-en-serverdiensten" title="SURF biedt diverse oplossingen om de stap naar de cloud te maken, van IaaS tot cloudopslag." data-drupal-link-system-path="node/44">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Data- en serverdiensten</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/security-en-privacy" title="Veilige online omgeving voor je studenten, docenten en onderzoekers." data-drupal-link-system-path="node/50">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Security en privacy</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/trust-en-identity" title="Samen met instellingen regelen we veilige en gemakkelijke toegang tot diensten." data-drupal-link-system-path="node/47">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Trust en identity</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/gezamenlijke-inkoop" title="ICT en content tegen de best mogelijke voorwaarden inkopen" data-drupal-link-system-path="node/53">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Gezamenlijke inkoop</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/duurzaamheid-en-mvo" title="Maatschappelijk verantwoord ondernemen en groene ICT in onderwijs en onderzoek" data-drupal-link-system-path="node/56">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Duurzaamheid en MVO</span>
+      </a>
+                      </li>
+          </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span>Wat speelt er binnen</span>
+                                    <ul class="menu">
+                    <li class="menu-item">
+        <a href="/nieuws/ict-infrastructuur" data-drupal-link-system-path="news/35">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Actueel</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/agenda/ict-infrastructuur" data-drupal-link-system-path="agenda/35">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Agenda</span>
+      </a>
+                      </li>
+          </ul>
+  
+              </li>
+              <li class="inner-rounding-top-right"><span class="svg-symbol--wrapper" aria-hidden="true"><svg class="svg-symbol svg-symbol--inner-rounding-top-right " role="img" title="" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="#inner-rounding-top-right"></use></svg></span></li>
+      </ul>
+  
+              </li>
+                <li class="menu-color--blue menu-item menu-item--expanded">
+        <a href="/onderwijs-ict" title="onderwijs &amp; ict" data-drupal-link-system-path="node/38">
+            <span class="text">Onderwijs &amp; ICT</span>
+            <svg class="icon-inline icon-triangle-down"><use xlink:href="#triangle-down"></use></svg>
+            <span class="hr menu-color-bg"><span>
+          </a>
+                                    <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span>Expertises</span>
+                                    <ul class="menu">
+                    <li class="menu-item">
+        <a href="/expertises/flexibel-onderwijs-organiseren" title="Flexibeler onderwijsaanbod voor studenten vergt een andere organisatie van onderwijs." data-drupal-link-system-path="node/59">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Flexibel onderwijs organiseren</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/digitale-leeromgeving" title="Flexibele en persoonlijke leeromgeving die aansluit op behoeften van docent en student." data-drupal-link-system-path="node/68">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Digitale leeromgeving</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/digitale-leermaterialen" title="Digitaal leermateriaal (open) delen en hergebruiken om het onderwijs te verbeteren." data-drupal-link-system-path="node/74">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Digitale leermaterialen</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/digitaal-toetsen" title="Digitaal toetsen bespaart nakijktijd, geeft snelle analyses en helpt om studenten gerichte feedback te geven." data-drupal-link-system-path="node/65">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Digitaal toetsen</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/online-en-blended-onderwijs" title="Met online en blended onderwijs kun je studenten meer flexibel en persoonlijk onderwijs aanbieden." data-drupal-link-system-path="node/62">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Online en blended onderwijs</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/benutten-van-studiedata" title="Studiedata omzetten naar waardevolle rapportages, voor de docent én student." data-drupal-link-system-path="node/71">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Benutten van studiedata</span>
+      </a>
+                      </li>
+          </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span>Wat speelt er binnen</span>
+                                    <ul class="menu">
+                    <li class="menu-item">
+        <a href="/nieuws/onderwijs-en-ict" data-drupal-link-system-path="news/38">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Actueel</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/agenda/onderwijs-en-ict" data-drupal-link-system-path="agenda/38">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Agenda</span>
+      </a>
+                      </li>
+          </ul>
+  
+              </li>
+              <li class="inner-rounding-top-right"><span class="svg-symbol--wrapper" aria-hidden="true"><svg class="svg-symbol svg-symbol--inner-rounding-top-right " role="img" title="" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="#inner-rounding-top-right"></use></svg></span></li>
+      </ul>
+  
+              </li>
+                <li class="menu-color--red menu-item menu-item--expanded">
+        <a href="/onderzoek-ict" title="onderzoek &amp; ict" data-drupal-link-system-path="node/11">
+            <span class="text">Onderzoek &amp; ICT</span>
+            <svg class="icon-inline icon-triangle-down"><use xlink:href="#triangle-down"></use></svg>
+            <span class="hr menu-color-bg"><span>
+          </a>
+                                    <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span>Expertises</span>
+                                    <ul class="menu">
+                    <li class="menu-item">
+        <a href="/expertises/rekendiensten" title="High performance computing: duizenden malen sneller dan je pc." data-drupal-link-system-path="node/77">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Rekendiensten</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/dataopslag-en-beheer" title="Veilig opslaan, managen, delen en hergebruiken van data" data-drupal-link-system-path="node/80">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Dataopslag en -beheer</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/dataverwerking-en-analyse" title="(Big) data analytics &amp; visualisatie van je dataset" data-drupal-link-system-path="node/83">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Dataverwerking en -analyse</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/expertises/open-science" title="Samen onderzoeksproces en -data toegankelijker maken" data-drupal-link-system-path="node/89">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Open science</span>
+      </a>
+                      </li>
+          </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span>Wat speelt er binnen</span>
+                                    <ul class="menu">
+                    <li class="menu-item">
+        <a href="/nieuws/onderzoek-en-ict" data-drupal-link-system-path="news/11">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Actueel</span>
+      </a>
+                      </li>
+                <li class="menu-item">
+        <a href="/agenda/onderzoek-en-ict" data-drupal-link-system-path="agenda/11">
+        <svg class="icon-inline icon-arrow-right menu-color-fill"><use xlink:href="#arrow-right"></use></svg>
+        <span class="text">Agenda</span>
+      </a>
+                      </li>
+          </ul>
+  
+              </li>
+              <li class="inner-rounding-top-right"><span class="svg-symbol--wrapper" aria-hidden="true"><svg class="svg-symbol svg-symbol--inner-rounding-top-right " role="img" title="" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="#inner-rounding-top-right"></use></svg></span></li>
+      </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/surf-stories" data-drupal-link-system-path="surf-stories">SURF Stories</a>
+                      </li>
+          </ul>
+  
+
+
+  </nav>
+
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+
+    
+      
+          <h2 class="block-title">Taalkeuze</h2>
+        
+    <div class="block-content">
+              <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/1521" class="en"><a href="/en/surfconext-global-access-with-1-set-of-credentials" class="language-link" hreflang="en" data-drupal-link-system-path="node/1521">English</a></li><li hreflang="nl" data-drupal-link-system-path="node/1521" class="nl is-active"><a href="/surfconext-overal-veilige-toegang-met-1-set-credentials" class="language-link is-active" hreflang="nl" data-drupal-link-system-path="node/1521">Nederlands</a></li></ul>
+          </div>
+  
+    
+</div>
+
+      <nav class="search">
+                <a href="/zoeken" class="search-button">
+          <span class="icon"><span class="svg-symbol--wrapper" aria-hidden="true"><svg class="svg-symbol svg-symbol--search " role="img" title="" xmlns:xlink="http://www.w3.org/1999/xlink"><use xlink:href="#search"></use></svg></span></span>
+          <span class="text visually-hidden">Zoeken</span>
+        </a>
+      </nav>
+    </div>
+  </div>
+
+      <div class="region region-header-bottom">
+    <div class="region-inner region-header-bottom-inner page-container">
+      
+<div id="block-branding-slogan" class="block block-system block-system-branding-block">
+
+    
+      
+        
+    <div class="block-content">
+                <div class="site-slogan">Samen aanjagen van vernieuwing</div>
+      </div>
+  
+    
+</div>
+
+    </div>
+  </div>
+
+  </header>
+
+        <div class="region region-highlighted">
+    <div class="region-inner region-highlighted-inner page-container">
+      
+
+    </div>
+  </div>
+
+  
+  
+  <main class="page-main page-container">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content no-aside">
+        <div class="region region-content">
+    <div class="region-inner region-content-inner">
+      
+<div id="block-main-content" class="block block-system block-system-main-block">
+
+    
+      
+        
+    <div class="block-content">
+              
+  
+
+
+<article class="entity-color entity-color--purple node node--type-product node--view-mode-full as-landingpage">
+
+  
+  
+  
+  
+
+  <div class="node-heading-outside indent-to-grid">
+    <div class="grid-container">
+      <span class="stroke"></span>
+      <h1 class="page-title page-color-color"><span class="field field--name-title field--type-string field--label-hidden">SURFconext: overal veilige toegang met 1 set credentials</span>
+</h1>
+    </div>
+  </div>
+<div class="node-header node-header-rich">
+  <div class="node-header-main grid-container indent-to-grid">
+    <div class="textual">
+            <div class="node-header-intro">
+        <p>Laat je gebruikers met 1 gebruikersnaam en wachtwoord inloggen bij alle clouddiensten die jouw instelling gebruikt. Zowel voor diensten die iedereen gebruikt als die voor kleine specialistische teams. Veilig, gemakkelijk en privacyvriendelijk.</p>
+
+      </div>
+          </div>
+    <div class="visual hide-until-desktop">
+      
+            <div class="field field--name-field-media-header field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-header">
+  
+      
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img src="/files/styles/product_header/public/2019-03/Surf_Maastricht_Library_11_0.jpg?h=24f46c99&amp;itok=yfvgGAsb" width="552" height="330" alt="studente kijkt op haar laptop" class="image-style-product-header" />
+
+
+</div>
+      
+  </div>
+</div>
+      
+    </div>
+  </div>
+      <div class="node-nav node-sub-nav page-color-border">
+      
+<nav class="field field--name-field-product-subs field--type-entity-reference field--label-visually_hidden subs product-subs">
+      <h2 class="field__label visually-hidden">Subpagina&#039;s in menu</h2>
+    <ul class="menu">
+          <li class="menu-item--active-trail menu-item"><a href="/surfconext-overal-veilige-toegang-met-1-set-credentials" class="is-active" hreflang="nl">SURFconext</a></li>
+          <li class="menu-item"><a href="/surfconext-overal-veilige-toegang-met-1-set-credentials/over-surfconext-veilig-en" hreflang="nl">Over SURFconext</a></li>
+          <li class="menu-item"><a href="/surfconext-overal-veilige-toegang-met-1-set-credentials/welke-diensten-kun-je-met-surfconext" hreflang="nl">Diensten</a></li>
+          <li class="menu-item"><a href="/surfconext-overal-veilige-toegang-met-1-set-credentials/surfconext-in-de-praktijk-inspirerende" hreflang="nl">Praktijkvoorbeelden</a></li>
+          <li class="menu-item"><a href="/surfconext-overal-veilige-toegang-met-1-set-credentials/webinars-over-surfconext" hreflang="nl">Webinars</a></li>
+      </ul>
+  <div class="overflow-init"></div>
+</nav>
+
+    </div>
+        <div class="node-header-components grid-container indent-to-grid">
+      
+      <div class="field field--name-field-components-intro field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="entity-row paragraph paragraph--type--row-product paragraph--view-mode--full">
+          
+
+  <div class="row-inner row-inner-multiple">
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-wide">
+    <article class="has-visual">
+              <div class="entity-content colored-stripe two-col">
+          <div class="textual">
+            <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">1 koppelvlak voor alle clouddiensten</div>
+      </h3>
+            <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>Lees wat SURFconext kan betekenen voor jou als instelling, voor je gebruikers en voor dienstaanbieders.</p>
+<p><a class="btn-yellow" href="/surfconext-overal-veilige-toegang-met-1-set-credentials/surfconext-veilig-en-gebruikersvriendelijk">Over SURFconext</a></p>
+</div>
+      
+            </div>
+          </div>
+                      <div class="visual">
+              
+            <div class="field field--name-field-image-paragraph field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph paragraph--type--image paragraph--view-mode--main">
+      <figure>
+    
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><div class="media media--type-image media--view-mode-paragraph-image">
+  
+      
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">    <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/files/styles/paragraph_image_large/public/2019-02/Video%20SURFconext.JPG?h=ff67ad1d&amp;itok=Un7yIS4B 1x" media="all and (min-width: 1344px)" type="image/jpeg"/>
+              <source srcset="/files/styles/paragraph_image_large/public/2019-02/Video%20SURFconext.JPG?h=ff67ad1d&amp;itok=Un7yIS4B 1x" media="all and (min-width: 1024px) and (max-width: 1343px)" type="image/jpeg"/>
+              <source srcset="/files/styles/paragraph_image_large/public/2019-02/Video%20SURFconext.JPG?h=ff67ad1d&amp;itok=Un7yIS4B 1x" media="all and (min-width: 768px) and (max-width: 1023px)" type="image/jpeg"/>
+              <source srcset="/files/styles/paragraph_image_medium/public/2019-02/Video%20SURFconext.JPG?h=ff67ad1d&amp;itok=Hy5HJ9kA 1x" media="all and (min-width: 480px) and (max-width: 767px)" type="image/jpeg"/>
+              <source srcset="/files/styles/paragraph_image_medium/public/2019-02/Video%20SURFconext.JPG?h=ff67ad1d&amp;itok=Hy5HJ9kA 1x" type="image/jpeg"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/files/styles/paragraph_image_narrow/public/2019-02/Video%20SURFconext.JPG?h=ff67ad1d&amp;itok=nhZJi9Uk" alt="SURFconext (video)" />
+
+  </picture>
+
+</div>
+      
+  </div>
+</div>
+      
+    <figcaption></figcaption>
+  </figure>
+    
+  </div>
+</div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Seminar What&#039;s next @ SURFconext?</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>Kom op 9 april naar What’s next @ SURFconext voor de laatste ontwikkelingen bij SURFconext en SURFSecureID.</p>
+<p><a class="icon-chevron-right-blue icon-pseudo lnk-blue" href="/agenda/seminar-whats-next-surfconext">Meer informatie en inschrijven </a></p>
+</div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+      </div>
+
+
+      </div>
+</div>
+              <div class="field__item">  <div class="entity-row paragraph paragraph--type--row-product paragraph--view-mode--full">
+          
+
+  <div class="row-inner row-inner-multiple">
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">1000 clouddiensten</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>Er zijn al 1000 dienstaanbieders aangesloten. Weten welke dat zijn of eigen diensten aansluiten?</p>
+<p><a class="icon-chevron-right-blue icon-pseudo lnk-blue" href="/surfconext-overal-veilige-toegang-met-1-set-credentials/overzicht-van-de-op-surfconext-aangesloten">Overzicht alle diensten</a></p>
+</div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">In de praktijk</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>Ontdek voor welke handige en innovatieve doeleinden jouw collega-instellingen SURFconext gebruiken.</p>
+<p><a class="icon-chevron-right-blue icon-pseudo lnk-blue" href="/surfconext-overal-veilige-toegang-met-1-set-credentials/surfconext-in-de-praktijk-inspirerende">Lees verder</a></p>
+</div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Doorontwikkeling</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>SURFconext is open source en volop in ontwikkeling. <a href="https://list.surfnet.nl/mailman/listinfo/surfconext-alert">Schrijf je in voor de SURFconext-nieuwsbrief</a> en blijf op de hoogte van nieuws en nieuwe releases.</p>
+</div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+      </div>
+
+
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+  <div class="node-content grid-container indent-to-grid">
+          
+
+  <div class="field field--name-field-components-full-width field--type-entity-reference-revisions field--label-hidden">
+            <div class="entity-row paragraph paragraph--type--row-product paragraph--view-mode--full">
+          
+
+  <div class="row-inner row-inner-multiple">
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Voordelen voor je gebruikers</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><ul><li>Veilig en gemakkelijk toegang tot clouddiensten met 1 account, namelijk dat van de instelling (single sign-on)</li>
+<li>Privacy beschermd: een minimaal aantal persoonlijke gegevens wordt doorgegeven aan de dienstaanbieder</li>
+<li>Altijd inzicht met welke diensten de gegevens van de gebruiker gedeeld zijn</li>
+<li>Toegang tot diensten uit de internationale onderwijs- en onderzoekgemeenschap</li>
+</ul></div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Voordelen voor jou als instelling</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><ul><li>Veilig en gecontroleerd gebruik van cloudoplossingen voor je gebruikers</li>
+<li>Eenvoudig toegankelijk maken van eigen diensten voor gebruikers van andere instellingen</li>
+<li>Steeds nieuwe innovaties, voor en door instellingen</li>
+<li>Duidelijk inzicht in afspraken met dienstaanbieders</li>
+</ul></div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+          
+
+
+
+
+  <div class="paragraph paragraph--type--custom-content paragraph--view-mode--block-small">
+    <article>
+              <div class="entity-content colored-stripe one-col">
+                    <h3 class="title">
+            <div class="field field--name-field-title field--type-string field--label-hidden field__item">Voordelen voor dienstaanbieders</div>
+      </h3>
+                      <div class="body">
+              
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><ul><li>Eenvoudig toegang tot de wereldwijde onderwijs- en onderzoeksector</li>
+<li>Zekerheid dat de gebruikersaccounts echt zijn (gebruiker is wie hij zegt dat hij is)</li>
+<li>Authenticatie van gebruikers is ‘uitbesteed’; als aanbieder hoef je geen wachtwoorden meer op te slaan</li>
+<li>Ondersteuning en expertise van SURF</li>
+<li>Wil je direct aansluiten? Ga dan naar de <a href="https://support.surfconext.nl/sp">SURFconext wiki</a> voor meer info</li>
+</ul></div>
+      
+            </div>
+                  </div>
+          </article>
+  </div>
+
+      </div>
+
+
+      </div>
+
+      </div>
+
+      </div>
+
+</article>
+
+          </div>
+  
+    
+</div>
+
+    </div>
+  </div>
+
+      
+    </div>
+  </main>
+
+  
+      <footer class="page-footer page-container">
+        <div class="region region-footer">
+    <div class="region-inner region-footer-inner">
+      
+<div id="block-branding-logo-footer" class="block block-system block-system-branding-block">
+
+    
+      
+        
+    <div class="block-content">
+            <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="/themes/surf/logo.svg" alt="Home" />
+    </a>
+          <div class="site-slogan">Samen aanjagen van vernieuwing</div>
+      </div>
+  
+    
+</div>
+<nav aria-labelledby="block-surf-menu-menu" id="block-surf-menu" class="block block-menu navigation menu--surf">
+      
+  <h2 id="block-surf-menu-menu">SURF</h2>
+  
+
+        
+        <ul class="menu">
+                  <li class="menu-item menu-item--collapsed">
+        <a href="/over-surf" title="Over SURF" data-drupal-link-system-path="node/1526">Over SURF</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/pers" title="Vragen over SURF voor je journalistieke werk? Neem contact op ons op." data-drupal-link-system-path="node/1677">Pers</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/over-surf/werken-bij-surf" data-drupal-link-system-path="node/1529">Werken bij SURF</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/over-surf/contact-met-surf" data-drupal-link-system-path="node/2022">Contact</a>
+                      </li>
+      </ul>
+  
+
+
+  </nav>
+<nav aria-labelledby="block-info-menu-menu" id="block-info-menu" class="block block-menu navigation menu--stay-informed">
+      
+  <h2 id="block-info-menu-menu">Blijf op de hoogte</h2>
+  
+
+        
+        <ul class="menu">
+                  <li class="menu-item">
+        <a href="/over-surf/blijf-op-de-hoogte" data-drupal-link-system-path="node/2043">Blijf up to date</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://blog.surf.nl/">Innovatieblog</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/surf-nieuws-meld-je-aan-voor-onze-nieuwsbrief" data-drupal-link-system-path="node/2394">Nieuwsbrief</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/abonnement-op-surf-magazine" data-drupal-link-system-path="node/2334">SURF Magazine</a>
+                      </li>
+      </ul>
+  
+
+
+  </nav>
+<nav aria-labelledby="block-portals-menu-menu" id="block-portals-menu" class="block block-menu navigation menu--top">
+      
+  <h2 id="block-portals-menu-menu">Portalen</h2>
+  
+
+        
+        <ul class="menu">
+                  <li class="menu-item">
+        <a href="https://www.surfspot.nl">SURFspot</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://dashboard.surfnet.nl/login.php" title="surfdashboard">SURFdashboard</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://sts.surfmarket.nl/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn%3Aseo%3Asharepoint&amp;wctx=https%3A//www.surfmarket.nl/Paginas/Doorverwijzing.aspx">Mijn SURFmarket</a>
+                      </li>
+                <li class="menu-item">
+        <a href="https://userinfo.surfsara.nl/">Userinfo</a>
+                      </li>
+      </ul>
+  
+
+
+  </nav>
+
+    </div>
+  </div>
+
+        <div class="region region-footer-bottom">
+    <div class="region-inner region-footer-bottom-inner">
+      <nav aria-labelledby="block-footer-menu-menu" id="block-footer-menu" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu-menu">Footernavigatie</h2>
+  
+
+        
+        <ul class="menu">
+                  <li class="menu-item">
+        <a href="/disclaimer" data-drupal-link-system-path="node/2294">Disclaimer</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/copyright" data-drupal-link-system-path="node/2291">Copyright</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/cookieverklaring" data-drupal-link-system-path="node/2282">Cookies</a>
+                      </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/privacyverklaring-surf" data-drupal-link-system-path="node/2028">Privacy</a>
+                      </li>
+                <li class="menu-item">
+        <a href="/responsible-disclosure-surf" data-drupal-link-system-path="node/2034">Responsible disclosure</a>
+                      </li>
+      </ul>
+  
+
+
+  </nav>
+
+    </div>
+  </div>
+
+    </footer>
+  
+  <div id="overlay"></div>
+
+</div>
+  </div>
+
+    <span aria-hidden="true" class="hidden"><?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol viewBox="0 0 118 110" id="arrow-bended-big" xmlns="http://www.w3.org/2000/svg"><path d="M118 1C58.9 1 11 48.9 11 108m9.3-7.9l-9.5 7.8L2.3 99" fill="none" stroke="#000" stroke-width="1.5" stroke-miterlimit="10"/></symbol><symbol viewBox="0 0 12 12" id="arrow-right" xmlns="http://www.w3.org/2000/svg"><path d="M12 6c0-.3-.1-.7-.4-.9L6 .2c-.3-.3-.8-.2-1 .1-.2.3-.2.7 0 .9L9.4 5c.1 0 .1.1 0 .2H.7c-.4.1-.7.4-.7.8s.3.7.7.7h8.6c.1 0 .1.1.1.1v.1L5 10.7c-.3.2-.4.7-.1 1 .2.3.7.4 1 .1H6l5.6-4.9c.3-.2.4-.6.4-.9z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 82 88" id="backpack" xmlns="http://www.w3.org/2000/svg"><path d="M37.8 8.1c6.3 0 12 3.9 14.2 9.9l16.5 45.3c1 2.7-.4 5.6-3.1 6.6L28 83.4c-2.7 1-5.6-.4-6.6-3.1L4.9 35c-2.2-5.9-.4-12.6 4.5-16.7.9-.7 1.3-1.8 1.2-2.9-.6-5 1.7-9.8 5.9-12.6C22.6-1.2 30.9.4 35 6.6c.6.9 1.7 1.5 2.8 1.5zm-20.6 5.2c0 .5.3.9.8.9h.4l10.1-3.7c.2-.1.4-.3.5-.5.1-.2 0-.5-.2-.7-2.5-2.7-6.8-2.7-9.4-.2-1.3 1.1-2 2.6-2.2 4.2zm37.4 41.2l-1.8-4.9c-.3-.9-1.3-1.3-2.1-1l-2.3.9c-.9.3-1.3 1.3-1 2.1l.6 1.6c.5 1.3-.2 2.7-1.5 3.2s-2.7-.2-3.2-1.5l-.6-1.6c-.3-.9-1.3-1.3-2.1-1l-14.9 5.4c-.9.3-1.3 1.3-1 2.1l1.8 4.9c.9 2.5 3.6 3.7 6.1 2.8l19.3-7c2.3-.8 3.6-3.6 2.7-6zm-4.7-12.8l-.5-1.3c-1-2.7-4-4.2-6.8-3.2l-18.2 6.6c-2.7 1-4.2 4-3.2 6.8l.5 1.3c.3.9 1.3 1.3 2.1 1l25.1-9.1c.9-.3 1.4-1.2 1-2.1zM5.5 55.9c.9-.3 1.8.1 2.1 1l10.2 27.9c.3.9-.1 1.8-1 2.1-4.3 1.6-9.1-.6-10.7-4.9L.5 66.5c-1.6-4.3.7-9.1 5-10.6zm59.7-21.8c4.3-1.6 9.1.6 10.7 4.9l5.6 15.5c1.6 4.3-.7 9-5 10.6-.9.3-1.8-.1-2.1-1L64.2 36.3c-.3-.9.2-1.9 1-2.2z"/></symbol><symbol viewBox="0 0 24 24" id="calender" xmlns="http://www.w3.org/2000/svg"><path d="M7.5 10.5c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm5 0c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm5 0c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm-10 4c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm5 0c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm5 0c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm-10 4c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm5 0c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm5 0c.6 0 1 .4 1 1s-.4 1-1 1h-1c-.6 0-1-.4-1-1s.4-1 1-1h1zm4-15.5c1.1 0 2 .9 2 2v17c0 1.1-.9 2-2 2h-19c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2H4c.3 0 .5.2.5.5v2.2c0 .4.3.8.8.8s.7-.3.7-.7V1c0-.6.4-1 1-1s1 .4 1 1v1.8c0 .1.1.2.2.2h6.2c.4 0 .6.2.6.5v2.2c0 .4.3.8.8.8s.8-.3.8-.8V1c0-.6.4-1 1-1s1 .4 1 1v1.8c0 .1.1.2.2.2h2.7zm0 18.5v-12c0-.3-.2-.5-.5-.5H3c-.3 0-.5.2-.5.5v12c0 .3.2.5.5.5h18c.3 0 .5-.2.5-.5z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 13 10" id="check-green" xmlns="http://www.w3.org/2000/svg"><path d="M4 9.4L.4 5.7c-.3-.4-.3-1 .1-1.3s1-.3 1.3.1l2.9 3c0 .1.1.1.2 0l6-6.6c.3-.4 1-.4 1.3-.1s.4 1 .1 1.3L5.8 9.4c-.5.5-1.2.5-1.7.1L4 9.4" fill-rule="evenodd" clip-rule="evenodd" fill="#009f4d"/></symbol><symbol viewBox="0 0 12 12" id="check-white" xmlns="http://www.w3.org/2000/svg"><path d="M3.6 10.1L.2 6.5c-.3-.4-.3-1 .1-1.3.4-.3.9-.3 1.3.1l2.8 2.9c0 .1.1.1.2 0l5.8-6.4c.3-.4.9-.4 1.3-.1.4.3.4.9.1 1.3l-6.4 7.1c-.2.2-.5.4-.9.4-.3 0-.6-.1-.9-.4z" fill-rule="evenodd" clip-rule="evenodd" fill="#fff"/></symbol><symbol viewBox="0 0 24 24" id="chevron-down" xmlns="http://www.w3.org/2000/svg"><path d="M12 19.5c-.7 0-1.3-.3-1.7-.8L.5 7.5c-.7-.8-.6-1.9.2-2.6.8-.6 1.9-.6 2.6.2l8.6 9.8c.1.1.2.1.4 0l8.6-9.8c.7-.8 1.9-.8 2.6-.1s.8 1.8.2 2.5l-9.8 11.2c-.6.5-1.2.8-1.9.8z"/></symbol><symbol viewBox="0 0 24 24" id="chevron-down-grey-dark" xmlns="http://www.w3.org/2000/svg"><path d="M12 19.5c-.7 0-1.3-.3-1.7-.8L.5 7.5c-.7-.8-.6-1.9.2-2.6.8-.6 1.9-.6 2.6.2l8.6 9.8c.1.1.2.1.4 0l8.6-9.8c.7-.8 1.9-.8 2.6-.1.7.7.8 1.8.2 2.5l-9.8 11.2c-.6.5-1.2.8-1.9.8z" fill="#676767"/></symbol><symbol viewBox="0 0 24 24" id="chevron-left" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 12.1c0-.7.3-1.3.8-1.7L16.5.5c.8-.7 1.9-.6 2.6.2.6.8.6 1.9-.2 2.6l-9.8 8.6c-.1.1-.1.2 0 .4l9.8 8.6c.7.7.8 1.9.1 2.6-.7.7-1.8.8-2.5.2L5.3 13.9c-.5-.5-.8-1.1-.8-1.8z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 24 24" id="chevron-right" xmlns="http://www.w3.org/2000/svg"><path d="M19.5 12c0 .7-.3 1.3-.8 1.7L7.5 23.6c-.8.7-1.9.6-2.6-.2-.6-.8-.6-1.9.2-2.6l9.8-8.6c.1-.1.1-.2 0-.4L5.1 3.2c-.7-.7-.8-1.9-.1-2.6S6.8-.2 7.5.4l11.2 9.8c.5.5.8 1.1.8 1.8z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 12 12" id="chevron-right-blue" xmlns="http://www.w3.org/2000/svg"><path d="M9.7 6c0 .3-.1.6-.4.8l-5.6 4.9c-.4.3-.9.3-1.3-.1-.3-.4-.3-.9.1-1.3L7.4 6v-.2L2.6 1.6c-.3-.3-.4-.9 0-1.3s.9-.4 1.2-.1l5.6 4.9c.2.2.3.5.3.9z" fill-rule="evenodd" clip-rule="evenodd" fill="#0077c8"/></symbol><symbol viewBox="0 0 12 12" id="chevron-right-blue-dark" xmlns="http://www.w3.org/2000/svg"><path d="M9.7 6.1c0 .3-.1.6-.4.8l-5.6 4.9c-.4.3-.9.3-1.3-.1-.3-.4-.3-.9.1-1.3l4.9-4.3v-.2L2.6 1.6c-.3-.3-.4-.9 0-1.3s.9-.4 1.2-.1l5.6 4.9c.2.3.3.6.3 1z" fill-rule="evenodd" clip-rule="evenodd" fill="#004c97"/></symbol><symbol viewBox="0 0 24 24" id="chevron-up" xmlns="http://www.w3.org/2000/svg"><path d="M12.1 4.5c.7 0 1.3.3 1.7.8l9.8 11.1c.7.8.6 1.9-.2 2.6-.8.7-1.9.6-2.6-.2L12.2 9c-.1 0-.2 0-.4.1l-8.6 9.8c-.7.8-1.9.8-2.6.1-.7-.7-.8-1.8-.2-2.6l9.8-11.1c.6-.5 1.2-.8 1.9-.8z"/></symbol><symbol viewBox="0 0 16 16" id="clock" xmlns="http://www.w3.org/2000/svg"><path d="M8 0c4.4 0 8 3.6 8 8s-3.6 8-8 8-8-3.6-8-8 3.6-8 8-8zm0 14.7A6.7 6.7 0 1 0 8 1.3a6.7 6.7 0 0 0 0 13.4zm3.4-4.2c.3.2.3.7 0 .9-.3.3-.7.3-.9 0l-3.3-3c-.1 0-.2-.2-.2-.4V4.3c0-.3.3-.6.6-.7s.7.3.7.6v3.5l3.1 2.8z"/></symbol><symbol viewBox="0 0 16 16" id="close" xmlns="http://www.w3.org/2000/svg"><path d="M15.5 13.3c.6.7.5 1.7-.2 2.3-.6.5-1.5.5-2.1 0l-5-5c-.2-.2-.4-.2-.6 0l-5 5c-.6.6-1.6.6-2.3 0-.6-.6-.6-1.6 0-2.3l5-5c.2-.2.2-.4 0-.6l-5-5C-.3 2-.3 1 .4.4 1-.2 1.9-.2 2.6.4l5 5c.2.2.4.2.6 0l5-5c.6-.6 1.6-.6 2.3 0s.6 1.6 0 2.3l-5 5c-.2.2-.2.4 0 .6l5 5z"/></symbol><symbol viewBox="0 0 16 16" id="close-disk" xmlns="http://www.w3.org/2000/svg"><path d="M13.7 2.3C10.6-.8 5.5-.8 2.4 2.3c-3.1 3.1-3.1 8.2 0 11.3 3.1 3.1 8.2 3.1 11.3 0 3.1-3.1 3.1-8.1 0-11.3zm-2.6 7.9c.2.3.2.7 0 .9-.3.2-.6.2-.9 0l-2.1-2c0-.1-.1-.1-.2 0l-2.1 2.1c-.3.3-.7.3-.9 0-.3-.3-.3-.7 0-.9L7 8.2c0-.2 0-.3-.1-.3l-2-2.1c-.2-.3-.2-.7 0-.9.3-.2.6-.2.9 0L7.9 7s.2 0 .2-.1l2.1-2.1c.3-.2.7-.2.9 0 .2.3.2.6 0 .9l-2 2.2c-.1 0-.1.1 0 .2l2 2.1z"/></symbol><symbol viewBox="0 0 16 16" id="close-white" xmlns="http://www.w3.org/2000/svg"><path d="M15.5 13.3c.6.7.5 1.7-.2 2.3-.6.5-1.5.5-2.1 0l-5-5c-.2-.2-.4-.2-.6 0l-5 5c-.6.6-1.6.6-2.3 0-.6-.6-.6-1.6 0-2.3l5-5c.2-.2.2-.4 0-.6l-5-5C-.1 2-.1 1 .5.4 1.1-.2 2-.2 2.7.4l5 5c.2.2.4.2.6 0l5-5c.6-.6 1.6-.6 2.3 0s.6 1.6 0 2.3l-5 5c-.2.2-.2.4 0 .6l4.9 5z" fill="#fff"/></symbol><symbol id="cookie-purple" xml:space="preserve" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><style>.arst0{fill:#772583}</style><path class="arst0" d="M46 0H18C8.1 0 0 8.1 0 18v28c0 9.9 8.1 18 18 18h28c9.9 0 18-8.1 18-18V18c0-9.9-8.1-18-18-18z"/><path d="M36 51.6c-10.8 2.2-21.4-4.8-23.6-15.7-2.2-11 4.8-21.6 15.6-23.9h.2c.7 0 1.3.6 1.3 1.3 0 3.3 2.6 5.9 5.8 5.9.9 0 1.8-.2 2.6-.6.4-.2.9-.2 1.3-.1s.8.4 1 .8c1.4 2.8 4.7 4 7.5 2.7.8-.4 1.8 0 2.2.8 1.4 2.8 2.1 5.9 2.1 9 0 9.6-6.7 17.9-16 19.8z" fill="#fff"/><path class="arst0" d="M38.1 30.5c0-.9-.7-1.7-1.7-1.7-.9 0-1.7.8-1.7 1.7 0 .9.7 1.7 1.7 1.7s1.7-.7 1.7-1.7zm-11.7-1c1.8 0 3.3-1.5 3.3-3.4s-1.5-3.4-3.3-3.4c-1.8 0-3.3 1.5-3.3 3.4s1.5 3.4 3.3 3.4zm-7.9 3.7c-.9 0-1.7.8-1.7 1.7s.7 1.7 1.7 1.7c.9 0 1.7-.8 1.7-1.7 0-1-.7-1.7-1.7-1.7zm8.5 3.6c-1.8 0-3.3 1.5-3.3 3.4s1.5 3.4 3.3 3.4 3.3-1.5 3.3-3.4-1.5-3.4-3.3-3.4zm15.8-3.3c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5-1.1-2.5-2.5-2.5zM37 41.9c-.9 0-1.7.8-1.7 1.7s.7 1.7 1.7 1.7c.9 0 1.7-.8 1.7-1.7 0-1-.8-1.7-1.7-1.7z"/></symbol><symbol id="cookie-white" xml:space="preserve" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><style>.asst0{fill:#fff}</style><path class="asst0" d="M38.1 30.5c0-.9-.7-1.7-1.7-1.7-.9 0-1.7.8-1.7 1.7 0 .9.7 1.7 1.7 1.7s1.7-.7 1.7-1.7zm-11.7-1c1.8 0 3.3-1.5 3.3-3.4s-1.5-3.4-3.3-3.4c-1.8 0-3.3 1.5-3.3 3.4s1.5 3.4 3.3 3.4z"/><path class="asst0" d="M46 0H18C8.1 0 0 8.1 0 18v28c0 9.9 8.1 18 18 18h28c9.9 0 18-8.1 18-18V18c0-9.9-8.1-18-18-18zM36 51.6c-10.8 2.2-21.4-4.8-23.6-15.7-2.2-11 4.8-21.6 15.6-23.9h.2c.7 0 1.3.6 1.3 1.3 0 3.3 2.6 5.9 5.8 5.9.9 0 1.8-.2 2.6-.6.4-.2.9-.2 1.3-.1s.8.4 1 .8c1.4 2.8 4.7 4 7.5 2.7.8-.4 1.8 0 2.2.8 1.4 2.8 2.1 5.9 2.1 9 0 9.6-6.7 17.9-16 19.8z"/><path class="asst0" d="M18.5 33.2c-.9 0-1.7.8-1.7 1.7 0 .9.7 1.7 1.7 1.7.9 0 1.7-.8 1.7-1.7 0-1-.7-1.7-1.7-1.7zm8.5 3.6c-1.8 0-3.3 1.5-3.3 3.4s1.5 3.4 3.3 3.4 3.3-1.5 3.3-3.4-1.5-3.4-3.3-3.4zm15.8-3.3c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5-1.1-2.5-2.5-2.5zM37 41.9c-.9 0-1.7.8-1.7 1.7 0 .9.7 1.7 1.7 1.7.9 0 1.7-.8 1.7-1.7 0-1-.8-1.7-1.7-1.7z"/></symbol><symbol viewBox="0 0 75 75" id="dna" xmlns="http://www.w3.org/2000/svg"><path d="M74.8 20.7c-.6-1.6-2.3-2.5-4-1.9-.6.2-1.3.1-1.8-.4L56.8 6c-.5-.5-.6-1.2-.4-1.8.6-1.6-.2-3.4-1.8-4-1.6-.6-3.4.2-4 1.8 0 .1-.1.2-.1.2-2.2 6.5-2 13.6.8 20 1.9 4.5 2.2 9.4.9 14.1-.1.4-.5.7-1 .6-.1 0-.3-.1-.4-.2L38.3 24.2c-.3-.3-.3-.8 0-1.1.1-.1.2-.2.4-.2 1.7-.5 3.5-.7 5.4-.8 1.7 0 3.1-1.4 3.1-3.1 0-1.7-1.4-3.1-3.2-3.1h-.1c-7.4.2-14.4 3.2-19.7 8.4-8.2 8.1-10.6 20.3-6.2 31 .5 1.3 1 2.6 1.3 4 .1.4-.2.8-.6.9-.3.1-.5 0-.7-.2l-5.1-5.1c-.3-.3-.3-.7-.1-1 1-1.4.7-3.3-.8-4.3-.5-.4-1.2-.6-1.8-.6h-.1c-2.7.1-5.4.6-8 1.5-1.6.6-2.5 2.4-1.9 4 .6 1.6 2.3 2.4 3.9 1.9.6-.2 1.3-.1 1.8.4L18.2 69c.5.5.6 1.2.4 1.8-.6 1.6.2 3.4 1.8 4 1.6.6 3.4-.2 4-1.8 0-.1 0-.1.1-.2 2.2-6.5 2-13.6-.8-20-1.9-4.5-2.2-9.4-.9-14.1.1-.4.5-.7 1-.6.1 0 .3.1.4.2l12.5 12.4c.3.3.3.8 0 1.1-.1.1-.2.2-.4.2-1.7.5-3.5.7-5.4.8-1.7 0-3.1 1.4-3.1 3.1 0 1.7 1.4 3.1 3.2 3.1 7.4-.2 14.4-3.2 19.7-8.4 8.2-8.1 10.6-20.3 6.2-31-.5-1.3-1-2.6-1.3-4-.1-.4.2-.8.6-.9.3-.1.5 0 .7.2L62 20c.3.3.3.7.1 1-1 1.4-.7 3.3.8 4.3.5.4 1.2.6 1.8.6h.1c2.7-.1 5.4-.6 8-1.5 1.7-.3 2.6-2.1 2-3.7zM47.6 44.4c-1 1.2-2.2 2.3-3.4 3.3-.6.5-1.5.4-2.1-.1l-15.6-15c-.6-.5-.6-1.4-.1-2 1-1.2 2.2-2.3 3.4-3.3.6-.5 1.5-.4 2.1.1l15.6 14.9c.6.6.7 1.5.1 2.1z"/></symbol><symbol viewBox="0 0 10 10" id="dot-green" xmlns="http://www.w3.org/2000/svg"><circle cx="5" cy="5" r="5" fill="#009f4d"/></symbol><symbol viewBox="0 0 16 16" id="education" xmlns="http://www.w3.org/2000/svg"><path d="M7.3 0h7.3c.8 0 1.4.6 1.4 1.3v8c0 .7-.6 1.3-1.3 1.3H9c-.4 0-.7-.3-.7-.7s.3-.7.7-.7h5.3c.2 0 .3-.1.3-.3V1.7c0-.2-.1-.3-.3-.3h-7c-.3-.1-.6-.3-.7-.7s.3-.7.7-.7zM8 6.3l1.2-1.2c.1-.1.1-.2 0-.2L8 3.7c-.2-.2-.2-.5 0-.7s.5-.2.7 0l1.7 1.7c.2.2.2.5 0 .7L8.7 7c-.2.2-.5.2-.7 0s-.2-.5 0-.7zm3 .9c-.3 0-.5-.2-.5-.5s.2-.5.5-.5h2.3c.3 0 .5.2.5.5s-.2.5-.5.5H11zm-7.6-2c1.9 0 3.4 1.5 3.4 3.4v2c0 .2-.1.3-.3.3H5.4c-.1 0-.2.1-.2.1l-.5 4.6c0 .2-.2.3-.3.3h-2c-.2 0-.3-.1-.3-.3L1.6 11c0-.1-.1-.2-.2-.1H.3c-.2 0-.3-.1-.3-.3v-2c0-1.9 1.5-3.4 3.4-3.4zm2.3-2.8c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2S2.3.2 3.5.2s2.2 1 2.2 2.2z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 16 16" id="email" xmlns="http://www.w3.org/2000/svg"><path d="M7.4 9.7L.9 3.2c-.1-.1-.1-.3 0-.5.1 0 .2-.1.2-.1h13.7c.2 0 .3.2.3.4 0 .1-.1.1-.1.2L8.6 9.7c-.3.3-.9.3-1.2 0zm8.5-5.9c.1.1.1.1.1.2v8c0 .7-.6 1.3-1.3 1.3H1.3C.6 13.3 0 12.7 0 12V4c0-.1 0-.1.1-.1h.1L4.3 8c.1.1.1.2 0 .3L1 11.6c-.2.2-.2.5 0 .7s.5.2.7 0L5 9c.1-.1.2-.1.3 0l1.4 1.4c.7.7 1.9.7 2.6 0L10.7 9c.1-.1.2-.1.3 0l3.3 3.3c.2.2.5.2.7 0s.2-.5 0-.7l-3.3-3.3c-.1-.1-.1-.2 0-.3l4.1-4.1c0-.1.1-.1.1-.1z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 16 16" id="external-link" xmlns="http://www.w3.org/2000/svg"><path d="M13.7 13.7V9.8c0-.6.5-1.2 1.1-1.2.6 0 1.2.5 1.2 1.1v4.4c0 1-.8 1.8-1.8 1.8H1.8c-1 0-1.8-.8-1.8-1.8V1.8C0 .8.8 0 1.8 0h4.3c.6 0 1.2.6 1.1 1.2 0 .6-.5 1.1-1.1 1.1H2.3v11.3h11.4zM9.1.9V.7c0-.4.3-.7.7-.7l5.4.1c.4 0 .7.3.7.7l.1 5.3c0 .4-.3.7-.6.7h-.3c-.4 0-.7-.3-.7-.7l-.1-2.3c0-.4-.2-.5-.5-.2l-3.1 3.1c-.3.3-.7.3-1 0l-.5-.5c-.2-.2-.2-.7 0-.9l3.1-3.1c.3-.3.2-.5-.2-.5l-2.3-.1c-.4 0-.7-.3-.7-.7z"/></symbol><symbol viewBox="0 0 24 24" id="facebook" xmlns="http://www.w3.org/2000/svg"><path d="M19.5 14.6c0 .3-.2.4-.5.4h-2c-.3 0-.5.2-.5.5v8c0 .3.2.5.5.5h6c.6 0 1-.4 1-1V1c0-.6-.4-1-1-1H1C.4 0 0 .4 0 1v22c0 .6.4 1 1 1h11c.3 0 .5-.2.5-.5v-8c0-.3-.2-.5-.5-.5h-2c-.3 0-.5-.2-.5-.5v-3c0-.3.2-.5.5-.5h2c.3 0 .5-.2.5-.5V9.2c0-3.1 2.5-5.7 5.7-5.7h1.3c.3 0 .5.2.5.5v3c0 .3-.2.5-.5.5h-1.3c-.9 0-1.7.8-1.7 1.7v1.3c0 .3.2.5.5.5h2.4c.3 0 .5.2.5.5v.1s-.3 3-.4 3z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 42 52" id="flask" xmlns="http://www.w3.org/2000/svg"><path d="M35.2 44.2L30.5 28c-.1-.3-.1-.7 0-1L35 10c.1-.5.7-.8 1.2-.7l2.9.8c1.1.3 2.2-.3 2.4-1.4.3-1-.4-2.1-1.4-2.4L17 .1c-1.1-.3-2.2.3-2.4 1.4-.3 1 .4 2.1 1.4 2.4l2.9.8c.5.1.8.7.7 1.2L15 22.8c-.1.3-.3.6-.5.9l-12 11.6c-2.5 2.1-2.8 5.8-.7 8.3.8.9 1.9 1.6 3 1.9L28 51.7c3.2.8 6.5-1 7.3-4.1.3-1.1.3-2.3-.1-3.4zm-21-11.9c-.5-.1-.8-.7-.7-1.2 0-.2.1-.3.3-.4l4.4-4.3c.2-.2.4-.5.5-.9l4.7-17.7c.1-.5.7-.8 1.2-.7l5.7 1.5c.5.1.8.7.7 1.2L29.6 15c-.1.5-.7.8-1.2.7L26 15c-.8-.2-1.6.2-1.8 1-.2.8.3 1.6 1 1.8l2.5.7c.5.1.8.7.7 1.2l-.5 1.9c-.1.5-.7.8-1.2.7l-2.5-.7c-.8-.2-1.6.2-1.8 1-.2.8.3 1.6 1 1.8l2.6.6c.5.1.8.7.7 1.2l-.4 1.4c-.1.3-.1.7 0 1l1.7 5.9c.1.5-.2 1-.7 1.2h-.5l-12.6-3.4zm-2.5 11c-1.6-.4-2.6-2.1-2.1-3.7.4-1.6 2.1-2.6 3.7-2.1 1.6.4 2.6 2.1 2.1 3.7-.4 1.6-2.1 2.6-3.7 2.1zM22 39.4c-1.1-.3-1.7-1.4-1.4-2.4.3-1.1 1.4-1.7 2.4-1.4 1.1.3 1.7 1.4 1.4 2.4-.3 1-1.4 1.6-2.4 1.4zm3 8c-1.1-.3-1.7-1.4-1.4-2.4.3-1.1 1.4-1.7 2.4-1.4 1.1.3 1.7 1.4 1.4 2.4-.3 1-1.4 1.6-2.4 1.4z"/></symbol><symbol viewBox="0 0 55 55" id="globe" xmlns="http://www.w3.org/2000/svg"><path d="M38 29.2c-.6 3.1-1.8 6-3.5 8.6-.2.2-.5.3-.7.2-4.4-2.4-9.1-4-14.1-4.9-.2 0-.4-.2-.5-.5-.4-3-.3-5.9.2-8.9l.1-.1c2.5 0 4.6-1.7 5.3-4.2.1-.3.3-.4.6-.4h.2c3.8.2 7.4 1.5 10.5 3.8.2.1.3.4.2.6-.1.4-.2.9-.2 1.3 0 1.5.6 2.9 1.7 3.9.2.2.2.4.2.6zM31.8 42c-1.7 1.7-3.5 3.4-5.4 4.9-.2.2-.5.1-.7-.1-1.4-1.7-2.6-3.6-3.5-5.7-.5-1.1-.9-2.2-1.2-3.3v-.3c.1-.3.3-.6.6-.5 3.5.8 6.9 2.2 10 3.9.1 0 .1.1.2.1.3.3.2.7 0 1zM14 32c-4.3-.3-8.6 0-12.7 1-.1 0-.3 0-.4-.1-.1-.1-.2-.2-.2-.4-.5-1.8-.7-3.7-.7-5.6v-1c0-.1.1-.3.2-.4C3.7 22.2 8 19.9 12.6 19c.3 0 .5.1.6.4.4.9 1 1.7 1.7 2.3 0 0 .1.1 0 .2-.6 3.1-.8 6.3-.5 9.5v.1c.1.2-.1.5-.4.5zm6.6 16.2c-2.9 1.2-6 1.8-9.1 1.8-.1 0-.2 0-.3-.1-4.1-3.1-7.3-7.3-9.2-12.2-.1-.2 0-.3 0-.5.1-.1.2-.2.4-.3 4.1-.9 8.4-1.2 12.6-.8.2 0 .4.2.5.4.5 1.9 1.2 3.8 2 5.6.9 1.8 2 3.5 3.3 5.1.2.2.2.6-.1.8 0 .1 0 .2-.1.2zm23.1-19c3.2 4.1 5.4 8.9 6.3 14.1 0 .2 0 .3-.1.4-3.7 5-9 8.6-15 10.2-.2 0-.3 0-.5-.1-2.2-1.5-4.2-3.2-6.2-5-.2-.2-.3-.6 0-.8l.1-.1c8.4-5.8 12-12.1 13.4-18.3.1-.2.3-.4.5-.5.3 0 .6-.1.9-.2.2.1.5.1.6.3zM13.2 16.6c-4 .6-7.9 2.1-11.3 4.3-.1.1-.3.1-.5.1-.3-.1-.5-.4-.4-.7C4.3 9.1 13.9 1.1 25.4 0c.2 0 .3 0 .4.1.2.2.3.6.1.9-2.9 3.4-5.3 7.2-7.2 11.2 0 .1-.1.1-.2.1-2.2.3-4.1 1.8-4.9 3.9 0 .2-.2.4-.4.4zm11.6 34.5c1.3 1 2.6 2 4 3 .1.1.2.2.2.4 0 .3-.2.5-.6.5h-.7c-3.1 0-6.3-.4-9.3-1.3-.2 0-.3-.2-.4-.4-.1-.3.1-.5.4-.6 1.9-.4 3.8-1 5.7-1.7.2 0 .5 0 .7.1zm18.3-31.8c-.1-4.9-.8-9.8-2-14.5 0-.1 0-.3.1-.4.2-.3.5-.3.8-.2 8 4.8 13 13.6 13 23 0 3.6-.7 7.1-2.1 10.4-.1.3-.5.4-.7.3-.2-.1-.3-.2-.3-.3-1.3-3.8-3.2-7.3-5.7-10.4-.2-.2-.2-.4-.1-.6.3-.7.5-1.4.5-2.2 0-2-1.2-3.8-3.1-4.6-.3-.1-.4-.3-.4-.5zm-21-6.5c2.3-4.6 5.3-8.9 8.8-12.6.1-.1.3-.2.5-.2 1.8.2 3.5.7 5.2 1.3.2.1.3.2.4.4 1.8 6 2.8 12.3 3 18.6 0 .2-.1.5-.4.6-.1 0-.2.1-.3.2-.2.1-.4.1-.6-.1-3.9-2.9-8.5-4.6-13.4-4.8-.2 0-.3 0-.5.1-.3.1-.6 0-.7-.3-.4-.9-1.1-1.7-1.9-2.3-.2-.3-.3-.6-.1-.9z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol id="graduation" xml:space="preserve" viewBox="0 0 35 27" xmlns="http://www.w3.org/2000/svg"><style>.bbst0{fill-rule:evenodd;clip-rule:evenodd}</style><path class="bbst0" d="M34.2 6.5L18 .1c-.3-.1-.7-.1-1 0L.8 6.5c-.5.2-.8.7-.8 1.3v8.5c0 .7.6 1.4 1.3 1.4.7 0 1.3-.6 1.3-1.4v-5.6c.1-.4.4-.7.8-.7h.2l13.5 4.8c.3.1.6.1.9 0l16.2-5.7c.7-.2 1.1-1 .8-1.7-.2-.4-.5-.7-.8-.9-.1 0 0 0 0 0z"/><path class="bbst0" d="M26.3 15.2L18.4 18c-.6.2-1.2.2-1.8 0l-7.9-2.8c-.4-.1-.9-.1-1.2.2-.4.3-.6.7-.6 1.1v5.8c0 .6.4 1.1.9 1.3l6.9 2.5c1.8.6 3.7.6 5.5 0l6.9-2.5c.5-.2.9-.7.9-1.3v-5.8c0-.4-.2-.9-.6-1.1-.2-.3-.7-.3-1.1-.2z"/></symbol><symbol id="human-resources" xml:space="preserve" viewBox="0 0 14.9 10.6" xmlns="http://www.w3.org/2000/svg"><style>.bcst0{fill-rule:evenodd;clip-rule:evenodd}</style><ellipse class="bcst0" cx="10.8" cy="2.7" rx="2.6" ry="2.7"/><path class="bcst0" d="M10.8 6.2c-.9 0-1.7.3-2.4.8-.1.2-.2.3-.1.4.6.8.9 1.8.9 2.9 0 .1.1.3.3.3h5.2c.1 0 .1 0 .2-.1 0-.1.1-.1.1-.2-.2-2.3-2-4.1-4.2-4.1zm-6.7 0c-2.2 0-4 1.8-4.1 4 0 .1 0 .1.1.2 0 .1.1.1.2.1H8c.1 0 .1 0 .2-.1 0-.1.1-.1.1-.2-.2-2.2-2-4-4.2-4zm.9-1C6.3 4.7 7 3.3 6.6 2 6.2.6 4.9-.2 3.6 0 2.3.3 1.4 1.6 1.5 3c.1 1.4 1.3 2.5 2.6 2.4.3 0 .7 0 .9-.2z"/></symbol><symbol viewBox="0 0 60 60" id="inner-rounding-top-right" xmlns="http://www.w3.org/2000/svg"><path d="M0 0c33 0 60 27 60 60V0H0z"/></symbol><symbol viewBox="0 0 16 16" id="link" xmlns="http://www.w3.org/2000/svg"><path d="M8.3 10.2c.4-.2.8 0 1 .4.3.8.2 1.8-.5 2.4l-2.1 2.1c-1.2 1.2-3.1 1.2-4.2 0L.9 13.5c-1.2-1.2-1.2-3.1 0-4.2L3 7.2c.6-.6 1.6-.8 2.4-.5.4.1.6.6.4 1-.1.4-.6.6-1 .4-.2-.1-.5 0-.8.2l-2.1 2.1c-.6.6-.6 1.5 0 2.1l1.6 1.6c.6.6 1.5.6 2.1 0L7.7 12c.3-.3.3-.6.2-.9-.2-.3 0-.8.4-.9zm-3.5 1c-.3-.3-.3-.8 0-1.1l5.8-5.8c.3-.3.8-.3 1.1 0s.3.7 0 1l-5.8 5.8c-.3.4-.8.4-1.1.1zm10.3-8.7c1.2 1.2 1.2 3.1 0 4.2L13 8.8c-.6.6-1.6.8-2.4.5-.4-.1-.6-.6-.4-1 .1-.4.6-.6 1-.4.2.1.5 0 .8-.2l2.1-2.1c.6-.6.6-1.5 0-2.1l-1.6-1.6c-.6-.6-1.5-.6-2.1 0L8.3 4c-.2.3-.3.6-.2.9.2.4 0 .8-.4 1s-.8 0-1-.4c-.3-.9-.1-1.9.5-2.5L9.3.9c1.2-1.2 3.1-1.2 4.2 0l1.6 1.6z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 24 24" id="linkedin" xmlns="http://www.w3.org/2000/svg"><path d="M2.5 22.5c-.3 0-.5-.2-.5-.5V9c0-.3.2-.5.5-.5h4c.3 0 .5.2.5.5v13c0 .3-.2.5-.5.5h-4zM6.2 2.2c1 1 1 2.6 0 3.5-1 1-2.5 1-3.5 0s-1-2.6 0-3.5 2.5-.9 3.5 0zm12.3 20.3c-.3 0-.5-.2-.5-.5v-7.5c0-1.4-1.1-2.5-2.5-2.5S13 13.1 13 14.5V22c0 .3-.2.5-.5.5h-3c-.3 0-.5-.2-.5-.5V9c0-.3.2-.5.5-.5h3c.3 0 .5.2.5.5 0 .2.2.4.4.4.1 0 .2-.1.3-.1.8-.9 2-1.3 3.2-1.3 3 0 5.1 1.8 5.1 5.6V22c0 .3-.2.5-.5.5h-3z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 16 24" id="location" xmlns="http://www.w3.org/2000/svg"><path d="M8 24c.4 0 .7-.2.9-.5C11 20.1 16 11.8 16 8.2 16 3.7 12.4 0 8 0S0 3.7 0 8.2c0 3.6 5 11.9 7.1 15.3.2.3.5.5.9.5zM4.2 7.8c0-2.1 1.7-3.9 3.8-3.9 2.1 0 3.8 1.7 3.8 3.9 0 2.1-1.7 3.9-3.8 3.9-2.1 0-3.8-1.8-3.8-3.9z"/></symbol><symbol viewBox="0 0 46 46" id="magazine" xmlns="http://www.w3.org/2000/svg"><path d="M24.8 25.9h14.5a6.7 6.7 0 0 1 0 13.4h-.7c-.7 1.2-1.9 1.9-3.3 1.9h-7.7c-2.1 0-3.8-1.7-3.8-3.8V26.8c0-.5.5-.9 1-.9zm17.4 6.7c0-1.4-1-2.6-2.4-2.8-.3 0-.5.1-.5.4v5.2s0 .1.1.1c0 0 .1.1.1 0 1.4-.1 2.7-1.4 2.7-2.9zm3.7 12c0 .8-.6 1.4-1.4 1.4h-24c-.8 0-1.4-.6-1.4-1.4s.6-1.4 1.4-1.4h24c.7-.1 1.4.6 1.4 1.4zm-25-9.5c-.5.7-1.3 1-2.1.8-5-1.4-13.5.4-13.6.4-1 .2-2.1-.4-2.3-1.5V29C1.2 28.8 0 27.4 0 25.7V3.5C0 2.6.4 1.6 1.1 1c.7-.6 1.6-1 2.5-1 4.9.1 12.3 1.1 15.9 3.8.2.1.4.1.6 0C23.7 1.1 31.1.1 36 0c.9 0 1.8.3 2.5 1s1.1 1.6 1.1 2.5v19c0 1.1-.9 1.9-2 1.9-1 0-1.8-.8-1.9-1.9V4.8c0-.5-.4-1-1-1h-.1C27.4 4.3 23.2 6 22 7.1c-.2.2-.3.4-.3.7v25.8c0 .6-.3 1.2-.8 1.5zM3.8 4.8v19.6c0 .5.4.9.9 1 4 .2 8 1.1 11.8 2.7.5.2 1 0 1.3-.5.1-.1.1-.3.1-.4V7.8c0-.3-.1-.6-.3-.7-1.2-1-5.4-2.7-12.7-3.1-.6-.1-1 .3-1.1.8zm3.5 27.3c1.7-.3 3.5-.4 5.3-.5.3 0 .5-.2.5-.5 0-.2-.1-.4-.3-.4-1.8-.6-3.6-1-5.4-1.2-.1 0-.3 0-.4.1-.1.1-.2.2-.2.4v1.7c-.1.2.1.4.5.4-.1 0-.1 0 0 0z"/></symbol><symbol viewBox="0 0 24 24" id="network" xmlns="http://www.w3.org/2000/svg"><path d="M23.7 11.3c.4.4.4 1 0 1.4l-5 5c-.4.4-1 .4-1.4 0s-.4-1 0-1.4l4.1-4.1c.1-.1.1-.3 0-.4l-4.1-4.1c-.4-.4-.4-1 0-1.4s1-.4 1.4 0l5 5zm-21.1.9l4.1 4.1c.4.4.4 1 0 1.4s-1 .4-1.4 0l-5-5c-.4-.4-.4-1 0-1.4l5-5c.4-.4 1-.4 1.4 0s.4 1 0 1.4l-4.1 4.1c-.1.1-.1.3 0 .4zm10.5-1.3c.6.6.6 1.5 0 2.1s-1.5.6-2.1 0c-.6-.6-.6-1.5 0-2.1.6-.5 1.5-.5 2.1 0zm4.5 0c.6.6.6 1.5 0 2.1s-1.5.6-2.1 0-.6-1.5 0-2.1c.6-.5 1.5-.5 2.1 0zm-9 0c.6.6.6 1.5 0 2.1s-1.6.6-2.2 0c-.6-.6-.6-1.5 0-2.1.7-.5 1.6-.5 2.2 0z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 13 12" id="news" xmlns="http://www.w3.org/2000/svg"><path d="M3 5.9c-.4 0-.7-.3-.7-.7V2.7c0-.4.3-.7.7-.7h1.8c.4 0 .7.3.7.7v2.5c0 .4-.3.7-.7.7H3zM13 5v5.2c0 1-.8 1.8-1.9 1.8H1.9c-1 0-1.9-.8-1.9-1.8V1c0-.6.5-1 1.1-1h8.1c.6 0 1.1.5 1.1 1v2.3h1.1c.9.1 1.6.8 1.6 1.7zM1.9 11h7.2c.1 0 .2-.2.2-.3 0-.1-.1-.3-.1-.5V1.3c0-.1-.1-.3-.3-.3H1.4c-.2 0-.3.2-.3.3v8.9c0 .4.3.8.8.8zm10-.8V5c0-.3-.2-.5-.5-.5h-.8c-.1 0-.3.1-.3.3v5.5c0 .4.4.8.8.8s.8-.5.8-.9zm-5-7.3H8c.2 0 .4.2.4.4v.3c0 .2-.2.4-.4.4H6.9c-.2 0-.4-.2-.4-.4v-.3c0-.2.2-.4.4-.4zm0 2.1H8c.2 0 .4.2.4.4v.3c0 .2-.2.3-.4.3H6.9c-.2 0-.4-.1-.4-.4v-.2c0-.2.2-.4.4-.4zM2.6 7.1H8c.2 0 .4.2.4.4v.3c0 .2-.2.4-.4.4H2.6c-.2 0-.4-.2-.4-.4v-.3c0-.3.2-.4.4-.4zm0 2.1h4.1c.2 0 .3.1.3.3v.3c0 .2-.2.4-.4.4h-4c-.2 0-.4-.2-.4-.4v-.3c0-.2.1-.3.4-.3z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 16 16" id="phone" xmlns="http://www.w3.org/2000/svg"><path d="M11.3 0H4.7c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h6.7c1.1 0 2-.9 2-2V2c-.1-1.1-.9-2-2.1-2zM9 15.1H7c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7h2c.4 0 .7.3.7.7 0 .3-.3.7-.7.7zm3-3.1c0 .4-.3.7-.7.7H4.7c-.4 0-.7-.3-.7-.7V3.3c0-.4.3-.7.7-.7h6.7c.4 0 .7.3.7.7V12H12z"/></symbol><symbol viewBox="0 0 64 53" id="play" xmlns="http://www.w3.org/2000/svg"><path d="M44.3 28.3c-.4.8-1 1.4-1.8 1.8l-15.4 7.7c-2 1-4.4.2-5.4-1.8-.3-.6-.4-1.2-.4-1.8V18.8c0-2.2 1.8-4 4-4 .6 0 1.2.1 1.8.4l15.4 7.7c2 1 2.8 3.4 1.8 5.4z" fill="#fff"/></symbol><symbol viewBox="0 0 24 24" id="press" xmlns="http://www.w3.org/2000/svg"><path d="M24 9.5v1c0 .8-.5 1.6-1.3 1.9-.3.1-.5 0-.6-.3v-4c0-.3.2-.5.5-.5h.2c.7.3 1.2 1.1 1.2 1.9zm-3.5-6v12.9c0 .5-.3 1-.7 1.3-.8.5-1.4.1-2.8-.5-2.7-1.4-5.6-2.2-8.6-2.5.1 2.3 1.4 4.4 3.5 5.4.5.2.7.9.4 1.3s-.9.7-1.3.4c-2.8-1.4-4.6-4.2-4.6-7.3V5.9c0-.3.2-.5.5-.5 3.5-.1 7-1 10.1-2.7 1.3-.6 1.9-1 2.7-.5.5.3.8.8.8 1.3zM5 6v8c0 .3-.2.5-.5.5h-1C1.6 14.5 0 13 0 11V9c0-1.9 1.6-3.5 3.5-3.5h1c.3 0 .5.2.5.5z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 24 24" id="read" xmlns="http://www.w3.org/2000/svg"><path d="M21.4 4.9L17.1.6c-.4-.4-.9-.6-1.4-.6H4C2.9 0 2 .9 2 2v20c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6.3c0-.5-.2-1-.6-1.4zM11 19.5H6.5c-.6 0-1-.4-1-1s.4-1 1-1H11c.6 0 1 .4 1 1s-.4 1-1 1zm4.5-4h-9c-.6 0-1-.4-1-1s.4-1 1-1h9c.6 0 1 .4 1 1s-.4 1-1 1zm0-4h-9c-.6 0-1-.4-1-1s.4-1 1-1h9c.6 0 1 .4 1 1s-.4 1-1 1z"/></symbol><symbol viewBox="0 0 24 24" id="research" xmlns="http://www.w3.org/2000/svg"><path d="M21.2 5.5l-3-1.7c-.5-.3-1-.3-1.5 0l-2.6 1.5c-.1.1-.3.1-.4 0L10.3 4c-.2-.2-.3-.3-.3-.5V2.1c0-.4-.3-.9-.7-1.1L7.6.1C7.2 0 6.8 0 6.4.1L4.7 1c-.4.2-.7.7-.7 1.1v2.2c0 .5.3.9.7 1.1l1.8.9c.4.2.8.2 1.1 0l1.2-.6c.1-.1.3-.1.4 0L12.7 7c.2.1.3.3.3.5v2.2c0 .5.3 1 .8 1.3l1.6.9c.1.1.2.2.1.3 0 0 0 .1-.1.1l-3.2 2.4c-.2.1-.4.1-.5 0l-3.4-1.9c-.5-.3-1-.3-1.5 0l-4 2.2c-.5.3-.8.8-.8 1.4v3.9c0 .5.3 1 .8 1.3l4 2.2c.5.3 1 .3 1.5 0l4-2.2c.5-.3.8-.8.8-1.3v-3.4c0-.2.1-.3.2-.4 2.6-2 5.2-3.8 8-5.5.5-.3.8-.8.8-1.3V6.8c-.1-.6-.4-1.1-.9-1.3zm-14-1.3c-.1.1-.3.1-.5 0L6.3 4c-.2-.1-.3-.3-.3-.5v-.6c0-.2.1-.4.3-.4l.5-.2c.1-.1.3-.1.4 0l.5.2c.2 0 .3.2.3.4v.6c0 .2-.1.4-.3.5l-.5.2zM11 19.7c0 .2-.1.3-.3.4l-3 1.7c-.2.1-.3.1-.5 0l-3-1.7c-.1-.1-.2-.2-.2-.4V17c0-.2.1-.3.3-.4l3-1.7c.2-.1.3-.1.5 0l3 1.7c.2.1.3.3.3.4v2.7H11zm9-10.6c0 .2-.1.3-.3.4l-2 1.1c-.2.1-.3.1-.5 0l-2-1.1c-.1-.1-.2-.2-.2-.4V7.3c0-.2.1-.3.2-.4l2-1.1c.2-.1.3-.1.5 0l2 1.1c.2.1.3.3.3.4v1.8z"/></symbol><symbol viewBox="0 0 13 12" id="retrospective" xmlns="http://www.w3.org/2000/svg"><path d="M7 2.7c.3 0 .6.2.6.6v2.4c0 .1.1.1.1.1h2.1c.3 0 .6.2.6.6 0 .3-.2.6-.6.6H7c-.3 0-.6-.3-.6-.6V3.2c.1-.3.3-.5.6-.5zM6.8 0c3.4-.1 6.1 2.5 6.2 5.8.1 3.3-2.5 6.1-5.8 6.2-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7 1.8-.1 3.3-1.1 4-2.7 1-2.3 0-5.1-2.3-6.1s-5 0-6 2.4c0 .1 0 .2.1.2l1 .1c.2 0 .3.2.2.3 0 .1 0 .1-.1.2L2 7c-.2.1-.3.1-.4 0v-.1L0 4.4v-.3c.1-.1.2-.2.3-.2l.9.1c.1 0 .1 0 .1-.1C2.2 1.7 4.4.1 6.8 0z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 18 18" id="search" xmlns="http://www.w3.org/2000/svg"><path d="M17.6 15.6c.6.6.6 1.5 0 2s-1.5.5-2.1 0L12 14.1a7.72 7.72 0 0 1-8.5 0C0 11.7-1 7.1 1.4 3.5 3.6-.1 8.4-1 11.9 1.3c3.5 2.4 4.5 7.2 2.1 10.6l3.6 3.7zM7.7 2.5c-3 0-5.4 2.5-5.4 5.4s2.4 5.4 5.4 5.4 5.4-2.5 5.4-5.4c0-3-2.4-5.4-5.4-5.4z"/></symbol><symbol viewBox="0 0 20 20" id="search-white" xmlns="http://www.w3.org/2000/svg"><path d="M19.5 17.4c.7.7.7 1.7 0 2.2s-1.7.6-2.3 0l-3.9-3.9a8.63 8.63 0 0 1-9.5 0C-.1 13-1.2 7.9 1.5 3.9c2.4-4 7.8-5 11.7-2.5 3.9 2.7 5 8 2.3 11.8l4 4.2zM8.5 2.7c-3.3 0-6 2.8-6 6s2.7 6 6 6 6-2.8 6-6c0-3.3-2.7-6-6-6z" fill="#fff"/></symbol><symbol viewBox="0 0 130 118" id="swoosh-bottom-left" xmlns="http://www.w3.org/2000/svg"><path d="M115.7 38H97.9c-9.8 0-17.8 8-17.8 17.9v44.2c0 9.9-8 17.9-17.8 17.9H17.8C8 118 0 110 0 100.1V55.9C0 46 8 38 17.8 38h44.6c9.8 0 17.8-8 17.8-17.9v-5.7c0-8 6.4-14.4 14.3-14.4h21.3c7.9 0 14.3 6.4 14.3 14.4v9.2c-.1 8-6.5 14.4-14.4 14.4z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 607 58" id="swoosh-bottom-left-streched" xmlns="http://www.w3.org/2000/svg"><path d="M6.8 38.8C3 38.8 0 41.9 0 45.7v4.4C0 53.9 3.1 57 6.8 57H17c3.8 0 6.8-3.1 6.8-6.9v-2.7c0-4.7 3.8-8.6 8.5-8.6l566 .2c4.7 0 8.5-4.1 8.5-8.8V8.6c0-4.7-3.8-8.6-8.5-8.6h-566c-4.7 0-8.5 3.8-8.5 8.6v21.6c0 4.7-3.8 8.6-8.5 8.6H6.8z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 130 118" id="swoosh-top-left" xmlns="http://www.w3.org/2000/svg"><path d="M130 94.4v9.2c0 8-6.4 14.4-14.3 14.4H94.4c-7.9 0-14.3-6.4-14.3-14.4v-5.7c0-9.9-8-17.9-17.8-17.9H17.8C8 80 0 72 0 62.1V17.9C0 8 8 0 17.8 0h44.6c9.8 0 17.8 8 17.8 17.9v44.2C80.2 72 88.1 80 97.9 80h17.8c7.9 0 14.3 6.4 14.3 14.4z" fill-rule="evenodd" clip-rule="evenodd"/></symbol><symbol viewBox="0 0 10 7" id="triangle-down" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M1.402.876V.818h7.673V.84a.722.722 0 0 1 .294.152.63.63 0 0 1 .063.912L5.665 5.901A.916.916 0 0 1 5 6.182a.912.912 0 0 1-.664-.28L.568 1.906A.632.632 0 0 1 .655.973a.75.75 0 0 1 .747-.097z"/></symbol><symbol id="twitter" xml:space="preserve" viewBox="0 0 24 20" xmlns="http://www.w3.org/2000/svg"><style>.bwst0{fill-rule:evenodd;clip-rule:evenodd}</style><path class="bwst0" d="M23.8 4.1c.2-.2.2-.5.1-.7-.1-.1-.2-.1-.3-.2l-.8-.2c-.3-.1-.5-.4-.4-.6v-.1l.5-.9c.1-.3 0-.6-.2-.7-.1-.1-.2-.1-.4 0l-2.1.6c-.2 0-.3 0-.5-.1-.9-.7-2-1.1-3.1-1.1-2.9 0-5.2 2.4-5.2 5.3v.4c0 .1-.1.2-.2.3-2.9.2-5.7-1.3-8.7-4.9-.1-.1-.3-.2-.5-.1s-.3.2-.3.4c-.4 1.8-.3 3.6.5 5.2 0 .2 0 .3-.2.4h-.2L.7 6.9c-.3-.1-.5.1-.6.4v.2c.2 1.6 1.1 3.1 2.5 4 .1.1.2.2.1.4 0 .1-.1.1-.1.1l-.6.2c-.3.1-.4.4-.3.7.6 1.4 1.9 2.3 3.3 2.6.1.1.2.2.2.3s-.1.1-.2.2c-1.4.6-2.9.9-4.5.9-.2-.1-.4.1-.5.4 0 .3.1.6.4.7 2.6 1.3 5.5 2 8.5 2 2.6 0 5.1-.7 7.3-2.1 3.6-2.5 5.8-6.6 5.8-11v-1c0-.2.1-.3.2-.4l1.6-1.4z"/></symbol><symbol viewBox="0 0 24 24" id="video" xmlns="http://www.w3.org/2000/svg"><path d="M23.4 10.5c.8.9.8 2.1 0 3-2.6 2.9-6.9 6-11.3 6h-.3c-4.3 0-8.7-3.1-11.3-6-.8-.9-.8-2.1 0-3 2.6-2.9 7-6.1 11.4-6 4.5-.1 8.9 3.1 11.5 6zM7.4 12c0 2.6 2.1 4.7 4.6 4.7 2.5 0 4.6-2.1 4.6-4.7S14.5 7.3 12 7.3c-2.5 0-4.6 2.1-4.6 4.7zm6-1.4c.8.8.8 2.1 0 2.9-.8.8-2 .8-2.8 0-.8-.8-.8-2.1 0-2.9.8-.8 2-.8 2.8 0 0-.1 0 0 0 0z"/></symbol></svg></span>
+    <script src="/files/js/js_DONZxVZ7-pKgkRt1c1gCzOyvumVTfaZg1gBzT6AB1sk.js"></script>
+
+  </body>
+</html>

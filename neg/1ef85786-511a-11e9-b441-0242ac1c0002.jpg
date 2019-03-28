@@ -1,0 +1,1117 @@
+	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="icbm" content="43.53000, -80.23000">
+<meta name="geo.country" content="CA">
+<link rel="author" title="Author" href="http://www.uoguelph.ca/cpa/webmanagement/">
+			<meta name="google-site-verification" content="bFUgDWR9h9NtKBKwD12SQPkgiqgw9Nf8ClhriE6dvRU">
+		<link rel="home" title="Home" href="http://www.uoguelph.ca/">
+<link rel="copyright" title="Copyright" href="http://www.uoguelph.ca/web/terms/">
+<link rel="index" title="Sitemap" href="http://www.uoguelph.ca/sitemap/">
+<link rel="shortcut icon" href="//www.uoguelph.ca/images/guelph.ico" />
+	
+    	<title>U of G News | University of Guelph</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        
+        
+		<link rel="pingback" href="https://news.uoguelph.ca/xmlrpc.php">
+		
+        
+			
+        
+		<!--wordpress head-->
+		<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="U of G News &raquo; Feed" href="https://news.uoguelph.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title="U of G News &raquo; Comments Feed" href="https://news.uoguelph.ca/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="U of G News &raquo; iCal Feed" href="https://news.uoguelph.ca/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/news.uoguelph.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp_bannerize_pro_slugwp-bannerize-admin-barmincss-css'  href='https://news.uoguelph.ca/wp-content/plugins/wp-bannerize-pro/public/css/wp-bannerize-admin-bar.min.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_bannerize_pro_slugwp-bannerizemincss-css'  href='https://news.uoguelph.ca/wp-content/plugins/wp-bannerize-pro/public/css/wp-bannerize.min.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://news.uoguelph.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://news.uoguelph.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='https://news.uoguelph.ca/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://news.uoguelph.ca/wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css'  href='https://news.uoguelph.ca/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-live-css'  href='https://news.uoguelph.ca/wp-content/plugins/youtube-live-stream-auto-embed/assets/css/youtube-live-style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-backup-css'  href='https://news.uoguelph.ca/wp-includes/css/admin-bar.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-backup-css'  href='https://news.uoguelph.ca/wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css'  href='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/css/bootstrap.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-style-css'  href='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/css/bootstrap-theme.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-style-css'  href='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/css/font-awesome.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/css/main.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-basic-style-css'  href='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-css'  href='https://news.uoguelph.ca/wp-content/plugins/shiftnav-pro/pro/assets/css/shiftnav.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-font-awesome-css'  href='https://news.uoguelph.ca/wp-content/plugins/shiftnav-pro/assets/css/fontawesome/css/font-awesome.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-light-css'  href='https://news.uoguelph.ca/wp-content/plugins/shiftnav-pro/assets/css/skins/light.css?ver=1.6.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/js/vendor/modernizr.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/js/vendor/respond.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/js/vendor/html5shiv.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/themes/bootstrap-basic/js/main.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='https://news.uoguelph.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.uoguelph.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://news.uoguelph.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<link rel="canonical" href="https://news.uoguelph.ca/" />
+<link rel='shortlink' href='https://news.uoguelph.ca/' />
+<link rel="alternate" type="application/json+oembed" href="https://news.uoguelph.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.uoguelph.ca%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.uoguelph.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.uoguelph.ca%2F&#038;format=xml" />
+
+	<!-- ShiftNav CSS
+	================================================================ -->
+	<style type="text/css" id="shiftnav-dynamic-css">
+
+	@media only screen and (min-width:768px){ #shiftnav-toggle-main, .shiftnav-toggle-mobile{ display:none; } .shiftnav-wrap { padding-top:0 !important; } }
+
+/* Status: Loaded from Transient */
+
+	</style>
+	<!-- end ShiftNav CSS -->
+
+	<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://news.uoguelph.ca"><link rel="https://theeventscalendar.com/" href="https://news.uoguelph.ca/wp-json/tribe/events/v1/" />
+<style type="text/css"></style>
+
+<style type="text/css">
+.synved-social-resolution-single {
+display: inline-block;
+}
+.synved-social-resolution-normal {
+display: inline-block;
+}
+.synved-social-resolution-hidef {
+display: none;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 2dppx),
+only screen and (min-resolution: 192dpi) {
+	.synved-social-resolution-normal {
+	display: none;
+	}
+	.synved-social-resolution-hidef {
+	display: inline-block;
+	}
+}
+</style>
+      <script>
+        window.ajaxurl = "https://news.uoguelph.ca/wp-admin/admin-ajax.php"
+        window.WPBannerize = {
+    "General": {
+        "impressions_enabled": true,
+        "clicks_enabled": true
+    },
+    "Layout": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+    }
+};
+      </script>
+        		<style type="text/css" id="wp-custom-css">
+			.widget_youtube_responsive h2.widget-title {background:transparent; color:#666; font-size:20px; padding:0;} 
+
+.outline-class {
+	border: 1px solid #333;
+}
+
+.single-post .wp-caption-text {text-align:left; padding:0 5px; margin-bottom:10px !important;}		</style>
+		
+<!-- START - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.5 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="U of G News"/>
+  <meta property="og:title" content="U of G News"/>
+  <meta property="og:url" content="https://news.uoguelph.ca"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="News..."/>
+  <meta property="og:image" content="https://news.uoguelph.ca/wp-content/uploads/2017/09/universityofguelph.png"/>
+  <meta property="article:publisher" content="https://www.facebook.com/uofguelph"/>
+  <meta property="fb:app_id" content="919713751513065"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="U of G News"/>
+  <meta itemprop="headline" content="U of G News"/>
+  <meta itemprop="description" content="News..."/>
+  <meta itemprop="image" content="https://news.uoguelph.ca/wp-content/uploads/2017/09/universityofguelph.png"/>
+  <!--<meta itemprop="publisher" content="U of G News"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="U of G News"/>
+  <meta name="twitter:url" content="https://news.uoguelph.ca"/>
+  <meta name="twitter:description" content="News..."/>
+  <meta name="twitter:image" content="https://news.uoguelph.ca/wp-content/uploads/2017/09/universityofguelph.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@uofg"/>
+ <!-- SEO -->
+  <link rel="canonical" href="https://news.uoguelph.ca"/>
+  <meta name="description" content="News..."/>
+  <meta name="publisher" content="U of G News"/>
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.5 -->
+	
+
+			            
+            
+            
+<!-- Bootstrap core CSS -->
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<style>
+form.navbar-form { margin-bottom:0; }
+.navbar-nav>li>a { padding-top: 10px;
+padding-bottom: 10px; }
+#sidebar-features-images a { display:block; height:100px; width:100px; float:left; margin:0 12px 0 0; }
+#sidebar-features-images a+a+a { margin-right:0;}
+span.emailp { display:none !important; }
+#sidebar-right .fa { color:#999; }
+
+#homepagefeatures img { width:100%; height:100%; margin: 0 0 0.5em 0 !important; }
+#homepagefeatures a { line-height:1.5; }
+
+#homepagefeatures .rpwe-block li { border: none; }
+.page-id-2 a.thumbnail img { margin-bottom:0; }
+
+
+#topstory a img { display: block; max-width: 100% !important; height: auto !important; width:100% !important;   }
+h2.widget-title { font-size:18px; background:#666; color:#fff; padding:10px; margin-top:5px !important; }
+
+</style>
+<!-- Custom styles for this template -->
+<link href="/css/uofg.css" rel="stylesheet">
+<link href="/css/slides.css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+<link href="//www.uoguelph.ca/css/linkPreview.css" rel="stylesheet" type="text/css" />
+<link href="//www.uoguelph.ca/css/widget-calendar-full.css" rel="stylesheet" type="text/css" /> <!-- added for SSL -->
+<!--<script src="https://www.uoguelph.ca/js/ie-emulation-modes-warning.js"></script>-->
+<!--<script language="JavaScript" src="//www.uoguelph.ca/js/noframes.js" type="text/javascript"></script>-->
+<script language="JavaScript" src="//www.uoguelph.ca/js/linkPreview.js" type="text/javascript"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+});
+</script>
+
+	
+    </head>
+	<body class="home page-template page-template-page_news_external-revised page-template-page_news_external-revised-php page page-id-27577 tribe-no-js tribe-bar-is-disabled tribe-theme-bootstrap-basic" id="newspage" >
+		<!--[if lt IE 8]>
+			<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<![endif]-->
+		
+<div class="container"> 
+  
+  <!-- Static navbar -->
+  <nav class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="//www.uoguelph.ca"><img alt="University of Guelph" src="https://www.uoguelph.ca/img/universityofguelph.png"></a> </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href="https://mail.uoguelph.ca/"><span class="glyphicon glyphicon-envelope fa-fw" aria-hidden="true"></span> GryphMail</a></li>
+          <li><a href="https://courselink.uoguelph.ca/"><span class="glyphicon glyphicon-pencil fa-fw" aria-hidden="true"></span> CourseLink</a></li>
+          <li><a href="//www.uoguelph.ca/directory/"><span class="glyphicon glyphicon-user fa-fw" aria-hidden="true"></span> Directory</a></li>
+          <li><a href="//www.lib.uoguelph.ca"><span class="glyphicon glyphicon-book fa-fw" aria-hidden="true"></span> Library</a></li>
+          <li><a href="//www.uoguelph.ca/campus/map/"><span class="glyphicon glyphicon-road fa-fw" aria-hidden="true"></span> Maps</a></li>
+          <li><a href="https://gryphlife.uoguelph.ca"><span class="fa fa-users fa-fw" aria-hidden="true"></span> Gryphlife</a></li>                    
+		  <li><a href="//webadvisor.uoguelph.ca/"><span class="glyphicon glyphicon-list-alt fa-fw" aria-hidden="true"></span> WebAdvisor</a></li>
+          <li><a href="http://weather.gc.ca/city/pages/on-5_metric_e.html"><span class="glyphicon glyphicon-cloud fa-fw" aria-hidden="true"></span><span class="sr-only">Weather</span></a></li>
+        </ul>
+        <form class="navbar-form navbar-right" role="form" id="searchbox_011117603928904778939:tp3ks5ha2dw" name="searchform" action="https://www.uoguelph.ca/search/">
+          <input type="hidden" name="cx" value="011117603928904778939:tp3ks5ha2dw">
+          <input type="hidden" name="cof" value="FORID:11">
+          <input type="hidden" name="orgstatus" value="all">
+          <input type="hidden" name="search" value="simple">
+          <input type="hidden" name="mail" value="">
+          <input type="hidden" name="phone" value="">
+          <input type="hidden" name="department" value="null">
+          <input type="hidden" name="showresults" value="yes">
+          <input type="hidden" name="givenname" value="">
+          <input type="hidden" name="surname" value="">
+          <input type="hidden" id="mode" name="mode" value="Basic">
+          <input type="hidden" id="tab" name="tab" value="default_tab">
+          <input type="hidden" id="indx" name="indx" value="1">
+          <input type="hidden" id="dum" name="dum" value="true">
+          <input type="hidden" name="srt" value="rank" id="str">
+          <input type="hidden" id="vid" name="vid" value="GUELPH">
+          <input type="hidden" id="frbg" name="frbg" value="">
+          <label id="searchtextlabel" for="searchtext" class="sr-only">search <a href="http://www.uoguelph.ca/searchhelp.html" class="sr-only">help</a></label>
+          <div class="input-group">
+            <input class="form-control search1" placeholder="Search U of G" name="q" type="text" size="20" maxlength="256" id="searchtext">
+            <span class="input-group-btn">
+            <button class="btn btn-default" id="searchsubmit" type="submit" name="submit" value="search" aria-label="search" onclick="javascript: this.form.elements['commonname'].value = this.form.elements['q'].value; this.form.elements['vl(freeText0)'].value = this.form.elements['q'].value;"><span class="glyphicon glyphicon-search" aria-hidden="true"></span><span class="sr-only">search</span></button>
+            </span> </div>
+        </form>
+
+        <ul id="globalnav" class="nav navbar-nav navbar-right nav-clear">
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Academics <span class="caret"></span></a>
+            <ul class="dropdown-menu navbar-default dropdown-menu-left" role="menu">
+              <li><a href="//www.uoguelph.ca/admissions/" role="menuitem">Undergraduate Admissions</a></li>
+              <li><a href="//www.uoguelph.ca/graduatestudies/" role="menuitem">Graduate Studies</a></li>
+              <li><a href="//opened.uoguelph.ca/student-resources/About-Distance-Education" role="menuitem">Distance Education</a></li>
+              <li><a href="//www.uoguelph.ca/academiccalendars/" role="menuitem">Academic Calendars</a></li>
+              <li class="divider"></li>
+              <li><a href="//www.uoguelph.ca/arts" role="menuitem">College of Arts</a></li>
+              <li><a href="//www.uoguelph.ca/cbs/" role="menuitem">College of Biological Science</a></li>
+              <li><a href="//www.uoguelph.ca/business/" role="menuitem">College of Business &amp; Economics</a> </li>
+              <li><a href="//www.uoguelph.ca/ceps/" role="menuitem">College of Engineering &amp; Physical Science</a></li>
+              <li><a href="//www.uoguelph.ca/csahs/" role="menuitem">College of Social &amp; Applied Human Sciences</a></li>
+              <li><a href="//www.uoguelph.ca/oac/" role="menuitem">Ontario Agricultural College</a></li>
+              <li><a href="//www.ovc.uoguelph.ca/" role="menuitem">Ontario Veterinary College</a></li>
+              <li class="divider"></li>
+              <li><a href="http://www.ridgetownc.uoguelph.ca/" role="menuitem">Ridgetown Campus</a></li>
+              <li><a href="http://www.guelphhumber.ca/" role="menuitem">University of Guelph-Humber</a></li>
+              <li><a href="http://opened.uoguelph.ca/" role="menuitem">Open Learning and Educational Support</a></li>              
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+            <ul class="dropdown-menu navbar-default dropdown-menu-left" role="menu">
+              <li><a href="//www.uoguelph.ca/about.html" role="menuitem">About the University</a></li>
+                          <li class="divider"></li>
+              <li><a href="//www.uoguelph.ca/arboretum/" role="menuitem">Arboretum</a></li>
+                          <li class="divider"></li>
+              <li><a href="//www.uoguelph.ca/secretariat/office-services/board-governors" role="menuitem">Board of Governors</a></li>
+              <li><a href="//www.uoguelph.ca/secretariat/office-services/senate" role="menuitem">Senate</a></li>
+              <li><a href="//www.uoguelph.ca/president/senior-administration" role="menuitem">Senior Administration</a></li>
+            </ul>
+            </li>
+                    
+         <!-- <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Info For<span class="caret"></span></a>
+            <ul class="dropdown-menu navbar-default dropdown-menu-left" role="menu">
+				<li><a href="http://www.uoguelph.ca/applying/">Future Students</a></li>
+                <li><a href="http://www.uoguelph.ca/students/">Current Students</a></li>
+                <li><a href="http://www.uoguelph.ca/faculty/">Faculty &amp; Staff</a></li>
+                <li><a href="http://www.alumni.uoguelph.ca/">Alumni &amp; Friends</a></li>
+                <li><a href="http://www.cecs.uoguelph.ca/">Co-op &amp; Employers</a></li>
+                <li><a href="http://www.uoguelph.ca/cpa/media/">Media</a></li>
+            </ul>
+          </li> -->
+          <!-- <li><a href="/campus/">Community</a></li> -->
+          <li><a href="//www.uoguelph.ca/international/">International</a></li>
+          <li><a href="//www.uoguelph.ca/president/">President</a></li>
+          <li><a href="//www.uoguelph.ca/research/">Research</a></li>
+          <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="caret"></span></a>
+            <ul class="dropdown-menu navbar-default" role="menu">
+	              <li><a href="http://gryphons.ca/" role="menuitem">Athletics</a></li>
+              <li><a href="//www.bookstore.uoguelph.ca" role="menuitem">Bookstore</a></li>
+              <li><a href="//www.uoguelph.ca/police/" role="menuitem">Campus Community Police</a></li>
+              <li><a href="//www.uoguelph.ca/cpa/" role="menuitem">Communications & Public Affairs</a></li>     
+              <li><a href="//www.uoguelph.ca/community/" role="menuitem">Community Relations</a></li>
+              <li><a href="//www.uoguelph.ca/ccs/" role="menuitem">Computing & Communications Services</a></li>
+              <li><a href="//www.hospitality.uoguelph.ca" role="menuitem">Hospitality Services</a></li>
+              <li><a href="//www.uoguelph.ca/hr/" role="menuitem">Human Resources</a></li>
+              <li><a href="//www.uoguelph.ca/studentaffairs/" role="menuitem">Student Affairs</a></li>
+              <li><a href="//housing.uoguelph.ca" role="menuitem">Student Housing Services</a></li>
+              <li class="divider"></li>
+              <li><a href="//www.uoguelph.ca/services/" role="menuitem">More Services</a></li>
+            </ul>
+          </li>
+        </ul>
+          
+        
+      </div>
+      <!--/.nav-collapse --> 
+    </div>
+    <!--/.container-fluid --> 
+  </nav>
+</div>		
+<!-- /container -->
+		
+		
+		
+			
+				<div class="container page-container">
+						 
+						<div id="content" class="row row-with-vspace site-content">
+            
+             
+<div class="row">
+    <div class="col-md-6 content-area">
+      <h1><img src="https://www.uoguelph.ca/img/uofgnews.png" alt="U of G News" /></h1>
+    </div>
+        <div class="col-md-3 content-area">
+        <h3><a href="https://news.uoguelph.ca/media-services/">Media Services</a></h3>
+</div>
+    <div class="col-md-3 content-area">
+    <h3>Find U of G Experts</h3>
+        <form method="get" action="http://experts.uoguelph.ca/search"><div class="input-group"><input type="text" name="query" placeholder="Name or Expertise" class="form-control"><span class="input-group-btn"><button type="submit" class="btn btn-default">Search</button></span></div>
+    </form>
+    </div>
+</div>
+
+<div class="row" >
+    <div class="col-md-6 content-area">
+    
+ 
+					 
+					<style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div id="rpwe_widget-9" class="widget rpwe_widget recent-posts-extended"><div id="topstory" class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-research-beginning-to-uncover-the-mystery-of-hagfishs-zombie-hearts/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/hagfish-photo-600x400.jpg" alt="U of G Research Beginning to Uncover the Mystery of Hagfish’s Zombie Hearts "></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-research-beginning-to-uncover-the-mystery-of-hagfishs-zombie-hearts/" title="Permalink to U of G Research Beginning to Uncover the Mystery of Hagfish’s Zombie Hearts " rel="bookmark">U of G Research Beginning to Uncover the Mystery of Hagfish’s Zombie Hearts </a></h3><div class="rpwe-summary">They are the scavengers of the deep and the dead. Hagfish are slimy bottom-dwellers that live off the carcasses of dead sea creatures and thrive in deep waters where oxygen is hard to come by. In fact, their hearts can keep beating for 36 hours without oxygen, making hagfish a &hellip;</div></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div> 
+	   
+      <style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div id="rpwe_widget-13" class="widget rpwe_widget recent-posts-extended"><div class="col-sm-6 fp-feature"><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/its-tax-time-do-you-know-the-difference-between-avoiding-and-evading-taxes/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/income-tax-491626_1280-100x100.jpg" alt="It’s tax time! Do you know the difference between avoiding and evading taxes?"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/its-tax-time-do-you-know-the-difference-between-avoiding-and-evading-taxes/" title="Permalink to It’s tax time! Do you know the difference between avoiding and evading taxes?" rel="bookmark">It’s tax time! Do you know the difference between avoiding and evading taxes?</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div><!--col-sm-6--></div><style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div id="rpwe_widget-14" class="widget rpwe_widget recent-posts-extended"><div class="col-sm-6 fp-feature"><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/federal-budget-pledges-a-canadian-school-food-program-but-recipe-requires-funding/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/baby-3359745_1280-100x100.jpg" alt="Federal Budget Pledges a Canadian School Food Program but Recipe Requires Funding"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/federal-budget-pledges-a-canadian-school-food-program-but-recipe-requires-funding/" title="Permalink to Federal Budget Pledges a Canadian School Food Program but Recipe Requires Funding" rel="bookmark">Federal Budget Pledges a Canadian School Food Program but Recipe Requires Funding</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div><!--col-sm-6--></div> 
+      <p><a class="btn btn-default" href="https://news.uoguelph.ca/category/feature/">More Top Stories</a></p>
+
+
+         
+    
+      
+    </div>
+
+
+    <div class="col-md-3 content-area">
+    
+
+ 
+					 
+					<style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div id="rpwe_widget-11" class="widget rpwe_widget recent-posts-extended"><h2 class="widget-title">In the News</h2><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-expert-discusses-childrens-love-languages/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2016/10/Tricia-van-Rhijn-45x45.jpg" alt="U of G Expert Discusses Children&#8217;s &#8216;Love Languages&#8217;"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-expert-discusses-childrens-love-languages/" title="Permalink to U of G Expert Discusses Children&#8217;s &#8216;Love Languages&#8217;" rel="bookmark">U of G Expert Discusses Children&#8217;s &#8216;Love Languages&#8217;</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-food-sustainability-experts-discuss-food-waste-in-the-hill-times/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/corradini_somogyi-45x45.jpg" alt="U of G Food Sustainability Experts Discuss Food Waste in The Hill Times"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-food-sustainability-experts-discuss-food-waste-in-the-hill-times/" title="Permalink to U of G Food Sustainability Experts Discuss Food Waste in The Hill Times" rel="bookmark">U of G Food Sustainability Experts Discuss Food Waste in The Hill Times</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-gs-world-water-day-experts/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/waters-3168662_1280-45x45.jpg" alt="U of G’s World Water Day Experts"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-gs-world-water-day-experts/" title="Permalink to U of G’s World Water Day Experts" rel="bookmark">U of G’s World Water Day Experts</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-psych-prof-explains-how-the-mommy-penalty-affects-all-women/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/02/Person-Female-Faculty-7_0-45x45.jpg" alt="U of G Psych Prof Explains How the ‘Mommy Penalty’ Affects All Women"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-psych-prof-explains-how-the-mommy-penalty-affects-all-women/" title="Permalink to U of G Psych Prof Explains How the ‘Mommy Penalty’ Affects All Women" rel="bookmark">U of G Psych Prof Explains How the ‘Mommy Penalty’ Affects All Women</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-history-professor-to-discuss-gay-priests-in-catholic-church/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/jacqueline_murray-45x45.png" alt="U of G History Professor Discusses Gay Priests in Catholic Church"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-history-professor-to-discuss-gay-priests-in-catholic-church/" title="Permalink to U of G History Professor Discusses Gay Priests in Catholic Church" rel="bookmark">U of G History Professor Discusses Gay Priests in Catholic Church</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-health-historian-discusses-school-vaccination-policies/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2018/06/uguelph_418-45x45.jpeg" alt="U of G Health Historian Discusses School Vaccination Policies"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-health-historian-discusses-school-vaccination-policies/" title="Permalink to U of G Health Historian Discusses School Vaccination Policies" rel="bookmark">U of G Health Historian Discusses School Vaccination Policies</a></h3></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-food-scientists-leukemia-research-featured/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/Spagnuolo-avocado-45x45.jpg" alt="U of G Food Scientist&#8217;s Leukemia Research Featured"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-food-scientists-leukemia-research-featured/" title="Permalink to U of G Food Scientist&#8217;s Leukemia Research Featured" rel="bookmark">U of G Food Scientist&#8217;s Leukemia Research Featured</a></h3></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div> 
+     
+
+
+      
+    
+     <p><a class="btn btn-default" href="https://news.uoguelph.ca/category/in-the-news/">More In The News</a></p>  
+
+
+   
+   
+
+    </div>
+    <div class="col-md-3 content-area">
+    
+
+ 
+					 
+					<div id="custom_html-2" class="widget_text widget widget_custom_html"><h2 class="widget-title">30 Second Lectures</h2><div class="textwidget custom-html-widget"></div></div><div id="youtube_responsive-4" class="widget widget_youtube_responsive"><h2 class="widget-title">Space Farming 101: Growing Food in Hostile Environments</h2><object  class='StefanoAI-youtube-responsive fitvidsignore ' width='160' height='90' style='' type='application/video'><iframe id='StefanoAI-youtube-1' class='StefanoAI-youtube-responsive ' width='160' height='90' src='//www.youtube.com/embed/SdO-ip0eRck?&amp;autohide=2&amp;color=red&amp;controls=2&amp;disablekb=0&amp;fs=0&amp;iv_load_policy=1&amp;modestbranding=1&amp;rel=0&amp;theme=dark&amp;vq=default&amp;wmode=transparent&amp;enablejsapi=1'  style='border:none;'></iframe></object></div><div id="youtube_responsive-3" class="widget widget_youtube_responsive"><h2 class="widget-title">How 3D Printed Skull Plates Are Revolutionizing Surgery</h2><object  class='StefanoAI-youtube-responsive fitvidsignore ' width='160' height='90' style='' type='application/video'><iframe id='StefanoAI-youtube-2' class='StefanoAI-youtube-responsive ' width='160' height='90' src='//www.youtube.com/embed/OHUgl5PtkOA?&amp;autohide=2&amp;color=red&amp;controls=2&amp;disablekb=0&amp;fs=0&amp;iv_load_policy=1&amp;modestbranding=1&amp;rel=0&amp;theme=dark&amp;vq=default&amp;wmode=transparent&amp;enablejsapi=1'  style='border:none;'></iframe></object></div> 
+	
+    
+    
+  <p><a class="btn btn-default" href="https://www.youtube.com/watch?v=WQXLHsJ-PnQ&list=PLp8HKYOj5e5nOESfyZ_xYPyrpSxeueSkk">More 30 Second Lectures</a></p>  
+
+
+    </div>
+            
+</div><!-- row -->
+
+<div class="row">
+    <div class="col-md-3 content-area">
+    
+     
+					 
+					<style>
+.rpwe-block ul{list-style:none!important;margin-left:0!important;padding-left:0!important;}.rpwe-block li{border-bottom:1px solid #eee;margin-bottom:10px;padding-bottom:10px;list-style-type: none;}.rpwe-block a{display:inline!important;text-decoration:none;}.rpwe-block h3{background:none!important;clear:none;margin-bottom:0!important;margin-top:0!important;font-weight:400;font-size:12px!important;line-height:1.5em;}.rpwe-thumb{border:1px solid #EEE!important;box-shadow:none!important;margin:2px 10px 2px 0;padding:3px!important;}.rpwe-summary{font-size:12px;}.rpwe-time{color:#bbb;font-size:11px;}.rpwe-comment{color:#bbb;font-size:11px;padding-left:5px;}.rpwe-alignleft{display:inline;float:left;}.rpwe-alignright{display:inline;float:right;}.rpwe-aligncenter{display:block;margin-left: auto;margin-right: auto;}.rpwe-clearfix:before,.rpwe-clearfix:after{content:"";display:table !important;}.rpwe-clearfix:after{clear:both;}.rpwe-clearfix{zoom:1;}
+</style>
+	<div id="rpwe_widget-12" class="widget rpwe_widget recent-posts-extended"><h2 class="widget-title">News</h2><div  class="rpwe-block "><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-hosting-tribute-to-former-president-winegard/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2019/03/Winegard-45x45.jpg" alt="U of G Hosting Tribute to Former President Winegard"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-hosting-tribute-to-former-president-winegard/" title="Permalink to U of G Hosting Tribute to Former President Winegard" rel="bookmark">U of G Hosting Tribute to Former President Winegard</a></h3><time class="rpwe-time published" datetime="2019-03-26T15:53:08-04:00">Tuesday, March 26, 2019</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/prof-awarded-funding-to-examine-causes-of-violence-against-women-migrants-refugees/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2016/09/Myrna_Dawson-45x45.jpg" alt="Prof Awarded Funding to Examine Causes of Violence Against Women Migrants, Refugees"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/prof-awarded-funding-to-examine-causes-of-violence-against-women-migrants-refugees/" title="Permalink to Prof Awarded Funding to Examine Causes of Violence Against Women Migrants, Refugees" rel="bookmark">Prof Awarded Funding to Examine Causes of Violence Against Women Migrants, Refugees</a></h3><time class="rpwe-time published" datetime="2019-03-21T16:37:59-04:00">Thursday, March 21, 2019</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/government-releases-summary-of-sexual-violence-survey-u-of-g-highlights-services-supports/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2018/05/university-of-guelph-wall-shot-late-fall-45x45.jpg" alt="Government Releases Summary of Sexual Violence Survey, U of G Highlights Services, Supports"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/government-releases-summary-of-sexual-violence-survey-u-of-g-highlights-services-supports/" title="Permalink to Government Releases Summary of Sexual Violence Survey, U of G Highlights Services, Supports" rel="bookmark">Government Releases Summary of Sexual Violence Survey, U of G Highlights Services, Supports</a></h3><time class="rpwe-time published" datetime="2019-03-21T06:16:50-04:00">Thursday, March 21, 2019</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/statement-from-u-of-g-president-franco-vaccarino-re-2019-federal-budget/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2018/12/U-of-G-sign-45x45.jpeg" alt="Statement From U of G President Franco Vaccarino Re: 2019 Federal Budget"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/statement-from-u-of-g-president-franco-vaccarino-re-2019-federal-budget/" title="Permalink to Statement From U of G President Franco Vaccarino Re: 2019 Federal Budget" rel="bookmark">Statement From U of G President Franco Vaccarino Re: 2019 Federal Budget</a></h3><time class="rpwe-time published" datetime="2019-03-19T20:17:06-04:00">Tuesday, March 19, 2019</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://news.uoguelph.ca/2019/03/u-of-g-food-supply-chain-expert-to-address-senate/"  rel="bookmark"><img class="rpwe-alignleft rpwe-thumb" src="https://news.uoguelph.ca/wp-content/uploads/2018/10/Simon-45x45.jpg" alt="U of G Food Supply Chain Experts to Address Senate"></a><h3 class="rpwe-title"><a href="https://news.uoguelph.ca/2019/03/u-of-g-food-supply-chain-expert-to-address-senate/" title="Permalink to U of G Food Supply Chain Experts to Address Senate" rel="bookmark">U of G Food Supply Chain Experts to Address Senate</a></h3><time class="rpwe-time published" datetime="2019-03-19T16:09:40-04:00">Tuesday, March 19, 2019</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div> 
+	
+    
+            
+          <p><a class="btn btn-default" href="https://news.uoguelph.ca/?cat=6,7">More News</a></p>        
+    
+    </div>
+    <div class="col-md-3 content-area">
+    
+     
+					 
+					<div id="tribe-events-adv-list-widget-5" class="widget tribe-events-adv-list-widget"><h2 class="widget-title">Campus Events</h2>
+		<!-- Event  -->
+		<div class="type-tribe_events post-41168 tribe-clearfix tribe-events-category-homepage-event tribe-events-venue-28817">
+			
+<div class="tribe-mini-calendar-event event--1 ">
+	
+	<div class="list-date">
+					<span class="list-dayname">
+				Thu			</span>
+		
+		<span class="list-daynumber">28</span>
+		</div>
+
+		<div class="list-info">
+						<h2 class="tribe-events-title">
+					<a href="https://news.uoguelph.ca/event/families-in-canada-conference-2019/" rel="bookmark">Families in Canada Conference 2019</a>
+			</h2>
+			
+			
+			<div class="tribe-events-duration">
+				<span class="tribe-event-date-start">March 27</span> - <span class="tribe-event-date-end">March 28</span>			</div>
+
+			
+			<!-- // Price, Venue Name, Street, City, State or Province, Postal Code, Country, Venue Phone, Organizer Name-->
+			
+					</div>
+	</div> <!-- .list-info -->
+		</div><!-- .hentry .vevent -->
+
+		
+	
+		<!-- Event  -->
+		<div class="type-tribe_events post-41937 tribe-clearfix tribe-events-category-homepage-event tribe-events-venue-16122">
+			
+<div class="tribe-mini-calendar-event event--1 ">
+	
+	<div class="list-date">
+					<span class="list-dayname">
+				Thu			</span>
+		
+		<span class="list-daynumber">28</span>
+		</div>
+
+		<div class="list-info">
+						<h2 class="tribe-events-title">
+					<a href="https://news.uoguelph.ca/event/free-tax-clinic-student-financial-services/2019-03-28/" rel="bookmark">Free Tax Clinic &#8211; Student Financial Services</a>
+			</h2>
+			
+			
+			<div class="tribe-events-duration">
+				<span class="tribe-event-date-start">March 28 @ 4:30 pm</span> - <span class="tribe-event-time">7:30 pm</span>			</div>
+
+			
+			<!-- // Price, Venue Name, Street, City, State or Province, Postal Code, Country, Venue Phone, Organizer Name-->
+			
+					</div>
+	</div> <!-- .list-info -->
+		</div><!-- .hentry .vevent -->
+
+		
+	
+		<!-- Event  -->
+		<div class="type-tribe_events post-41107 tribe-clearfix tribe-events-category-homepage-event tribe-events-venue-41106">
+			
+<div class="tribe-mini-calendar-event event--1 ">
+	
+	<div class="list-date">
+					<span class="list-dayname">
+				Fri			</span>
+		
+		<span class="list-daynumber">29</span>
+		</div>
+
+		<div class="list-info">
+						<h2 class="tribe-events-title">
+					<a href="https://news.uoguelph.ca/event/regenerative-medicine-at-guelph-faculty-lecture-series-pluripotent-stem-cells/" rel="bookmark">Regenerative Medicine at Guelph Faculty Lecture Series: Pluripotent Stem Cells</a>
+			</h2>
+			
+			
+			<div class="tribe-events-duration">
+				<span class="tribe-event-date-start">March 29 @ 10:00 am</span> - <span class="tribe-event-time">11:30 am</span>			</div>
+
+			
+			<!-- // Price, Venue Name, Street, City, State or Province, Postal Code, Country, Venue Phone, Organizer Name-->
+			
+					</div>
+	</div> <!-- .list-info -->
+		</div><!-- .hentry .vevent -->
+
+		
+	
+		<!-- Event  -->
+		<div class="type-tribe_events post-41911 tribe-clearfix tribe-events-category-homepage-event tribe-events-venue-16249">
+			
+<div class="tribe-mini-calendar-event event--1 ">
+	
+	<div class="list-date">
+					<span class="list-dayname">
+				Sat			</span>
+		
+		<span class="list-daynumber">30</span>
+		</div>
+
+		<div class="list-info">
+						<h2 class="tribe-events-title">
+					<a href="https://news.uoguelph.ca/event/arabian-night-2019-a-celebration-of-arab-art-and-culture/" rel="bookmark">Arabian Night 2019 -A Celebration of Arab Art and Culture</a>
+			</h2>
+			
+			
+			<div class="tribe-events-duration">
+				<span class="tribe-event-date-start">March 30 @ 6:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>			</div>
+
+			
+			<!-- // Price, Venue Name, Street, City, State or Province, Postal Code, Country, Venue Phone, Organizer Name-->
+			
+					</div>
+	</div> <!-- .list-info -->
+		</div><!-- .hentry .vevent -->
+
+		
+	
+	<p class="tribe-events-widget-link">
+		<a href="http://news.uoguelph.ca/events/" rel="bookmark">
+			View More&hellip;		</a>
+	</p>
+
+</div><script type="application/ld+json">
+[{"@context":"http://schema.org","@type":"Event","name":"Families in Canada Conference 2019","description":"&lt;p&gt;The Live Work Well Research Centre is co-hosting a regional conference at the University of Guelph as part of the Ottawa-based Vanier Institute\u2019s Families in Canada Conference 2019. Over two days, panelists in Guelph will focus on local issues and opportunities for diverse families. The local panel sessions in Guelph will reflect the context of &hellip;&lt;/p&gt;\\n","url":"https://news.uoguelph.ca/event/families-in-canada-conference-2019/","startDate":"2019-03-27T00:00:00-04:00","endDate":"2019-03-28T23:59:59-04:00","location":{"@type":"Place","name":"University Centre &#8211; Peter Clark Hall","description":"","url":"https://news.uoguelph.ca/venue/university-centre-peter-clark-hall/","address":{"@type":"PostalAddress"},"telephone":"","sameAs":""}},{"@context":"http://schema.org","@type":"Event","name":"Free Tax Clinic &#8211; Student Financial Services","description":"&lt;p&gt;Need help filing your 2018 tax return? Look no further! Student Financial Services at the University of Guelph is offering a free tax clinic as part of the Canada Revenue Agency\\'s Community Volunteer Income Tax Program. If you have a simple tax situation and have received only\u00a0T2202A, T4, T4A, and/or T5 slips, you are eligible &hellip;&lt;/p&gt;\\n","image":"https://news.uoguelph.ca/wp-content/uploads/2019/03/tax-clinic-w19-1.jpg","url":"https://news.uoguelph.ca/event/free-tax-clinic-student-financial-services/2019-03-28/","startDate":"2019-03-28T16:30:00-04:00","endDate":"2019-03-28T19:30:00-04:00","location":{"@type":"Place","name":"University Centre","description":"","url":"https://news.uoguelph.ca/venue/unnamed-venue/","address":{"@type":"PostalAddress","streetAddress":"University Centre, 50 Stone Road East","addressLocality":"Guelph","addressRegion":"Ontario","postalCode":"N1G 2W1","addressCountry":"Canada"},"geo":{"@type":"GeoCoordinates","latitude":43.5305188,"longitude":-80.2262524},"telephone":"519-824-4120","sameAs":"http://www.uoguelph.ca/campus/map/uc/"}},{"@context":"http://schema.org","@type":"Event","name":"Regenerative Medicine at Guelph Faculty Lecture Series: Pluripotent Stem Cells","description":"&lt;p&gt;This session of the RM@Guelph lecture series is titled &quot;Pluripotent Stem Cells: the Swiss Army knife of cell therapies.&quot; All are welcome to attend. Presented by Prof. Sarah Lepage, Department of Biomedical Sciences, OVC. Hosted by the Regenerative Medicine at Guelph (RM@Guelph) Network as part of graduate course BIOM*6712 OVC Biomedical Sciences, Room 1642 RM@Guelph &hellip;&lt;/p&gt;\\n","url":"https://news.uoguelph.ca/event/regenerative-medicine-at-guelph-faculty-lecture-series-pluripotent-stem-cells/","startDate":"2019-03-29T10:00:00-04:00","endDate":"2019-03-29T11:30:00-04:00","location":{"@type":"Place","name":"OVC Biomedical Sciences","description":"","url":"https://news.uoguelph.ca/venue/ovc-biomedical-sciences/","address":{"@type":"PostalAddress"},"telephone":"","sameAs":""}},{"@context":"http://schema.org","@type":"Event","name":"Arabian Night 2019 -A Celebration of Arab Art and Culture","description":"&lt;p&gt;Arabian Night 2019 celebrates Arab art and culture through theatre, poetry, dance and music. The School of Languages and Literatures is hosting Arabian Night 2019 featuring artists from Syria, Iraq, Palestine and Lebanon. A creative space to learn and engage in artistic dialogue through poetry, music, dance and theatre. Bridge differences and elevate human spirits &hellip;&lt;/p&gt;\\n","url":"https://news.uoguelph.ca/event/arabian-night-2019-a-celebration-of-arab-art-and-culture/","startDate":"2019-03-30T18:00:00-04:00","endDate":"2019-03-30T20:00:00-04:00","location":{"@type":"Place","name":"MacKinnon Building","description":"","url":"https://news.uoguelph.ca/venue/mackinnon-building/","address":{"@type":"PostalAddress","streetAddress":"87 Trent Lane","addressLocality":"Guelph","addressRegion":"Ontario","addressCountry":"Canada"},"geo":{"@type":"GeoCoordinates","latitude":43.5324591,"longitude":-80.2273244},"telephone":"","sameAs":""}}]
+</script><div id="text-22" class="widget widget_text"><h2 class="widget-title">Video</h2>			<div class="textwidget"><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://youtube.com/embed/LTMUi4YPgdQ" frameborder="0" allowfullscreen=""></iframe></div>
+</div>
+		</div> 
+	
+    
+            
+    </div>
+    <div class="col-md-3 content-area">
+    
+    <h2 class="widget-title">Twitter</h2>
+    
+			<a class="twitter-timeline" href="https://twitter.com/UofGuelphNews" data-widget-id="714895823755223041">Tweets by @UofGuelphNews</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>    
+    
+    
+    </h2>
+    </div>
+
+
+<div class="col-md-3">
+     
+					 
+					<div id="search-4" class="widget widget_search"><h2 class="widget-title">Search News</h2><form role="search" method="get" class="search-form form" action="https://news.uoguelph.ca/">
+	<label for="form-search-input" class="sr-only">Search for</label>
+	<div class="input-group">
+		<input type="search" id="form-search-input" class="form-control" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+		<span class="input-group-btn">
+			<button type="submit" class="btn btn-default">Search</button>
+		</span>
+	</div>
+</form></div><div id="archives-3" class="widget widget_archive"><h2 class="widget-title">News Archive</h2>		<label class="screen-reader-text" for="archives-dropdown-3">News Archive</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='https://news.uoguelph.ca/2019/03/'> March 2019 </option>
+	<option value='https://news.uoguelph.ca/2019/02/'> February 2019 </option>
+	<option value='https://news.uoguelph.ca/2019/01/'> January 2019 </option>
+	<option value='https://news.uoguelph.ca/2018/12/'> December 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/11/'> November 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/10/'> October 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/09/'> September 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/08/'> August 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/07/'> July 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/06/'> June 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/05/'> May 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/04/'> April 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/03/'> March 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/02/'> February 2018 </option>
+	<option value='https://news.uoguelph.ca/2018/01/'> January 2018 </option>
+	<option value='https://news.uoguelph.ca/2017/12/'> December 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/11/'> November 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/10/'> October 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/09/'> September 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/08/'> August 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/07/'> July 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/06/'> June 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/05/'> May 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/04/'> April 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/03/'> March 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/02/'> February 2017 </option>
+	<option value='https://news.uoguelph.ca/2017/01/'> January 2017 </option>
+	<option value='https://news.uoguelph.ca/2016/12/'> December 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/11/'> November 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/10/'> October 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/09/'> September 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/08/'> August 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/07/'> July 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/06/'> June 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/05/'> May 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/04/'> April 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/03/'> March 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/02/'> February 2016 </option>
+	<option value='https://news.uoguelph.ca/2016/01/'> January 2016 </option>
+	<option value='https://news.uoguelph.ca/2015/12/'> December 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/11/'> November 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/10/'> October 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/09/'> September 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/08/'> August 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/07/'> July 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/06/'> June 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/05/'> May 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/04/'> April 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/03/'> March 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/02/'> February 2015 </option>
+	<option value='https://news.uoguelph.ca/2015/01/'> January 2015 </option>
+	<option value='https://news.uoguelph.ca/2014/12/'> December 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/11/'> November 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/10/'> October 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/09/'> September 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/08/'> August 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/07/'> July 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/06/'> June 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/05/'> May 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/04/'> April 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/03/'> March 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/02/'> February 2014 </option>
+	<option value='https://news.uoguelph.ca/2014/01/'> January 2014 </option>
+	<option value='https://news.uoguelph.ca/2013/12/'> December 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/11/'> November 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/10/'> October 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/09/'> September 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/08/'> August 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/07/'> July 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/06/'> June 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/05/'> May 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/04/'> April 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/03/'> March 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/02/'> February 2013 </option>
+	<option value='https://news.uoguelph.ca/2013/01/'> January 2013 </option>
+	<option value='https://news.uoguelph.ca/2012/12/'> December 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/11/'> November 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/10/'> October 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/09/'> September 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/08/'> August 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/07/'> July 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/06/'> June 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/05/'> May 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/04/'> April 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/03/'> March 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/02/'> February 2012 </option>
+	<option value='https://news.uoguelph.ca/2012/01/'> January 2012 </option>
+	<option value='https://news.uoguelph.ca/2011/12/'> December 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/11/'> November 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/10/'> October 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/09/'> September 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/08/'> August 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/07/'> July 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/06/'> June 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/05/'> May 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/04/'> April 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/03/'> March 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/02/'> February 2011 </option>
+	<option value='https://news.uoguelph.ca/2011/01/'> January 2011 </option>
+	<option value='https://news.uoguelph.ca/2010/12/'> December 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/11/'> November 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/10/'> October 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/09/'> September 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/08/'> August 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/07/'> July 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/06/'> June 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/05/'> May 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/04/'> April 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/03/'> March 2010 </option>
+	<option value='https://news.uoguelph.ca/2010/02/'> February 2010 </option>
+	<option value='https://news.uoguelph.ca/2004/11/'> November 2004 </option>
+
+		</select>
+		</div><div id="text-17" class="widget widget_text"><h2 class="widget-title">Other Links</h2>			<div class="textwidget"><p><a href="https://www.uoguelph.ca/brand-guide/">Brand Guide</a></p>
+
+<p><a href="http://www.porticomagazine.ca">Portico Magazine</a></p>
+
+<p><a href="http://www.uoguelph.ca/shareyournews">Share Your News</a></p>
+</div>
+		</div> 
+	
+           
+        
+				</div>
+
+           
+</div><!-- row -->
+    
+
+			</div><!--.site-content-->
+	
+
+		
+       </div> 
+        
+        
+<div class="container">
+  <footer class="navbar navbar-default">
+    <ul id="socialicons" class="nav navbar-nav navbar-left">   
+      <li><a alt="Twitter" aria-hidden="true" aria-label="twitter" href="http://twitter.com/uofg"><i class="fa fa-twitter"></i></a></li>
+      <li><a alt="Facebook" aria-hidden="true" aria-label="facebook" href="https://www.facebook.com/uofguelph"><i class="fa fa-facebook"></i></a></li>
+      <li><a alt="Instagram" aria-hidden="true" aria-label="instagram" href="https://instagram.com/uofguelph/"><i class="fa fa-instagram"></i></a></li>
+      <li><a alt="Youtube" aria-hidden="true" aria-label="youtube" href="https://www.youtube.com/uofguelph"><i class="fa fa-youtube"></i></a></li>
+      <li><a alt="LinkeIn" aria-hidden="true" aria-label="linkedin" href="https://www.linkedin.com/company/university-of-guelph"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="http://www.uoguelph.ca/web/socialmedia/">Social Media Directory</a></li>
+
+    </ul>  
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="//www.uoguelph.ca/accessibility/"><span class="fa fa-wheelchair"></span> Accessibility</a></li>
+      <li><a href="//www.uoguelph.ca/web/privacy/"><span class="fa fa-key"></span> Privacy</a></li>
+      <li><a href="//www.uoguelph.ca/sitemap/"><span class="fa fa-sitemap"></span> Site Map</a></li>
+      <li><a href="//www.uoguelph.ca/web/">&copy; University of Guelph</a></li>
+    </ul>
+  </footer>
+</div>        
+
+		
+		<!--wordpress footer-->
+		
+
+
+	<!-- ShiftNav #shiftnav-main -->
+	<div class="shiftnav shiftnav-nojs shiftnav-shiftnav-main shiftnav-right-edge shiftnav-skin-light shiftnav-transition-standard" id="shiftnav-main" data-shiftnav-id="shiftnav-main">
+		<div class="shiftnav-inner">
+
+					<span class="shiftnav-panel-close"><i class="fa fa-times"></i></span>
+		
+		<nav class="shiftnav-nav"><ul id="menu-new-mobile-menu" class="shiftnav-menu shiftnav-targets-default shiftnav-targets-text-default shiftnav-targets-icon-default shiftnav-indent-subs"><li id="menu-item-41720" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-has-children menu-item-41720 shiftnav-sub-always shiftnav-depth-0 dropdown"><a class="shiftnav-target"  href="https://news.uoguelph.ca/guides/brand-guide/">University of Guelph Brand Guide</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-41721" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41721 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/accessibility/">Accessibility</a></li><li id="menu-item-41722" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41722 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/brand-promise/">Brand Promise</a></li><li id="menu-item-41724" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-has-children menu-item-41724 shiftnav-sub-always shiftnav-depth-1 dropdown"><a class="shiftnav-target"  href="/guides/brand-guide/imagery/">Imagery</a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-41725" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41725 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/imagery/copyright-and-consent/">Copyright and Consent</a></li><li id="menu-item-41726" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41726 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/imagery/still-images/">The Imagery: Still</a></li><li id="menu-item-41727" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41727 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/imagery/video/">The Imagery: Video</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li>	</ul>
+</li><li id="menu-item-41729" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41729 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/logos/">Logos</a></li><li id="menu-item-41730" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41730 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/messaging-architecture/">Messaging Architecture</a></li><li id="menu-item-41731" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-has-children menu-item-41731 shiftnav-sub-always shiftnav-depth-1 dropdown"><a class="shiftnav-target"  href="/guides/brand-guide/resources/">Resources</a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-41733" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41733 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/resources/frequently-asked-questions/">Frequently Asked Questions</a></li><li id="menu-item-41732" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41732 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/resources/appendix-of-terms/">Appendix Of Terms</a></li><li id="menu-item-41734" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41734 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/resources/guelph-gryphons-logo-usage/">Guelph Gryphons Logo Usage</a></li><li id="menu-item-41728" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41728 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/lockup-request-form/">Lockup Request Form</a></li><li id="menu-item-41723" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41723 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/font-request-form/">Font Request Form</a></li><li id="menu-item-41735" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41735 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/brand-guide/resources/print-digital-templates/">Print &#038; Digital Templates</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li>	</ul>
+</li><li id="menu-item-41736" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41736 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/brand-voice/">The Brand Voice</a></li><li id="menu-item-41737" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41737 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/colour-palette/">The Colour Palette</a></li><li id="menu-item-41738" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41738 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/brand-guide/fonts/">University Of Guelph Fonts</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-41709" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-has-children menu-item-41709 shiftnav-sub-always shiftnav-depth-0 dropdown"><a class="shiftnav-target"  href="/guides/social-media-guide/">Social Media Guide</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-41710" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41710 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/social-media-guide/accessibility/">Accessibility</a></li><li id="menu-item-41711" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-has-children menu-item-41711 shiftnav-sub-always shiftnav-depth-1 dropdown"><a class="shiftnav-target"  href="/guides/social-media-guide/content-creation/">Content Creation</a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-41712" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41712 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/social-media-guide/content-creation/brand-consistency/">Brand Consistency</a></li><li id="menu-item-41713" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41713 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/social-media-guide/content-creation/producing-content/">Producing Content</a></li><li id="menu-item-41714" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41714 shiftnav-depth-2"><a class="shiftnav-target"  href="/guides/social-media-guide/content-creation/resources/">Resources</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li>	</ul>
+</li><li id="menu-item-41715" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41715 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/social-media-guide/monitoring/">Monitoring</a></li><li id="menu-item-41716" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41716 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/social-media-guide/needs-analysis/">Needs Analysis</a></li><li id="menu-item-41717" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41717 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/social-media-guide/policies/">Policies</a></li><li id="menu-item-41718" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41718 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/social-media-guide/strategy/">Strategy</a></li><li id="menu-item-41719" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41719 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/social-media-guide/support/">Support</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-41739" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-has-children menu-item-41739 shiftnav-sub-always shiftnav-depth-0 dropdown"><a class="shiftnav-target"  href="/guides/style-guide/">University of Guelph Style Guide for Writers</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-41740" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41740 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/acronyms/">Abbreviations and Acronyms</a></li><li id="menu-item-41741" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41741 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/caps-and-abbreviations/">Capitalization</a></li><li id="menu-item-41742" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41742 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/inclusive-language/">Inclusive Language</a></li><li id="menu-item-41743" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41743 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/numbers/">Numbers</a></li><li id="menu-item-41744" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41744 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/numbers-and-punctuation/">Punctuation</a></li><li id="menu-item-41745" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41745 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/voice/">The Writer&#8217;s Voice</a></li><li id="menu-item-41746" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41746 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/campus-titles-names/">Titles and Names</a></li><li id="menu-item-41747" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41747 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/grammar-rules/">Usage</a></li><li id="menu-item-41748" class="menu-item menu-item-type-post_type menu-item-object-guides menu-item-41748 shiftnav-depth-1"><a class="shiftnav-target"  href="/guides/style-guide/misused-ambiguous-words/">Words: Which Ones and Redundant Ones</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li></ul></nav>		</div><!-- /.shiftnav-inner -->
+	</div><!-- /.shiftnav #shiftnav-main -->
+
+
+			<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script>
+(function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-205208-12', 'auto');
+ga('send', 'pageview');
+</script>
+      <script>
+
+        jQuery(function($) {
+          "use strict"
+
+          // Add a custom event on document in order to init again the impressions and clicks.
+          $(document).on("wpbannerize.init.impressions", _initImpressions)
+          $(document).on("wpbannerize.init.clicks", _initClicks)
+
+          function _initImpressions()
+          {
+            // impressions
+            if(!window.WPBannerize.General.impressions_enabled) {
+              return
+            }
+
+            window.WPBannerizeImpressions = []
+
+            $("div[data-impressions_enabled=\"true\"]").each(
+              function(i, e) {
+                var banner_id, $this = $(e)
+
+                if($this.is(":visible")) {
+                  banner_id = $this.data("banner_id")
+
+                  if(banner_id > 0) {
+
+                    console.log("push", banner_id)
+
+                    WPBannerizeImpressions.push(banner_id)
+                    $this.data("impressions_enabled", false)
+                  }
+                }
+              }
+            )
+
+            if(window.WPBannerizeImpressions.length > 0) {
+
+              console.log("post", WPBannerizeImpressions)
+
+              $.post(ajaxurl,
+                {
+                  action    : "wp_bannerize_add_impressions",
+                  banner_id : WPBannerizeImpressions,
+                  referrer  : document.location.href
+                },
+                function(data) {
+
+                }
+              )
+            }
+          }
+
+          function _initClicks()
+          {
+            // clicks
+            if(!window.WPBannerize.General.clicks_enabled) {
+              return
+            }
+
+            $("div[data-clicks_enabled=\"true\"]").each(
+              function(i, e) {
+                if($(e).is(":visible")) {
+                  var banner_id = $(e).data("banner_id")
+
+                  // Remove all previous
+                  $(e).find("a").off("click")
+
+                  // Attach my event
+                  $(e).find("a").on("click",
+                    function() {
+                      // Ajax
+                      $.post(ajaxurl,
+                        {
+                          action    : "wp_bannerize_add_clicks",
+                          banner_id : banner_id,
+                          referrer  : document.location.href
+                        },
+                        function(data) {
+                          //
+                        }
+                      )
+                    })
+                }
+              })
+          }
+
+          _initImpressions()
+          _initClicks()
+
+        })
+      </script>
+        <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"e8e81b1d03","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='widget-calendar-pro-style-css'  href='https://news.uoguelph.ca/wp-content/plugins/events-calendar-pro/src/resources/css/widget-full.min.css?ver=4.6.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/news.uoguelph.ca\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pvcArgsFrontend = {"mode":"rest_api","requestURL":"https:\/\/news.uoguelph.ca\/wp-json\/post-views-counter\/view-post\/","postID":"27577","nonce":"3551b93603"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/plugins/post-views-counter/js/frontend.js?ver=1.2.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shiftnav_data = {"shift_body":"off","shift_body_wrapper":"","lock_body":"on","lock_body_x":"off","open_current":"off","collapse_accordions":"off","scroll_panel":"on","breakpoint":"768","v":"1.6.3","touch_off_close":"on","scroll_offset":"100","disable_transforms":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-content/plugins/shiftnav-pro/assets/js/shiftnav.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://news.uoguelph.ca/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api?ver=5.1.1'></script>
+        <script type="text/javascript">
+            function AI_responsive_widget() {
+                jQuery('object.StefanoAI-youtube-responsive').each(function () {
+                    jQuery(this).parent('.fluid-width-video-wrapper').removeClass('fluid-width-video-wrapper').removeAttr('style').css('width', '100%').css('display', 'block');
+                    jQuery(this).children('.fluid-width-video-wrapper').removeClass('fluid-width-video-wrapper').removeAttr('style').css('width', '100%').css('display', 'block');
+                    var width = jQuery(this).parent().innerWidth();
+                    var maxwidth = jQuery(this).css('max-width').replace(/px/, '');
+                    var pl = parseInt(jQuery(this).parent().css('padding-left').replace(/px/, ''));
+                    var pr = parseInt(jQuery(this).parent().css('padding-right').replace(/px/, ''));
+                    width = width - pl - pr;
+                    if (maxwidth < width) {
+                        width = maxwidth;
+                    }
+                    jQuery(this).css('width', width + "px");
+                    jQuery(this).css('height', width / (16 / 9) + "px");
+                    jQuery(this).find('iframe').css('width', width + "px");
+                    jQuery(this).find('iframe').css('height', width / (16 / 9) + "px");
+                });
+            }
+            if (typeof jQuery !== 'undefined') {
+                jQuery(document).ready(function () {
+                    var tag = document.createElement('script');
+                    tag.src = "https://www.youtube.com/iframe_api";
+                    var firstScriptTag = document.getElementsByTagName('script')[0];
+                    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+                    AI_responsive_widget();
+                });
+                jQuery(window).resize(function () {
+                    AI_responsive_widget();
+                });
+            }
+        
+                function onYouTubeIframeAPIReady() {
+                                    
+                var player_1;
+                player_1 = new YT.Player('StefanoAI-youtube-1', {
+                    events: {
+                        
+                        
+                    'onStateChange': function () {
+                        var d = player_1.getVideoData();
+                        switch (player_1.getPlayerState()) {
+                            case -1:
+                                //unstarted
+                                break;
+                            case 0:
+                                //ended
+                                //StefanoAI_trackYoutubeVideo('Ended', d.title + " | " + d.video_id + " (" + d.author + ")");
+                                break;
+                            case 1:
+                                //playing
+                                StefanoAI_trackYoutubeVideo('Playing', d.title + " | " + d.video_id + " (" + d.author + ")");
+                                break;
+                            case 2:
+                                //paused
+                                //StefanoAI_trackYoutubeVideo('Paused', d.title + " | " + d.video_id + " (" + d.author + ")");
+                                break;
+                            case 3:
+                                //buffering
+                                break;
+                            case 5:
+                                //video cued (When a video is queued and ready for playback)
+                                break;
+                        }
+                    },
+                    }
+                });                        
+                var player_2;
+                player_2 = new YT.Player('StefanoAI-youtube-2', {
+                    events: {
+                        
+                        
+                    'onStateChange': function () {
+                        var d = player_2.getVideoData();
+                        switch (player_2.getPlayerState()) {
+                            case -1:
+                                //unstarted
+                                break;
+                            case 0:
+                                //ended
+                                //StefanoAI_trackYoutubeVideo('Ended', d.title + " | " + d.video_id + " (" + d.author + ")");
+                                break;
+                            case 1:
+                                //playing
+                                StefanoAI_trackYoutubeVideo('Playing', d.title + " | " + d.video_id + " (" + d.author + ")");
+                                break;
+                            case 2:
+                                //paused
+                                //StefanoAI_trackYoutubeVideo('Paused', d.title + " | " + d.video_id + " (" + d.author + ")");
+                                break;
+                            case 3:
+                                //buffering
+                                break;
+                            case 5:
+                                //video cued (When a video is queued and ready for playback)
+                                break;
+                        }
+                    },
+                    }
+                });                }
+                function StefanoAI_trackYoutubeVideo(state, video) {
+                    if (typeof _config !== 'undefined') {
+                        var forceSyntax = _config.forceSyntax || 0;
+                    } else {
+                        var forceSyntax = 0;
+                    }
+                    if (typeof window.dataLayer !== 'undefined' && !forceSyntax) {
+                        window.dataLayer.push({
+                            'event': 'youTubeTrack',
+                            'attributes': {
+                                'videoUrl': video,
+                                'videoAction': state
+                            }
+                        });
+                    }
+                    if (typeof window.ga === 'function' && typeof window.ga.getAll === 'function' && forceSyntax !== 2) {
+                        window.ga('send', 'event', 'YoutubeWidgetResponsive', state, video, 0);
+                    } else if (typeof window._gaq !== 'undefined' && forceSyntax !== 1) {
+                        window._gaq.push(['_trackEvent', 'YoutubeWidgetResponsive', state, video]);
+                    }
+                }
+                </script>
+         
+        
+<!-- Bootstrap core JavaScript
+    ================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+
+<!-- SlidesJS Required: Link to jquery.slides.js --> 
+<script src="https://www.uoguelph.ca/js/jquery.slides.min.js"></script> 
+<!-- End SlidesJS Required --> 
+
+<!-- SlidesJS Required: Initialize SlidesJS with a jQuery doc ready --> 
+<script>
+    $(function() {
+      $('#slides').slidesjs({
+        width: 860,
+        height: 220,
+        play: {
+          active: true,
+          auto: true,
+          interval: 5000,
+          swap: true,
+		   effect: "fade"
+        },
+		effect: {
+			fade: {
+				speed: 800
+			}
+		},
+		navigation: {
+			effect: "fade"
+		},
+		pagination: {
+			effect: "fade"	
+		}
+      });
+    });
+  </script> 
+<!-- End SlidesJS Required --> 
+
+<!--<script type="text/javascript" src="//www.uoguelph.ca/js/FeedEk.js"></script> 
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#weatherFeed').FeedEk({
+            FeedUrl: 'http://weather.gc.ca/rss/city/on-5_e.xml',
+            MaxCount: 1,
+			 ShowDesc : false,
+			ShowPubDate:false
+        });
+    });
+</script>-->
+
+<script type="text/javascript" src="//www.uoguelph.ca/js/jquery.slides.min.js"></script>        
+	</body>
+</html>
