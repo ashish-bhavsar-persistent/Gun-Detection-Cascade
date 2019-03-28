@@ -25,7 +25,7 @@ def sleeper(i):
     except Exception as e:
         print(e)
 def store_raw_images():
-    neg_images_link = 'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00523513'
+    neg_images_link = 'http://image-net.org/api/text/imagenet.synset.geturls?wnid=n00448466'
     neg_image_urls = urllib.request.urlopen(neg_images_link).read().decode()
     if not os.path.exists('neg'):
         os.makedirs('neg')
